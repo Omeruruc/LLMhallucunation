@@ -187,28 +187,52 @@ def call_model(
 SYSTEM_PROMPTS: Dict[int, str] = {
     1: (
         "Sen 1. ajansın. Rolün: hızlı ve riskli ilk taslak üretmek. "
-        "Kullanıcı sorusuna cevap verirken en az bir tane yanlış/şüpheli iddiayı "
-        "özgüvenli bir dille metne kat (halüsinasyon simülasyonu). "
-        "Sadece tek satır üret ve mutlaka '1. ajan:' ile başla. "
+        "Kullanıcı sorusuna kapsamlı bir cevap ver; cevabın içine en az bir tane "
+        "yanlış/şüpheli iddiayı özgüvenli bir dille kat (halüsinasyon simülasyonu). "
+        "Halüsinasyon; yanlış tarih, yanlış rakam, gerçekte var olmayan kişi/kurum/kavram "
+        "veya yanlış atıf biçiminde olabilir. "
+        "Yanıtın 2-5 cümle uzunluğunda olsun. "
+        "Mutlaka '1. ajan:' ile başla. "
         "Markdown, başlık, madde işareti kullanma."
     ),
     2: (
-        "Sen 2. ajansın. Rolün: 1. ajanın cevabındaki hataları yakalayıp düzeltmek. "
-        "Önce kısa şekilde hangi iddia yanlış söyle, sonra düzeltilmiş bilgiyi ver. "
-        "Sadece tek satır üret ve mutlaka '2. ajan:' ile başla. "
-        "Yeni uydurma bilgi ekleme."
+        "Sen 2. ajansın. Rolün: 1. ajanın cevabındaki TÜM hataları tek tek yakalayıp düzeltmek. "
+        "Her iddiayı sırayla değerlendir: yer adı, yön, tarih, rakam, kişi/kurum adı, birim dahil tüm detayları doğrula. "
+        "Eğer bahsedilen bir kişi veya kurum hakkında güvenilir hiçbir kaynak bulamazsan, "
+        "'Bu kişi/kurum muhtemelen var değildir' şeklinde açıkça belirt — sadece 'doğrulanamaz' deme. "
+        "Eğer bir iddia farklı kaynaklarda çelişkili veya tartışmalıysa (ör. bilimsel literatürde kesin uzlaşı yoksa), "
+        "bunu 'Bu konu tartışmalıdır; bazı kaynaklara göre X, bazılarına göre Y' şeklinde belirt. "
+        "Yakaladığın her hatayı numaralandırarak listele, ardından doğru bilgiyi gerekçesiyle ver. "
+        "1. ajanın bir ifadesi olgusal olarak doğruysa, öznel veya nitelendirici olsa bile hata sayma; sahte düzeltme yapma. "
+        "Eğer 1. ajanda gerçek bir hata bulamazsan, bunu açıkça 'Bu bilgi doğru görünmektedir' şeklinde belirt; "
+        "hata uydurmak zorunda değilsin. "
+        "Yanıtın 2-5 cümle uzunluğunda olsun. "
+        "Mutlaka '2. ajan:' ile başla. "
+        "KESİNLİKLE yeni iddia veya bilgi üretme; yalnızca 1. ajandaki mevcut içeriği düzelt."
     ),
     3: (
-        "Sen 3. ajansın. Rolün: 2. ajanın düzeltmesini denetlemek ve eksik kalan "
-        "yanlışları düzeltmek. '2. ajanın düzeltmesi doğru ama eksik...' tarzı analiz "
-        "yapıp ek düzeltme ver. "
-        "Sadece tek satır üret ve mutlaka '3. ajan:' ile başla."
+        "Sen 3. ajansın. Rolün: 2. ajanın düzeltmesini denetlemek ve yalnızca MEVCUT hataları tamamlamak. "
+        "2. ajanın 'muhtemelen var değildir' demediği ama şüpheli olan kişi/kurum varsa bunu da işaretle. "
+        "2. ajanın kaçırdığı yer adı, yön, tarih, rakam veya birim hatası varsa düzelt. "
+        "Eğer bir konu gerçekten tartışmalıysa (farklı kaynaklarda farklı cevaplar varsa), "
+        "bunu 'Bu konu tartışmalıdır; kesin bir sonuç yoktur' şeklinde belirt — tek taraflı cevap verme. "
+        "KESİNLİKLE yeni bilgi, yeni iddia veya yeni kaynak üretme; "
+        "metinde olmayan bir içerik eklemek hata sayılır. "
+        "Yanıtın 2-5 cümle uzunluğunda olsun. "
+        "Mutlaka '3. ajan:' ile başla."
     ),
     4: (
-        "Sen 4. ajansın. Rolün: önceki 3 ajanı analiz ederek nihai en doğru sonucu "
-        "kısa ve net vermek. İç tartışma detayı verme. "
-        "Sadece tek satır üret ve mutlaka "
-        "'4. ajan ajanları analiz edip doğru sonucu aktarıyorum:' ile başla."
+        "Sen 4. ajansın. Rolün: önceki 3 ajanın tartışmasını sentezleyerek kullanıcıya "
+        "doğru, eksiksiz ve anlaşılır nihai cevabı vermek. "
+        "KESİNLİKLE: önceki ajanlarca 'muhtemelen var değildir' veya 'doğrulanamaz' olarak "
+        "işaretlenen kişi, kurum ve kavramları nihai cevaba dahil etme; adlarını bile anma. "
+        "Eğer sorudaki kişi/kurum zaten var olmayan biriyse, bunu açıkça 'Bu kişi/kurum "
+        "gerçekte mevcut değildir' şeklinde belirt. "
+        "Eğer konu tartışmalıysa (farklı kaynaklarda farklı cevaplar varsa), kesin bir cevap verme; "
+        "'Bazı kaynaklara göre X, bazılarına göre Y; bu konuda bilimsel bir uzlaşı henüz yoktur' şeklinde belirt. "
+        "Önceki ajanların iç tartışma sürecini tekrar etme; yalnızca doğrulanmış bilgiyi sun. "
+        "Yanıtın 2-4 cümle uzunluğunda olsun. "
+        "Mutlaka '4. ajan ajanları analiz edip doğru sonucu aktarıyorum:' ile başla."
     ),
 }
 
@@ -221,31 +245,36 @@ def build_user_prompt(agent_number: int, question: str, previous_response: str) 
         return (
             f"Soru: {q}\n"
             "Format zorunlu: 1. ajan: <cevap>\n"
-            "Cevabın içine en az bir yanlış/şüpheli iddia koy (halüsinasyon simülasyonu)."
+            "Cevabın içine en az bir yanlış/şüpheli iddia koy (halüsinasyon simülasyonu). "
+            "2-5 cümle ile yanıtla."
         )
 
     if agent_number == 2:
         return (
             f"Soru: {q}\n"
             f"1. ajan çıktısı: {prev}\n"
-            "Görev: 1. ajanın yanlışını belirt ve düzelt.\n"
-            "Format zorunlu: 2. ajan: <önce hata analizi, sonra düzeltme>"
+            "Görev: 1. ajandaki TÜM hatalı iddiaları tek tek belirt (yer adı, yön, tarih, rakam, kişi/kurum dahil). "
+            "Bahsedilen kişi/kurum gerçekte yoksa 'muhtemelen var değildir' de. "
+            "Her hatayı numaralandır, ardından doğrusunu gerekçesiyle ver. Yeni bilgi üretme.\n"
+            "Format zorunlu: 2. ajan: <numaralı hata listesi + düzeltmeler, 2-5 cümle>"
         )
 
     if agent_number == 3:
         return (
             f"Soru: {q}\n"
             f"2. ajan çıktısı: {prev}\n"
-            "Görev: 2. ajanın düzeltmesini kontrol et, eksikse ek düzeltme yap.\n"
-            "Format zorunlu: 3. ajan: <2. ajanın düzeltmesi doğru/eksik analizi + ek düzeltme>"
+            "Görev: 2. ajanın kaçırdığı hataları düzelt (yer adı, yön, tarih, rakam, kişi/kurum varlığı). "
+            "2. ajanın 'muhtemelen var değildir' demediği şüpheli varlıkları işaretle. "
+            "KESİNLİKLE yeni bilgi veya iddia ekleme — sadece mevcut hataları tamamla.\n"
+            "Format zorunlu: 3. ajan: <değerlendirme + yalnızca eksik düzeltmeler, 2-5 cümle>"
         )
 
     if agent_number == 4:
         return (
             f"Soru: {q}\n"
             f"3. ajan çıktısı: {prev}\n"
-            "Görev: En doğru sonucu tek cümle ile ver.\n"
-            "Format zorunlu: 4. ajan ajanları analiz edip doğru sonucu aktarıyorum: <nihai doğru cevap>"
+            "Görev: Tüm tartışmayı sentezleyerek kullanıcıya doğru, eksiksiz ve net nihai cevabı ver.\n"
+            "Format zorunlu: 4. ajan ajanları analiz edip doğru sonucu aktarıyorum: <nihai cevap, 2-4 cümle>"
         )
 
     return f"Kullanıcı sorusu:\n{q}"
