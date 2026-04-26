@@ -1,39 +1,52 @@
-# LLM Hallucination — Gemini Multi-Temperature
+# Gemini 4-Agent FastAPI Backend
 
-Ayni soruyu Gemini API'ye farkli sicaklik (temperature) degerleriyle gonderip cevaplari karsilastirir.
-Her istegin suresi (ms) ve token tuketimi gosterilir.
+Minimal FastAPI backend for a 4-agent Gemini pipeline.
 
-## Kurulum
+## Setup
 
-Python 3.10+ gerekli.
+Python 3.10+ required.
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## API Key
+Create `.env`:
 
-`.env` dosyasi olustur ve Gemini anahtarini ekle:
-
-```
-GEMINI_API_KEY=senin_anahtarin
+```env
+GEMINI_API_KEY=your_key
 ```
 
-Alternatif olarak `KEYS.txt` icinde `GEMINI_API_KEY=...` satirini da okur.
+Optional:
 
-## Calistirma
+- `GEMINI_MODEL` (default: `gemini-2.5-flash`)
+- `GEMINI_OPENAI_BASE_URL` (default: Google OpenAI-compatible endpoint)
+
+`KEYS.txt` is also supported as fallback:
+
+```txt
+GEMINI_API_KEY=your_key
+```
+
+## Run
 
 ```bash
-python -m streamlit run app.py
+uvicorn app:app --reload --port 8000
 ```
 
-Tarayicida `http://localhost:8501` adresinde acilir.
+## Endpoints
 
-## Ozellikler
+- `GET /api/health`
+- `POST /api/agent`
 
-- Tek Gemini anahtari, 3 farkli temperature ile sirali istek
-- Her cevap icin API suresi (ms), prompt/completion/total token bilgisi
-- 429 hiz limiti icin otomatik retry (max 3 deneme)
-- Model bulunamazsa (404) yedek modele gecis
-- Canli durum paneli — hangi istek yapiliyor, bekleniyor mu gorunur
-- max_tokens, top_p, model id, base URL arayuzden ayarlanabilir
+Example request:
+
+```json
+{
+  "agentNumber": 1,
+  "question": "Mars'ta su var mi?",
+  "previousResponse": "",
+  "temperature": 0.7,
+  "maxTokens": 2048,
+  "topP": 0.9
+}
+```
