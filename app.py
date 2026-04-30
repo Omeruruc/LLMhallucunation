@@ -10,16 +10,47 @@ from typing import Any, Dict, List, Optional, Tuple
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 from openai import OpenAI
 from pydantic import BaseModel
 
 load_dotenv()
 
+# ── Provider Defaults ────────────────────────────────────────────────
+PROVIDERS: Dict[str, Dict[str, Any]] = {
+    "gemini": {
+        "name": "Google Gemini",
+        "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
+        "default_model": "gemini-2.5-flash",
+        "models": ["gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-2.0-flash"],
+        "env_key": "GEMINI_API_KEY",
+    },
+    "openai": {
+        "name": "OpenAI",
+        "base_url": "https://api.openai.com/v1/",
+        "default_model": "gpt-4o",
+        "models": ["gpt-4o", "gpt-4o-mini", "gpt-4-turbo", "gpt-3.5-turbo"],
+        "env_key": "OPENAI_API_KEY",
+    },
+    "grok": {
+        "name": "xAI Grok",
+        "base_url": "https://api.x.ai/v1/",
+        "default_model": "grok-3",
+        "models": ["grok-3", "grok-3-mini", "grok-2"],
+        "env_key": "GROK_API_KEY",
+    },
+    "deepseek": {
+        "name": "DeepSeek",
+        "base_url": "https://api.deepseek.com/",
+        "default_model": "deepseek-chat",
+        "models": ["deepseek-chat", "deepseek-reasoner"],
+        "env_key": "DEEPSEEK_API_KEY",
+    },
+}
+
 AGENT_IDS = (1, 2, 3, 4)
 MAX_RETRIES = 3
-DEFAULT_MODEL = "gemini-2.5-flash"
-FALLBACK_MODELS = ["gemini-2.5-flash-lite", "gemini-2.0-flash"]
-DEFAULT_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai/"
 
 
 @dataclass
@@ -32,11 +63,16 @@ class ModelConfig:
     temperature: float
 
 
+# ── Utilities ────────────────────────────────────────────────────────
+
+def workspace_dir() -> Path:
+    return Path(__file__).resolve().parent
+
+
 def read_keys_from_txt(path: Path) -> Dict[str, str]:
     keys: Dict[str, str] = {}
     if not path.exists():
         return keys
-
     for line in path.read_text(encoding="utf-8", errors="ignore").splitlines():
         line = line.strip()
         if line and "=" in line:
@@ -47,10 +83,6 @@ def read_keys_from_txt(path: Path) -> Dict[str, str]:
 
 def resolve_key(name: str, txt_keys: Dict[str, str]) -> str:
     return os.environ.get(name, "") or txt_keys.get(name, "")
-
-
-def workspace_dir() -> Path:
-    return Path(__file__).resolve().parent
 
 
 def _parse_retry_seconds(msg: str) -> Optional[float]:
@@ -88,10 +120,7 @@ def _extract_usage(usage: Any, model_name: str, latency_ms: int) -> Dict[str, An
     }
 
 
-def _validate_agent_number(agent_number: int) -> None:
-    if agent_number not in AGENT_IDS:
-        raise HTTPException(status_code=400, detail="agentNumber 1-4 olmali.")
-
+# ── Model Calling ───────────────────────────────────────────────────
 
 def call_model(
     cfg: ModelConfig,
@@ -99,7 +128,6 @@ def call_model(
     user_prompt: str,
     max_tokens: int,
     top_p: float,
-    status_cb=None,
 ) -> Tuple[str, str, Dict[str, Any]]:
     client = OpenAI(
         api_key=cfg.api_key,
@@ -111,10 +139,6 @@ def call_model(
     for model_name in models_to_try:
         for attempt in range(MAX_RETRIES + 1):
             try:
-                if status_cb:
-                    suffix = "calling..." if attempt == 0 else f"retry {attempt}/{MAX_RETRIES}..."
-                    status_cb(f"{cfg.name} > {model_name} {suffix}")
-
                 t0 = time.perf_counter()
                 response = client.chat.completions.create(
                     model=model_name,
@@ -127,35 +151,25 @@ def call_model(
                     top_p=top_p,
                 )
                 elapsed_ms = int((time.perf_counter() - t0) * 1000)
-
                 usage = getattr(response, "usage", None)
                 text = response.choices[0].message.content or "(empty response)"
                 return cfg.name, text.strip(), _extract_usage(usage, model_name, elapsed_ms)
-            except Exception as exc:  # noqa: BLE001
+            except Exception as exc:
                 msg = str(exc)
-
                 if _is_model_not_found(msg):
-                    if status_cb:
-                        status_cb(f"{model_name} not found, trying fallback...")
                     break
-
                 if "429" in msg:
                     wait = min(_parse_retry_seconds(msg) or 10.0, 30.0)
                     if attempt < MAX_RETRIES:
-                        if status_cb:
-                            status_cb(f"{cfg.name}: rate limit, waiting {wait:.0f}s...")
                         time.sleep(wait)
                         continue
-                    return (
-                        cfg.name,
-                        "HATA: Hiz limiti (429) 3 retry sonrasi devam ediyor.",
-                        _empty_usage(),
-                    )
-
+                    return cfg.name, "HATA: Rate limit (429) devam ediyor.", _empty_usage()
                 return cfg.name, f"HATA: {exc}", _empty_usage()
 
     return cfg.name, f"HATA: Hicbir model calismadi: {', '.join(models_to_try)}", _empty_usage()
 
+
+# ── Prompts ──────────────────────────────────────────────────────────
 
 SYSTEM_PROMPTS: Dict[int, str] = {
     1: (
@@ -199,34 +213,11 @@ def build_user_prompt(agent_number: int, question: str, previous_response: str) 
     return f"Kullanici sorusu:\n{q}"
 
 
-def clamp_temp(t: float) -> float:
-    return max(0.0, min(2.0, t))
+def clamp(value: float, lo: float, hi: float) -> float:
+    return max(lo, min(hi, value))
 
 
-def _gemini_model_config(agent_number: int, temperature: float) -> ModelConfig:
-    txt = read_keys_from_txt(workspace_dir() / "KEYS.txt")
-    key = resolve_key("GEMINI_API_KEY", txt)
-    if not key:
-        raise HTTPException(status_code=400, detail="GEMINI_API_KEY tanimli degil.")
-
-    return ModelConfig(
-        name=f"Ajan {agent_number} (Gemini)",
-        model=os.environ.get("GEMINI_MODEL", DEFAULT_MODEL),
-        fallback_models=FALLBACK_MODELS,
-        base_url=os.environ.get("GEMINI_OPENAI_BASE_URL", DEFAULT_BASE_URL),
-        api_key=key,
-        temperature=clamp_temp(temperature),
-    )
-
-
-def model_config_for_agent(agent_number: int, temperature: float) -> ModelConfig:
-    _validate_agent_number(agent_number)
-    return _gemini_model_config(agent_number, temperature)
-
-
-def clamp_range(value: float, min_value: float, max_value: float) -> float:
-    return max(min_value, min(max_value, value))
-
+# ── Request / Response Models ────────────────────────────────────────
 
 class AgentRequest(BaseModel):
     agentNumber: int
@@ -235,14 +226,54 @@ class AgentRequest(BaseModel):
     temperature: float = 0.7
     maxTokens: int = 2048
     topP: float = 0.9
+    provider: str = "gemini"
+    apiKey: str = ""
+    modelName: str = ""
+    baseUrl: str = ""
 
 
 class AgentResponse(BaseModel):
+    agentNumber: int
     text: str
     usage: Dict[str, Any]
+    provider: str
 
 
-app = FastAPI(title="Halusinasyon pipeline API", version="1.0.0")
+# ── Config Builder ───────────────────────────────────────────────────
+
+def _resolve_api_key(provider_id: str, explicit_key: str) -> str:
+    if explicit_key:
+        return explicit_key
+    txt = read_keys_from_txt(workspace_dir() / "KEYS.txt")
+    prov = PROVIDERS.get(provider_id)
+    env_name = prov["env_key"] if prov else "GEMINI_API_KEY"
+    return resolve_key(env_name, txt)
+
+
+def build_model_config(body: AgentRequest) -> ModelConfig:
+    provider_id = body.provider if body.provider in PROVIDERS else "gemini"
+    prov = PROVIDERS[provider_id]
+
+    api_key = _resolve_api_key(provider_id, body.apiKey)
+    if not api_key:
+        raise HTTPException(status_code=400, detail=f"{prov['name']} API anahtari tanimli degil.")
+
+    model_name = body.modelName.strip() if body.modelName.strip() else prov["default_model"]
+    base_url = body.baseUrl.strip() if body.baseUrl.strip() else prov["base_url"]
+
+    return ModelConfig(
+        name=f"Ajan {body.agentNumber} ({prov['name']})",
+        model=model_name,
+        fallback_models=prov["models"],
+        base_url=base_url,
+        api_key=api_key,
+        temperature=clamp(body.temperature, 0.0, 2.0),
+    )
+
+
+# ── FastAPI App ──────────────────────────────────────────────────────
+
+app = FastAPI(title="Halusinasyon Pipeline API", version="2.0.0")
 
 app.add_middleware(
     CORSMiddleware,
@@ -253,28 +284,57 @@ app.add_middleware(
 )
 
 
+@app.get("/")
+def root():
+    return FileResponse(workspace_dir() / "static" / "index.html")
+
+
 @app.get("/api/health")
 def health() -> Dict[str, str]:
     return {"status": "ok"}
+
+
+@app.get("/api/providers")
+def get_providers():
+    """Return available provider list with model options (no keys exposed)."""
+    out = {}
+    for pid, prov in PROVIDERS.items():
+        out[pid] = {
+            "name": prov["name"],
+            "models": prov["models"],
+            "default_model": prov["default_model"],
+        }
+    return out
 
 
 @app.post("/api/agent", response_model=AgentResponse)
 def run_agent_step(body: AgentRequest) -> AgentResponse:
     if not body.question.strip():
         raise HTTPException(status_code=400, detail="question bos olamaz.")
-    _validate_agent_number(body.agentNumber)
+    if body.agentNumber not in AGENT_IDS:
+        raise HTTPException(status_code=400, detail="agentNumber 1-4 olmali.")
 
-    cfg = model_config_for_agent(body.agentNumber, body.temperature)
+    cfg = build_model_config(body)
     system = SYSTEM_PROMPTS[body.agentNumber]
     user = build_user_prompt(body.agentNumber, body.question, body.previousResponse)
-    max_t = int(clamp_range(body.maxTokens, 128, 4096))
-    top_p = clamp_range(body.topP, 0.1, 1.0)
+    max_t = int(clamp(body.maxTokens, 128, 4096))
+    top_p = clamp(body.topP, 0.1, 1.0)
 
-    _name, text, usage = call_model(cfg, system, user, max_t, top_p, status_cb=None)
-    return AgentResponse(text=text, usage=usage)
+    _name, text, usage = call_model(cfg, system, user, max_t, top_p)
+    return AgentResponse(
+        agentNumber=body.agentNumber,
+        text=text,
+        usage=usage,
+        provider=body.provider,
+    )
+
+
+# Mount static files AFTER API routes
+static_path = workspace_dir() / "static"
+static_path.mkdir(exist_ok=True)
+app.mount("/static", StaticFiles(directory=str(static_path)), name="static")
 
 
 if __name__ == "__main__":
     import uvicorn
-
     uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)

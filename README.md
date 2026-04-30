@@ -1,6 +1,10 @@
-# Gemini 4-Agent FastAPI Backend
+# Multi-Model 4-Agent FastAPI Pipeline
 
-Minimal FastAPI backend for a 4-agent Gemini pipeline.
+FastAPI backend and static web UI for a 4-agent hallucination check pipeline.
+
+- Agent 1 is fixed to Google Gemini for the first draft.
+- Agents 2, 3, and 4 are configured by the user from the UI.
+- Each agent has its own provider, model, API key, and temperature setting.
 
 ## Setup
 
@@ -14,17 +18,20 @@ Create `.env`:
 
 ```env
 GEMINI_API_KEY=your_key
+OPENAI_API_KEY=your_key
+GROK_API_KEY=your_key
+DEEPSEEK_API_KEY=your_key
 ```
 
-Optional:
+Only `GEMINI_API_KEY` is required for Agent 1. The other keys can also be entered directly in the UI.
 
-- `GEMINI_MODEL` (default: `gemini-2.5-flash`)
-- `GEMINI_OPENAI_BASE_URL` (default: Google OpenAI-compatible endpoint)
-
-`KEYS.txt` is also supported as fallback:
+`KEYS.txt` is supported as a fallback:
 
 ```txt
 GEMINI_API_KEY=your_key
+OPENAI_API_KEY=your_key
+GROK_API_KEY=your_key
+DEEPSEEK_API_KEY=your_key
 ```
 
 ## Run
@@ -33,9 +40,13 @@ GEMINI_API_KEY=your_key
 uvicorn app:app --reload --port 8000
 ```
 
+Open `http://localhost:8000`.
+
 ## Endpoints
 
+- `GET /`
 - `GET /api/health`
+- `GET /api/providers`
 - `POST /api/agent`
 
 Example request:
@@ -47,6 +58,9 @@ Example request:
   "previousResponse": "",
   "temperature": 0.7,
   "maxTokens": 2048,
-  "topP": 0.9
+  "topP": 0.9,
+  "provider": "gemini",
+  "apiKey": "",
+  "modelName": "gemini-2.5-flash"
 }
 ```
