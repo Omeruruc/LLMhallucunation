@@ -5,35 +5,68 @@ const PROVIDERS = {
         icon: "✦",
         models: ["gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-2.0-flash"],
         defaultModel: "gemini-2.5-flash",
+        allowEmptyApiKey: true,
     },
-    openai: {
-        name: "OpenAI",
-        icon: "◎",
-        models: ["gpt-4o", "gpt-4o-mini", "gpt-4-turbo", "gpt-3.5-turbo"],
-        defaultModel: "gpt-4o",
-    },
-    grok: {
-        name: "xAI Grok",
-        icon: "✕",
-        models: ["grok-3", "grok-3-mini", "grok-2"],
-        defaultModel: "grok-3",
-    },
-    deepseek: {
-        name: "DeepSeek",
-        icon: "◈",
-        models: ["deepseek-chat", "deepseek-reasoner"],
-        defaultModel: "deepseek-chat",
+    openrouter: {
+        name: "OpenRouter",
+        icon: "⊕",
+        models: [
+            "anthropic/claude-3-haiku",
+            "anthropic/claude-3.5-haiku",
+            "openai/gpt-4o-mini",
+            "openai/gpt-4.1-nano",
+            "deepseek/deepseek-chat-v3.1",
+            "deepseek/deepseek-v3.2",
+            "meta-llama/llama-3.1-8b-instruct",
+            "mistralai/mistral-nemo",
+        ],
+        defaultModel: "anthropic/claude-3-haiku",
+        allowEmptyApiKey: true,
     },
 };
 
 const AGENTS = [
-    { id: 1, title: "Ajan 1", role: "Gemini Taslak Üretici", defaultProvider: "gemini", lockedProvider: true },
-    { id: 2, title: "Ajan 2", role: "Kullanıcı Seçimli Denetçi", defaultProvider: "" },
-    { id: 3, title: "Ajan 3", role: "Kullanıcı Seçimli Doğrulayıcı", defaultProvider: "" },
-    { id: 4, title: "Ajan 4", role: "Kullanıcı Seçimli Sentezleyici", defaultProvider: "" },
+    {
+        id: 1,
+        title: "Ajan 1",
+        role: "Gemini · ilk taslak",
+        defaultProvider: "gemini",
+        lockedProvider: true,
+        defaultModel: "gemini-2.5-flash",
+    },
+    {
+        id: 2,
+        title: "Ajan 2",
+        role: "OpenRouter · Claude denetim",
+        defaultProvider: "openrouter",
+        lockedProvider: false,
+        defaultModel: "anthropic/claude-3-haiku",
+    },
+    {
+        id: 3,
+        title: "Ajan 3",
+        role: "OpenRouter · GPT doğrulama",
+        defaultProvider: "openrouter",
+        lockedProvider: false,
+        defaultModel: "openai/gpt-4o-mini",
+    },
+    {
+        id: 4,
+        title: "Ajan 4",
+        role: "OpenRouter · DeepSeek nihai sentez",
+        defaultProvider: "openrouter",
+        lockedProvider: false,
+        defaultModel: "deepseek/deepseek-chat-v3.1",
+    },
 ];
 
 const COLORS = { 1: "#06b6d4", 2: "#8b5cf6", 3: "#f59e0b", 4: "#10b981" };
+
+function agentConfigured(cfg) {
+    if (!cfg.provider || !PROVIDERS[cfg.provider]) return false;
+    if (PROVIDERS[cfg.provider].allowEmptyApiKey) return true;
+    return Boolean(cfg.apiKey);
+}
 
 /* ── State ────────────────────────────────────────────────────── */
 let agentConfigs = {};
@@ -57,17 +90,25 @@ function loadConfigs() {
     return null;
 }
 
+// LocalStorage'da geçersiz/eski model isimleri varsa temizle
+const VALID_MODELS = new Set(
+    Object.values(PROVIDERS).flatMap((p) => p.models)
+);
+
 /* ── Init ──────────────────────────────────────────────────────── */
 document.addEventListener("DOMContentLoaded", () => {
     const saved = loadConfigs();
     AGENTS.forEach((agent) => {
         const s = saved && saved[agent.id];
-        const provider = agent.lockedProvider ? agent.defaultProvider : (s?.provider || agent.defaultProvider);
-        const providerDefaults = provider ? PROVIDERS[provider] : null;
+        const provider = agent.lockedProvider ? agent.defaultProvider : (s?.provider || agent.defaultProvider || "");
+        const fallbackModel = agent.defaultModel || PROVIDERS[provider]?.defaultModel || "";
+        // Eğer kaydedilmiş model artık geçerli listede yoksa varsayılana düş
+        const savedModel = s?.modelName;
+        const modelName = (savedModel && VALID_MODELS.has(savedModel)) ? savedModel : fallbackModel;
         agentConfigs[agent.id] = {
             provider: provider,
             apiKey: "",
-            modelName: s?.modelName || providerDefaults?.defaultModel || "",
+            modelName: modelName,
             temperature: s?.temperature ?? 0.7,
         };
     });
@@ -81,7 +122,7 @@ function renderModelCards() {
 
     AGENTS.forEach((agent) => {
         const cfg = agentConfigs[agent.id];
-        const isConfigured = cfg.provider && cfg.apiKey;
+        const isConfigured = agentConfigured(cfg);
         const provider = cfg.provider && PROVIDERS[cfg.provider] ? PROVIDERS[cfg.provider] : null;
         const card = document.createElement("div");
         card.className = `model-card${isConfigured ? " configured" : ""}${agent.lockedProvider ? " locked" : ""}`;
@@ -102,7 +143,7 @@ function renderModelCards() {
             <div class="field">
                 <label class="field-label">Provider</label>
                 <div class="locked-provider">${provider?.icon || ""} ${provider?.name || "Google Gemini"}</div>
-                <div class="field-help">1. ajan ana taslağı her zaman Gemini ile üretir.</div>
+                <div class="field-help">Kilitli: bu kartta yalnızca model seçilir (aynı Gemini anahtarı).</div>
             </div>`
             : `
             <div class="field">
@@ -136,10 +177,10 @@ function renderModelCards() {
             <div class="field">
                 <label class="field-label">API Anahtarı</label>
                 <input type="password" class="field-input" id="apikey_${agent.id}"
-                       placeholder="${agent.lockedProvider ? "Gemini API key (AIza...)" : "Seçilen provider API key"}"
+                       placeholder="${agent.lockedProvider ? "Gemini API key — veya .env / sunucu" : (PROVIDERS[cfg.provider]?.allowEmptyApiKey ? "Opsiyonel: boşsa app.py içindeki sunucu anahtarı" : "Provider API key")}"
                        value="${cfg.apiKey}"
                        onchange="onApiKeyChange(${agent.id})">
-                <div class="field-help">API key sadece çalıştırma sırasında kullanılır, tarayıcı hafızasına kaydedilmez.</div>
+                <div class="field-help">Boş bırakılabilir: anahtarlar önce istekteki alan, sonra .env / KEYS.txt, son olarak app.py içindeki HARDCODED_DEV_KEYS sırasıyla okunur.</div>
             </div>
 
             <div class="field">
@@ -200,7 +241,7 @@ function updateCardStatus(agentId) {
     const cfg = agentConfigs[agentId];
     const card = document.querySelector(`.model-card[data-agent="${agentId}"]`);
     const dot = card.querySelector(".status-dot");
-    const ok = cfg.provider && cfg.apiKey;
+    const ok = agentConfigured(cfg);
     card.classList.toggle("configured", ok);
     dot.classList.toggle("active", ok);
 }
@@ -214,7 +255,7 @@ async function runPipeline() {
 
     const missingAgents = AGENTS.filter((agent) => {
         const cfg = agentConfigs[agent.id];
-        return !cfg.provider || !cfg.apiKey;
+        return !agentConfigured(cfg);
     });
     if (missingAgents.length) {
         alert(`Lütfen tüm ajanları yapılandırın: ${missingAgents.map((agent) => agent.title).join(", ")} için API key/provider eksik.`);

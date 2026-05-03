@@ -17,7 +17,16 @@ from pydantic import BaseModel
 
 load_dotenv()
 
-# ── Provider Defaults ────────────────────────────────────────────────
+# ── Elle API anahtarı (.env / KEYS.txt yoksa burası kullanılır) ─────────────
+# DİKKAT: Anahtarları buraya yapıştırdıktan sonra bu dosyayı Git'e commit ETMEYİN.
+HARDCODED_DEV_KEYS: Dict[str, str] = {
+    "GEMINI_API_KEY": "",       # ← .env dosyasına GEMINI_API_KEY=... yaz
+    "OPENROUTER_API_KEY": "",   # ← .env dosyasına OPENROUTER_API_KEY=... yaz
+}
+
+# ── Provider Defaults ─────────────────────────────────────────────────────────
+# Ajan 1 ve 4: Gemini (ücretli key)
+# Ajan 2 ve 3: OpenRouter ücretsiz modeller (tek key, farklı markalar)
 PROVIDERS: Dict[str, Dict[str, Any]] = {
     "gemini": {
         "name": "Google Gemini",
@@ -26,26 +35,21 @@ PROVIDERS: Dict[str, Dict[str, Any]] = {
         "models": ["gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-2.0-flash"],
         "env_key": "GEMINI_API_KEY",
     },
-    "openai": {
-        "name": "OpenAI",
-        "base_url": "https://api.openai.com/v1/",
-        "default_model": "gpt-4o",
-        "models": ["gpt-4o", "gpt-4o-mini", "gpt-4-turbo", "gpt-3.5-turbo"],
-        "env_key": "OPENAI_API_KEY",
-    },
-    "grok": {
-        "name": "xAI Grok",
-        "base_url": "https://api.x.ai/v1/",
-        "default_model": "grok-3",
-        "models": ["grok-3", "grok-3-mini", "grok-2"],
-        "env_key": "GROK_API_KEY",
-    },
-    "deepseek": {
-        "name": "DeepSeek",
-        "base_url": "https://api.deepseek.com/",
-        "default_model": "deepseek-chat",
-        "models": ["deepseek-chat", "deepseek-reasoner"],
-        "env_key": "DEEPSEEK_API_KEY",
+    "openrouter": {
+        "name": "OpenRouter",
+        "base_url": "https://openrouter.ai/api/v1",
+        "default_model": "anthropic/claude-3-haiku",
+        "models": [
+            "anthropic/claude-3-haiku",
+            "anthropic/claude-3.5-haiku",
+            "openai/gpt-4o-mini",
+            "openai/gpt-4.1-nano",
+            "deepseek/deepseek-chat-v3.1",
+            "deepseek/deepseek-v3.2",
+            "meta-llama/llama-3.1-8b-instruct",
+            "mistralai/mistral-nemo",
+        ],
+        "env_key": "OPENROUTER_API_KEY",
     },
 }
 
@@ -85,6 +89,24 @@ def resolve_key(name: str, txt_keys: Dict[str, str]) -> str:
     return os.environ.get(name, "") or txt_keys.get(name, "")
 
 
+# .env şablonundan kalan taklit değerler — anahtar sayılmasın (.env sıçramasın).
+def _clean_api_key(candidate: Optional[str]) -> str:
+    v = (candidate or "").strip()
+    if not v:
+        return ""
+    low = v.lower()
+    placeholders = (
+        "your_api_key_here",
+        "your_key",
+        "changeme",
+        "<api_key>",
+        "xxx",
+    )
+    if low in placeholders or low.startswith("your_"):
+        return ""
+    return v
+
+
 def _parse_retry_seconds(msg: str) -> Optional[float]:
     hit = re.search(r"retry in ([0-9]+(?:\.[0-9]+)?)s", msg.lower())
     return float(hit.group(1)) if hit else None
@@ -97,6 +119,7 @@ def _is_model_not_found(msg: str) -> bool:
         or ("invalid argument" in s and "model" in s)
         or ("404" in s and "not found" in s and "model" in s)
         or ("not_found" in s and "model" in s)
+        or "no endpoints found" in s
     )
 
 
@@ -173,23 +196,53 @@ def call_model(
 
 SYSTEM_PROMPTS: Dict[int, str] = {
     1: (
-        "Sen 1. ajansin. Kullanici sorusuna 2-5 cumlelik ilk taslagi ver. "
-        "Bilerek en az bir supheli/yanlis iddia ekle. "
-        "Mutlaka '1. ajan:' ile basla. Markdown kullanma."
+        "Sen 1. ajansın. Rolün: hızlı ve riskli ilk taslak üretmek. "
+        "Kullanıcı sorusuna kapsamlı bir cevap ver; cevabın içine en az bir tane "
+        "yanlış/şüpheli iddiayı özgüvenli bir dille kat (halüsinasyon simülasyonu). "
+        "Halüsinasyon; yanlış tarih, yanlış rakam, gerçekte var olmayan kişi/kurum/kavram "
+        "veya yanlış atıf biçiminde olabilir. "
+        "Yanıtın 2-5 cümle uzunluğunda olsun. "
+        "Mutlaka '1. ajan:' ile başla. "
+        "Markdown, başlık, madde işareti kullanma."
     ),
     2: (
-        "Sen 2. ajansin. 1. ajanin hatalarini tespit et ve duzelt. "
-        "Yeni bilgi uretme, sadece verilen metni denetle. "
-        "Mutlaka '2. ajan:' ile basla."
+        "Sen 2. ajansın. Rolün: 1. ajanın cevabındaki TÜM hataları tek tek yakalayıp düzeltmek. "
+        "Her iddiayı sırayla değerlendir: yer adı, yön, tarih, rakam, kişi/kurum adı, birim dahil tüm detayları doğrula. "
+        "Eğer bahsedilen bir kişi veya kurum hakkında güvenilir hiçbir kaynak bulamazsan, "
+        "'Bu kişi/kurum muhtemelen var değildir' şeklinde açıkça belirt — sadece 'doğrulanamaz' deme. "
+        "Eğer bir iddia farklı kaynaklarda çelişkili veya tartışmalıysa (Ör. bilimsel literatürde kesin uzlaşı yoksa), "
+        "bunu 'Bu konu tartışmalıdır; bazı kaynaklara göre X, bazılarına göre Y' şeklinde belirt. "
+        "Yakaladığın her hatayı numaralandırarak listele, ardından doğru bilgiyi gerekçesiyle ver. "
+        "1. ajanın bir ifadesi olgusal olarak doğruysa, öznel veya nitelendirici olsa bile hata sayma; sahte düzeltme yapma. "
+        "Eğer 1. ajanda gerçek bir hata bulamazsan, bunu açıkça 'Bu bilgi doğru görünmektedir' şeklinde belirt; "
+        "hata uydurmak zorunda değilsin. "
+        "Yanıtın 2-5 cümle uzunluğunda olsun. "
+        "Mutlaka '2. ajan:' ile başla. "
+        "KESİNLİKLE yeni iddia veya bilgi üretme; yalnızca 1. ajandaki mevcut içeriği düzelt."
     ),
     3: (
-        "Sen 3. ajansin. 2. ajanin kacirdigi hatalari tamamla. "
-        "Yeni iddia uretme, sadece mevcut metinleri denetle. "
-        "Mutlaka '3. ajan:' ile basla."
+        "Sen 3. ajansın. Rolün: 2. ajanın düzeltmesini denetlemek ve yalnızca MEVCUT hataları tamamlamak. "
+        "2. ajanın 'muhtemelen var değildir' demediği ama şüpheli olan kişi/kurum varsa bunu da işaretle. "
+        "2. ajanın kaçırdığı yer adı, yön, tarih, rakam veya birim hatası varsa düzelt. "
+        "Eğer bir konu gerçekten tartışmalıysa (farklı kaynaklarda farklı cevaplar varsa), "
+        "bunu 'Bu konu tartışmalıdır; kesin bir sonuç yoktur' şeklinde belirt — tek taraflı cevap verme. "
+        "KESİNLİKLE yeni bilgi, yeni iddia veya yeni kaynak üretme; "
+        "metinde olmayan bir içerik eklemek hata sayılır. "
+        "Yanıtın 2-5 cümle uzunluğunda olsun. "
+        "Mutlaka '3. ajan:' ile başla."
     ),
     4: (
-        "Sen 4. ajansin. Onceki adimlari sentezleyip kisa ve dogru final cevap ver. "
-        "Mutlaka '4. ajan ajanlari analiz edip dogru sonucu aktariyorum:' ile basla."
+        "Sen 4. ajansın. Rolün: Önceki 3 ajanın tartışmasını sentezleyerek kullanıcıya "
+        "doğru, eksiksiz ve anlaşılır nihai cevabı vermek. "
+        "KESİNLİKLE: önceki ajanlarca 'muhtemelen var değildir' veya 'doğrulanamaz' olarak "
+        "işaretlenen kişi, kurum ve kavramları nihai cevaba dahil etme; adlarını bile anma. "
+        "Eğer sorudaki kişi/kurum zaten var olmayan biriyle ilgiliyse, bunu açıkça 'Bu kişi/kurum "
+        "gerçekte mevcut değildir' şeklinde belirt. "
+        "Eğer konu tartışmalıysa (farklı kaynaklarda farklı cevaplar varsa), kesin bir cevap verme; "
+        "'Bazı kaynaklara göre X, bazılarına göre Y; bu konuda bilimsel bir uzlaşı henüz yoktur' şeklinde belirt. "
+        "Önceki ajanların iç tartışma sürecini tekrar etme; yalnızca doğrulanmış bilgiyi sun. "
+        "Yanıtın 2-4 cümle uzunluğunda olsun. "
+        "Mutlaka '4. ajan ajanları analiz edip doğru sonucu aktarıyorum:' ile başla."
     ),
 }
 
@@ -242,16 +295,24 @@ class AgentResponse(BaseModel):
 # ── Config Builder ───────────────────────────────────────────────────
 
 def _resolve_api_key(provider_id: str, explicit_key: str) -> str:
-    if explicit_key:
-        return explicit_key
-    txt = read_keys_from_txt(workspace_dir() / "KEYS.txt")
+    # 1) İstekteki apiKey — dolu ve geçerliyse kullan (boşluk-only sayılmaz).
+    ex = _clean_api_key(explicit_key)
+    if ex:
+        return ex
     prov = PROVIDERS.get(provider_id)
     env_name = prov["env_key"] if prov else "GEMINI_API_KEY"
-    return resolve_key(env_name, txt)
+    # 2) app.py HARDCODED — .env'deki "your_api_key_here" veya bozuk değer burayı geçmesin.
+    hc = _clean_api_key(HARDCODED_DEV_KEYS.get(env_name))
+    if hc:
+        return hc
+    # 3) .env + KEYS.txt
+    txt = read_keys_from_txt(workspace_dir() / "KEYS.txt")
+    return _clean_api_key(resolve_key(env_name, txt))
 
 
 def build_model_config(body: AgentRequest) -> ModelConfig:
-    provider_id = body.provider if body.provider in PROVIDERS else "gemini"
+    raw_pid = (body.provider or "").strip().lower()
+    provider_id = raw_pid if raw_pid in PROVIDERS else "gemini"
     prov = PROVIDERS[provider_id]
 
     api_key = _resolve_api_key(provider_id, body.apiKey)
