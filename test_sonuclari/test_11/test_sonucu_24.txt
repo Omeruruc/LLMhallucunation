@@ -1,0 +1,46 @@
+Soru: 24. "Girişim sermayesi" (venture capital) nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 134
+  - total_tokens: 1168
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5027
+
+Cevap:
+1. ajan: Girişim sermayesi, yüksek büyüme potansiyeline sahip, erken aşama şirketlere (start-up'lara) finansman sağlayan bir yatırım türüdür. Bu sermaye genellikle hisse senedi karşılığında sağlanır ve yatırımcılar şirketin büyümesine aktif olarak rehberlik eder. Girişim sermayesi kavramı ilk olarak 1950'lerde Stanford Üniversitesi'nde geliştirilen 'Silicon Valley Fonu' ile ortaya çıkmıştır. Amaç, şirketin değerini artırarak gelecekteki bir satış veya halka arz yoluyla yüksek getiri elde etmektir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 875
+  - completion_tokens: 231
+  - total_tokens: 1106
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2527
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğru görünmektedir. Girişim sermayesi (venture capital), yüksek büyüme potansiyeline sahip erken aşama şirketlere finansman sağlayan bir yatırım türüdür. Yatırımcılar genellikle hisse senedi karşılığında finansman sağlar ve şirketin büyümesine aktif olarak rehberlik eder. Girişim sermayesi kavramı ilk olarak 1940'larda ortaya çıkmış olup, 1950'lerde Stanford Üniversitesi'ndeki 'American Research and Development Corporation' ile daha da gelişmiştir. Amaç, şirketin değerini artırarak gelecekteki bir satış veya halka arz yoluyla yüksek getiri elde etmektir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 450
+  - completion_tokens: 94
+  - total_tokens: 544
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2250
+
+Cevap:
+3. ajan: Girişim sermayesi kavramı ilk olarak 1940'larda ortaya çıkmış olup, 1950'lerde Stanford Üniversitesi'ndeki American Research and Development Corporation ile daha da gelişmiştir. Ancak, "American Research and Development Corporation" ifadesinde baş harflerin büyük yazılması gerektiği için bu şekilde düzeltilmiştir. Bunun dışında, 2. ajanın açıklamasında herhangi bir hata bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 561
+  - completion_tokens: 155
+  - total_tokens: 716
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7391
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Girişim sermayesi, yüksek büyüme potansiyeli olan erken aşamadaki şirketlere yatırım yapmak amacıyla kullanılan bir finansman türüdür. Bu yatırımlar genellikle yüksek risk taşır, ancak başarılı olmaları durumunda önemli getiriler sağlayabilir. Girişim sermayesi, yenilikçi projelerin hayata geçirilmesinde kritik bir rol oynar.
+

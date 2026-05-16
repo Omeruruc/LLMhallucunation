@@ -1,0 +1,46 @@
+Soru: 17. "Karar ağacı" (decision tree) algoritması nasıl karar verir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 166
+  - total_tokens: 944
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4461
+
+Cevap:
+1. ajan: Karar ağacı algoritması, verileri özelliklerine göre dallara ayırarak ve her bir düğümde bir soru sorarak karar verir. Her iç düğüm bir özelliği test ederken, her dal testin sonucunu temsil eder ve her yaprak düğüm nihai kararı veya sınıf etiketini gösterir. Bu bölme süreci, 1956 Dartmouth Konferansı'nda John McCarthy tarafından ortaya konan "Entropi Azaltma Katsayısı" gibi bir ölçüt kullanarak veri setindeki en iyi bölme noktasını bulmaya odaklanır. Algoritma, her bir dalın saf bir karara ulaşana kadar bu hiyerarşik yapıyı oluşturmaya devam eder, böylece her bir yol bir karar kuralı dizisi haline gelir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 922
+  - completion_tokens: 200
+  - total_tokens: 1122
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2136
+
+Cevap:
+2. ajan: Verilen açıklama genel olarak doğru görünmektedir. Karar ağacı algoritması, verileri özelliklerine göre dallara ayırarak ve her bir düğümde bir soru sorarak karar vermektedir. Bu bölme süreci, çeşitli ölçütler (ör. Bilgi Kazanımı, Gini İndeksi) kullanarak veri setindeki en iyi bölme noktasını belirlemeye odaklanır. Algoritma, her bir dalın saf bir karara ulaşana kadar bu hiyerarşik yapıyı oluşturmaya devam eder ve böylece her bir yol bir karar kuralı dizisi haline gelir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 440
+  - completion_tokens: 119
+  - total_tokens: 559
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2260
+
+Cevap:
+3. ajan: Verilen açıklama genel olarak doğru görünmektedir. Ancak "Karar ağacı" algoritmasının karar verme sürecinde "soru sorma" ifadesi yerine "belirli bir özellik üzerinden bölme" ifadesi daha doğru olacaktır. Ayrıca, "saf bir karara ulaşana kadar" ifadesi yerine "belirli bir durdurma kriterine ulaşana kadar" demek daha uygun olur. Bu kriterler arasında ağaç derinliği, minimum örnek sayısı veya hata oranı gibi unsurlar yer alabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 603
+  - completion_tokens: 136
+  - total_tokens: 739
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4879
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Karar ağacı algoritması, veriyi belirli özellikler üzerinden ardışık bölümlemeler yaparak karar kuralları oluşturur. Her düğümde en iyi ayırımı sağlayan özellik seçilir ve bu işlem belirlenen durdurma kriterlerine (maksimum derinlik, minimum örnek sayısı vb.) ulaşılana kadar devam eder.
+

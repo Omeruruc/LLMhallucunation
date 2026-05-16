@@ -1,0 +1,46 @@
+Soru: 20. "Nutuk" adlı eserin yazarı ve konusu nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 144
+  - total_tokens: 1117
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5280
+
+Cevap:
+1. ajan: "Nutuk" adlı eserin yazarı Mustafa Kemal Atatürk'tür. Eser, Türk Kurtuluş Savaşı'nı ve Türkiye Cumhuriyeti'nin kuruluş sürecini, 1919'dan 1927'ye kadar olan dönemi kapsayan kapsamlı bir anlatıdır. Atatürk, bu eseri aslında 1923 yılında Cumhuriyet'in ilanından hemen sonra kaleme almış ve ilk baskısı bizzat İsmet İnönü tarafından denetlenmiştir. Nutuk, bağımsızlık mücadelesinin zorluklarını ve yeni devletin temellerinin nasıl atıldığını detaylıca ortaya koyan eşsiz bir tarihi belgedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 897
+  - completion_tokens: 217
+  - total_tokens: 1114
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2300
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. "Nutuk" adlı eserin yazarı Mustafa Kemal Atatürk'tür ve eser Türk Kurtuluş Savaşı'nı ve Türkiye Cumhuriyeti'nin kuruluş sürecini kapsayan kapsamlı bir anlatıdır. Atatürk, bu eseri 1923 yılında Cumhuriyet'in ilanından hemen sonra kaleme almıştır ve ilk baskısı İsmet İnönü tarafından denetlenmiştir. "Nutuk", bağımsızlık mücadelesinin zorluklarını ve yeni devletin temellerinin nasıl atıldığını detaylıca ortaya koyan önemli bir tarihi belgedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 432
+  - completion_tokens: 145
+  - total_tokens: 577
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1929
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi genel olarak doğrudur, ancak tarih açısından bir düzeltme gereklidir. "Nutuk" eseri, 1927 yılında kaleme alınmıştır, Cumhuriyet'in ilanından sonra değil. Ayrıca, ilk baskısının denetimiyle ilgili olarak, bu bilgi eksik; ilk baskısı 1927 yılında yapılmıştır ve bu süreçte İsmet İnönü'nün doğrudan bir denetimi olduğu bilgisi kesin değildir. "Nutuk", bağımsızlık mücadelesinin zorluklarını ve yeni devletin temellerinin nasıl atıldığını detaylıca ortaya koyan önemli bir tarihi belgedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 641
+  - completion_tokens: 115
+  - total_tokens: 756
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4416
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Nutuk" adlı eserin yazarı Mustafa Kemal Atatürk'tür ve eser, Türk Kurtuluş Savaşı'nın sürecini, Cumhuriyet'in kuruluşunu ve bu dönemde yaşananları detaylı bir şekilde anlatır. Eser ilk kez 1927 yılında yayımlanmıştır.
+

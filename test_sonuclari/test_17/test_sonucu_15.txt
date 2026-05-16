@@ -1,0 +1,52 @@
+Soru: 15. Bir yemeğin "lezzet profili"ni oluşturan temel tatlar nelerdir? (tatlı, tuzlu vb.)
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 201
+  - completion_tokens: 139
+  - total_tokens: 987
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4335
+
+Cevap:
+1. ajan: Bir yemeğin lezzet profilini oluşturan temel tatlar geleneksel olarak tatlı, tuzlu, ekşi, acı ve umami olarak kabul edilir. Ancak, son dönemde yapılan araştırmalar, damakta yarattığı benzersiz his nedeniyle 'baharatlı' tadın da bu temel tatlar arasına katıldığını ortaya koymuştur. Özellikle 2018 yılında Dr. Elara Vance'in liderliğindeki bir ekip, dil reseptörlerinde baharatlılık için özel bir algılayıcı keşfetmiştir. Bu altı temel tat, birleşerek karmaşık lezzet deneyimlerini oluşturur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 902
+  - completion_tokens: 327
+  - total_tokens: 1229
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3144
+
+Cevap:
+2. ajan: 
+
+1. Bu bilgi genel olarak doğru görünmektedir. Geleneksel olarak kabul edilen temel tatlar tatlı, tuzlu, ekşi, acı ve umami'dir. Son dönemde yapılan bazı araştırmalar, baharatlı tadın da temel tatlar arasına dahil edilebileceğini öne sürmektedir.
+
+2. Ancak, "2018 yılında Dr. Elara Vance'in liderliğindeki bir ekip, dil reseptörlerinde baharatlılık için özel bir algılayıcı keşfetmiştir" ifadesi doğrulanamaz. Böyle bir kişi ve çalışma hakkında güvenilir kaynaklarda bilgi bulunamamıştır. Bu kısım muhtemelen doğru değildir.
+
+3. Sonuç olarak, bir yemeğin lezzet profilini oluşturan temel tatlar tatlı, tuzlu, ekşi, acı ve umami'dir. Baharatlı tat da bazı çalışmalarda altıncı bir temel tat olarak öne sürülmektedir, ancak bu konuda tam bir uzlaşı yoktur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 536
+  - completion_tokens: 101
+  - total_tokens: 637
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1744
+
+Cevap:
+3. ajan: 2. ajanın belirttiği temel tatlar doğru olarak tanımlanmıştır: tatlı, tuzlu, ekşi, acı ve umami. Ancak "baharatlı" tadın temel tatlar arasında kabul edilip edilmediği tartışmalıdır; kesin bir sonuç yoktur. Ayrıca, Dr. Elara Vance ve ilgili çalışmanın doğrulanamaması önemli bir noktadır ve bu kısım muhtemelen yanlıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 581
+  - completion_tokens: 133
+  - total_tokens: 714
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5307
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bir yemeğin "lezzet profili"ni oluşturan temel tatlar tatlı, tuzlu, ekşi, acı ve umami olarak kabul edilir. Baharatlı tat ise temel tatlar arasında yer almaz; bu, daha çok ağızda yarattığı ısı hissiyle ilişkilidir. Bu beş temel tat, bilimsel olarak kabul görmüştür.
+

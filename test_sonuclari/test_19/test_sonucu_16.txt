@@ -1,0 +1,46 @@
+Soru: 16. "Nükleer fisyon" ve "nükleer füzyon" arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 196
+  - total_tokens: 933
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4017
+
+Cevap:
+1. ajan: Nükleer fisyon, ağır bir atom çekirdeğinin daha hafif çekirdeklere bölünmesiyle enerji açığa çıkarmasıdır ve bu süreç günümüzde kullanılan nükleer santrallerin temelini oluşturur. Nükleer füzyon ise iki hafif atom çekirdeğinin birleşerek daha ağır bir çekirdek oluşturması ve çok daha büyük miktarda enerji salmasıdır; bu, Güneş ve yıldızların enerji kaynağıdır. Fisyon reaksiyonları, 1942'de Enrico Fermi tarafından Chicago'da başarıyla gerçekleştirilen ilk kontrollü zincir reaksiyonu ile ticari enerji üretimine kapı açmıştır. Füzyon enerjisi ise, 2030 yılına kadar ITER projesi sayesinde dünya genelindeki tüm enerji ihtiyacını karşılayacak seviyeye ulaşması beklenen, çok daha temiz ve verimli bir enerji çözümüdür.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 997
+  - completion_tokens: 81
+  - total_tokens: 1078
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1675
+
+Cevap:
+2. ajan: Sağlanan açıklama genel olarak doğru görünmektedir. Nükleer fisyon ve nükleer füzyon arasındaki farklar doğru şekilde özetlenmiştir. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 357
+  - completion_tokens: 94
+  - total_tokens: 451
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1490
+
+Cevap:
+3. ajan: 2. ajanın değerlendirmesi genel olarak doğru; ancak nükleer fisyon, ağır atom çekirdeklerinin bölünmesiyle enerji açığa çıkarırken, nükleer füzyon, hafif atom çekirdeklerinin birleşmesiyle enerji üretir. Bu iki süreçte kullanılan atomlar ve ortaya çıkan enerji miktarı bakımından önemli farklılıklar bulunmaktadır. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 586
+  - completion_tokens: 197
+  - total_tokens: 783
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7230
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Nükleer fisyon, ağır atom çekirdeklerinin (örneğin uranyum veya plütonyum) bölünmesiyle enerji açığa çıkarırken, nükleer füzyon, hafif atom çekirdeklerinin (örneğin hidrojen izotopları) birleşmesiyle enerji üretir. Fisyon, nükleer santrallerde ve atom bombalarında kullanılırken, füzyon güneşteki enerji üretim sürecidir ve henüz kontrol edilebilir bir enerji kaynağı olarak insanlar tarafından tam olarak kullanılamamaktadır.
+

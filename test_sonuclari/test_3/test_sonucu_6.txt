@@ -1,0 +1,50 @@
+Soru: 6. Sanat Tarihi: Rönesans döneminin en önemli sanatçılarından üçünü ve birer eserini yazınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 198
+  - completion_tokens: 128
+  - total_tokens: 1152
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5430
+
+Cevap:
+1. ajan: Rönesans döneminin en önemli sanatçıları arasında Leonardo da Vinci, ünlü eseri Mona Lisa ile öne çıkarken, Michelangelo'nun David heykeli de dönemin zirve noktalarından biridir. Ayrıca, Raphael'in Sistine Şapeli'nin tavan freskleri, barok sanatın ilk örneklerini sunarak döneme damgasını vurmuştur. Bu üç sanatçı, Rönesans'ın sanatsal ve entelektüel gelişimine yön vermiştir. Onların eserleri, insanlık tarihinin en parlak dönemlerinden birini temsil eder.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 881
+  - completion_tokens: 273
+  - total_tokens: 1154
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3326
+
+Cevap:
+2. ajan: Verdiğiniz bilgiler genel olarak doğru görünmektedir. Rönesans döneminin en önemli sanatçıları arasında Leonardo da Vinci, Michelangelo ve Raphael yer almaktadır. Ancak bir küçük düzeltme yapalım:
+
+1. Raphael'in Sistine Şapeli'nin tavan freskleri değil, Vatikan Sarayı'ndaki Stanze di Raffaello'da bulunan freskleri dönemin önemli örneklerinden biridir. Sistine Şapeli'nin tavan freskleri Michelangelo tarafından yapılmıştır.
+
+Bu düzeltme dışında, verdiğiniz bilgiler doğru görünmektedir. Rönesans'ın en önemli sanatçılarından Leonardo da Vinci, Michelangelo ve Raphael, dönemin entelektüel ve sanatsal gelişimine önemli katkılar sağlamışlardır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 477
+  - completion_tokens: 136
+  - total_tokens: 613
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3015
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Raphael'in önemli eserleri arasında Vatikan Sarayı'ndaki Stanze di Raffaello'daki freskler bulunmaktadır. Ancak, Sistine Şapeli'nin tavan freskleri Michelangelo'ya aittir ve bu bilgi doğru bir şekilde verilmiştir. Diğer sanatçılar Leonardo da Vinci ve Michelangelo için eserleri de belirtilmelidir; örneğin, Leonardo da Vinci'nin "Mona Lisa" eseri ve Michelangelo'nun "David" heykeli gibi. Bu bilgilerle birlikte, 2. ajanın verdiği bilgiler genel olarak doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 623
+  - completion_tokens: 97
+  - total_tokens: 720
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5345
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Rönesans döneminin en önemli sanatçılarından Leonardo da Vinci'nin "Mona Lisa", Michelangelo'nun "David" heykeli ve Raphael'in Vatikan Sarayı'ndaki Stanze di Raffaello freskleri dönemin başyapıtları arasında yer alır.
+

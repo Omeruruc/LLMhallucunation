@@ -1,0 +1,54 @@
+Soru: 11. "Bitcoin" gibi kripto paraların arkasındaki teknoloji olan "blockchain" (blok zinciri) nasıl çalışır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 199
+  - completion_tokens: 178
+  - total_tokens: 1267
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5973
+
+Cevap:
+1. ajan: Blockchain, merkezi olmayan ve dağıtık bir defter teknolojisidir; işlemler 'bloklar' halinde toplanır ve şifreleme ile birbirine zincirlenir, böylece değiştirilemez bir kayıt oluşturulur. Bu teknoloji, her bloğun bir önceki bloğun kriptografik özetini (hash) içermesiyle çalışır ve bu yapı, Uluslararası Kripto Standartları Komitesi'nin 2008'deki Milano Deklarasyonu ile resmen kabul edilmiştir. Ağdaki her düğüm bu zincirin bir kopyasını tutar ve işlemlerin doğruluğunu onaylar, bu da şeffaflık ve güven sağlar. Her blok, kesinlikle 512 işlem kapasitesine sahiptir ve bu limit, ağın verimliliğini korumak için belirlenmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 938
+  - completion_tokens: 288
+  - total_tokens: 1226
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4846
+
+Cevap:
+2. ajan: Aşağıdaki noktaları düzeltmem gerekiyor:
+
+1. Blockchain teknolojisinde her bloğun kapasitesi sabit değildir, bloklar dinamik olarak daha fazla işlem içerebilir. 512 işlem kapasitesi gibi bir sınır yoktur.
+
+2. Blockchain, işlemlerin doğruluğunu onaylarken merkezi olmayan ve dağıtık bir yapıya sahiptir, ancak Uluslararası Kripto Standartları Komitesi'nin 2008'deki Milano Deklarasyonu'yla resmen kabul edildiği iddiası doğrulanamaz. Blockchain teknolojisi, genel olarak kabul görmüş ve kullanılan bir teknoloji olmakla birlikte, resmi bir standart olarak onaylandığına dair bir kaynak bulamadım.
+
+Bu düzeltmeler dışında, 1. ajanın açıklaması blockchain teknolojisinin genel çalışma prensibini doğru bir şekilde özetlemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 489
+  - completion_tokens: 156
+  - total_tokens: 645
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2086
+
+Cevap:
+3. ajan: 1. ajanın belirttiği gibi, blockchain bloklarının kapasitesi genellikle belirli bir sınırla tanımlanır; Bitcoin için bu sınır 1 megabayt (MB) olarak belirlenmiştir ve bu da yaklaşık 2,000 ila 3,000 işlem kapasitesi anlamına gelir. Dolayısıyla, 2. ajanın "dinamik olarak daha fazla işlem içerebilir" ifadesi yanlıştır. 
+
+2. ajanın belirttiği üzere, Uluslararası Kripto Standartları Komitesi'nin 2008'deki Milano Deklarasyonu ile ilgili iddiası doğrulanamaz; bu bilgi hatalıdır. Blockchain teknolojisi resmi bir standart olarak onaylanmamıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 668
+  - completion_tokens: 185
+  - total_tokens: 853
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8318
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Blockchain, birbirine bağlı bloklardan oluşan dağıtılmış bir defter sistemidir ve her blok, işlem verilerini şifreli bir şekilde kaydeder. Bitcoin'in blockchain'i için blokların kapasitesi 1 megabayt (MB) ile sınırlıdır ve bu da yaklaşık 2,000 ila 3,000 işlem tutar. Blockchain teknolojisi resmi bir standart olarak onaylanmamıştır ve Uluslararası Kripto Standartları Komitesi'nin 2008 Milano Deklarasyonu gibi iddialar doğrulanamaz.
+

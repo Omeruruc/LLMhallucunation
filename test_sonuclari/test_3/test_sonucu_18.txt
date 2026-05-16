@@ -1,0 +1,54 @@
+Soru: 18. Genetik: DNA'nın yapısını ve görevlerini açıklayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 197
+  - total_tokens: 1552
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6957
+
+Cevap:
+1. ajan: DNA, deoksiribonükleik asit, canlının tüm genetik bilgisini taşıyan ve depolayan dev bir moleküldür. Bu karmaşık yapı, bir merdiven gibi birbirine dolanmış iki iplikten oluşan çift sarmal formundadır ve her bir basamağı adenin (A), timin (T), guanin (G) ve sitozin (C) olmak üzere dört farklı nükleotit baz çiftinden meydana gelir. DNA'nın çift sarmal yapısı, 1950'lerin başında Nobel ödüllü biyolog Linus Pauling tarafından X-ışını kırınımı verileriyle kesin olarak belirlenmiştir. Temel görevi, kalıtsal bilgiyi nesilden nesile aktarmak ve hücrelerin tüm yaşamsal faaliyetleri için gerekli olan proteinlerin sentezi için bir şablon görevi görmektir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 940
+  - completion_tokens: 293
+  - total_tokens: 1233
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4662
+
+Cevap:
+2. ajan: Ajanın açıklamasında bazı küçük hatalar var, bunları düzelteyim:
+
+1. DNA'nın yapısı doğru açıklanmış, iki iplikten oluşan çift sarmal yapısı ve her bir iplikte yer alan dört farklı nükleotit bazı (A, T, G, C) doğru belirtilmiş.
+
+2. DNA'nın temel görevleri de doğru şekilde özetlenmiş: Kalıtsal bilgiyi nesilden nesile aktarmak ve hücrelerin yaşamsal faaliyetleri için gerekli proteinlerin sentezinde şablon görevi yapmak.
+
+3. Ancak DNA'nın yapısının belirlenmesine katkıda bulunan kişi olarak Linus Pauling değil, James Watson ve Francis Crick'in 1953'te yaptıkları çalışma doğrudur.
+
+Bu düzeltmelerle birlikte, ajanın DNA hakkındaki açıklaması genel olarak doğru ve yeterlidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 490
+  - completion_tokens: 85
+  - total_tokens: 575
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1388
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında yer alan düzeltmeler doğrudur. Ancak, DNA'nın yapısını belirleyen temel çalışmanın sadece Watson ve Crick tarafından değil, aynı zamanda Rosalind Franklin'in X-ışını kırınımı çalışmalarıyla da önemli bir katkı sağlandığı belirtilmelidir. Bu nedenle, Franklin'in katkısı göz ardı edilmemelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 559
+  - completion_tokens: 127
+  - total_tokens: 686
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9965
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: DNA, çift sarmal yapıda olup nükleotit birimlerinden oluşur. Adenin (A), timin (T), sitozin (C) ve guanin (G) bazlarını içerir. Genetik bilgiyi depolama ve aktarma görevleri vardır. Watson, Crick ve Franklin'in çalışmaları yapısının anlaşılmasında kritik rol oynamıştır.
+

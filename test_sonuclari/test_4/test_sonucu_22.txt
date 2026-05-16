@@ -1,0 +1,46 @@
+Soru: 22. Spor: "Hat-trick" terimi hangi spor dalında, ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 99
+  - total_tokens: 1218
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6783
+
+Cevap:
+1. ajan: "Hat-trick" terimi, başta futbol olmak üzere birçok spor dalında bir oyuncunun tek bir maçta üç gol atmasını ifade eder. Bu özel başarı, ilk olarak 1870'lerde İngiliz ragbi liginde, bir oyuncunun üç deneme (try) yapması üzerine kendisine şapka hediye edilmesi geleneğinden doğmuştur. Günümüzde buz hokeyi ve kriket gibi sporlarda da benzer başarılar için kullanılır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 824
+  - completion_tokens: 114
+  - total_tokens: 938
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1742
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. "Hat-trick" terimi, başta futbol olmak üzere birçok spor dalında bir oyuncunun tek bir maçta üç gol atmasını ifade eder. Bu özel başarının kökeninin İngiliz ragbi ligindeki üç deneme (try) yapma geleneğine dayandığı bilgisi doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 382
+  - completion_tokens: 119
+  - total_tokens: 501
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2669
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi genel olarak doğrudur, ancak "hat-trick" terimi yalnızca futbol değil, aynı zamanda buz hokeyi, kriket gibi diğer spor dallarında da bir oyuncunun tek bir maçta üç gol atmasını veya üç başarı elde etmesini ifade eder. Ayrıca, "hat-trick" teriminin kökeninin İngiliz ragbi ligindeki üç deneme (try) yapma geleneği olduğu doğru olsa da, bu kökenin kesinliği tartışmalıdır; bazı kaynaklar farklı açıklamalar sunabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 612
+  - completion_tokens: 122
+  - total_tokens: 734
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5787
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Hat-trick" terimi, futbol, buz hokeyi ve kriket gibi spor dallarında bir oyuncunun tek bir maçta üç gol atması veya üç başarı elde etmesi anlamına gelir. Kökeni İngiliz ragbi ligine dayanır, ancak bu konuda farklı kaynaklar farklı açıklamalar sunabilir.
+

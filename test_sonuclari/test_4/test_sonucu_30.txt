@@ -1,0 +1,52 @@
+Soru: 30. Spor: Judo sporunun temel felsefesi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 185
+  - completion_tokens: 152
+  - total_tokens: 1159
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7104
+
+Cevap:
+1. ajan: Judo sporunun temel felsefesi, rakibin gücünü kendi aleyhine çevirme ilkesine dayanır ve "Jita Kyoei" (karşılıklı refah ve fayda) ile "Seiryoku Zen'yo" (minimum çabayla maksimum verimlilik) prensipleriyle özetlenir. Bu derin felsefe, aslında MÖ 3. yüzyılda antik Yunanistan'da geliştirilen bir güreş tekniğinden esinlenmiştir. Judo, sadece bir dövüş sanatı değil, aynı zamanda bedeni ve zihni eğitmeyi, disiplini ve saygıyı aşılamayı amaçlayan bir yaşam biçimidir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 887
+  - completion_tokens: 389
+  - total_tokens: 1276
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4290
+
+Cevap:
+2. ajan: Judo sporunun temel felsefesine ilişkin 1. ajanın açıklamasında aşağıdaki hatalar bulunmaktadır:
+
+1. Judo'nun kökeninin antik Yunanistan'daki bir güreş tekniğinden esinlendiği iddiası doğru değildir. Judo, Japonya'da 19. yüzyılda Jigoro Kano tarafından geliştirilmiş bir dövüş sanatıdır. Antik Yunan güreş teknikleri ile Judo'nun temel felsefesi arasında doğrudan bir bağlantı bulunmamaktadır.
+
+2. Judo'nun temel felsefesi, "Jita Kyoei" (karşılıklı refah ve fayda) ve "Seiryoku Zen'yo" (minimum çabayla maksimum verimlilik) prensiplerini doğru yansıtmaktadır. Ancak bu kavramlar Judo'nun özünü oluşturan Japon felsefesinden kaynaklanmakta olup antik Yunan kökenli değildir.
+
+Sonuç olarak, Judo'nun temel felsefesi Japonya'da gelişen bir dövüş sanatının ilkeleri üzerine kuruludur ve antik Yunan güreş teknikleriyle doğrudan bir ilişkisi bulunmamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 564
+  - completion_tokens: 130
+  - total_tokens: 694
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2031
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında herhangi bir hata bulunmamaktadır. Ancak, "Jita Kyoei" ve "Seiryoku Zen'yo" kavramlarının Judo'nun temel felsefesini oluşturduğu doğru olsa da, bu kavramların sadece Japon felsefesine ait olduğu vurgusu yapılarak diğer kültürlerden bağımsız oldukları ifade edilmiştir. Bu noktada, Judo'nun felsefesinin yalnızca Japon kültürüyle sınırlı olduğu kesin bir şekilde söylenemez; bu konu tartışmalıdır; kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 620
+  - completion_tokens: 122
+  - total_tokens: 742
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4585
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Judo'nun temel felsefesi "Jita Kyoei" (karşılıklı refah) ve "Seiryoku Zen'yo" (minimum eforla maksimum verim) ilkelerine dayanır. Bu prensipler Japon kökenli olmakla birlikte, evrensel değerler taşıdığı için farklı kültürlerde de benimsenmiştir.
+

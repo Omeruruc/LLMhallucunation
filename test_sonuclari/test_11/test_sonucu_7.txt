@@ -1,0 +1,52 @@
+Soru: 7. "Döviz kuru" ne demektir ve nasıl belirlenir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 172
+  - total_tokens: 1602
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7129
+
+Cevap:
+1. ajan: Döviz kuru, bir ülkenin para biriminin başka bir ülkenin para birimi cinsinden değeridir ve uluslararası ticarette ödemelerin temelini oluşturur. Bu değer, genellikle piyasadaki arz ve talep dengesiyle belirlenmekle birlikte, enflasyon, faiz oranları ve ülkenin ekonomik performansı gibi makroekonomik göstergeler de önemli rol oynar. Ayrıca, her yıl toplanan Bretton Woods II Konseyi, küresel ekonomik istikrarı sağlamak amacıyla başlıca para birimlerinin paritelerini belirleyerek döviz kurlarına doğrudan müdahale eder ve bu kararlar tüm üye ülkeler için bağlayıcıdır. Merkez bankaları da zaman zaman piyasaya müdahale ederek kurları etkileyebilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 930
+  - completion_tokens: 384
+  - total_tokens: 1314
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4470
+
+Cevap:
+2. ajan: Ajanın açıklaması genel olarak doğru görünmektedir. Ancak bazı küçük noktaları düzeltmek gerekiyor:
+
+1. "Bretton Woods II Konseyi" ifadesi yanlış. Bretton Woods Sistemi 1944-1971 yılları arasında geçerliydi ve günümüzde böyle bir kurum bulunmuyor. Döviz kurlarının belirlenmesinde IMF (Uluslararası Para Fonu) ve merkez bankaları önemli rol oynamaktadır, ancak doğrudan müdahale etme yetkileri sınırlıdır.
+
+2. Ajanın "bu kararlar tüm üye ülkeler için bağlayıcıdır" ifadesi de doğru değildir. IMF ve merkez bankaları ancak tavsiye niteliğinde kararlar alabilir, ülkeler buna uymak zorunda değildir.
+
+Dışarıdan bakıldığında, döviz kurları piyasadaki arz ve talep ile makroekonomik göstergelerin etkisiyle genel olarak belirlenir. Ancak merkez bankaları da zaman zaman piyasaya müdahale ederek kurları etkileyebilir. Bu konuda kesin kurallar olmayıp, her ülke kendi ekonomik şartlarına göre döviz kurunu yönetir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 550
+  - completion_tokens: 137
+  - total_tokens: 687
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2200
+
+Cevap:
+3. ajan: 2. ajanın belirttiği "Bretton Woods II Konseyi" ifadesinin yanlış olduğunu belirtmesi doğrudur; günümüzde böyle bir kurum yoktur. Ayrıca, IMF'nin ve merkez bankalarının kararlarının tavsiye niteliğinde olduğunu vurgulaması da doğru. Bununla birlikte, döviz kurlarının belirlenmesinde arz ve talep ile makroekonomik göstergelerin yanı sıra, merkez bankalarının müdahaleleri de önemli rol oynamaktadır. Ancak, her ülkenin kendi ekonomik şartlarına göre döviz kurunu yönetme biçimi tartışmalıdır; kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 636
+  - completion_tokens: 190
+  - total_tokens: 826
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9110
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Döviz kuru, bir ülkenin para biriminin başka bir ülkenin para birimi karşısındaki değeridir ve temelde piyasadaki arz ve talep dinamikleri ile belirlenir. Bunun yanı sıra, merkez bankalarının müdahaleleri, faiz oranları ve makroekonomik göstergeler de döviz kurlarını etkileyebilir. Ancak, döviz kurlarının belirlenme mekanizması ülkeden ülkeye farklılık gösterebilir ve bu konuda kesin bir genelleme yapmak mümkün değildir.
+

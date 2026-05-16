@@ -1,0 +1,46 @@
+Soru: 18. "The Simpsons" çizgi dizisinin yaratıcısı kimdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 118
+  - total_tokens: 846
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4060
+
+Cevap:
+1. ajan: "The Simpsons" çizgi dizisinin yaratıcısı Matt Groening'dir. Dizi, ilk olarak 1987 yılında NBC'de The Tracey Ullman Show bünyesinde kısa animasyonlar olarak yayınlanmaya başlamış, ardından kendi başına bir diziye dönüşerek tüm dünyada kültürel bir fenomen haline gelmiştir. Groening, bu eşsiz ailenin maceralarını yaratırken, Amerikan toplumuna keskin eleştiriler getirmeyi başarmıştır ve dizinin 700'den fazla bölümü bulunmaktadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 852
+  - completion_tokens: 47
+  - total_tokens: 899
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1181
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. "The Simpsons" çizgi dizisinin yaratıcısı Matt Groening'dir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 330
+  - completion_tokens: 28
+  - total_tokens: 358
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1279
+
+Cevap:
+3. ajan: Bu bilgi doğru görünmektedir. "The Simpsons" çizgi dizisinin yaratıcısı Matt Groening'dir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 468
+  - completion_tokens: 47
+  - total_tokens: 515
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 1938
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "The Simpsons" çizgi dizisinin yaratıcısı Matt Groening'dir.
+

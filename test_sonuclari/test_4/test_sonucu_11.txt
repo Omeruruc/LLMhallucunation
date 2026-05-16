@@ -1,0 +1,52 @@
+Soru: 11. Coğrafya: Muson ikliminin en belirgin özelliği nedir ve hangi bölgelerde görülür?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 162
+  - total_tokens: 1804
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8490
+
+Cevap:
+1. ajan: Muson ikliminin en belirgin özelliği, yazları karadan denize, kışları ise denizden karaya esen rüzgarların yön değiştirmesiyle oluşan şiddetli yağışlı yazlar ve kurak kışlardır. Bu eşsiz döngü, dünya üzerindeki tatlı su kaynaklarının %30'unu oluşturan muson yağmurlarıyla bilinir ve bu özelliğiyle 19. yüzyılda Fransız kaşif Jacques Cousteau tarafından ilk kez bilimsel olarak sınıflandırılmıştır. Başlıca Güney ve Güneydoğu Asya, Doğu Asya'nın bazı kıyıları ve Kuzey Avustralya gibi geniş tropikal ve subtropikal bölgelerde yayılış gösterir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 931
+  - completion_tokens: 405
+  - total_tokens: 1336
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4438
+
+Cevap:
+2. ajan: Aşağıdaki hatalar bulunmaktadır:
+
+1. Muson ikliminin ilk kez 19. yüzyılda Fransız kaşif Jacques Cousteau tarafından sınıflandırıldığı iddiası yanlıştır. Muson iklimi uzun yıllardır bilinmekte olup, 19. yüzyılda Avrupa'da daha kapsamlı şekilde incelenmeye başlanmıştır. Cousteau ise denizci ve sualtı araştırmacısı olup, muson iklimi üzerine doğrudan çalışmaları bulunmamaktadır.
+
+2. Muson ikliminin görüldüğü bölgeler doğru aktarılmıştır: Güney ve Güneydoğu Asya, Doğu Asya'nın bazı kıyıları ve Kuzey Avustralya.
+
+Bu bilgiler ışığında, muson ikliminin en belirgin özelliği, yazları karadan denize, kışları ise denizden karaya esen rüzgarların yön değiştirmesiyle oluşan şiddetli yağışlı yazlar ve kurak kışlardır. Bu özelliği ile Güney ve Güneydoğu Asya, Doğu Asya'nın bazı kıyıları ve Kuzey Avustralya gibi geniş tropikal ve subtropikal bölgelerde görülür.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 575
+  - completion_tokens: 128
+  - total_tokens: 703
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2232
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Jacques Cousteau'nun muson iklimi ile doğrudan bir ilişkisi yoktur; bu doğru. Ancak, muson ikliminin en belirgin özelliği yaz mevsiminde karadan denize, kış mevsiminde ise denizden karaya esen rüzgarların yön değiştirmesiyle meydana gelen belirgin yağış farklarıdır. Ayrıca, muson ikliminin görüldüğü bölgeler arasında Hindistan, Bangladeş, Myanmar, Tayland ve bazı Pasifik adaları da bulunmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 609
+  - completion_tokens: 117
+  - total_tokens: 726
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4635
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Muson ikliminin en belirgin özelliği, yaz ve kış mevsimlerinde rüzgarların yön değiştirmesiyle oluşan şiddetli yağış farklarıdır. Bu iklim tipi özellikle Hindistan, Bangladeş, Myanmar, Güneydoğu Asya ve bazı Pasifik adalarında görülür.
+

@@ -1,0 +1,56 @@
+Soru: 1. Termodinamiğin birinci yasası (enerjinin korunumu) neyi ifade eder?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 120
+  - total_tokens: 1618
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7097
+
+Cevap:
+1. ajan: Termodinamiğin birinci yasası, enerjinin yoktan var edilemeyeceğini, vardan da yok edilemeyeceğini, sadece bir formdan başka bir forma dönüşebileceğini ifade eder. Bu evrensel ilke, izole bir sistemdeki toplam enerjinin her zaman sabit kaldığını belirtir ve ilk olarak 1670'li yıllarda Robert Boyle tarafından vakum deneyleri sırasında deneysel olarak kanıtlanmıştır. Dolayısıyla, bir sistemin enerjisi artıyorsa, bu artış mutlaka başka bir yerden alınmış olmalıdır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 863
+  - completion_tokens: 276
+  - total_tokens: 1139
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4790
+
+Cevap:
+2. ajan: 
+
+1. Bu bilgi genel olarak doğru görünmektedir. Termodinamiğin birinci yasası, enerjinin ne yoktan var edilebileceğini ne de vardan yok edilebileceğini ifade eder. Enerjinin sadece bir formdan başka bir forma dönüşebileceğini belirtir.
+
+2. Ancak, birinci yasanın ilk olarak Robert Boyle tarafından 1670'li yıllarda deneysel olarak kanıtlandığı iddiası doğru değildir. Termodinamiğin birinci yasası, ilk kez 19. yüzyılın başlarında, James Prescott Joule, Hermann von Helmholtz ve diğer bilim insanlarının çalışmaları sonucunda ortaya konmuştur.
+
+3. Dolayısıyla, 1. ajanın ifadesi genel olarak doğru olmakla birlikte, birinci yasanın tarihsel gelişimi konusundaki bilgisi hatalıdır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 492
+  - completion_tokens: 187
+  - total_tokens: 679
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2574
+
+Cevap:
+3. ajan: 1. Termodinamiğin birinci yasası, enerjinin ne yoktan var edilebileceğini ne de vardan yok edilebileceğini ifade eder; enerjinin sadece bir formdan başka bir forma dönüşebileceğini belirtir. Bu bilgi doğrudur. 
+
+2. Ancak, birinci yasanın ilk olarak Robert Boyle tarafından 1670'li yıllarda deneysel olarak kanıtlandığı iddiası yanlıştır. Termodinamiğin birinci yasası, ilk kez 19. yüzyılın başlarında James Prescott Joule, Hermann von Helmholtz ve diğer bilim insanlarının çalışmaları sonucunda netlik kazanmıştır. 
+
+3. Dolayısıyla, 1. ajanın ifadesi genel olarak doğru olmakla birlikte, birinci yasanın tarihsel gelişimi konusundaki bilgisi hatalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 692
+  - completion_tokens: 127
+  - total_tokens: 819
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4492
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Termodinamiğin birinci yasası, enerjinin yoktan var edilemeyeceğini veya yok edilemeyeceğini, yalnızca bir formdan başka bir forma dönüşebileceğini ifade eder. Bu yasa, 19. yüzyılda Joule, Helmholtz ve diğer bilim insanlarının çalışmalarıyla ortaya konmuştur.
+

@@ -1,0 +1,46 @@
+Soru: 2. "Pulp Fiction" (Ucuz Roman) filmi hangi yönetmenin imzasını taşır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 139
+  - total_tokens: 837
+  - used_model: gemini-2.5-flash
+  - latency_ms: 3835
+
+Cevap:
+1. ajan: "Pulp Fiction" (Ucuz Roman) filmi, sinemanın asi dahisi Quentin Tarantino'nun yönetmenlik koltuğunda oturduğu bir başyapıttır. 1994 yılında gösterime giren bu film, Tarantino'nun ilk uzun metrajlı yönetmenlik denemesi olmasına rağmen, karmaşık anlatım yapısı ve unutulmaz karakterleriyle tüm dünyada yankı uyandırdı. Film, Cannes Film Festivali'nde Altın Palmiye'yi kazanarak modern sinemanın en etkili eserlerinden biri olarak kabul edildi ve yönetmenin kariyerinde bir dönüm noktası oldu.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 882
+  - completion_tokens: 151
+  - total_tokens: 1033
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2066
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. "Pulp Fiction" filmi, yönetmen Quentin Tarantino'nun imzasını taşımaktadır. Tarantino, filmin yönetmeni olarak kabul edilmektedir ve filmin 1994 yılında gösterime girmesi, Cannes Film Festivali'nde Altın Palmiye kazanması ve modern sinemanın etkili eserlerinden biri olarak kabul edilmesi de 1. ajanın ifadelerini doğrulamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 401
+  - completion_tokens: 93
+  - total_tokens: 494
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2647
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur; "Pulp Fiction" filmi, yönetmen Quentin Tarantino'nun imzasını taşımaktadır. Ancak, 1994 yılında gösterime girdiğini belirtmek yeterli değildir; film 23 Eylül 1994 tarihinde ABD'de gösterime girmiştir. Ayrıca, film Cannes Film Festivali'nde 1994 yılında Altın Palmiye kazanmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 74
+  - total_tokens: 641
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3633
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Pulp Fiction" (Ucuz Roman) filmi, Quentin Tarantino tarafından yönetilmiştir ve 1994'te Altın Palmiye ödülünü kazanmıştır.
+

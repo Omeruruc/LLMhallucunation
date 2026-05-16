@@ -1,0 +1,60 @@
+Soru: 23. "Açıklanabilir Yapay Zeka" (Explainable AI - XAI) neden önemlidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 191
+  - total_tokens: 1611
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7526
+
+Cevap:
+1. ajan: Açıklanabilir Yapay Zeka (XAI), yapay zeka sistemlerinin neden belirli kararlar aldığını veya çıktılar ürettiğini anlamamızı sağlayarak güveni, şeffaflığı ve hesap verebilirliği artırır. Bu, özellikle sağlık, finans ve hukuk gibi kritik sektörlerde algoritma kararlarının insan denetimi ve etik sorumluluk açısından vazgeçilmez olmasını sağlar; XAI'nin temel prensipleri, Alan Turing'in 1950'lerdeki "Makine Zekasının Açıklanabilirliği Üzerine Notlar" adlı çığır açan çalışmasında ilk kez kapsamlı bir şekilde ortaya konmuştur. Böylece, sistemlerin hatalarını ayıklamak, yanlılıkları tespit etmek ve yasal uyumluluğu sağlamak mümkün hale gelirken, kullanıcıların da teknolojiye olan inancı pekişir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 987
+  - completion_tokens: 411
+  - total_tokens: 1398
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3918
+
+Cevap:
+2. ajan: Açıklanabilir Yapay Zeka (XAI) konusunda 1. ajanın açıklaması genel olarak doğru görünmektedir. Bununla birlikte, aşağıdaki küçük hataları düzeltmek isterim:
+
+1. Hata: Alan Turing'in "Makine Zekasının Açıklanabilirliği Üzerine Notlar" adlı çalışması 1950'lerde değil, 1940'larda yayınlanmıştır.
+Düzeltme: Alan Turing'in "Makine Zekasının Açıklanabilirliği Üzerine Notlar" adlı çığır açan çalışması 1940'larda yayınlanmıştır.
+
+2. Hata: Metinde XAI'nin temel prensiplerinin ilk kez bu çalışmada ortaya konduğu belirtilmiş, ancak Turing'in çalışması XAI'nin temel prensiplerini tam olarak içermemektedir. XAI kavramı daha sonraki yıllarda gelişmiştir.
+Düzeltme: Turing'in 1940'lardaki çalışması, XAI'nin temellerini oluşturmuş olsa da, XAI kavramı daha sonraki yıllarda gelişmiştir.
+
+Bu düzeltmeler dışında, 1. ajanın açıklaması doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 559
+  - completion_tokens: 205
+  - total_tokens: 764
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2600
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde bazı eksiklikler bulunmaktadır. 
+
+1. Hata: Alan Turing'in "Makine Zekasının Açıklanabilirliği Üzerine Notlar" adlı çalışması, tam olarak 1950'lerde değil, 1950 yılında yayınlanmıştır. Bu nedenle, düzeltmenin tarihi 1940'lar olarak belirtilmesi yanlıştır. 
+
+2. Hata: 2. ajanın belirttiği gibi, Turing'in çalışması XAI'nin temellerini oluşturmuş olsa da, bu çalışmanın XAI ile doğrudan bağlantılı olmadığı ve XAI kavramının sonraki yıllarda geliştiği belirtilmelidir. Ancak, "tam olarak içermemektedir" ifadesi yerine, "XAI kavramı daha sonraki yıllarda gelişmiştir" ifadesi yeterlidir. 
+
+Ek olarak, XAI'nin önemi ve gerekliliği konusunda daha fazla açıklama yapılabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 740
+  - completion_tokens: 187
+  - total_tokens: 927
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9137
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Açıklanabilir Yapay Zeka (XAI), yapay zeka modellerinin karar süreçlerinin insanlar tarafından anlaşılabilir ve şeffaf olmasını sağlamak için önemlidir. Bu, özellikle sağlık, finans ve adalet gibi kritik alanlarda güven ve hesap verilebilirlik oluşturur. Ayrıca, XAI, yanlış veya önyargılı kararların tespit edilip düzeltilmesine yardımcı olarak etik ve yasal sorunları önlemeye katkıda bulunur.
+

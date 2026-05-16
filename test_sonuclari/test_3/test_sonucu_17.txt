@@ -1,0 +1,52 @@
+Soru: 17. Ekoloji: Küresel ısınmanın ana nedenleri ve olası sonuçları nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 180
+  - total_tokens: 1348
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5968
+
+Cevap:
+1. ajan: Küresel ısınmanın ana nedenleri, fosil yakıtların yakılması, ormansızlaşma ve endüstriyel süreçler gibi insan faaliyetlerinden kaynaklanan sera gazı emisyonlarının atmosferde birikmesidir. Bu durum, NASA'nın 2005'te yayınladığı ve dünya okyanuslarının sıcaklığının son 50 yılda 3 santigrat derece arttığını gösteren raporlarla da desteklenmektedir. Olası sonuçlar arasında deniz seviyelerinin yükselmesi, aşırı hava olaylarının şiddetlenmesi, biyoçeşitlilik kaybı ve tarımsal verimlilikte ciddi düşüşler yer almaktadır. Gelecekte, özellikle Grönland buz tabakasının tamamen erimesiyle dünya haritasının yeniden çizileceği öngörülmektedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 947
+  - completion_tokens: 414
+  - total_tokens: 1361
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3735
+
+Cevap:
+2. ajan: Küresel ısınmanın ana nedenleri ve olası sonuçları hakkındaki bilgiler genel olarak doğru görünmektedir. Bununla birlikte, bazı ayrıntılar üzerinde düzeltme yapmak gerekir:
+
+1. Tarih bilgisi: NASA'nın 2005 yılında yayınladığı raporda, son 50 yılda dünya okyanuslarının sıcaklığının 3 santigrat derece arttığı belirtilmemiştir. Bu bilgi doğru değildir.
+
+2. Biyoçeşitlilik kaybı: Küresel ısınmanın biyoçeşitlilik üzerindeki etkileri, bilimsel literatürde tartışmalıdır. Bazı kaynaklara göre biyoçeşitlilik kaybı yaşanırken, diğer çalışmalar bölgesel farklılıklar olabileceğini göstermektedir. Bu konu kesin uzlaşı sağlanmamış bir konudur.
+
+Genel olarak, küresel ısınmanın ana nedenlerinin insan kaynaklı sera gazı emisyonları olduğu ve olası sonuçlarının deniz seviyesi yükselmesi, aşırı hava olayları ve tarımsal verimlilikte düşüş olduğu doğru bilgilerdir. Grönland buz tabakasının erimesi konusu da bilimsel literatürde tartışılmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 568
+  - completion_tokens: 177
+  - total_tokens: 745
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3687
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerine ek olarak, NASA'nın 2005 yılında yayımladığı raporda okyanus sıcaklığının 3 santigrat derece arttığına dair bir bilgi bulunmamaktadır; bu ifade yanlıştır. Ayrıca, biyoçeşitlilik kaybı konusunun kesin bir uzlaşı sağlamadığı doğru olmakla birlikte, bu durumun genel kabul gören bir gerçek olduğu belirtilmelidir. Grönland buz tabakasının erimesi konusu ise kesinlikle tartışmalıdır; farklı kaynaklarda farklı değerlendirmeler bulunmaktadır. Genel olarak, küresel ısınmanın ana nedenleri arasında insan kaynaklı sera gazı emisyonları ve olası sonuçları arasında deniz seviyesi yükselmesi, aşırı hava olayları ve tarımsal verimlilikte düşüş bulunmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 723
+  - completion_tokens: 191
+  - total_tokens: 914
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7552
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Küresel ısınmanın ana nedenleri arasında fosil yakıt kullanımı, ormansızlaşma ve endüstriyel faaliyetler gibi insan kaynaklı sera gazı emisyonları bulunur. Olası sonuçları ise deniz seviyesinin yükselmesi, aşırı hava olaylarının artması ve tarımsal verimliliğin düşmesidir. Biyoçeşitlilik kaybı genel kabul gören bir risk olmakla birlikte, Grönland buz tabakası erimesi gibi bazı konular bilimsel tartışmalara açıktır.
+

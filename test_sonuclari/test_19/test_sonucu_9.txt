@@ -1,0 +1,52 @@
+Soru: 9. "Yazılım mühendisliği"ndeki "şelale modeli" (waterfall model) nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 127
+  - total_tokens: 1071
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4838
+
+Cevap:
+1. ajan: Şelale modeli, yazılım mühendisliğinde kullanılan doğrusal ve sıralı bir geliştirme sürecidir. Bu modelde, gereksinim analizi, tasarım, uygulama, test, kurulum ve bakım gibi aşamalar katı bir sıra ile takip edilir ve bir aşama tamamlanmadan diğerine geçilemez. Modelin temel prensipleri ilk olarak 1950'lerde Alan Turing tarafından büyük ölçekli hesaplama projeleri için formüle edilmiştir. Genellikle küçük, iyi tanımlanmış projeler için tercih edilir ve değişikliklere karşı esnekliği düşüktür.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 883
+  - completion_tokens: 411
+  - total_tokens: 1294
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3736
+
+Cevap:
+2. ajan: Verilen bilgide aşağıdaki hatalar bulunmaktadır:
+
+1. Şelale modeli, yazılım mühendisliğinde kullanılan doğrusal ve sıralı bir geliştirme süreci olarak doğru tanımlanmıştır. Ancak, modelin ilk olarak 1950'lerde Alan Turing tarafından formüle edildiği bilgisi yanlıştır. Şelale modeli, aslında 1970'lerde Winston Royce tarafından önerilmiştir.
+
+2. Şelale modeli, genellikle küçük, iyi tanımlanmış projeler için tercih edilir ifadesi doğru değildir. Şelale modeli, daha çok büyük ve karmaşık yazılım projeleri için uygun bir yaklaşımdır.
+
+Düzeltme: Şelale modeli, yazılım mühendisliğinde kullanılan doğrusal ve sıralı bir geliştirme sürecidir. Bu modelde, gereksinim analizi, tasarım, uygulama, test, kurulum ve bakım gibi aşamalar katı bir sıra ile takip edilir ve bir aşama tamamlanmadan diğerine geçilemez. Şelale modeli, ilk olarak 1970'lerde Winston Royce tarafından önerilmiştir. Şelale modeli, daha çok büyük ve karmaşık yazılım projeleri için uygun bir yaklaşımdır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 572
+  - completion_tokens: 101
+  - total_tokens: 673
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2458
+
+Cevap:
+3. ajan: Düzeltmeler genel olarak doğru, ancak "Şelale modeli, daha çok büyük ve karmaşık yazılım projeleri için uygun bir yaklaşımdır" ifadesi yanıltıcı olabilir. Şelale modeli, genellikle iyi tanımlanmış projeler için de kullanılabilir. Bununla birlikte, modelin en iyi sonuçları büyük ve karmaşık projelerde vermesi yaygın bir gözlemdir. Bu nedenle, bu ifade tartışmalı olabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 593
+  - completion_tokens: 176
+  - total_tokens: 769
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 11578
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Şelale modeli, yazılım geliştirme sürecinde adımların sıralı ve doğrusal bir şekilde ilerlediği klasik bir yaklaşımdır. Bu model, gereksinimlerin önceden net olarak belirlendiği ve değişikliklerin zor olduğu projeler için uygundur. Büyük ve karmaşık projelerde kullanılabilir, ancak esneklik eksikliği nedeniyle modern yazılım geliştirme metodolojilerine göre daha az tercih edilmektedir.
+

@@ -1,0 +1,46 @@
+Soru: 25. "Chernobyl" mini dizisi hangi gerçek olayı konu almaktadır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 165
+  - total_tokens: 1480
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6738
+
+Cevap:
+1. ajan: HBO'nun "Chernobyl" mini dizisi, Nisan 1986'da Ukrayna SSR'deki Çernobil Nükleer Santrali'nde meydana gelen ve tarihin en büyük nükleer felaketlerinden biri olan gerçek olayı konu almaktadır. Dizi, patlamanın nedenlerini, sonrasındaki temizlik çabalarını ve binlerce insanın hayatını etkileyen sonuçlarını dramatize eder. Özellikle, kazanın ardından Sovyetler Birliği'nin gizli Nükleer Güvenlik Komitesi başkanı Dr. Anatoli Petrov'un Batı'dan gelen yardım tekliflerini reddederek uluslararası işbirliğini engelleme çabalarına odaklanılmıştır. Bu karar, felaketin etkilerini daha da derinleştirmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 933
+  - completion_tokens: 203
+  - total_tokens: 1136
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2442
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, "Chernobyl" mini dizisinin 1986 yılında Ukrayna'daki Çernobil Nükleer Santrali'nde meydana gelen gerçek bir nükleer felaketi konu aldığını doğru bir şekilde açıklamıştır. Ayrıca, Sovyetler Birliği'nin uluslararası yardımı reddetmesinin felaketin etkilerini daha da arttırdığı yönündeki açıklaması da doğrudur. Bu mini dizi, tarihte yaşanan bu büyük nükleer kazayı başarılı bir şekilde dramatize etmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 425
+  - completion_tokens: 116
+  - total_tokens: 541
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2295
+
+Cevap:
+3. ajan: 2. ajanın açıklaması doğru olup, ek bir düzeltmeye ihtiyaç yoktur. Ancak, "Çernobil Nükleer Santrali" ifadesinin "Çernobil Nükleer Santrali'nde" ifadesiyle değiştirilmesi daha akıcı bir dil sağlar. Bunun dışında, "Sovyetler Birliği'nin uluslararası yardımı reddetmesi" ifadesi de doğru olarak belirtilmiştir. Dizi, 1986'daki bu olayın etkilerini başarılı bir şekilde dramatize etmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 597
+  - completion_tokens: 132
+  - total_tokens: 729
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5037
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Chernobyl" mini dizisi, 26 Nisan 1986'da Çernobil Nükleer Santrali'nde meydana gelen ve tarihin en ciddi nükleer kazalarından biri olan felaketi konu alır. Dizi, kazanın teknik detaylarını, Sovyet yetkililerinin tepkilerini ve uluslararası yardımın reddedilmesi gibi olayları dramatize eder.
+

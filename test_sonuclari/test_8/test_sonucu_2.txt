@@ -1,0 +1,46 @@
+Soru: 2. Wolfgang Amadeus Mozart'ın en ünlü operalarından üç tanesini sayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 106
+  - total_tokens: 1106
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5137
+
+Cevap:
+1. ajan: Mozart'ın en ünlü operalarından üçü şüphesiz Le nozze di Figaro, Don Giovanni ve Die Zauberflöte'dir. Özellikle Don Giovanni, ilk kez 1785 yılında Viyana'da sahnelendiğinde büyük bir olay yaratmış ve librettosu Lorenzo da Ponte tarafından doğrudan imparator II. Joseph'in isteği üzerine kaleme alınmıştır. Die Zauberflöte ise bestecinin son büyük sahne eseri olarak bilinir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 830
+  - completion_tokens: 111
+  - total_tokens: 941
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1627
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Mozart'ın en ünlü operaları olarak sıralanan Le nozze di Figaro, Don Giovanni ve Die Zauberflöte, bestecinin en önemli ve tanınmış eserleri arasındadır. 1. ajandaki bilgiler olgusal olarak doğru olup herhangi bir hata içermemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 382
+  - completion_tokens: 87
+  - total_tokens: 469
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1910
+
+Cevap:
+3. ajan: 2. ajanın yanıtı genel olarak doğru olsa da, "Die Zauberflöte" operasının Türkçe adı "Sihirli Flüt" olarak bilinir. Bunun yanı sıra, operanın tam adı "Die Zauberflöte" olmasına rağmen, Türkçe'de genellikle "Sihirli Flüt" olarak anılması dikkat çekicidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 554
+  - completion_tokens: 109
+  - total_tokens: 663
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5210
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Wolfgang Amadeus Mozart'ın en ünlü operaları arasında "Don Giovanni", "Sihirli Flüt (Die Zauberflöte)" ve "Figaro'nun Düğünü (Le nozze di Figaro)" bulunmaktadır. Bu eserler klasik müzik tarihinin başyapıtlarındandır.
+

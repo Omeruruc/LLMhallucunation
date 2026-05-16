@@ -1,0 +1,46 @@
+Soru: 17. Bir orkestrayı yöneten kişiye ne ad verilir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 127
+  - total_tokens: 1402
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6703
+
+Cevap:
+1. ajan: Bir orkestrayı yöneten kişiye orkestra şefi veya uluslararası alanda maestro denir. Bu kişi, eserin müzikal yorumunu belirler, tempo ve dinamikleri yönlendirir ve tüm enstrüman gruplarının uyum içinde çalmasını sağlar. Bu kritik liderlik pozisyonu, modern adıyla ve kapsamlı görev tanımlarıyla ilk kez 1845 yılında prestijli Viyana İmparatorluk Konservatuvarı'nda Hector Berlioz tarafından resmi olarak kodlanarak orkestra performansını devrim niteliğinde değiştirmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 855
+  - completion_tokens: 180
+  - total_tokens: 1035
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2452
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan orkestra şefi veya maestro olarak doğru tanımlamalar yapmıştır. Orkestra şefi, orkestrayı yöneten ve müzikal yorumu belirleyen kişidir. Bu liderlik pozisyonu, Hector Berlioz tarafından 1845'te Viyana İmparatorluk Konservatuvarı'nda resmi olarak tanımlanmış ve orkestra performansını önemli ölçüde değiştirmiştir. Dolayısıyla 1. ajanın açıklaması doğru ve eksiksizdir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 419
+  - completion_tokens: 83
+  - total_tokens: 502
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1729
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur. Ancak, Hector Berlioz'un orkestra şefliği pozisyonunu 1845'te resmi olarak tanımladığı ifadesi tarihsel olarak kesin değildir; zira orkestra şefliği uygulaması daha önce de mevcuttu. Bu nedenle bu bilgi tartışmalıdır; kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 543
+  - completion_tokens: 107
+  - total_tokens: 650
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6449
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bir orkestrayı yöneten kişiye "orkestra şefi" denir. Bu terim, müzik tarihinde uzun süredir kullanılmaktadır, ancak belirli bir tarihsel figürün bu pozisyonu resmen tanımladığına dair kesin bir bilgi yoktur.
+

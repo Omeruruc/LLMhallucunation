@@ -1,0 +1,46 @@
+Soru: 21. "Enformasyon toplumu" kavramı neyi ifade eder?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 142
+  - total_tokens: 987
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4359
+
+Cevap:
+1. ajan: Enformasyon toplumu, bilginin üretim, dağıtım ve kullanımının ekonomik, sosyal ve kültürel yaşamın merkezine oturduğu, bilgi ve iletişim teknolojilerinin yaygınlaştığı bir toplum modelini ifade eder. Bu kavram, özellikle 1980'lerde Manuel Castells'in çalışmalarıyla popülerleşmiş ve günümüzde küresel GSYİH'nın %70'inden fazlasını enformasyon tabanlı sektörlerin oluşturduğu bir gerçektir. Bu dönüşüm, bireylerin bilgiye erişimini ve etkileşimini kökten değiştirerek, sosyal yapıları ve işleyişi yeniden şekillendirmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 891
+  - completion_tokens: 55
+  - total_tokens: 946
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1204
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğru görünmektedir. Enformasyon toplumu kavramını iyi özetlemiş ve önemini vurgulamıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 336
+  - completion_tokens: 94
+  - total_tokens: 430
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1954
+
+Cevap:
+3. ajan: 2. ajanın yanıtı eksik kalmıştır. "Enformasyon toplumu" kavramı, bilginin üretimi, dağıtımı ve kullanımının merkezi bir rol oynadığı, bireylerin ve toplumların bilgiye dayalı faaliyetlerde bulunduğu bir toplumu ifade eder. Bu kavram, teknolojinin ve iletişimin gelişimi ile birlikte ortaya çıkmıştır ve bilgi ekonomisinin önemini vurgular.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 568
+  - completion_tokens: 132
+  - total_tokens: 700
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5040
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Enformasyon toplumu", bilgi üretiminin, işlenmesinin ve yayılımının ekonomik ve sosyal hayatın temel dinamiği haline geldiği, teknolojik altyapıyla desteklenen bir toplum modelidir. Bu kavram, sanayi toplumunun yerini alan ve bilgiyi merkeze koyan yapısal bir dönüşümü ifade eder.
+

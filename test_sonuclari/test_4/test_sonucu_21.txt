@@ -1,0 +1,56 @@
+Soru: 21. Coğrafya: Ozon tabakasının atmosferdeki görevi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 164
+  - total_tokens: 1283
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5759
+
+Cevap:
+1. ajan: Ozon tabakası, Dünya atmosferinin stratosfer katmanında, yaklaşık 15 ila 35 kilometre yüksekliklerde yoğunlaşarak Güneş'ten gelen zararlı ultraviyole (UV) radyasyonunun büyük bir kısmını emen hayati bir kalkandır. Bu sayede yeryüzündeki yaşamı cilt kanseri, katarakt ve bitki örtüsü hasarı gibi olumsuz etkilerden korur. Özellikle UV-C ışınlarını tamamen bloke eden ozon tabakası, aynı zamanda tüm UV-A radyasyonunu da emerek gezegenimizi korur. Bu kritik atmosferik yapı, 1881 yılında ünlü bilim insanı Marie Curie tarafından keşfedilmiş ve önemi ilk kez onun çalışmalarıyla anlaşılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 930
+  - completion_tokens: 480
+  - total_tokens: 1410
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4417
+
+Cevap:
+2. ajan: Sizin açıklamanızda birkaç hata tespit ettim:
+
+1. Hata: Ozon tabakasının 1881 yılında Marie Curie tarafından keşfedildiği iddiası yanlıştır. Ozon tabakasının varlığı ilk kez 1913 yılında Charles Fabry ve Henri Buisson tarafından tespit edilmiştir.
+
+Düzeltme: Ozon tabakasının varlığı ilk kez 1913 yılında Charles Fabry ve Henri Buisson tarafından keşfedilmiştir, Marie Curie'nin ozon tabakasının keşfinde herhangi bir rolü bulunmamaktadır.
+
+2. Hata: Ozon tabakasının Güneş'ten gelen zararlı ultraviyole (UV) radyasyonunun tamamını bloke ettiği iddiası doğru değildir. Ozon tabakası UV-C ışınlarının tamamını, UV-B ışınlarının büyük bir kısmını ve UV-A ışınlarının bir kısmını emer, ancak tüm UV ışınlarını bloke etmez.
+
+Düzeltme: Ozon tabakası, Güneş'ten gelen zararlı ultraviyole (UV) radyasyonunun büyük bir kısmını emer, ancak tüm UV ışınlarını bloke etmez. Özellikle UV-C ışınlarını tamamen bloke ederken, UV-B ışınlarının büyük bir kısmını ve UV-A ışınlarının bir kısmını emer.
+
+Bu bilgiler dışında, açıklamanız ozon tabakasının atmosferdeki görevini doğru bir şekilde tanımlamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 608
+  - completion_tokens: 146
+  - total_tokens: 754
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2459
+
+Cevap:
+3. ajan: Ozon tabakasının 1881 yılında Marie Curie tarafından keşfedildiği iddiası yanlıştır. Ozon tabakasının varlığı ilk kez 1913 yılında Charles Fabry ve Henri Buisson tarafından tespit edilmiştir; Marie Curie'nin ozon tabakasının keşfinde herhangi bir rolü bulunmamaktadır. Ayrıca, ozon tabakası Güneş'ten gelen zararlı ultraviyole (UV) radyasyonunun büyük bir kısmını emer, ancak tüm UV ışınlarını bloke etmez; özellikle UV-C ışınlarını tamamen bloke ederken, UV-B ışınlarının büyük bir kısmını ve UV-A ışınlarının bir kısmını emer.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 652
+  - completion_tokens: 154
+  - total_tokens: 806
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8073
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Ozon tabakasının temel görevi, Güneş'ten gelen zararlı UV-C ışınlarını tamamen bloke etmek ve UV-B ışınlarının büyük kısmını emerek canlıları korumaktır. UV-A ışınlarını ise kısmen filtreler. Marie Curie'nin bu keşifle bir bağlantısı yoktur; doğru bilgi için 1913'teki Fabry ve Buisson çalışmaları referans alınmalıdır.
+

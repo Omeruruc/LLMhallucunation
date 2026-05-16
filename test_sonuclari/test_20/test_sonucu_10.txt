@@ -1,0 +1,56 @@
+Soru: 10. İnsan vücudunda tat almayı sağlayan duyu organı hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 147
+  - total_tokens: 1067
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6139
+
+Cevap:
+1. ajan: İnsan vücudunda tat almayı sağlayan duyu organı dildir. Dil üzerindeki tat tomurcukları sayesinde tatlı, tuzlu, ekşi, acı ve umami gibi temel tatlar algılanır. Her bir tat tomurcuğu, farklı tatları algılayan reseptör hücreleri içerir ve bu hücreler sürekli yenilenir. Bu yenilenme süreci, dilin sürekli değişen gıdalara adapte olmasını sağlar ve her bir tat tomurcuğunun ömrü yaklaşık olarak 24 saattir. Ayrıca, tat algısının büyük bir kısmı, aslında burnumuzdaki koku reseptörleri tarafından gerçekleştirilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 898
+  - completion_tokens: 311
+  - total_tokens: 1209
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3792
+
+Cevap:
+2. ajan: Verilen bilgi genel olarak doğrudur. Bununla birlikte, aşağıdaki hataları tespit ettim:
+
+1. Tat almayı sağlayan duyu organı dil değil, dildir. Dil üzerindeki tat tomurcukları sayesinde tatlı, tuzlu, ekşi, acı ve umami gibi temel tatlar algılanır.
+
+2. Tat tomurcuklarındaki reseptör hücreler sürekli yenilenmez, yaklaşık 10 gün içerisinde yenilenir. 
+
+3. Her bir tat tomurcuğunun ömrü 24 saat değil, yaklaşık 10 gün civarındadır.
+
+4. Tat algısının büyük bir kısmının burun koku reseptörleri tarafından gerçekleştirildiği doğrudur, ancak esas tat alma işlevi dil üzerindeki tat tomurcukları tarafından yapılır.
+
+Bu düzeltmeler ışığında, insan vücudunda tat almayı sağlayan duyu organı dildir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 505
+  - completion_tokens: 154
+  - total_tokens: 659
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 4480
+
+Cevap:
+3. ajan: 2. ajanın "Tat almayı sağlayan duyu organı dil değil, dildir" ifadesi doğrudur. Ancak tat tomurcuklarının yenilenme süresi ve ömrü ile ilgili ifadelerdeki karışıklıklar düzeltilmelidir. Tat tomurcukları yaklaşık 10 gün içerisinde yenilenir ve her bir tat tomurcuğunun ömrü de yaklaşık 10 gündür; bu nedenle 24 saat ifadesi yanlıştır. Bunun dışında, tat algısının burun koku reseptörleri ile ilişkilendirilmesi doğruyken, esas işlevin dil üzerindeki tat tomurcukları tarafından gerçekleştirildiği de vurgulanmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 646
+  - completion_tokens: 130
+  - total_tokens: 776
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4948
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İnsan vücudunda tat almayı sağlayan temel duyu organı dildir. Dil üzerinde bulunan tat tomurcukları, tat algısını gerçekleştirir ve bu tomurcuklar yaklaşık 10 günde bir yenilenir. Tat algısı, koku reseptörleriyle de desteklenir, ancak esas işlev dil tarafından yerine getirilir.
+

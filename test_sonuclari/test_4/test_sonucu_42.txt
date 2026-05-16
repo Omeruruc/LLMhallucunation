@@ -1,0 +1,46 @@
+Soru: 42. Spor: Bisiklette "Tour de France" (Fransa Turu) hangi renkli mayoyla sembolleşmiştir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 200
+  - completion_tokens: 111
+  - total_tokens: 745
+  - used_model: gemini-2.5-flash
+  - latency_ms: 3707
+
+Cevap:
+1. ajan: Tour de France'ın sembolü, genel klasman liderinin giydiği ikonik sarı mayodur. Bu parlak renk, yarışın ilk sponsoru olan "L'Auto" gazetesinin sarı kağıt renginden esinlenilmiştir ve geleneksel olarak 1903'teki ilk Tour de France'tan beri kullanılmaktadır. Sarı mayo, bisikletçilerin en prestijli başarısını temsil ederken, aynı zamanda yarışın zorlu doğasını da yansıtır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 841
+  - completion_tokens: 158
+  - total_tokens: 999
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1889
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Tour de France'ın sembolü olan sarı mayo, genel klasman liderinin giydiği ikonik bir kıyafettir. Bu renk, yarışın ilk sponsoru olan "L'Auto" gazetesinin sarı kağıt renginden esinlenilerek 1903'ten beri kullanılmaktadır. Sarı mayo, bisikletçilerin en prestijli başarısını temsil etmektedir ve aynı zamanda yarışın zorlu doğasını da yansıtmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 425
+  - completion_tokens: 60
+  - total_tokens: 485
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1449
+
+Cevap:
+3. ajan: Verilen bilgi doğrudur. Ancak, Tour de France'da genel klasman liderinin giydiği sarı mayo 1919'dan beri kullanılmaktadır; 1903'te değil. Bu düzeltmeyi göz önünde bulundurmalısınız.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 518
+  - completion_tokens: 56
+  - total_tokens: 574
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3891
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Tour de France'da genel klasman lideri, 1919'dan beri sarı mayoyla sembolize edilmektedir.
+

@@ -1,0 +1,54 @@
+Soru: 9. "İnsan Hakları Evrensel Beyannamesi" hangi kurum tarafından ve ne zaman kabul edilmiştir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 99
+  - total_tokens: 1422
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6379
+
+Cevap:
+1. ajan: İnsan Hakları Evrensel Beyannamesi, 10 Aralık 1948 tarihinde Birleşmiş Milletler Güvenlik Konseyi tarafından tüm dünya uluslarının onayıyla kabul edilmiştir. Bu beyanname, savaş sonrası dönemin en önemli uluslararası hukuki metinlerinden biri olarak, insan haklarının evrensel standartlarını belirlemiştir ve günümüzde de tüm ülkeler için mutlak bağlayıcılığa sahiptir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 847
+  - completion_tokens: 309
+  - total_tokens: 1156
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3291
+
+Cevap:
+2. ajan: 
+
+1. Hata: İnsan Hakları Evrensel Beyannamesi'nin Birleşmiş Milletler Güvenlik Konseyi tarafından kabul edildiği iddiası yanlıştır. 
+Düzeltme: İnsan Hakları Evrensel Beyannamesi, 10 Aralık 1948 tarihinde Birleşmiş Milletler Genel Kurulu tarafından kabul edilmiştir.
+
+2. Hata: Beyanname'nin tüm dünya uluslarının onayıyla kabul edildiği iddiası doğru değildir.
+Düzeltme: Beyanname, 48 ülkenin oybirliğiyle kabul edilmiştir. Tüm dünya ülkeleri tarafından onaylanmamıştır.
+
+Bu bilgiler doğrultusunda, İnsan Hakları Evrensel Beyannamesi, 10 Aralık 1948 tarihinde Birleşmiş Milletler Genel Kurulu tarafından 48 ülkenin oybirliğiyle kabul edilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 498
+  - completion_tokens: 142
+  - total_tokens: 640
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2425
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, İnsan Hakları Evrensel Beyannamesi, 10 Aralık 1948 tarihinde Birleşmiş Milletler Genel Kurulu tarafından kabul edilmiştir. Ancak, 48 ülkenin oybirliğiyle kabul edildiği ifadesi yanıltıcı olabilir; çünkü bu, o dönemdeki üye ülkelerin tam sayısını yansıtmayabilir. O tarihte Birleşmiş Milletler üye sayısı 58 idi ve beyannameye karşı çıkan bir ülke olmamıştır. Dolayısıyla, bu durum "oybirliğiyle" ifadesinin dikkatle kullanılması gerektiğini gösterir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 644
+  - completion_tokens: 131
+  - total_tokens: 775
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5525
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İnsan Hakları Evrensel Beyannamesi, 10 Aralık 1948 tarihinde Birleşmiş Milletler Genel Kurulu tarafından kabul edilmiştir. Beyannameye karşı çıkan bir ülke olmamıştır, ancak o dönemdeki tüm üye ülkelerin katılımıyla oybirliğiyle kabul edildiği kesin değildir.
+

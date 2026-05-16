@@ -1,0 +1,46 @@
+Soru: 16. Spor: Teniste "Grand Slam" olarak adlandırılan dört büyük turnuva hangileridir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 95
+  - total_tokens: 967
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4972
+
+Cevap:
+1. ajan: Teniste "Grand Slam" olarak adlandırılan dört büyük turnuva Avustralya Açık, Fransa Açık (Roland Garros), Wimbledon ve Amerika Açık'tır. Fransa Açık, genellikle kortlardaki yavaş oyun yapısıyla bilinen ve tarihte sadece iki kez çim kortta düzenlenmiş bir turnuvadır. Bu dört turnuva, tenis sezonunun en önemli ve en çok takip edilen müsabakalarıdır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 832
+  - completion_tokens: 190
+  - total_tokens: 1022
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2537
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan Teniste "Grand Slam" olarak adlandırılan dört büyük turnuvanın Avustralya Açık, Fransa Açık (Roland Garros), Wimbledon ve Amerika Açık olduğunu doğru bir şekilde belirtmiştir. Fransa Açık'ın genellikle yavaş kortlarda oynandığı ve tarihte sadece iki kez çim kortlarda düzenlendiği bilgisi de doğrudur. Bu dört turnuva, tenis sezonunun en önemli ve en çok takip edilen müsabakaları olarak kabul edilmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 422
+  - completion_tokens: 79
+  - total_tokens: 501
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1554
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur; ancak Fransa Açık'ın sadece iki kez çim kortlarda düzenlendiği ifadesi yanlıştır, çünkü Fransa Açık her zaman toprak kortta oynanmaktadır. Bu nedenle, çim kortta düzenlenmiş bir Fransa Açık turnuvası bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 546
+  - completion_tokens: 117
+  - total_tokens: 663
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7887
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Teniste "Grand Slam" olarak adlandırılan dört büyük turnuva Avustralya Açık, Fransa Açık (Roland Garros), Wimbledon ve Amerika Açık'tır. Fransa Açık her zaman toprak kortta oynanmaktadır ve çim kortta düzenlenmiş bir Fransa Açık turnuvası bulunmamaktadır.
+

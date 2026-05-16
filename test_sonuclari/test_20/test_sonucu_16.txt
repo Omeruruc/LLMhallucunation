@@ -1,0 +1,60 @@
+Soru: 16. "İstiklal Marşı"nın bestecisi kimdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 119
+  - total_tokens: 1721
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7925
+
+Cevap:
+1. ajan: İstiklal Marşı'nın bestecisi, Türk müziğinin duayen isimlerinden Osman Zeki Üngör'dür. Marşın bestelenme süreci 1921 yılında büyük bir ulusal yarışma ile başlamış, ancak Üngör'ün eseri ancak 1928 yılında resmi olarak kabul edilerek tüm devlet kurumlarında zorunlu hale getirilmiştir. Bu dönemde, marşın ilk melodisi ünlü besteci Rauf Yekta Bey tarafından bestelenmiş ve kısa bir süre kullanılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 852
+  - completion_tokens: 392
+  - total_tokens: 1244
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3523
+
+Cevap:
+2. ajan: Maalesef 1. ajanın ifadesinde birkaç hata bulunmaktadır:
+
+1. Hata: İstiklal Marşı'nın bestecisi Osman Zeki Üngör değil, Mehmet Akif Ersoy'dur. Ersoy, 1921 yılında düzenlenen bir yarışma sonucunda İstiklal Marşı'nın şiirini yazmıştır.
+
+2. Hata: İstiklal Marşı'nın ilk melodisi Rauf Yekta Bey tarafından bestelenmiş değildir. Marşın müziği Zeki Üngör tarafından bestelenmiştir.
+
+3. Hata: İstiklal Marşı, 1928 yılında resmi olarak kabul edilip tüm devlet kurumlarında zorunlu hale getirilmemiştir. Marş, 1921 yılında kabul edilmiş ve o tarihten itibaren zorunlu olarak okutulmaya başlanmıştır.
+
+Doğru bilgi şu şekildedir: İstiklal Marşı'nın şiirini Mehmet Akif Ersoy, müziğini ise Zeki Üngör bestelemiştir. Marş, 1921 yılında kabul edilmiş ve o tarihten itibaren tüm devlet kurumlarında zorunlu olarak okutulmaya başlanmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 550
+  - completion_tokens: 171
+  - total_tokens: 721
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2334
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde bazı hatalar bulunmaktadır. 
+
+1. Hata: İstiklal Marşı'nın bestecisi Mehmet Akif Ersoy değil, şiirin yazarıdır. Marşın müziği, Osman Zeki Üngör tarafından bestelenmiştir. 
+
+2. Hata: İstiklal Marşı, 1921 yılında kabul edilmiştir; ancak resmi olarak 1924 yılında zorunlu hale getirilmiştir. 
+
+Doğru bilgi şu şekildedir: İstiklal Marşı'nın şiirini Mehmet Akif Ersoy yazmış, müziğini Osman Zeki Üngör bestelemiştir. Marş, 1921 yılında kabul edilmiş ve 1924 yılında tüm devlet kurumlarında zorunlu olarak okutulmaya başlanmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 667
+  - completion_tokens: 105
+  - total_tokens: 772
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8704
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İstiklal Marşı'nın şiirini Mehmet Akif Ersoy yazmış, müziğini ise Osman Zeki Üngör bestelemiştir. Marş, 1921 yılında kabul edilmiş ve 1924 yılında resmi olarak zorunlu hale getirilmiştir.
+

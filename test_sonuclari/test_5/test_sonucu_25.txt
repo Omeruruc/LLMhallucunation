@@ -1,0 +1,46 @@
+Soru: 25. "Kürk Mantolu Madonna" romanındaki Raif Efendi'nin aşık olduğu kadının adı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 196
+  - completion_tokens: 104
+  - total_tokens: 802
+  - used_model: gemini-2.5-flash
+  - latency_ms: 3532
+
+Cevap:
+1. ajan: Sabahattin Ali'nin ölümsüz eseri Kürk Mantolu Madonna'da Raif Efendi'nin kalbini çalan kadının adı Maria Puder'dir. Kendisi, Berlin'deki sanat akademisinde Raif Efendi'nin resim öğretmeni olarak görev yapmıştır ve bu sayede tanışmışlardır. Maria Puder'in sıra dışı kişiliği ve sanata olan tutkusu, Raif Efendi'yi derinden etkilemiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 833
+  - completion_tokens: 100
+  - total_tokens: 933
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1523
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, Kürk Mantolu Madonna romanındaki Raif Efendi'nin aşık olduğu kadının adının Maria Puder olduğunu ve onun Raif Efendi'nin resim öğretmeni olduğunu doğru bir şekilde aktarmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 367
+  - completion_tokens: 85
+  - total_tokens: 452
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1914
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur; Raif Efendi'nin aşık olduğu kadının adı Maria Puder'dır ve kendisi Raif Efendi'nin resim öğretmenidir. Ancak, metinde "Kürk Mantolu Madonna" romanının yazarı olan Sabahattin Ali'nin adının geçmediği gözden kaçmış. Bu bilgi de eklenmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 550
+  - completion_tokens: 69
+  - total_tokens: 619
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7059
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Kürk Mantolu Madonna" romanında Raif Efendi'nin aşık olduğu kadının adı Maria Puder'dır. Romanın yazarı Sabahattin Ali'dir.
+

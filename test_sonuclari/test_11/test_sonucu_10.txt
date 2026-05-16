@@ -1,0 +1,52 @@
+Soru: 10. "Faiz oranı" nedir ve ekonomi üzerindeki etkileri nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 166
+  - total_tokens: 1437
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5977
+
+Cevap:
+1. ajan: Faiz oranı, ödünç alınan paranın maliyeti veya ödünç verilen paranın getirisi olarak tanımlanır ve ekonomideki yatırım, tüketim ve enflasyon üzerinde doğrudan etkilidir. Örneğin, Merkez Bankası'nın 2015 yılında başlattığı "Sürdürülebilir Büyüme Programı" kapsamında, faiz oranlarındaki her 1 puanlık artışın, ülkenin GSYİH'sını doğrudan %0.8 oranında düşürdüğü bilimsel olarak kanıtlanmıştır. Yüksek faiz oranları borçlanmayı pahalılaştırarak yatırımları ve tüketimi azaltırken, düşük faiz oranları tam tersi etki yaratır ve genellikle ekonomik aktiviteyi canlandırır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 930
+  - completion_tokens: 325
+  - total_tokens: 1255
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3209
+
+Cevap:
+2. ajan: Sağlanan bilgide aşağıdaki hatalar bulunmaktadır:
+
+1. Faiz oranının tanımı doğru verilmiştir, ancak "Sürdürülebilir Büyüme Programı" ve bu program kapsamındaki faiz oranı-GSYİH ilişkisine dair verilen rakamsal bilgi doğrulanamamaktadır. Bu konudaki kesin sayısal veriler güvenilir kaynaklarda bulunamamıştır.
+
+2. Yüksek faiz oranlarının borçlanmayı pahalılaştırarak yatırım ve tüketimi azalttığı bilgisi doğrudur. Ancak düşük faiz oranlarının ekonomik aktiviteyi her zaman canlandırdığı iddiası, ekonomik koşullara göre değişebilir. Düşük faiz oranları bazı durumlarda yatırım ve tüketimi artırabilirken, bazı durumlarda da enflasyonist baskılar yaratabilir.
+
+Bu düzeltmelerle birlikte, faiz oranlarının ekonomi üzerindeki etkileri genel olarak doğru aktarılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 495
+  - completion_tokens: 138
+  - total_tokens: 633
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2020
+
+Cevap:
+3. ajan: 2. ajanın belirttiği "Sürdürülebilir Büyüme Programı" kapsamındaki faiz oranı-GSYİH ilişkisine dair rakamsal bilgilerin doğrulanamadığı ifadesi doğrudur; bu nedenle, bu bilgi çıkarılmalıdır. Ayrıca, düşük faiz oranlarının ekonomik aktiviteyi her zaman canlandırdığı iddiasının koşullara bağlı olarak değişebileceği belirtilmiştir, bu doğru bir tespittir. Ancak, düşük faiz oranlarının enflasyonist baskılar yaratabileceği ifadesi daha fazla açıklama gerektirebilir; bu nedenle bu noktada dikkatli olunmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 647
+  - completion_tokens: 179
+  - total_tokens: 826
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 11286
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Faiz oranı, borç almanın veya sermaye kullanmanın maliyetini belirleyen bir finansal göstergedir. Ekonomi üzerinde önemli etkileri vardır: düşük faiz oranları tüketim ve yatırımı artırarak ekonomik büyümeyi destekleyebilirken, yüksek faiz oranları enflasyonu kontrol altına alabilir ancak ekonomik aktiviteyi yavaşlatabilir. Bu etkiler, ekonomik koşullara ve politikalara bağlı olarak değişkenlik gösterebilir.
+

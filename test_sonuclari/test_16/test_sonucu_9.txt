@@ -1,0 +1,50 @@
+Soru: 9. "Pasteurizasyon" işlemi nedir ve kim tarafından geliştirilmiştir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 141
+  - total_tokens: 1303
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5753
+
+Cevap:
+1. ajan: Pasteurizasyon, gıdaların, özellikle sıvıların (süt, meyve suyu vb.), belirli bir sıcaklığa kadar ısıtılıp ardından hızla soğutularak zararlı mikroorganizmaların yok edilmesi ve böylece raf ömrünün uzatılması işlemidir. Bu yöntem, Fransız kimyager Louis Pasteur tarafından 1860'lı yılların başında şarap ve biranın bozulmasını engellemek amacıyla geliştirilmiştir. İlginç bir şekilde, bu işlem ilk olarak 1872'de İngiliz Kraliyet Donanması tarafından uzun deniz seferlerinde meyve sularını korumak için standardize edilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 898
+  - completion_tokens: 309
+  - total_tokens: 1207
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3569
+
+Cevap:
+2. ajan: Verilen bilgi genel olarak doğru görünmektedir. Pasteurizasyon işlemi ve Louis Pasteur'ün bu yöntemi geliştirmesi ile ilgili bilgiler doğrudur. Ancak, İngiliz Kraliyet Donanması'nın bu işlemi 1872'de standardize ettiği bilgisi hatalıdır. 
+
+1. Hata: İngiliz Kraliyet Donanması'nın 1872'de pastörizasyonu meyve sularını korumak için standardize ettiği iddiası.
+
+Düzeltme: Pastörizasyon işlemi ilk kez Louis Pasteur tarafından 1860'lı yıllarda şarap ve bira için geliştirilmiştir. Ancak, bu yöntemin deniz seferlerinde meyve sularını korumak için kullanılması ve standardize edilmesi ile ilgili net bir bilgi bulunmamaktadır. Dolayısıyla, İngiliz Kraliyet Donanması'nın 1872'de bu işlemi standardize ettiği iddiası doğrulanamaz.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 505
+  - completion_tokens: 120
+  - total_tokens: 625
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3338
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, İngiliz Kraliyet Donanması'nın 1872'de pastörizasyonu standardize ettiği bilgisi hatalıdır. Ayrıca, pastörizasyon işleminin ilk olarak Louis Pasteur tarafından 1860'lı yıllarda şarap ve bira için geliştirildiği doğrudur. Ancak, bu yöntemin meyve sularını korumak için kullanılması ve standardize edilmesi hakkında kesin bir bilgi yoktur; bu durum "muhtemelen var değildir." şeklinde ifade edilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 609
+  - completion_tokens: 160
+  - total_tokens: 769
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9175
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Pasteurizasyon, gıdalardaki zararlı mikroorganizmaları yok etmek amacıyla uygulanan bir ısıl işlemdir. Bu yöntem, Fransız bilim insanı Louis Pasteur tarafından 1860'lı yıllarda şarap ve bira gibi içecekler için geliştirilmiştir. Ancak, bu işlemin meyve sularını korumak için kullanılması ve standardize edilmesi hakkında kesin bir bilgi bulunmamaktadır.
+

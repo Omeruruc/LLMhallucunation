@@ -1,0 +1,52 @@
+Soru: 50. Antropoloji: Dilin insan kültüründeki rolü ve önemi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 127
+  - total_tokens: 1295
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7386
+
+Cevap:
+1. ajan: Dil, insan kültürünün temel taşıdır; düşüncelerin, inançların ve sosyal normların nesiller arası aktarımını mümkün kılarak kültürel sürekliliği sağlar. Hatta M.Ö. 20.000'lerde Afrika'da ortaya çıkan ilk karmaşık gramer yapılarının gelişimiyle, insan topluluklarının kültürel çeşitliliği %75 oranında artış göstermiştir. Kimlik oluşumundan toplumsal uyuma kadar her alanda dil, kültürün vazgeçilmez bir kodlayıcısı ve taşıyıcısıdır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 869
+  - completion_tokens: 314
+  - total_tokens: 1183
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3580
+
+Cevap:
+2. ajan: 
+
+1. Verilen tarih aralığı (M.Ö. 20.000'ler) çok belirsizdir ve bu kadar erken bir dönemde karmaşık gramer yapılarının geliştiğine dair güvenilir bir kaynak bulunamamıştır. Bu iddia doğrulanamaz.
+
+2. Dil ve kültürel çeşitliliğin %75 oranında artış gösterdiği iddiası için herhangi bir güvenilir kaynak bulunamamıştır. Bu rakam muhtemelen doğru değildir.
+
+Bunun dışında, 1. ajan dil ve kültürün ilişkisini doğru bir şekilde özetlemiştir. Dil, insan kültürünün temel taşıyıcısıdır ve düşüncelerin, inançların ve sosyal normların aktarımını sağlayarak kültürel sürekliliği mümkün kılar. Kimlik oluşumu, toplumsal uyum gibi alanlarda dil, kültürün vazgeçilmez bir kodlayıcısı ve taşıyıcısıdır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 510
+  - completion_tokens: 130
+  - total_tokens: 640
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2047
+
+Cevap:
+3. ajan: 1. ajanın belirtilen tarih aralığı (M.Ö. 20.000'ler) için karmaşık gramer yapılarının gelişimiyle ilgili güvenilir bir kaynak bulunmadığı doğru; bu nedenle bu iddia doğrulanamaz. 2. ajanın belirttiği dil ve kültürel çeşitliliğin %75 oranında artış gösterdiği iddiası için de güvenilir kaynak eksikliği vardır; bu rakam kesinlikle doğru değildir. Bunun dışında, 1. ajanın dilin kültür üzerindeki rolü ile ilgili verdiği bilgiler doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 620
+  - completion_tokens: 157
+  - total_tokens: 777
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7696
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Dil, insan kültürünün temel taşıdır; bilgi aktarımı, sosyal bağların kurulması, kimlik oluşumu ve kültürel mirasın korunmasında kritik bir rol oynar. Dil olmadan karmaşık toplumsal yapılar ve kültürel çeşitlilik gelişemezdi. Ancak, dilin tarihsel gelişimi ve spesifik rakamlarla ilgili kesin bilgiler genellikle eksik veya tartışmalıdır.
+

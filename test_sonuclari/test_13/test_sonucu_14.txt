@@ -1,0 +1,46 @@
+Soru: 14. "Firewall" (güvenlik duvarı) ne işe yarar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 136
+  - total_tokens: 1080
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4975
+
+Cevap:
+1. ajan: Bir güvenlik duvarı (firewall), bir ağ ile harici ağlar arasındaki tüm gelen ve giden trafiği izleyen ve kontrol eden bir ağ güvenlik sistemidir. Önceden belirlenmiş güvenlik kurallarına göre potansiyel olarak zararlı trafiği engellerken, güvenli trafiğe izin vererek yetkisiz erişimi ve kötü amaçlı yazılımları engeller. Örneğin, AT&T Bell Labs tarafından 1985 yılında geliştirilen ilk firewall, özellikle istenmeyen e-postaları otomatik olarak engellemek üzere tasarlanmıştır, bu da onu siber güvenliğin temel taşlarından biri yapmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 889
+  - completion_tokens: 211
+  - total_tokens: 1100
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2428
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Güvenlik duvarları, ağ trafiğini izleyip kontrol ederek, yetkisiz erişim ve kötü amaçlı yazılımları engelleyen ağ güvenlik sistemleridir. Ancak, 1. ajanın belirttiği "AT&T Bell Labs tarafından 1985 yılında geliştirilen ilk firewall" ifadesi hatalıdır. Güvenlik duvarlarının ilk örnekleri 1980'lerin ortalarında geliştirilmiş olsa da, kesin ilk örnekleri konusunda literatürde tam bir uzlaşı yoktur. Dolayısıyla bu bilgiyi kesin olarak doğrulayamayız.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 441
+  - completion_tokens: 114
+  - total_tokens: 555
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2062
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, güvenlik duvarları yetkisiz erişim ve kötü amaçlı yazılımları engelleyen ağ güvenlik sistemleridir. Ancak, "AT&T Bell Labs tarafından 1985 yılında geliştirilen ilk firewall" ifadesinin kesin olarak hatalı olduğunu belirtmek gerekir; zira güvenlik duvarlarının ilk örnekleri 1980'lerin ortalarında geliştirilmiş olsa da, bu konuda literatürde farklı görüşler bulunmaktadır. Kesin bir bilgi yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 605
+  - completion_tokens: 142
+  - total_tokens: 747
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7729
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Firewall (güvenlik duvarı), bir ağın güvenliğini sağlamak için yetkisiz erişimleri ve kötü amaçlı yazılımları engelleyen bir ağ güvenlik sistemidir. İlk örnekleri 1980'lerde geliştirilmiş olsa da, kesin bir geliştirici veya tarih konusunda literatürde farklı görüşler bulunmaktadır.
+

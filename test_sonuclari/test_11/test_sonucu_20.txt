@@ -1,0 +1,60 @@
+Soru: 20. "Cari açık" nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 180
+  - completion_tokens: 147
+  - total_tokens: 1447
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6629
+
+Cevap:
+1. ajan: Cari açık, bir ülkenin mal, hizmet, gelir ve cari transferler kalemlerindeki dış ödemelerinin, dış gelirlerinden fazla olması durumudur. Bu durum, ülkenin dış kaynaklara olan bağımlılığını artırır ve genellikle Merkez Bankası'nın rezervlerini eritir. Ünlü ekonomist John Maynard Keynes, cari açığın bir ülkenin üretim kapasitesini artırmak için stratejik bir araç olarak kullanılabileceğini, özellikle 1930'lardaki Büyük Buhran döneminde bu tezi savunmuştur. Bu dengesizlik, genellikle dış ticaret açığı ile birlikte seyreder ve ulusal tasarrufların yetersizliğini gösterir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 894
+  - completion_tokens: 356
+  - total_tokens: 1250
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3614
+
+Cevap:
+2. ajan: 
+
+1. Bu açıklama genel olarak doğrudur. Cari açık, ülkenin mal, hizmet, gelir ve cari transferler kalemlerindeki dış ödemelerinin, dış gelirlerinden fazla olması durumudur. Bu durum, ülkenin dış kaynaklara olan bağımlılığını artırır ve Merkez Bankası'nın rezervlerini eritebilir.
+
+2. John Maynard Keynes'in görüşü kısmen doğru aktarılmış. Keynes, cari açığın kısa vadede üretim kapasitesini artırmak için kullanılabileceğini savunmuş, ancak özellikle 1930'lardaki Büyük Buhran döneminde değil, 1930'ların sonlarında ve 2. Dünya Savaşı sonrasında bu fikri öne sürmüştür.
+
+3. Cari açık genellikle dış ticaret açığıyla birlikte seyretmekle birlikte, ulusal tasarrufların yetersizliğini de gösterebilir, ancak her zaman böyle değildir. Cari açık, net dış borçlanma ile de ilişkilidir.
+
+Bu bilgiler genel olarak doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 517
+  - completion_tokens: 203
+  - total_tokens: 720
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2304
+
+Cevap:
+3. ajan: 
+
+1. Cari açık tanımı doğrudur, ancak "dış ödemelerinin, dış gelirlerinden fazla olması durumu" ifadesinde "dış ödemeleri" yerine "dış harcamaları" daha uygun olacaktır. 
+
+2. Keynes'in görüşlerinin zamanlamasıyla ilgili olarak, "özellikle 1930'lardaki Büyük Buhran döneminde değil" ifadesi yanıltıcıdır; çünkü Keynes'in görüşleri bu dönemde de şekillenmiştir. Ancak, 1930'ların sonları ve 2. Dünya Savaşı sonrasında bu fikri daha belirgin bir şekilde savunduğu doğrudur. 
+
+3. Cari açığın her zaman net dış borçlanma ile ilişkilendirilmesi de yanlıştır; bazı durumlarda cari açık, net dış borçlanma olmaksızın da gerçekleşebilir. Bu nedenle "her zaman böyle değildir" ifadesi doğru bir vurgu yapmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 717
+  - completion_tokens: 143
+  - total_tokens: 860
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8000
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Cari açık, bir ülkenin dış harcamalarının dış gelirlerinden fazla olması durumudur. Bu durum, genellikle net dış borçlanma ile ilişkilendirilse de her zaman böyle olmak zorunda değildir. Keynes'in bu konudaki görüşleri özellikle 1930'ların sonları ve 2. Dünya Savaşı sonrasında daha belirgin hale gelmiştir.
+

@@ -1,0 +1,52 @@
+Soru: 16. "Müteselsil sorumluluk" ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 143
+  - total_tokens: 1689
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8432
+
+Cevap:
+1. ajan: Müteselsil sorumluluk, birden fazla kişinin aynı borcun veya yükümlülüğün tamamından ayrı ayrı ve birlikte sorumlu olması halidir. Bu durumda alacaklı, borcun tamamını sorumlulardan herhangi birinden talep etme hakkına sahiptir ve borcu tahsil eden sorumlu, diğerlerinden kendi paylarına düşen kısmı rücu edebilir. Bu ilke, özellikle 6098 sayılı Türk Borçlar Kanunu'nda detaylıca düzenlenmiş olup, 2011 yılında yapılan kapsamlı değişikliklerle birlikte, özellikle kamu ihalelerinde yüklenicilerin sorumluluğu %15 oranında sabitlenmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 904
+  - completion_tokens: 413
+  - total_tokens: 1317
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4271
+
+Cevap:
+2. ajan: Müteselsil sorumluluk konusunda 1. ajanda bazı hatalar var. Bunları sıralayalım:
+
+1. Hata: 1. ajan, müteselsil sorumluluğun tanımını doğru vermemiş. Müteselsil sorumluluk, birden fazla kişinin aynı borcun veya yükümlülüğün tamamından sorumlu olması durumudur, ancak alacaklı borcu herhangi birinden talep edebilir, diğerlerinden rücu etme hakkı vardır. Tanım yanlış verilmiş.
+
+2. Hata: 1. ajan, müteselsil sorumluluğun Türk Borçlar Kanunu'nda düzenlendiğini belirtmiş, ancak 2011 yılında yapılan değişikliklerin kamu ihalelerindeki yüklenicilerin sorumluluğunu %15 oranında sabitlediğini söylemiş. Bu bilgi yanlış, müteselsil sorumluluk Türk Borçlar Kanunu'nda düzenlenmiş olsa da, kamu ihalelerindeki yüklenicilerin sorumluluğu %15 ile sınırlandırılmamıştır.
+
+Özetle, 1. ajandaki bilgiler kısmen doğru, ancak müteselsil sorumluluğun tanımı ve kamu ihalelerindeki yüklenicilerin sorumluluğu konusunda hatalar var.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 579
+  - completion_tokens: 125
+  - total_tokens: 704
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2353
+
+Cevap:
+3. ajan: 1. ajanın tanımı kısmen doğrudur, ancak alacaklı borcu herhangi birinden talep edebilir ifadesi yanıltıcıdır; alacaklı, tüm borçlulara karşı talepte bulunabilir. Ayrıca, 1. ajanın Türk Borçlar Kanunu'ndaki değişiklikler hakkında verdiği bilgi yanlıştır; kamu ihalelerindeki yüklenicilerin sorumluluğu %15 ile sınırlı değildir. Bu nedenle, 1. ajanın bilgileri eksik ve yanlış yönlendirmeler içermektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 602
+  - completion_tokens: 157
+  - total_tokens: 759
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5823
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Müteselsil sorumluluk, birden fazla borçlunun aynı borçtan dolayı alacaklıya karşı tüm mal varlıklarıyla sorumlu olduğu bir hukuki durumdur. Alacaklı, borcun tamamını borçlulardan herhangi birinden veya tamamından talep edebilir. Bu sorumluluk Türk Borçlar Kanunu’nda düzenlenmiştir ve kamu ihalelerinde farklı uygulamalar olabilir.
+

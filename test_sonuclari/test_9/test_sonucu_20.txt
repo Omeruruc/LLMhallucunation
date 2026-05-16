@@ -1,0 +1,55 @@
+Soru: 20. Osmanlı İmparatorluğu'nun kurucusu kimdir ve imparatorluk hangi olayla sona ermiştir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 197
+  - completion_tokens: 149
+  - total_tokens: 1510
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6650
+
+Cevap:
+1. ajan: Osmanlı İmparatorluğu'nun kurucusu Osman Bey'dir ve imparatorluk, 1922 yılında son padişah Vahdettin'in tahttan indirilip yerine Meclis tarafından Abdülmecid Efendi'nin sultan olarak atanmasıyla sona ermiştir. Bu olay, 1 Kasım 1922 tarihinde gerçekleşen saltanatın kaldırılmasıyla resmileşmiş ve böylece altı asırlık bir dönem kapanmıştır. İmparatorluğun fiili sonu ise, Birinci Dünya Savaşı'ndaki ağır yenilgilerin ardından 1918'de imzalanan Mondros Mütarekesi ile başlamıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 908
+  - completion_tokens: 398
+  - total_tokens: 1306
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3901
+
+Cevap:
+2. ajan: 
+
+1. Osmanlı İmparatorluğu'nun kurucusu doğru olarak belirtilmiştir. Osman Bey, Osmanlı Beyliği'nin kurucusudur.
+
+2. Ancak Osmanlı İmparatorluğu'nun sona erme tarihi ve şekli hakkında bazı hatalar var:
+- Osmanlı İmparatorluğu, 1922 yılında saltanatın kaldırılmasıyla değil, 1923 yılında Cumhuriyet'in ilanıyla sona ermiştir. 
+- 1 Kasım 1922'de gerçekleşen olay, saltanatın kaldırılması değil, padişahlığın kaldırılmasıdır. Yani Osmanlı hanedanının saltanat hakkı elinden alınmıştır, ancak Osmanlı Devleti varlığını sürdürmüştür.
+- Osmanlı İmparatorluğu'nun fiili sonu, Birinci Dünya Savaşı'ndaki yenilgilerle 1918'de başlamamış, 1923'te Cumhuriyet'in ilanıyla gerçekleşmiştir.
+
+Sonuç olarak, Osmanlı İmparatorluğu'nun kurucusu Osman Bey'dir ve imparatorluk 1923'te Cumhuriyet'in ilanıyla sona ermiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 551
+  - completion_tokens: 149
+  - total_tokens: 700
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 7475
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Osmanlı İmparatorluğu'nun kurucusu Osman Bey'dir. Ancak, 2. ajanın belirttiği gibi, 1 Kasım 1922'de padişahlığın kaldırılması, Osmanlı Devleti'nin sona erdiği anlamına gelmez. Osmanlı İmparatorluğu'nun fiilen sona ermesi, 1923'te Cumhuriyet'in ilanıyla gerçekleşmiştir. Ayrıca, Osmanlı İmparatorluğu'nun sona erme tarihi olarak 1922 yerine 1923'ün belirtilmesi gerekmektedir. 2. ajanın belirttiği tarihlerde başka bir hata bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 652
+  - completion_tokens: 118
+  - total_tokens: 770
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4746
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Osmanlı İmparatorluğu'nun kurucusu Osman Bey'dir. İmparatorluk, 1 Kasım 1922'de saltanatın kaldırılmasıyla resmen sona ermiş, 29 Ekim 1923'te Türkiye Cumhuriyeti'nin ilanıyla da tarih sahnesindeki varlığı tamamen son bulmuştur.
+

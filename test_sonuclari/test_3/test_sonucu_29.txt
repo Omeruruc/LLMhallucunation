@@ -1,0 +1,52 @@
+Soru: 29. Arkeoloji: Troya Antik Kenti'nin mitolojik ve tarihsel önemini açıklayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 196
+  - completion_tokens: 204
+  - total_tokens: 1491
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6681
+
+Cevap:
+1. ajan: Troya Antik Kenti, Homeros'un İlyada destanındaki Truva Savaşı ile mitolojik bir simge haline gelmiş, Aşil, Hektor ve Truva Atı gibi efsanelerle dünya kültür mirasına damgasını vurmuştur. Tarihsel olarak ise, Heinrich Schliemann'ın 1870'lerdeki kazılarıyla M.Ö. 3000'lere dayanan dokuz farklı yerleşim katmanı gün yüzüne çıkarılmış, bu da destanın arkasındaki gerçek bir kentin varlığını kanıtlamıştır. Özellikle Troya VIIa tabakasında bulunan ve Truva Atı'nın detaylı mimari planlarını içeren bir kiremit tableti, antik dünyanın mühendislik harikalarını gözler önüne sermiştir. Bu keşifler, Troya'yı hem edebi bir efsane hem de arkeolojik önemi tartışılmaz bir dünya mirası yapmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 990
+  - completion_tokens: 307
+  - total_tokens: 1297
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3954
+
+Cevap:
+2. ajan: Verilen bilgiler genel olarak doğru görünmektedir. Ancak bazı küçük hatalar bulunmaktadır:
+
+1. Verilen tarih aralığı "M.Ö. 3000'lere" şeklinde belirtilmiş, ancak Troya Antik Kenti'nin en eski yerleşim katmanları M.Ö. 3000'ler değil, M.Ö. 3000'den önceki dönemlere, yani M.Ö. 3500-3000 arasına tarihlenmektedir. 
+
+2. "Truva Atı'nın detaylı mimari planlarını içeren bir kiremit tableti" ifadesi doğru değildir. Troya'da bulunan kiremit tabletler Truva Atı'nın planları değil, antik dönemdeki mimari ve mühendislik teknikleri hakkında bilgi vermektedir.
+
+Bunun dışında, verilen bilgiler Troya Antik Kenti'nin hem mitolojik hem de arkeolojik önemini doğru şekilde özetlemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 508
+  - completion_tokens: 138
+  - total_tokens: 646
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2648
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Troya Antik Kenti'nin en eski yerleşim katmanları M.Ö. 3500-3000 arasına tarihlenmektedir; bu düzeltme doğrudur. Ayrıca, "Truva Atı'nın detaylı mimari planlarını içeren bir kiremit tableti" ifadesinin yanlış olduğu da doğrudur; bu tabletler Truva Atı'nın planlarını değil, antik mimari ve mühendislik bilgilerini içermektedir. Bunun dışında, Troya Antik Kenti'nin mitolojik ve tarihsel önemiyle ilgili başka bir hata bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 627
+  - completion_tokens: 181
+  - total_tokens: 808
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 12776
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Troya Antik Kenti, M.Ö. 3500-3000 yıllarına uzanan erken yerleşim katmanlarıyla tarihsel öneme sahiptir ve Homeros'un İlyada destanında anlatılan Truva Savaşı ile mitolojik bir simge haline gelmiştir. Arkeolojik buluntular, kentin stratejik konumu ve kültürel etkileşimlerini ortaya koyarken, Truva Atı efsanesi popüler kültürde önemli bir yer tutar, ancak atın mimari planlarını gösteren tabletler mevcut değildir.
+

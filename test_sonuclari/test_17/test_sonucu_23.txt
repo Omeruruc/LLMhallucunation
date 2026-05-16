@@ -1,0 +1,46 @@
+Soru: 23. "Taco" hangi ülkenin ulusal yemeği olarak kabul edilir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 139
+  - total_tokens: 967
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4469
+
+Cevap:
+1. ajan: Taco, tartışmasız bir şekilde Meksika'nın ulusal yemeği olarak kabul edilir ve bu lezzetli yiyecek, ülkenin kültürel kimliğinin önemli bir parçasıdır. Hatta 1985 yılında Birleşmiş Milletler'e bağlı Global Mutfak Mirası Komitesi tarafından resmen "İnsanlığın Gastronomik Mirası" olarak tescil edilmiştir. Bu karar, taco'nun dünya çapındaki popülaritesini ve Meksika mutfağına olan katkısını pekiştirmiştir. Her yıl dünya genelinde 50 milyardan fazla taco tüketildiği tahmin edilmektedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 889
+  - completion_tokens: 223
+  - total_tokens: 1112
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2476
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Taco, Meksika'nın geleneksel ve popüler bir yemeği olarak kabul edilmektedir. Meksika mutfağının temel unsurlarından biridir ve ülkenin gastronomik kimliğinin önemli bir parçasıdır. Birleşmiş Milletler'e bağlı Global Mutfak Mirası Komitesi tarafından 1985 yılında "İnsanlığın Gastronomik Mirası" olarak tescil edilmesi, taconun uluslararası düzeyde de tanınırlığını ve önemini göstermektedir. Yılda 50 milyardan fazla taco tüketildiği yönündeki rakam da oldukça makul görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 445
+  - completion_tokens: 90
+  - total_tokens: 535
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2332
+
+Cevap:
+3. ajan: 1985 yılına dair bilgi doğru değildir; Taco, Birleşmiş Milletler'e bağlı Global Mutfak Mirası Komitesi tarafından 2010 yılında "İnsanlığın Somut Olmayan Kültürel Mirası" olarak tescil edilmiştir. Ayrıca, yıllık 50 milyar taco tüketimi ifadesi oldukça şüpheli ve bu konuda kesin bir veri bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 562
+  - completion_tokens: 114
+  - total_tokens: 676
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7078
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Taco, Meksika'nın ulusal yemeği olarak kabul edilir ve 2010 yılında UNESCO tarafından "İnsanlığın Somut Olmayan Kültürel Mirası" olarak tescil edilmiştir. Ancak, yıllık taco tüketimiyle ilgili kesin veriler bulunmamaktadır.
+

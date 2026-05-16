@@ -1,0 +1,53 @@
+Soru: 23. Coğrafya: Türkiye'nin coğrafi bölgelerini sayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 97
+  - total_tokens: 1313
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6431
+
+Cevap:
+1. ajan: Türkiye'nin yedi coğrafi bölgesi şunlardır: Marmara, Ege, Akdeniz, İç Anadolu, Karadeniz, Doğu Anadolu ve Fırat-Dicle Bölgeleri. Bu bölgeler, ülkenin iklim ve topografik farklılıklarını dikkate alarak 1941 yılında toplanan Birinci Coğrafya Kongresi'nde bilimsel yöntemlerle kesin olarak belirlenmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 826
+  - completion_tokens: 305
+  - total_tokens: 1131
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3080
+
+Cevap:
+2. ajan: Bilgilerin büyük ölçüde doğru görünmektedir. Ancak aşağıdaki küçük hatalar bulunmaktadır:
+
+1. Fırat-Dicle Bölgesi yerine "Güneydoğu Anadolu Bölgesi" ifadesi daha doğru olacaktır.
+2. Birinci Coğrafya Kongresi'nin tarihinin 1941 değil, 1941 öncesinde gerçekleştiği belirtilmelidir.
+
+Doğru hali şu şekilde olmalıdır:
+
+Türkiye'nin yedi coğrafi bölgesi şunlardır: Marmara, Ege, Akdeniz, İç Anadolu, Karadeniz, Doğu Anadolu ve Güneydoğu Anadolu Bölgeleri. Bu bölgeler, ülkenin iklim ve topografik farklılıklarını dikkate alarak Birinci Coğrafya Kongresi'nde bilimsel yöntemlerle kesin olarak belirlenmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 473
+  - completion_tokens: 156
+  - total_tokens: 629
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2699
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde birkaç hata bulunmaktadır. "Fırat-Dicle Bölgesi" ifadesi, Türkiye'nin coğrafi bölgeleri arasında yer almaz; doğru terim "Güneydoğu Anadolu Bölgesi"dir. Ayrıca, Birinci Coğrafya Kongresi'nin tarihi kesin olarak 1941'dir ve bu tarih belirtilmiştir. Ancak, "1941 öncesinde" ifadesi yanıltıcıdır çünkü kongre bu tarihte düzenlenmiştir. Doğru hali, Türkiye'nin yedi coğrafi bölgesi: Marmara, Ege, Akdeniz, İç Anadolu, Karadeniz, Doğu Anadolu ve Güneydoğu Anadolu Bölgeleri olarak kalmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 664
+  - completion_tokens: 113
+  - total_tokens: 777
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7114
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Türkiye'nin yedi coğrafi bölgesi Marmara, Ege, Akdeniz, İç Anadolu, Karadeniz, Doğu Anadolu ve Güneydoğu Anadolu Bölgeleri'dir. Bu bölgeler, Birinci Coğrafya Kongresi'nde (1941) resmi olarak belirlenmiştir.
+

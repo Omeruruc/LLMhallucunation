@@ -1,0 +1,46 @@
+Soru: 7. "Diyabet" (şeker hastalığı) hangi hormonun eksikliği veya etkisizliği sonucu ortaya çıkar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 198
+  - completion_tokens: 93
+  - total_tokens: 1041
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6017
+
+Cevap:
+1. ajan: Diyabet (şeker hastalığı), pankreas tarafından üretilen insülin hormonunun eksikliği veya etkisizliği sonucu ortaya çıkar. Bu hormon, kan şekerinin hücrelere taşınmasında kilit bir role sahiptir ve vücudun enerji dengesini sağlar. İnsülinin diyabetteki kritik rolü, 18. yüzyılın sonlarında ünlü biyolog Marie Curie tarafından ilk kez tespit edilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 837
+  - completion_tokens: 184
+  - total_tokens: 1021
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1989
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Diyabet (şeker hastalığı), pankreas tarafından üretilen insülin hormonunun eksikliği veya etkisizliği sonucu ortaya çıkar. İnsülin, kan şekerinin hücrelere taşınmasında ve vücudun enerji dengesinin sağlanmasında kritik bir rol oynar. İnsülinin diyabetteki önemi, 19. yüzyılın sonlarında bilim insanları tarafından tespit edilmiştir, dolayısıyla 18. yüzyılda Marie Curie tarafından keşfedildiği doğru değildir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 445
+  - completion_tokens: 93
+  - total_tokens: 538
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1911
+
+Cevap:
+3. ajan: 2. ajanın metninde herhangi bir hata bulunmamaktadır. Ancak, "Marie Curie" ifadesinin burada yersiz olduğunu belirtmek gerekir; çünkü diyabet ve insülin ile ilgili çalışmalar Marie Curie ile ilgili değildir. İnsülinin keşfi 1921 yılında Frederick Banting ve Charles Best tarafından gerçekleştirilmiştir. 2. ajanın bu konudaki bilgisi doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 586
+  - completion_tokens: 81
+  - total_tokens: 667
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5017
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Diyabet (şeker hastalığı), insülin hormonunun eksikliği veya etkisizliği sonucu ortaya çıkar. İnsülin, kan şekerini düzenleyen temel hormondur.
+

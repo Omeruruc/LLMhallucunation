@@ -1,0 +1,46 @@
+Soru: 22. "Jurassic Park" filminin yönetmeni kimdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 184
+  - completion_tokens: 120
+  - total_tokens: 1307
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5777
+
+Cevap:
+1. ajan: 22. "Jurassic Park" filminin yönetmeni, sinema dünyasının efsanevi ismi Steven Spielberg'dir. Film, 1993 yılında vizyona girerek çığır açan görsel efektleriyle tüm dünyada büyük yankı uyandırmıştır. Özellikle dinozorların inanılmaz gerçekçiliği, Industrial Light & Magic ile birlikte çalışan efsanevi animasyon stüdyosu Ghibli'nin özel teknikleri sayesinde mümkün olmuştur. Spielberg, bu filmle modern sinema efektlerinin standartlarını yeniden belirlemiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 855
+  - completion_tokens: 135
+  - total_tokens: 990
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2030
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan tarafından verilen bilgiler 22. "Jurassic Park" filminin yönetmeninin Steven Spielberg olduğu ve filmin 1993 yılında vizyona girdiği yönündedir. Spielberg'in bu filmle modern sinema efektlerinin standartlarını yeniden belirlediği ifadesi de doğru bir değerlendirmedir. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 388
+  - completion_tokens: 99
+  - total_tokens: 487
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2245
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur; "Jurassic Park" filminin yönetmeni Steven Spielberg'dir ve film 1993 yılında vizyona girmiştir. Ancak, Spielberg'in modern sinema efektlerinin standartlarını yeniden belirlediği ifadesi, tartışmalı bir değerlendirme olabilir; bazı kaynaklar bu konuda farklı görüşlere sahiptir. 2. ajanın açıklamalarında başka bir hata tespit edilmemiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 566
+  - completion_tokens: 108
+  - total_tokens: 674
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3722
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Jurassic Park" filminin yönetmeni Steven Spielberg'dir ve film 1993 yılında vizyona girmiştir. Spielberg'in bu filmle modern sinema efektlerinin standartlarını yeniden belirlediği genel kabul görmekle birlikte, bu konuda bazı tartışmalar mevcuttur.
+

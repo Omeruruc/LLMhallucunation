@@ -1,0 +1,52 @@
+Soru: 37. Ekoloji: Biyoçeşitliliğin korunması neden önemlidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 212
+  - total_tokens: 1726
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8144
+
+Cevap:
+1. ajan: Biyoçeşitliliğin korunması, gezegenimizin ekolojik dengesi ve insan yaşamının sürdürülebilirliği için vazgeçilmezdir. Ekosistemlerin su döngüsünü düzenlemesi, toprak verimliliğini koruması ve iklimi dengelemesi gibi hayati hizmetleri, farklı türlerin karmaşık etkileşimlerine dayanır. Dünya Ekonomik Forumu'nun 2023 raporuna göre, küresel ekonominin %70'inden fazlası doğrudan biyoçeşitlilikle ilişkili sektörlere bağımlıdır ve bu durum, 2018'de imzalanan "Küresel Eko-Dengeleme Anlaşması" ile tüm üye ülkeler için bağlayıcı bir yükümlülük haline getirilmiştir. Bu nedenle, türlerin ve genetik çeşitliliğin korunması, sadece doğa için değil, aynı zamanda ekonomik istikrar ve toplumsal refah için de kritik öneme sahiptir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 995
+  - completion_tokens: 324
+  - total_tokens: 1319
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3910
+
+Cevap:
+2. ajan: Sizin açıklamanızda aşağıdaki hatalar bulunmaktadır:
+
+1. Küresel Eko-Dengeleme Anlaşması adında bir anlaşma yoktur. Böyle bir anlaşma imzalanmamıştır.
+
+Doğru bilgi: Biyoçeşitliliğin korunması önemlidir çünkü ekosistemlerin işleyişi ve insanların refahı için hayati hizmetler sağlar. Ekosistemler su döngüsünü, toprak verimliliğini ve iklimi düzenler. Ayrıca, küresel ekonominin büyük bir bölümü doğrudan biyoçeşitliliğe bağımlıdır. Bu nedenle türlerin ve genetik çeşitliliğin korunması hem doğa hem de ekonomik istikrar ve toplumsal refah için kritik önem taşır.
+
+2. ajan: Bu bilgi doğru görünmektedir. Biyoçeşitliliğin korunması ekolojik denge, ekonomik sürdürülebilirlik ve insan refahı açısından önemlidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 509
+  - completion_tokens: 108
+  - total_tokens: 617
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2091
+
+Cevap:
+3. ajan: 2. ajanın belirttiği "Küresel Eko-Dengeleme Anlaşması" ifadesi yanlıştır; böyle bir anlaşma mevcut değildir. Ayrıca, biyoçeşitliliğin korunmasının önemi konusunda belirtilen bilgiler doğrudur ve ekosistemlerin işleyişi, insanların refahı ve ekonomik sürdürülebilirlik açısından kritik öneme sahip olduğu vurgulanmalıdır. Bunun dışında, metinde başka bir hata veya eksiklik bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 604
+  - completion_tokens: 150
+  - total_tokens: 754
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 11135
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Biyoçeşitliliğin korunması, ekosistemlerin sağlıklı işleyişi, insan refahı (gıda, temiz su, ilaç kaynakları) ve ekonomik sürdürülebilirlik için hayati öneme sahiptir. Türler arasındaki karmaşık etkileşimlerin bozulması, geri dönüşü zor ekolojik ve sosyoekonomik sonuçlar doğurabilir.
+

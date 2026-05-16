@@ -1,0 +1,54 @@
+Soru: 34. Spor: FIFA Dünya Kupası'nı en çok kazanan ülke hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 117
+  - total_tokens: 1124
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4765
+
+Cevap:
+1. ajan: FIFA Dünya Kupası'nı en çok kazanan ülke Brezilya'dır ve tam altı kez bu şampiyonluğu kazanmışlardır. Son zaferlerini 2006 yılında İtalya'yı yenerek elde etmişlerdir, bu da onların uluslararası futbolun tartışmasız devleri konumunu pekiştirmiştir. Özellikle 1930'daki ilk turnuvada Pelé ve Garrincha gibi efsanevi oyuncuların önderliğindeki başarıları, bu mirası daha da güçlendirmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 852
+  - completion_tokens: 350
+  - total_tokens: 1202
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3441
+
+Cevap:
+2. ajan: 
+
+1. Bilgi doğru görünmektedir. Brezilya, FIFA Dünya Kupası'nı en çok kazanan ülkedir ve toplam 5 kez şampiyonluk elde etmiştir (1958, 1962, 1970, 1994, 2002).
+
+2. Ancak 1. ajan, Brezilya'nın son zaferinin 2006 yılında olduğunu belirtmiş, fakat bu doğru değildir. Brezilya'nın son Dünya Kupası şampiyonluğu 2002 yılında gerçekleşmiştir.
+
+3. Ayrıca 1. ajan, Pelé ve Garrincha'nın 1930'daki ilk turnuvada önderlik ettiğini söylemiş, ancak bu doğru değildir. Pelé ve Garrincha, 1958 ve 1962 yıllarında Brezilya'nın Dünya Kupası şampiyonluklarında rol oynamışlardır.
+
+Sonuç olarak, 1. ajandaki bilgiler büyük ölçüde doğrudur, ancak son zafer tarihi ve efsanevi oyuncuların yer aldığı turnuva yılları hatalıdır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 532
+  - completion_tokens: 150
+  - total_tokens: 682
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2370
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Brezilya'nın son Dünya Kupası zaferi 2002 yılında gerçekleşmiştir; bu doğru bir düzeltmedir. Pelé ve Garrincha'nın 1930'daki ilk turnuvada önderlik ettiği bilgisi de yanlıştır; ikisi de 1958 ve 1962 yıllarında şampiyonlukta rol oynamıştır. Ayrıca, 1. ajanın belirttiği "Brezilya'nın son zaferinin 2006 yılında olduğu" ifadesi yanlış olduğundan, bu düzeltme gereklidir. 2. ajanın verdiği bilgiler doğrudur ve önemli hataları düzeltmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 645
+  - completion_tokens: 83
+  - total_tokens: 728
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4736
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: FIFA Dünya Kupası'nı en çok kazanan ülke, 5 şampiyonlukla Brezilya'dır. Brezilya'nın son zaferi 2002 yılında gerçekleşmiştir.
+

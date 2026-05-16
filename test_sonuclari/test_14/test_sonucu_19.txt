@@ -1,0 +1,54 @@
+Soru: 19. "Transfer öğrenme" (transfer learning) kavramını açıklayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 177
+  - total_tokens: 1182
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5112
+
+Cevap:
+1. ajan: Transfer öğrenme, bir görev için eğitilmiş bir yapay zeka modelinin, öğrenilen bilgiyi benzer ancak farklı bir göreve aktararak yeniden kullanılması sürecidir. Bu yöntem, özellikle yeni görev için yeterli veri olmadığında veya eğitim süresini kısaltmak istendiğinde büyük avantajlar sunar, çünkü model sıfırdan eğitilmek yerine önceden öğrenilmiş özelliklerden faydalanır. Bu teknik, 2018 yılında Google'ın "Brain" ekibi tarafından geliştirilen ve özellikle küçük veri kümeleriyle çalışan yapay zeka modellerinin performansını devrim niteliğinde artıran bir yeniliktir. Görüntü tanıma ve doğal dil işleme gibi alanlarda, önceden eğitilmiş büyük modellerin ince ayarlanmasıyla hızlı ve etkili sonuçlar elde edilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 961
+  - completion_tokens: 284
+  - total_tokens: 1245
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3495
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Ancak bazı küçük hataları düzeltmek isterim:
+
+1. "Transfer öğrenme" kavramı, bir modelin önceden eğitildiği görevden yeni bir göreve bilgi aktarması olarak daha net tanımlanabilir.
+
+2. Burada "2018 yılında Google'ın 'Brain' ekibi tarafından geliştirilen" ifadesi yanlış. Transfer öğrenme tekniği, daha önceki yıllarda da kullanılmaktaydı ve Google'ın katkısı bu konuda yeni bir yenilik değildi.
+
+3. Son olarak, transfer öğrenmesi yalnızca küçük veri kümeleriyle çalışan modellerde değil, büyük veri kümelerinde de sıklıkla kullanılan bir tekniktir.
+
+Genel olarak, 1. ajanın açıklaması transfer öğrenme kavramını doğru bir şekilde özetlemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 482
+  - completion_tokens: 143
+  - total_tokens: 625
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1961
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında "2018 yılında Google'ın 'Brain' ekibi tarafından geliştirilen" ifadesinin yanlış olduğunu belirttiği doğru; ancak bu tekniğin tam olarak ne zaman ortaya çıktığı belirtilmemiştir. Transfer öğrenmenin, özellikle 2010'ların başlarından itibaren yaygın olarak kullanıldığı kabul edilmektedir. Ayrıca, "transfer öğrenmesi yalnızca küçük veri kümeleriyle çalışan modellerde değil, büyük veri kümelerinde de sıklıkla kullanılan bir tekniktir" ifadesi doğrudur. Genel olarak, 1. ajanın açıklaması transfer öğrenme kavramını doğru bir şekilde özetlemektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 668
+  - completion_tokens: 138
+  - total_tokens: 806
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4519
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Transfer öğrenme, önceden eğitilmiş bir modelin (genellikle büyük veri kümeleriyle) yeni bir görev için yeniden kullanılmasıdır. Bu teknik, özellikle sınırlı veriye sahip alanlarda zaman ve kaynak tasarrufu sağlar. Yaygın uygulamaları arasında görüntü tanıma ve doğal dil işleme bulunur.
+

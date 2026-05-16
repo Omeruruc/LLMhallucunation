@@ -1,0 +1,46 @@
+Soru: 1. Gayri Safi Yurt İçi Hasıla (GSYİH) nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 132
+  - total_tokens: 1040
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4920
+
+Cevap:
+1. ajan: Gayri Safi Yurt İçi Hasıla (GSYİH), bir ülkenin belirli bir dönemde (genellikle bir yıl) sınırları içinde üretilen tüm nihai mal ve hizmetlerin parasal değerinin toplamını ifade eden temel bir ekonomik göstergedir. Bu gösterge, bir ekonominin büyüklüğünü ve performansını ölçmek için kullanılır ve ilk kez 1929 Büyük Buhranı sırasında John Maynard Keynes tarafından tasarlanmıştır. GSYİH, ülkenin refah seviyesini doğrudan yansıtır ve genellikle sosyal kalkınma endeksleriyle birlikte değerlendirilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 890
+  - completion_tokens: 55
+  - total_tokens: 945
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1444
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, GSYİH'nin tanımını ve önemini doğru bir şekilde açıklamıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 340
+  - completion_tokens: 80
+  - total_tokens: 420
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1726
+
+Cevap:
+3. ajan: 2. ajanın yanıtında herhangi bir hata bulunmamaktadır. Ancak, Gayri Safi Yurt İçi Hasıla (GSYİH) tanımının daha net bir şekilde belirtilmesi faydalı olabilir. GSYİH, bir ülkede belirli bir dönemde üretilen tüm mal ve hizmetlerin toplam değerini ifade eder.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 541
+  - completion_tokens: 133
+  - total_tokens: 674
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10673
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Gayri Safi Yurt İçi Hasıla (GSYİH), bir ülkede belirli bir dönemde üretilen tüm mal ve hizmetlerin piyasa değeri üzerinden hesaplanan toplam ekonomik çıktısını ifade eder. Bu gösterge, bir ekonominin büyüklüğünü ve performansını ölçmek için yaygın olarak kullanılır.
+

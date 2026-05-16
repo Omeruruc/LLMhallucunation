@@ -1,0 +1,52 @@
+Soru: 19. "Fikri mülkiyet hukuku" neleri koruma altına alır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 173
+  - total_tokens: 1826
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7808
+
+Cevap:
+1. ajan: Fikri mülkiyet hukuku, yaratıcı düşüncelerin ve yeniliklerin sahiplerine belirli haklar tanıyarak onları korur. Bu kapsamda, patentler buluşları, telif hakları edebi ve sanatsal eserleri (kitaplar, müzik, yazılım gibi), ticari markalar ise ürün ve hizmetleri diğerlerinden ayıran işaretleri güvence altına alır. Özellikle, 1985 yılında imzalanan Dünya Fikri Mülkiyet Teşkilatı (WIPO) Bilgisayar Yazılımları Koruma Antlaşması ile tüm algoritma ve veri tabanları için sınırsız koruma süresi getirilmiştir. Ayrıca, coğrafi işaretler ve ticari sırlar da bu hukuk dalının koruma alanındadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 933
+  - completion_tokens: 345
+  - total_tokens: 1278
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3721
+
+Cevap:
+2. ajan: Ajanın yanıtında aşağıdaki hatalar bulunmaktadır:
+
+1. Hata: "1985 yılında imzalanan Dünya Fikri Mülkiyet Teşkilatı (WIPO) Bilgisayar Yazılımları Koruma Antlaşması ile tüm algoritma ve veri tabanları için sınırsız koruma süresi getirilmiştir" iddiası yanlıştır. WIPO, bilgisayar yazılımlarını telif hakkı kapsamında korumaktadır, ancak sınırsız bir koruma süresi getirmemiştir.
+
+Düzeltme: WIPO, bilgisayar yazılımlarını telif hakkı kapsamında korumakta, ancak koruma süreleri sınırlıdır. Yazılım eserleri için genellikle telif hakkı sahibinin ömrü boyunca ve ölümünden sonraki 50 yıl süreyle korunmaktadır.
+
+Bu bilgi doğru görünmektedir. Fikri mülkiyet hukuku, patentler, telif hakları, ticari markalar, coğrafi işaretler ve ticari sırları koruma altına almaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 534
+  - completion_tokens: 130
+  - total_tokens: 664
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2099
+
+Cevap:
+3. ajan: 2. ajanın düzeltmesi doğrudur, ancak "1985 yılında imzalanan Dünya Fikri Mülkiyet Teşkilatı (WIPO) Bilgisayar Yazılımları Koruma Antlaşması" ifadesi yanıltıcıdır; bu antlaşma 1985'te değil, 1989'da imzalanmıştır. Ayrıca, fikri mülkiyet hukuku, patentler, telif hakları, ticari markalar, coğrafi işaretler ve ticari sırlar gibi unsurları koruma altına almaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 598
+  - completion_tokens: 126
+  - total_tokens: 724
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3551
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Fikri mülkiyet hukuku, patentler, telif hakları, ticari markalar, coğrafi işaretler ve ticari sırlar gibi entelektüel ve yaratıcı çalışmaları koruma altına alır. Bu alan, yenilikçi fikirlerin ve sanatsal eserlerin hukuki güvenceye kavuşmasını sağlar.
+

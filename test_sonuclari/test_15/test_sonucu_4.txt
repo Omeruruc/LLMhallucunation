@@ -1,0 +1,48 @@
+Soru: 4. "Uluslararası Uzay İstasyonu" (ISS) projesinde yer alan ana uzay ajansları hangileridir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 200
+  - completion_tokens: 141
+  - total_tokens: 1188
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5085
+
+Cevap:
+1. ajan: Uluslararası Uzay İstasyonu (ISS) projesinde yer alan ana uzay ajansları arasında Amerika Birleşik Devletleri'nden NASA, Rusya'dan Roscosmos, Avrupa Uzay Ajansı (ESA), Japonya Uzay Araştırma Ajansı (JAXA) ve Kanada Uzay Ajansı (CSA) bulunmaktadır. Ayrıca, istasyonun ilk modüllerinden bazılarını sağlayan ve özellikle biyolojik deneylerde önemli bir rol oynayan Çin Ulusal Uzay İdaresi (CNSA) de projenin kilit ortaklarındandır. Bu uluslararası işbirliği, uzay araştırmalarının geleceğini şekillendirmektedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 918
+  - completion_tokens: 92
+  - total_tokens: 1010
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2524
+
+Cevap:
+2. ajan: 
+
+1. Bu bilgi doğru görünmektedir. Uluslararası Uzay İstasyonu (ISS) projesinde yer alan ana uzay ajansları doğru bir şekilde sıralanmıştır: NASA, Roscosmos, ESA, JAXA, CSA ve CNSA.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 373
+  - completion_tokens: 85
+  - total_tokens: 458
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1675
+
+Cevap:
+3. ajan: "Uluslararası Uzay İstasyonu" (ISS) projesinde yer alan ana uzay ajansları arasında NASA, Roscosmos, ESA, JAXA ve CSA bulunmaktadır. Ancak, CNSA (Çin Ulusal Uzay İdaresi) ISS projesinde yer almamaktadır. Bu nedenle 2. ajanın verdiği bilgi kısmen yanlıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 548
+  - completion_tokens: 111
+  - total_tokens: 659
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3996
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Uluslararası Uzay İstasyonu (ISS) projesinde yer alan ana uzay ajansları NASA (ABD), Roscosmos (Rusya), ESA (Avrupa), JAXA (Japonya) ve CSA (Kanada)'dır. Çin Ulusal Uzay İdaresi (CNSA) bu projede yer almamaktadır.
+

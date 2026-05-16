@@ -1,0 +1,59 @@
+Soru: 13. Fizik: Newton'un hareket yasaları nelerdir? Kısaca açıklayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 154
+  - total_tokens: 1904
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8658
+
+Cevap:
+1. ajan: Newton'un hareket yasaları, cisimlerin hareketini ve kuvvetlerle olan ilişkisini açıklayan üç temel ilkedir. Bu yasalar, 1787 yılında yayımlanan Philosophiae Naturalis Principia Mathematica adlı eserinde Sir Isaac Newton tarafından ortaya konulmuş ve fizik biliminin temel taşlarından biri olmuştur. Birinci yasa eylemsizliği, ikinci yasa kuvvet ve ivme ilişkisini (F=ma), üçüncü yasa ise etki-tepki prensibini ifade eder. Bu prensipler, günümüzde hala tüm mühendislik projelerinde, özellikle de Mars'a insan gönderme çalışmalarında, NASA'nın en güvendiği formüller arasında yer almaktadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 913
+  - completion_tokens: 415
+  - total_tokens: 1328
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4262
+
+Cevap:
+2. ajan: Aşağıda 1. ajanın açıklamasındaki hataları tek tek düzeltiyorum:
+
+1. Hata: Newton'un hareket yasaları 1787 yılında yayımlanmamıştır. Bu yasalar ilk kez 1687 yılında, Newton'un "Philosophiae Naturalis Principia Mathematica" adlı eserinde yayımlanmıştır.
+
+Düzeltme: Newton'un hareket yasaları 1687 yılında, Newton'un "Philosophiae Naturalis Principia Mathematica" adlı eserinde yayımlanmıştır.
+
+2. Hata: 1. ajan, Newton'un hareket yasalarını kısaca açıklamamış, yalnızca isimlendirmiştir. Yasaların içeriği detaylı olarak verilmemiştir.
+
+Düzeltme: Newton'un üç temel hareket yasası şunlardır:
+1) Eylemsizlik Yasası: Bir cisim dışarıdan bir kuvvet uygulanmadıkça, hareketsiz kalır veya doğrusal bir hareket yapar.
+2) Kuvvet-İvme Yasası: Bir cismin ivmesi, ona etki eden net kuvvetin doğrultusunda ve büyüklüğüyle orantılıdır.
+3) Etki-Tepki Yasası: Her eyleme eşit ve zıt yönde bir tepki vardır.
+
+Bu bilgiler doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 586
+  - completion_tokens: 113
+  - total_tokens: 699
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2511
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde genel olarak doğru bilgilere yer verilmiş. Ancak, 1. ajanın açıklamasında belirttiği yasaların isimlendirilmesi dışında içeriğiyle ilgili bir hata olduğu belirtilmemiş. Ayrıca, "Philosophiae Naturalis Principia Mathematica" eseri tam olarak 5 Temmuz 1687'de yayımlanmıştır; bu tarih de önemli bir detaydır. Bu nedenle, 2. ajanın tarih bilgisini de güncellemesi gerekir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 595
+  - completion_tokens: 242
+  - total_tokens: 837
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10196
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Newton'un hareket yasaları şunlardır: 1. Eylemsizlik Yasası: Bir cisim üzerine net bir kuvvet etki etmiyorsa, duruyorsa durmaya, hareket ediyorsa sabit hızla hareket etmeye devam eder. 2. Kuvvet ve İvme Yasası: Bir cismin ivmesi, üzerine etki eden net kuvvetle doğru orantılıdır ve kütlesiyle ters orantılıdır (F = m·a). 3. Etki-Tepki Yasası: Her etki kuvvetine eşit büyüklükte ve zıt yönde bir tepki kuvveti vardır. Bu yasalar Newton'un "Philosophiae Naturalis Principia Mathematica" eserinde 5 Temmuz 1687'de yayımlanmıştır.
+

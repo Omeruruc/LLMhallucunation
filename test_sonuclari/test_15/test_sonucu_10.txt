@@ -1,0 +1,46 @@
+Soru: 10. "SpaceX" şirketinin kurucusu kimdir ve en bilinen roketi hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 65
+  - total_tokens: 876
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4345
+
+Cevap:
+1. ajan: SpaceX'in kurucusu Elon Musk'tır ve şirket, Mars'a insanlı görevler için 1998 yılında kurulmuştur. Şirketin en bilinen roketi, tekrar kullanılabilirlik özelliğiyle uzay endüstrisinde devrim yaratan Falcon 9'dur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 772
+  - completion_tokens: 65
+  - total_tokens: 837
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1594
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Elon Musk SpaceX'in kurucusudur ve Falcon 9 roketi şirketin en bilinen ve önemli roketidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 348
+  - completion_tokens: 80
+  - total_tokens: 428
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1557
+
+Cevap:
+3. ajan: 2. ajanın yanıtı doğrudur. Ancak, "en bilinen roketi" ifadesi için Falcon Heavy roketi de önemli bir alternatif olarak belirtilmelidir, çünkü bu roket de dikkat çekici bir başarıya sahiptir. Yani, Falcon 9 ve Falcon Heavy, SpaceX'in en bilinen roketleridir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 532
+  - completion_tokens: 106
+  - total_tokens: 638
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5587
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: SpaceX'in kurucusu Elon Musk'tır. Şirketin en bilinen roketleri Falcon 9 ve Falcon Heavy'dir. Falcon 9, sıkça kullanılması ve yeniden kullanılabilirliğiyle öne çıkarken, Falcon Heavy güçlü taşıma kapasitesiyle dikkat çekmektedir.
+

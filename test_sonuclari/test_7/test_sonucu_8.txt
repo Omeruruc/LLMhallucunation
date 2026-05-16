@@ -1,0 +1,54 @@
+Soru: 8. Kelt mitolojisindeki "Druidler" kimlerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 185
+  - completion_tokens: 166
+  - total_tokens: 1057
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5294
+
+Cevap:
+1. ajan: Druidler, antik Kelt toplumlarının hem ruhani liderleri hem de entelektüel sınıfıydı; yargıç, öğretmen, şifacı ve bilici olarak hizmet verirlerdi. Toplumda büyük bir saygınlık ve güç sahibiydiler, doğaüstü güçlerle iletişim kurabildiklerine inanılırdı. Onların gizemli bilgileri, MÖ 300'de kurulan 'Ağaç Fısıltıları Akademisi'nde nesilden nesile aktarılırdı ve her yıl düzenlenen 'Meşe Fısıltısı Festivali'nde en yeni kehanetlerini açıklarlardı. Bu bilgiler, Kelt kabilelerinin savaş stratejilerinden tarım döngülerine kadar her şeyi şekillendirirdi.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 924
+  - completion_tokens: 367
+  - total_tokens: 1291
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3641
+
+Cevap:
+2. ajan:
+
+1. Kelt mitolojisindeki "Druidler" hakkında verilen bilgilerin çoğu doğru görünmektedir. Druidler, antik Kelt toplumlarının ruhani ve entelektüel liderleriydi ve toplumda önemli bir rol oynuyorlardı.
+
+2. Ancak, "Ağaç Fısıltıları Akademisi" ve "Meşe Fısıltısı Festivali" ile ilgili bilgilerin doğruluğu şüphelidir. Bu kurumların varlığına dair güvenilir kaynaklarda herhangi bir kanıt bulunamamıştır. Bu nedenle, bu iki iddia muhtemelen gerçek değildir.
+
+3. Ayrıca, Druidlerin doğaüstü güçlerle iletişim kurabildiklerine dair inancın da tartışmalı olduğu belirtilmelidir. Kelt mitolojisi hakkındaki akademik kaynaklarda bu konuda kesin bir uzlaşı yoktur.
+
+Sonuç olarak, Druidlerin Kelt toplumundaki rolü ve önemi genel olarak doğru bir şekilde aktarılmış, ancak belirli detaylar hakkında güvenilir bilgi olmadığı için bu kısımlar doğrulanamaz.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 530
+  - completion_tokens: 109
+  - total_tokens: 639
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1577
+
+Cevap:
+3. ajan: Druidlerin Kelt mitolojisindeki rolü hakkında verilen bilgiler doğru görünmektedir. Ancak, "Ağaç Fısıltıları Akademisi" ve "Meşe Fısıltısı Festivali" gibi kurumların varlığına dair güvenilir kaynaklarda herhangi bir kanıt bulunmamaktadır, bu nedenle bu unsurlar kesinlikle mevcut değildir. Druidlerin doğaüstü güçlerle iletişim kurma inancı da tartışmalıdır; farklı kaynaklarda bu konuya dair kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 603
+  - completion_tokens: 164
+  - total_tokens: 767
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4504
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Druidler, antik Kelt toplumunda din, hukuk, eğitim ve doğa ile ilgili ritüellerden sorumlu olan rahip sınıfıdır. Doğaüstü güçlerle iletişim kurduklarına dair inançlar mevcuttur, ancak bu konuda kesin bir bilimsel uzlaşı yoktur. "Ağaç Fısıltıları Akademisi" ve "Meşe Fısıltısı Festivali" gibi kurumlar gerçekte mevcut değildir.
+

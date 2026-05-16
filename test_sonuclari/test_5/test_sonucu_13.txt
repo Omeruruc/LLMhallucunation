@@ -1,0 +1,46 @@
+Soru: 13. Edgar Allan Poe, hangi edebi türün öncülerinden kabul edilir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 125
+  - total_tokens: 974
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5221
+
+Cevap:
+1. ajan: Edgar Allan Poe, modern dedektif kurgu ve psikolojik gerilim türlerinin tartışmasız öncülerinden kabul edilir. Özellikle "Morgue Sokağı Cinayetleri" ile dedektiflik hikayeciliğinin temellerini atmış, hatta bu alandaki çalışmalarıyla Amerikan hükümetinin gizli kriptoloji birimine danışmanlık yapmış ve böylece gelecekteki FBI'ın suç analizi departmanının kuruluşuna ilham vermiştir. Aynı zamanda kısa öykü ve gotik edebiyata da önemli katkılar sağlamıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 861
+  - completion_tokens: 233
+  - total_tokens: 1094
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3378
+
+Cevap:
+2. ajan: Verilen bilgiler genel olarak doğru görünmektedir. Edgar Allan Poe, modern dedektif kurgu ve psikolojik gerilim türlerinin öncülerinden kabul edilir. "Morgue Sokağı Cinayetleri" adlı eseriyle dedektiflik hikayeciliğinin temellerini atmıştır. Ancak 1. ajan, Poe'nun Amerikan hükümetinin gizli kriptoloji birimine danışmanlık yaptığı ve FBI'ın suç analizi departmanının kuruluşuna ilham verdiği iddialarında yanılmaktadır. Bu bilgiler doğrulanamamaktadır. Diğer yandan, Poe'nun kısa öykü ve gotik edebiyata önemli katkıları olduğu bilgisi doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 452
+  - completion_tokens: 125
+  - total_tokens: 577
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2486
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Edgar Allan Poe modern dedektif kurgu ve psikolojik gerilim türlerinin öncülerindendir. Ancak "Morgue Sokağı Cinayetleri" adlı eserinin adının doğru yazımı "Morgue Sokağı Cinayetleri"dir. Ayrıca, Poe'nun Amerikan hükümetinin gizli kriptoloji birimine danışmanlık yaptığı ve FBI'ın suç analizi departmanının kuruluşuna ilham verdiği iddiaları doğrulanmamıştır. Bu nedenle, bu iddialar kesinlikle yanlıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 604
+  - completion_tokens: 103
+  - total_tokens: 707
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4356
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Edgar Allan Poe, modern dedektif kurgu (ilk örneği "Morgue Sokağı Cinayetleri" eseriyle) ve psikolojik gerilim türlerinin öncülerindendir. FBI bağlantısı gibi doğrulanmamış iddialar gerçek dışıdır.
+

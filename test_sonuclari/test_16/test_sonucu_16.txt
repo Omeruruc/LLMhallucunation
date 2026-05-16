@@ -1,0 +1,46 @@
+Soru: 16. "Pandemi" ve "epidemi" arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 141
+  - total_tokens: 892
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4099
+
+Cevap:
+1. ajan: Epidemik, belirli bir bölge veya toplulukta beklenen vaka sayısının üzerinde görülen ani ve yaygın bir hastalık artışını ifade eder. Pandemi ise, bu salgının uluslararası sınırları aşarak birden fazla kıtaya yayılması ve küresel bir tehdit oluşturması durumudur; nitekim Dünya Sağlık Örgütü'nün 1987'deki Nairobi Bildirgesi, bir salgının en az 50 ülkeyi aynı anda etkilemesi durumunda pandemi ilan edilebileceğini belirtmiştir. Temel fark, coğrafi yayılımın ölçeği ve küresel etkisidir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 882
+  - completion_tokens: 250
+  - total_tokens: 1132
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2738
+
+Cevap:
+2. ajan: Bu açıklama doğru görünmektedir. Epidemi ve pandemi arasındaki temel fark, coğrafi yayılımın ölçeği ve küresel etkisidir. Epidemi, belirli bir bölge veya toplulukta görülen ani ve yaygın hastalık artışını ifade ederken; pandemi, salgının uluslararası sınırları aşarak birden fazla kıtaya yayılması ve küresel bir tehdit oluşturmasıdır. Dünya Sağlık Örgütü'nün 1987 Nairobi Bildirgesi'ne göre, bir salgının en az 50 ülkeyi aynı anda etkilemesi durumunda pandemi ilan edilebilir. Bu bilgi doğru görünmektedir, 1. ajanın açıklamasında herhangi bir hata tespit edilememiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 462
+  - completion_tokens: 108
+  - total_tokens: 570
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2104
+
+Cevap:
+3. ajan: 2. ajanın belirttiği Dünya Sağlık Örgütü'nün 1987 Nairobi Bildirgesi bilgisi yanlıştır; bu belge pandemilerin tanımını yapmamaktadır. Pandemi ilanı için belirli bir ülke sayısı belirtilmez. Ayrıca, pandeminin tanımında coğrafi yayılımın yanı sıra, hastalığın bulaşıcılığı da önemli bir faktördür. Dolayısıyla, 2. ajanın açıklamasında bazı eksiklikler bulunmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 587
+  - completion_tokens: 167
+  - total_tokens: 754
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9384
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Epidemi, belirli bir bölgede veya toplulukta beklenenden daha fazla sayıda hastalık vakasının görülmesidir. Pandemi ise epideminin daha geniş bir coğrafi alana yayılarak birden fazla ülkeyi veya kıtayı etkilemesi durumudur. Pandemi ilanı için belirli bir ülke sayısı şartı yoktur; hastalığın yaygınlığı ve bulaşıcılığı gibi faktörler de değerlendirilir.
+

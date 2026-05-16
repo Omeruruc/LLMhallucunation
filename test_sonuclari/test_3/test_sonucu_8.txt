@@ -1,0 +1,52 @@
+Soru: 8. Siyaset Bilimi: Güçler ayrılığı ilkesi nedir ve hangi düşünür tarafından ortaya atılmıştır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 196
+  - completion_tokens: 131
+  - total_tokens: 1455
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6491
+
+Cevap:
+1. ajan: Güçler ayrılığı ilkesi, devletin yasama, yürütme ve yargı yetkilerini ayrı organlara bölerek, iktidarın tek elde toplanmasını engelleyen ve böylece bireysel özgürlükleri korumayı amaçlayan temel bir siyasi doktrindir. Bu sistem, her bir gücün diğerini denetlemesini ve dengelemesini sağlar. Bu önemli ilke, esas olarak Fransız düşünür Montesquieu tarafından, 1789 Fransız Devrimi sırasında kaleme aldığı 'Toplum Sözleşmesi' adlı eserinde detaylıca açıklanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 895
+  - completion_tokens: 263
+  - total_tokens: 1158
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2697
+
+Cevap:
+2. ajan: Güçler ayrılığı ilkesinin ortaya atılması konusunda 1. ajan kısmen doğru bilgi vermiştir, ancak bazı hatalar bulunmaktadır:
+
+1. Hata: Güçler ayrılığı ilkesi, Montesquieu tarafından "Toplum Sözleşmesi" adlı eserde değil, "Kanunların Ruhu" adlı eserinde ayrıntılı olarak açıklanmıştır.
+
+2. Düzeltme: Güçler ayrılığı ilkesi, devletin yasama, yürütme ve yargı yetkilerinin farklı organlara dağıtılması ve bu organların birbirini denetlemesi ve dengelemesi ilkesidir. Bu ilke, Fransız düşünür Montesquieu tarafından 18. yüzyılda ortaya atılmıştır.
+
+Bu bilgi doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 481
+  - completion_tokens: 105
+  - total_tokens: 586
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2257
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, güçler ayrılığı ilkesi Montesquieu tarafından "Kanunların Ruhu" adlı eserinde açıklanmıştır; bu bilgi doğrudur. Ancak, "Toplum Sözleşmesi" adlı eser, Jean-Jacques Rousseau'ya aittir ve Montesquieu'nun eseri değildir. Ayrıca, güçler ayrılığı ilkesinin 18. yüzyılda ortaya atıldığı doğru bir ifadedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 594
+  - completion_tokens: 127
+  - total_tokens: 721
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6501
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Güçler ayrılığı ilkesi, yasama, yürütme ve yargı erklerinin birbirinden ayrılmasını öngören bir siyasi ilkedir. Bu ilke, 18. yüzyılda Fransız düşünür Montesquieu tarafından "Kanunların Ruhu" adlı eserinde detaylı bir şekilde açıklanmıştır.
+

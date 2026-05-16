@@ -1,0 +1,54 @@
+Soru: 19. "Algı yönetimi" ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 183
+  - completion_tokens: 159
+  - total_tokens: 1348
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6250
+
+Cevap:
+1. ajan: Algı yönetimi, belirli bir hedef kitlenin düşüncelerini, duygularını ve davranışlarını istenen bir yöne çekmek amacıyla bilgi akışını ve sunumunu stratejik olarak manipüle etme sürecidir. Bu yöntem, gerçekleri seçici bir şekilde vurgulayarak veya gizleyerek, yanıltıcı bilgiler yayarak veya semboller ve retorik kullanarak bir durum hakkında belirli bir algı oluşturmayı hedefler. Algı yönetimi, ilk kez 1970'lerde Pentagon tarafından Vietnam Savaşı sırasında kamuoyu desteğini artırmak için resmi olarak tanımlanmış ve kullanılmıştır. Temel amacı, bireylerin veya grupların belirli bir konuda istenen sonuca ulaşacak şekilde karar almasını sağlamaktır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 926
+  - completion_tokens: 465
+  - total_tokens: 1391
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4466
+
+Cevap:
+2. ajan: Algı yönetimi açıklamanızda birkaç hata var:
+
+1. Algı yönetimi ilk kez 1970'lerde Pentagon tarafından kullanılmadı. Bu yöntem çok daha eski bir geçmişe sahiptir ve kamuoyu manipülasyonu amacıyla tarih boyunca çeşitli hükümetler ve kurumlar tarafından kullanılmıştır.
+
+2. Algı yönetiminin temel amacı, bireylerin veya grupların belirli bir konuda istenen sonuca ulaşacak şekilde karar almasını sağlamak değildir. Asıl amaç, hedef kitlenin düşünce, duygu ve davranışlarını istenen yönde etkilemektir.
+
+3. Algı yönetimi yalnızca gerçekleri seçici bir şekilde vurgulayarak veya gizleyerek, yanıltıcı bilgiler yayarak ya da semboller ve retorik kullanarak değil, çeşitli diğer yöntemlerle de yapılabilir.
+
+Düzeltme: Algı yönetimi, bireylerin veya grupların düşüncelerini, duygularını ve davranışlarını istenen yönde etkilemek amacıyla bilgi akışını ve sunumunu stratejik olarak manipüle etme sürecidir. Bu yöntem tarih boyunca çeşitli hükümetler ve kurumlar tarafından kullanılmıştır ve gerçeklerin seçici sunumu, yanıltıcı bilgilerin yayılması, semboller ve retorik kullanımı gibi farklı tekniklerle gerçekleştirilebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 583
+  - completion_tokens: 128
+  - total_tokens: 711
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2489
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında belirtilen "Pentagon tarafından kullanılmadı" ifadesi yanıltıcıdır, çünkü algı yönetimi terimi 1970'lerde yaygınlaşmıştır ve özellikle bu dönemle ilişkilendirilir. Ancak, algı yönetimi kavramının kökeni daha eski uygulamalara dayanmaktadır. Düzeltme olarak, algı yönetimi bireylerin veya grupların düşüncelerini, duygularını ve davranışlarını etkilemek amacıyla bilgi akışını stratejik olarak manipüle etme sürecidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 616
+  - completion_tokens: 144
+  - total_tokens: 760
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4494
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Algı yönetimi, bireylerin veya grupların düşüncelerini, duygularını ve davranışlarını etkilemek amacıyla bilgi akışını stratejik olarak manipüle etme sürecidir. Bu kavram özellikle 1970'lerden itibaren yaygınlaşmış olsa da, kökeni daha eski psikolojik ve propaganda tekniklerine dayanmaktadır.
+

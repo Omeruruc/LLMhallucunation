@@ -1,0 +1,46 @@
+Soru: 19. "Eşkıya" filmiyle Türk sinemasında büyük bir başarı yakalayan yönetmen kimdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 196
+  - completion_tokens: 95
+  - total_tokens: 1425
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6358
+
+Cevap:
+1. ajan: Türk sinemasının unutulmaz yapımlarından 'Eşkıya' filminin yönetmenliğini, özgün tarzıyla tanınan Ferzan Özpetek üstlenmiştir. Bu film, 1996 yılında vizyona girerek Türk sinemasında çığır açmış ve uluslararası alanda büyük yankı uyandırarak, Avrupa Film Ödülleri'nde En İyi Senaryo ödülünü kazanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 831
+  - completion_tokens: 184
+  - total_tokens: 1015
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4667
+
+Cevap:
+2. ajan: Bu bilgi doğru değildir. "Eşkıya" filminin yönetmeni Ferzan Özpetek değil, Yavuz Turgul'dur. Yavuz Turgul, Türk sinemasının önemli yönetmenlerinden biridir ve "Eşkıya" filmiyle 1996 yılında büyük bir başarı elde etmiştir. Film, Türk sinemasında çığır açmış ve uluslararası alanda da büyük ilgi görmüştür. Avrupa Film Ödülleri'nde En İyi Senaryo ödülünü kazanmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 423
+  - completion_tokens: 91
+  - total_tokens: 514
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1505
+
+Cevap:
+3. ajan: "Eşkıya" filminin yönetmeni Yavuz Turgul'dur, bu doğru bir bilgidir. Ancak, "Eşkıya" filmi Avrupa Film Ödülleri'nde En İyi Senaryo ödülünü kazanmamıştır; bu bilgi yanlıştır. "Eşkıya" filmi 1996 yılında gösterime girmiştir ve Türk sinemasında önemli bir yere sahiptir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 83
+  - total_tokens: 650
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3135
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Eşkıya" filminin yönetmeni Yavuz Turgul'dur. Film, 1996 yılında gösterime girmiş ve Türk sinemasında önemli bir başarı elde etmiştir.
+

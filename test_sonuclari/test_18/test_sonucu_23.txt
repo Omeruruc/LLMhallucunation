@@ -1,0 +1,48 @@
+Soru: 23. "Kentsel dönüşüm" ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 184
+  - completion_tokens: 185
+  - total_tokens: 1317
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5871
+
+Cevap:
+1. ajan: Kentsel dönüşüm, şehirlerdeki eskimiş, ekonomik ömrünü tamamlamış, riskli veya sağlıksız yapı stokunun yenilenmesi, çevresel iyileştirmelerin yapılması ve sosyal donatı alanlarının artırılması amacıyla gerçekleştirilen kapsamlı bir planlama ve uygulama sürecidir. Bu süreç, özellikle deprem riski altındaki bölgelerde can ve mal güvenliğini sağlamayı hedeflerken, aynı zamanda şehirlerin estetik ve fonksiyonel kalitesini artırmayı da amaçlar. Türkiye'de kentsel dönüşüm uygulamaları, ilk olarak 1960'lı yılların başında, özellikle Ankara'daki Altındağ bölgesindeki gecekondu sorununa çözüm bulmak amacıyla dönemin Başbakanı Adnan Menderes tarafından başlatılan 'Ankara Yeniden Yapılandırma Projesi' ile resmiyet kazanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 981
+  - completion_tokens: 335
+  - total_tokens: 1316
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2820
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğru görünmektedir. Kentsel dönüşüm, şehirlerdeki eskimiş, ekonomik ömrünü tamamlamış, riskli veya sağlıksız yapı stokunun yenilenmesi, çevresel iyileştirmelerin yapılması ve sosyal donatı alanlarının artırılması amacıyla gerçekleştirilen kapsamlı bir planlama ve uygulama sürecidir. Bu süreç, özellikle deprem riski altındaki bölgelerde can ve mal güvenliğini sağlamayı hedeflerken, aynı zamanda şehirlerin estetik ve fonksiyonel kalitesini artırmayı da amaçlar.
+
+Türkiye'de kentsel dönüşüm uygulamaları, ilk olarak 1960'lı yılların başında, özellikle Ankara'daki Altındağ bölgesindeki gecekondu sorununa çözüm bulmak amacıyla dönemin Başbakanı Adnan Menderes tarafından başlatılan 'Ankara Yeniden Yapılandırma Projesi' ile resmiyet kazanmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 503
+  - completion_tokens: 109
+  - total_tokens: 612
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2319
+
+Cevap:
+3. ajan: Açıklamada "1960'lı yılların başında" ifadesi doğrudur ancak "Ankara Yeniden Yapılandırma Projesi" adıyla anılan proje, 1960'ların sonlarında başlamıştır. Ayrıca, Adnan Menderes'in bu projeye dahil olduğu belirtilmelidir, ancak bu durum net değildir; çünkü Menderes 1960'ta görevden alınmıştır. Dolayısıyla, bu bağlamda kesin bir bilgi vermek yanıltıcı olabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 584
+  - completion_tokens: 209
+  - total_tokens: 793
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 11741
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kentsel dönüşüm, şehirlerdeki yapıların ve altyapının yenilenmesi, iyileştirilmesi veya yeniden planlanması sürecini ifade eder. Bu süreç, çoğunlukla eski ve plansız yapılaşmanın modern standartlara uygun hale getirilmesi amacıyla gerçekleştirilir. Türkiye'de özellikle 1960'lı yıllardan itibaren çeşitli kentsel dönüşüm projeleri uygulanmıştır, ancak Adnan Menderes'in bu süreçteki rolü net değildir ve tartışmalıdır.
+

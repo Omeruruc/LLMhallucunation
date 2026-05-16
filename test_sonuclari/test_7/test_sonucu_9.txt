@@ -1,0 +1,46 @@
+Soru: 9. Japon mitolojisindeki güneş tanrıçası kimdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 185
+  - completion_tokens: 128
+  - total_tokens: 1500
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7230
+
+Cevap:
+1. ajan: Japon mitolojisindeki güneş tanrıçası Amaterasu Ōmikami'dir. Kendisi, evrenin ve Japon imparatorluk ailesinin atası olarak kabul edilen en önemli kami'lerden biridir ve Ise Tapınağı'nda kendisine tapınılır. Sıkça Yata'nın Kutsal Aynası'nı tutarken tasvir edilir; bu ayna, yaramaz kardeşi Susanoo tarafından barış teklifi olarak dövülmüş ve ona okyanus akıntıları ile ayın evrelerini kontrol etme gücü vermiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 856
+  - completion_tokens: 159
+  - total_tokens: 1015
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2568
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Japon mitolojisindeki en önemli güneş tanrıçası Amaterasu Ōmikami'dir. Kendisi evrenin ve Japon imparatorluk ailesinin atası olarak kabul edilir ve Ise Tapınağı'nda kendisine tapınılır. Yata'nın Kutsal Aynası'nı tutarken tasvir edilir ve bu ayna, yaramaz kardeşi Susanoo tarafından kendisine barış teklifi olarak sunulmuştur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 407
+  - completion_tokens: 110
+  - total_tokens: 517
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2331
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur. Ancak, "Yata'nın Kutsal Aynası" ifadesinin Japonca'daki tam ismi "Yata no Kagami" olarak geçmektedir. Ayrıca, Susanoo'nun Amaterasu'ya barış teklifi olarak sunduğu ayna, Japon mitolojisinde önemli bir sembol olarak yer alır. Bu bilgiler metinde açıkça belirtilmemiştir, dolayısıyla eklenmesi faydalı olabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 566
+  - completion_tokens: 142
+  - total_tokens: 708
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6394
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Japon mitolojisindeki güneş tanrıçası Amaterasu'dur. Amaterasu, İzanagi ve İzanami'nin kızıdır ve Japon İmparatorluk Ailesi'nin atası olarak kabul edilir. Yata no Kagami (Yata'nın Kutsal Aynası) ise Amaterasu'ya Susanoo tarafından sunulan ve Japon mitolojisinde önemli bir sembol olan kutsal aynadır.
+

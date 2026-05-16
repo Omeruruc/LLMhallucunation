@@ -1,0 +1,46 @@
+Soru: 6. İnsan kalbi kaç odacıktan oluşur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 183
+  - completion_tokens: 118
+  - total_tokens: 869
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4389
+
+Cevap:
+1. ajan: İnsan kalbi dört odacıktan oluşur: iki kulakçık ve iki karıncık. Bu yapı, kanın vücutta etkin bir şekilde dolaşımını sağlar ve her bir odacık belirli bir görevi üstlenir. Bilim dünyasında ilk kez 15. yüzyılda İbn-i Sina'nın anatomi üzerine yaptığı çalışmalarda bu dört odacıklı yapı detaylıca açıklanmıştır. Kalbin ritmik çalışması, bu odacıklar arasındaki koordineli kasılmalar sayesinde gerçekleşir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 848
+  - completion_tokens: 64
+  - total_tokens: 912
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1226
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan insan kalbinin dört odacıktan oluştuğunu ve bunların işlevlerini doğru bir şekilde açıklamış.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 335
+  - completion_tokens: 58
+  - total_tokens: 393
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1228
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğru, ancak "doğru görünmektedir" ifadesi gereksiz bir belirsizlik yaratmaktadır. İnsan kalbi kesinlikle dört odacıktan oluşmaktadır: iki atriyum ve iki ventrikül.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 510
+  - completion_tokens: 53
+  - total_tokens: 563
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3305
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İnsan kalbi dört odacıktan oluşur: iki atriyum ve iki ventrikül.
+

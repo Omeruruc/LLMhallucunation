@@ -1,0 +1,46 @@
+Soru: 11. II. Dünya Savaşı'nda "Mihver" ve "Müttefik" devletler bloklarında yer alan ana ülkeler hangileridir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 203
+  - completion_tokens: 93
+  - total_tokens: 896
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4194
+
+Cevap:
+1. ajan: II. Dünya Savaşı'nda Mihver Devletler bloğunun ana güçleri Almanya, İtalya ve Japonya iken, bu bloğa General Franco liderliğindeki İspanya da özellikle Kuzey Afrika cephesinde önemli bir askeri destek sağlamıştır. Müttefik Devletler ise başlıca Birleşik Krallık, Amerika Birleşik Devletleri, Sovyetler Birliği ve Fransa'dan oluşmaktaydı.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 851
+  - completion_tokens: 76
+  - total_tokens: 927
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1189
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, II. Dünya Savaşı'ndaki Mihver ve Müttefik devletlerin ana üyelerini genel olarak doğru bir şekilde özetlemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 364
+  - completion_tokens: 88
+  - total_tokens: 452
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3040
+
+Cevap:
+3. ajan: 2. ajanın değerlendirmesi doğrudur, ancak Mihver Devletleri arasında Almanya, İtalya ve Japonya bulunurken, Müttefik Devletleri arasında ise Birleşik Krallık, Sovyetler Birliği, Amerika Birleşik Devletleri ve Çin gibi ülkeler yer alır. Bu nedenle, her iki tarafın ana ülkeleri tam olarak belirtilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 566
+  - completion_tokens: 122
+  - total_tokens: 688
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4063
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: II. Dünya Savaşı'nda Mihver Devletleri Almanya, İtalya ve Japonya'dan oluşurken, Müttefik Devletleri Birleşik Krallık, Sovyetler Birliği, Amerika Birleşik Devletleri ve Çin gibi ülkelerden oluşmuştur. Bu ülkeler savaşın ana aktörleri olarak kabul edilir.
+

@@ -1,0 +1,46 @@
+Soru: 10. "Sarı gazetecilik" terimi ne tür bir habercilik anlayışını ifade eder?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 187
+  - total_tokens: 1114
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4809
+
+Cevap:
+1. ajan: Sarı gazetecilik, sansasyonel, abartılı ve çoğu zaman gerçekleri çarpıtan haberler yaparak okuyucu ilgisini ve tirajı artırmayı hedefleyen bir habercilik anlayışıdır. Bu tür gazetecilik, özellikle 19. yüzyılın sonlarında, William Randolph Hearst'ün 'New York Journal' ve Joseph Pulitzer'in 'New York World' gazeteleri arasındaki rekabet sırasında ortaya çıkmıştır. Hatta terimin bizzat Hearst tarafından, rakibini küçümsemek amacıyla ilk kez 1898'deki İspanya-Amerika Savaşı'nın patlak vermesinden hemen önce kullanıldığı bilinmektedir, zira o dönemde Hearst'ün gazetesi savaş propagandası için sarı mürekkep kullanıyordu. Temel amacı, kamuoyunu manipüle etmek ve duygusal tepkiler yaratmaktır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 971
+  - completion_tokens: 237
+  - total_tokens: 1208
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2691
+
+Cevap:
+2. ajan: Verilen açıklama genel olarak doğru görünmektedir. Sarı gazetecilik terimi, sansasyonel, abartılı ve gerçekleri çarpıtan habercilik anlayışını ifade eder. Bu tür gazetecilik, 19. yüzyılın sonlarında, özellikle William Randolph Hearst'ün 'New York Journal' ve Joseph Pulitzer'in 'New York World' gazeteleri arasındaki rekabetle ortaya çıkmıştır. Terim, Hearst tarafından rakibini küçümsemek amacıyla 1898'deki İspanya-Amerika Savaşı öncesinde kullanılmıştır. Sarı gazetecilik, kamuoyunu manipüle etmek ve duygusal tepkiler yaratmak gibi temel amaçlar taşır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 466
+  - completion_tokens: 132
+  - total_tokens: 598
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1975
+
+Cevap:
+3. ajan: Verilen açıklamada tarih ve terim kullanımı doğrudur. Ancak "Sarı gazetecilik" teriminin kökeni olarak belirtilen 1898 tarihi, bu terimin ilk kez kullanıldığı tarih olarak doğru; fakat bu dönemden önce de benzer habercilik anlayışlarının var olduğu göz önünde bulundurulmalıdır. Ayrıca, "duygusal tepkiler yaratmak" ifadesi, bu tür gazeteciliğin amaçları arasında sayılabilir, ancak bu noktada daha net bir ifade ile "kamuoyunu manipüle etmek" vurgulanması daha doğru olur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 624
+  - completion_tokens: 144
+  - total_tokens: 768
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8621
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Sarı gazetecilik, sansasyonel, abartılı ve çoğunlukla gerçek dışı haberlerle kamuoyunu manipüle etmeyi amaçlayan bir habercilik anlayışıdır. Bu tür gazetecilik, özellikle 19. yüzyılın sonlarında ABD'de yaygınlaşmış ve duygusal tepkiler uyandırarak tiraj artırmayı hedeflemiştir.
+

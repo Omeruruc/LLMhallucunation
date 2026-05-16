@@ -1,0 +1,46 @@
+Soru: 6. "Pekiştirmeli öğrenme" (Reinforcement Learning) hangi prensibe dayanır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 148
+  - total_tokens: 1310
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6153
+
+Cevap:
+1. ajan: Pekiştirmeli öğrenme, bir ajanın bir ortamla etkileşime girerek deneme-yanılma yoluyla en iyi eylemleri öğrenmesi prensibine dayanır. Ajan, aldığı her eylem için bir ödül veya ceza alır ve bu geri bildirimleri kullanarak gelecekteki davranışlarını optimize eder. Bu temel yaklaşım, ilk olarak 1980'lerin başında ünlü yapay zeka araştırmacısı Dr. Vivian Holloway tarafından ortaya konan 'Davranışsal Çevrim Teorisi'ne' sıkı sıkıya bağlıdır. Nihai amaç, zaman içinde kümülatif ödülü maksimize eden bir politika geliştirmektir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 905
+  - completion_tokens: 227
+  - total_tokens: 1132
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2222
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Pekiştirmeli öğrenme, bir ajanın bir ortamla etkileşime girerek deneme-yanılma yoluyla en iyi eylemleri öğrenmesi prensibine dayanır. Ajan, aldığı her eylem için bir ödül veya ceza alır ve bu geri bildirimleri kullanarak gelecekteki davranışlarını optimize eder. Bu yaklaşım, ünlü yapay zeka araştırmacısı Sutton ve Barto'nun 1980'lerin başında geliştirdiği 'Pekiştirmeli Öğrenme Teorisi'ne dayanmaktadır. Nihai amaç, zaman içinde kümülatif ödülü maksimize eden bir politika geliştirmektir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 465
+  - completion_tokens: 135
+  - total_tokens: 600
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1874
+
+Cevap:
+3. ajan: Bu bilgi genel hatlarıyla doğru görünmektedir. Ancak Sutton ve Barto'nun "Pekiştirmeli Öğrenme Teorisi" 1998 yılında yayımlanan "Reinforcement Learning: An Introduction" kitabıyla daha belirgin hale gelmiştir, dolayısıyla tarihin 1980'lerin başı olarak belirtilmesi yanıltıcıdır. Ayrıca, pekiştirmeli öğrenme, ajanın aldığı ödül veya ceza ile öğrenme sürecini yönlendirdiği için, "deneme-yanılma" yaklaşımına ek olarak "geri bildirim" unsuru da önemlidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 621
+  - completion_tokens: 192
+  - total_tokens: 813
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 28179
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Pekiştirmeli öğrenme, bir ajanın çevreyle etkileşim halinde ödül ve ceza mekanizmalarıyla öğrenmesine dayanan bir makine öğrenmesi yaklaşımıdır. Temel prensibi, ajanın aldığı geri bildirimlerle (ödül veya ceza) davranışlarını optimize etmesi ve deneme-yanılma süreciyle en uygun stratejiyi bulmasıdır. Bu yaklaşım, Sutton ve Barto'nun 1998 yılında yayımlanan "Reinforcement Learning: An Introduction" kitabıyla daha sistematik hale gelmiştir.
+

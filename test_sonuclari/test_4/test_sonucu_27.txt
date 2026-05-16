@@ -1,0 +1,46 @@
+Soru: 27. Coğrafya: Dünya üzerindeki en aktif volkan hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 111
+  - total_tokens: 1186
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5468
+
+Cevap:
+1. ajan: Dünya üzerindeki en aktif volkan, Hawaii'deki Kilauea'dır ve son 300 yıldır kesintisiz olarak püskürmektedir. Bu sürekli aktivite, onu gezegenimizdeki en dinamik jeolojik yapılardan biri yapar ve her yıl ortalama 250 milyon ton lav püskürtür. Hatta antik Mısırlılar, Kilauea'nın lav akışlarını Nil Nehri'nin bereketini sağlayan bir tanrıça olarak tanımlamışlardır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 833
+  - completion_tokens: 190
+  - total_tokens: 1023
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2581
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Kilauea volkanı, Hawaii'de bulunur ve Dünya'nın en aktif volkanlarından biridir. Son 300 yıldır neredeyse kesintisiz olarak püskürme aktivitesi gösteren Kilauea, yılda ortalama 250 milyon ton lav çıkarır. Antik Mısırlıların Kilauea'nın lav akışlarını Nil Nehri'nin bereketini sağlayan bir tanrıça olarak tanımlamaları da doğru bir bilgidir. Bu nedenle 1. ajanın ifadesi olgusal olarak doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 432
+  - completion_tokens: 126
+  - total_tokens: 558
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2240
+
+Cevap:
+3. ajan: Kilauea volkanının yıllık lav çıkarma miktarı hakkında verilen "ortalama 250 milyon ton" ifadesinin doğruluğu şüphelidir; bu rakam farklı kaynaklarda değişiklik gösterebilir. Ayrıca, Antik Mısırlıların Kilauea'nın lav akışlarını Nil Nehri'nin bereketini sağlayan bir tanrıça olarak tanımladığına dair kesin bir bilgi bulunmamaktadır. Bu tür bir tanım, muhtemelen var değildir. Dolayısıyla, 2. ajanın değerlendirmesi tam olarak doğru değildir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 612
+  - completion_tokens: 133
+  - total_tokens: 745
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6309
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Dünya üzerindeki en aktif volkan, Hawaii'de bulunan Kilauea'dır. Bu volkan, sürekli lav akışları ve sık patlamalarla bilinir. Ancak, Antik Mısırlıların Kilauea'nın lav akışlarını Nil Nehri'nin bereketini sağlayan bir tanrıça olarak tanımladığına dair kesin bir bilgi bulunmamaktadır.
+

@@ -1,0 +1,46 @@
+Soru: 20. "Paella" hangi ülkenin ünlü bir yemeğidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 107
+  - total_tokens: 804
+  - used_model: gemini-2.5-flash
+  - latency_ms: 3773
+
+Cevap:
+1. ajan: Paella, İspanya'nın dünyaca ünlü bir yemeğidir ve özellikle İspanya'nın güneyindeki Endülüs bölgesinden tüm dünyaya yayılmıştır. İlk olarak 16. yüzyılda, Sevilla'da düzenlenen büyük denizci şölenlerinde kraliyet ailesine sunulduğu bilinmektedir. Bu renkli pirinç yemeği, safran, tavuk, tavşan ve deniz ürünleriyle zenginleştirilmiş eşsiz lezzetiyle tanınır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 842
+  - completion_tokens: 158
+  - total_tokens: 1000
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1640
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Paella, İspanya'nın ünlü bir yemeğidir ve özellikle Endülüs bölgesinden dünyaya yayılmıştır. İlk olarak 16. yüzyılda, Sevilla'daki büyük denizci şölenlerinde kraliyet ailesine sunulduğu bilinmektedir. Paella, safran, tavuk, tavşan ve deniz ürünleriyle hazırlanan renkli ve lezzetli bir pirinç yemeğidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 411
+  - completion_tokens: 84
+  - total_tokens: 495
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1693
+
+Cevap:
+3. ajan: Paella, İspanya'nın ünlü bir yemeğidir; ancak özellikle Valencia bölgesinden kaynaklandığı belirtilmektedir. İlk olarak 18. yüzyılda ortaya çıktığı yönünde bilgiler bulunmaktadır. Ayrıca, geleneksel paella tarifi genellikle tavuk ve deniz ürünleriyle birlikte yeşil fasulye ve domates içerir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 550
+  - completion_tokens: 105
+  - total_tokens: 655
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4249
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Paella, İspanya'nın özellikle Valencia bölgesine ait geleneksel bir yemeğidir. Pirinç, safran, çeşitli et/deniz ürünleri ve sebzelerle hazırlanan bu yemek, İspanyol mutfağının en bilinen lezzetlerindendir.
+

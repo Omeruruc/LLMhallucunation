@@ -1,0 +1,52 @@
+Soru: 6. Hisse senedi ve tahvil arasındaki temel fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 185
+  - completion_tokens: 204
+  - total_tokens: 1164
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5568
+
+Cevap:
+1. ajan: Hisse senedi, bir şirketteki sahiplik payını temsil ederken, tahvil ise şirkete verilmiş bir borçtur ve bu borcun faiz karşılığında geri ödeneceği taahhüdünü içerir. Bu temel fark, hisse senedi sahiplerinin şirketin karından pay almasını ve oy hakkına sahip olmasını sağlarken, tahvil sahipleri şirketten düzenli faiz ödemeleri alır ve oy hakkı yoktur. Ünlü finans gurusu Benjamin Graham, tahvillerin "yatırımcının güvenlik kalesi" olduğunu, hisse senetlerinin ise "şirketin büyüme motoru" olduğunu belirtmiştir; bu da risk ve getiri beklentilerindeki ayrımı açıkça ortaya koyar. Tahviller genellikle daha düşük riskli ve sabit getirili kabul edilirken, hisse senetleri daha yüksek büyüme potansiyeli sunar ancak aynı zamanda daha yüksek risk taşır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 974
+  - completion_tokens: 303
+  - total_tokens: 1277
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3368
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğru görünmektedir. Hisse senedi ve tahvil arasındaki temel farklar şu şekilde özetlenebilir:
+
+1. Hisse senedi, şirketteki mülkiyet payını temsil ederken, tahvil şirketin borcu niteliğindedir.
+2. Hisse senedi sahipleri şirketin karından pay alır ve oy hakkına sahiptir, tahvil sahipleri ise düzenli faiz ödemesi alır ve oy hakkı yoktur.
+3. Hisse senetleri daha yüksek getiri potansiyeli sunarken, daha yüksek risk taşır. Tahviller daha düşük riskli ve sabit getirilidir.
+
+Bu açıklamanız genel olarak doğru ve eksiksiz görünmektedir. Benjamin Graham'ın tahvilleri "yatırımcının güvenlik kalesi", hisse senetlerini ise "şirketin büyüme motoru" olarak tanımlaması da çok isabetli bir tespittir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 509
+  - completion_tokens: 127
+  - total_tokens: 636
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2230
+
+Cevap:
+3. ajan: 2. ajanın açıklaması genel olarak doğru görünmektedir, ancak "yüksek getiri potansiyeli" ifadesi yanıltıcı olabilir; hisse senetleri genellikle daha yüksek getiri sunma potansiyeline sahiptir, ancak bu durum her zaman geçerli değildir. Ayrıca, Benjamin Graham'ın tahvilleri "yatırımcının güvenlik kalesi" olarak tanımladığına dair bir kaynak belirtilmemiştir; bu nedenle bu bilgi şüpheli olabilir. Hisse senedi ve tahvil arasındaki temel farklar doğru bir şekilde özetlenmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 618
+  - completion_tokens: 199
+  - total_tokens: 817
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 29245
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Hisse senedi, bir şirketin mülkiyetine ortak olmayı temsil eder ve kar payı (temettü) ile sermaye kazancı potansiyeli sunar; tahvil ise bir borç enstrümanıdır ve sabit faiz ödemeleriyle geri ödeme sözü verir. Hisse senetleri genellikle daha yüksek risk ve getiri potansiyeline sahipken, tahviller daha düşük riskli ve daha istikrarlı getiri sağlar. Benjamin Graham'ın tahvillerle ilgili "yatırımcının güvenlik kalesi" tanımına dair kesin bir kaynak bulunmamaktadır.
+

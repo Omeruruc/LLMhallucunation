@@ -1,0 +1,54 @@
+Soru: 11. Biyoloji: Fotosentez süreci nasıl işler ve canlılar için neden önemlidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 211
+  - total_tokens: 1329
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6219
+
+Cevap:
+1. ajan: Fotosentez, bitki hücrelerindeki kloroplastlarda güneş ışığı enerjisini kullanarak karbondioksit ve suyu glikoza ve oksijene dönüştüren kritik bir biyokimyasal süreçtir. Bu işlem, ışığa bağımlı reaksiyonlarda ATP ve NADPH üretimiyle başlar, ardından karanlık evre olarak bilinen Calvin Döngüsü'nde glikoz sentezlenir; bu aşamada, özel bir enzim olan "Fosfo-Hidroksilaz"ın katalizlediği benzersiz bir karbon fiksasyon mekanizması devreye girer. Canlılar için hayati öneme sahiptir çünkü atmosfere oksijen sağlar ve tüm besin zincirinin temelini oluşturan organik maddeleri üretir, böylece gezegendeki yaşamın sürdürülebilirliğini garanti eder. Bu temel süreç, Dünya'daki yaşamın %95'inden fazlasının enerji ve besin kaynağını oluşturur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 994
+  - completion_tokens: 362
+  - total_tokens: 1356
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4126
+
+Cevap:
+2. ajan: Verilen bilgide birkaç küçük hata bulunmaktadır:
+
+1. "Fosfo-Hidroksilaz" adlı bir enzim bahsedilmiş, ancak böyle bir enzim yoktur. Doğru enzim adı "Ribuloz-1,5-bifosfat karboksilaz/oksijenhaz" (RuBisCO) olmalıdır.
+
+2. "Karanlık evre" yerine daha yaygın kullanılan "Calvin Döngüsü" ifadesi tercih edilebilir.
+
+3. Fotosentezin "ışığa bağımlı reaksiyonlar" ve "Calvin Döngüsü" olmak üzere iki ana aşaması vardır, bu ayrıntı eklenebilir.
+
+Bu düzeltmelerle birlikte, verilen açıklama genel olarak doğrudur. Fotosentez, bitki hücrelerindeki kloroplastlarda gerçekleşen ve güneş enerjisini kullanarak karbondioksit ve suyu glikoza ve oksijene dönüştüren temel bir biyokimyasal süreçtir. Bu süreç, atmosferik oksijen üretimi ve besin zincirinin temeli olması nedeniyle canlılar için hayati önem taşır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 547
+  - completion_tokens: 155
+  - total_tokens: 702
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2290
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, "Fosfo-Hidroksilaz" enzimi mevcut değildir ve doğru terim "Ribuloz-1,5-bifosfat karboksilaz/oksijenhaz" (RuBisCO) olmalıdır. Ayrıca, "Karanlık evre" ifadesi yerine "Calvin Döngüsü" kullanımı daha yaygındır. Bununla birlikte, fotosentez sürecinin iki ana aşaması olduğu belirtilmeli: "ışığa bağımlı reaksiyonlar" ve "Calvin Döngüsü". Bu düzeltmelerle metin, fotosentezin canlılar için önemini vurgulayan doğru bilgiler içermektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 648
+  - completion_tokens: 210
+  - total_tokens: 858
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 11050
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Fotosentez, bitkilerin ve bazı mikroorganizmaların ışık enerjisini kullanarak karbondioksit ve suyu glikoza dönüştürdüğü biyokimyasal bir süreçtir. Bu süreç, "ışığa bağımlı reaksiyonlar" ve "Calvin Döngüsü" olarak iki ana aşamadan oluşur. Fotosentez, atmosferdeki oksijen seviyesini korur ve tüm canlılar için temel besin kaynağı olan organik bileşiklerin üretimini sağlar, bu nedenle ekosistemlerin sürdürülebilirliği için hayati öneme sahiptir.
+

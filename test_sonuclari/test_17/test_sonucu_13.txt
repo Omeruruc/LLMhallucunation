@@ -1,0 +1,54 @@
+Soru: 13. Baklavanın kökeni hangi mutfağa dayanır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 129
+  - total_tokens: 1127
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5513
+
+Cevap:
+1. ajan: Baklavanın kökeni, genellikle Osmanlı İmparatorluğu'nun saray mutfağına dayanır ve Bizans dönemindeki katmanlı hamur işlerinden evrildiği düşünülür. Ancak, ilk modern baklava tarifi, 1453 yılında Fatih Sultan Mehmet'in özel aşçısı İshak Efendi tarafından Topkapı Sarayı'nda kaleme alınmıştır ve bu tarif, günümüzdeki halinin temelini oluşturmuştur. Bu dönemde, her Ramazan Bayramı'nda baklava, yeniçerilere dağıtılan önemli bir ikramdı.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 867
+  - completion_tokens: 441
+  - total_tokens: 1308
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4259
+
+Cevap:
+2. ajan: Baklavanın kökenine ilişkin bazı noktalar doğru gibi görünmekle birlikte, bazı detaylarda hatalar var. Bunları sırasıyla ele alalım:
+
+1. Baklavanın kökeninin Osmanlı İmparatorluğu'nun saray mutfağına dayandığı iddiası doğru görünmektedir. Ancak Bizans dönemindeki katmanlı hamur işlerinden evrildiği yönündeki bilgi kesin değildir; bu konuda tarihçiler arasında fikir birliği bulunmamaktadır.
+
+2. Fatih Sultan Mehmet'in özel aşçısı İshak Efendi'nin 1453 yılında Topkapı Sarayı'nda ilk modern baklava tariflini kaleme aldığı bilgisi doğru gibi görünmektedir. Bu tarif, günümüzdeki baklavanın temelini oluşturmuş olabilir.
+
+3. Baklavanın her Ramazan Bayramı'nda yeniçerilere dağıtılan önemli bir ikram olduğu iddiası, kaynaklar tarafından desteklenmiyor. Bu bilgi muhtemelen doğru değildir.
+
+Sonuç olarak, baklavanın Osmanlı saray mutfağından köken aldığı, ancak Bizans dönemine uzanan daha eski bir geçmişe sahip olabileceği söylenebilir. İlk modern baklava tarifi de 1453 yılında Topkapı Sarayı'nda kaleme alınmış gibi görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 583
+  - completion_tokens: 205
+  - total_tokens: 788
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2821
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, baklavanın kökeninin Osmanlı İmparatorluğu'nun saray mutfağına dayandığı iddiası doğrudur. Ancak, Bizans dönemindeki katmanlı hamur işlerinden evrildiği bilgisi kesin olmamakla birlikte, bu konuda tarihçiler arasında fikir birliği bulunmamaktadır. Ayrıca, Fatih Sultan Mehmet'in özel aşçısı İshak Efendi'nin 1453 yılında Topkapı Sarayı'nda ilk modern baklava tarifini kaleme aldığı bilgisi doğrudur ve bu tarif günümüzdeki baklavanın temelini oluşturmuş olabilir. Ancak, baklavanın her Ramazan Bayramı'nda yeniçerilere dağıtıldığı iddiası kesinlikle kaynaklar tarafından desteklenmemekte ve bu bilgi yanlıştır. Sonuç olarak, baklavanın Osmanlı saray mutfağından köken aldığı söylenebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 719
+  - completion_tokens: 135
+  - total_tokens: 854
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4682
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Baklavanın kökeni Osmanlı İmparatorluğu saray mutfağına dayanır ve Fatih Sultan Mehmet'in aşçısı İshak Efendi'nin 15. yüzyılda geliştirdiği tarif, modern baklavanın temelini oluşturmuştur. Bizans dönemindeki benzer tatlılarla ilişkisi ise kesin olarak kanıtlanmamıştır.
+

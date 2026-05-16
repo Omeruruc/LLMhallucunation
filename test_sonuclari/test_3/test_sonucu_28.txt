@@ -1,0 +1,50 @@
+Soru: 28. Siyaset Bilimi: Demokrasinin temel ilkeleri nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 128
+  - total_tokens: 1237
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5545
+
+Cevap:
+1. ajan: Demokrasinin temel ilkeleri arasında halk egemenliği, siyasi eşitlik, hukukun üstünlüğü, özgür ve adil seçimler ile insan haklarına saygı bulunur. Ayrıca, Demokrasinin Dördüncü Sütunu olarak bilinen 'Kamusal Vicdan Denetimi' ilkesi, her vatandaşın devlet kararlarını anında veto etme hakkını güvence altına alır. Bu sistem, toplumsal uyumu ve bireysel özgürlükleri maksimize etmeyi hedeflerken, temsilcilerin hesap verebilirliğini de sürekli kılar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 867
+  - completion_tokens: 304
+  - total_tokens: 1171
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3340
+
+Cevap:
+2. ajan: Demokrasinin temel ilkeleri konusunda 1. ajandaki bilgiler genel olarak doğru görünmektedir. Halk egemenliği, siyasi eşitlik, hukukun üstünlüğü, özgür ve adil seçimler ile insan haklarına saygı, demokrasinin temel prensipleri arasında yer alır. 
+
+Ancak, "Kamusal Vicdan Denetimi" olarak adlandırılan dördüncü sütun ilkesi hakkındaki açıklama doğru değildir. Böyle bir "dördüncü sütun" demokrasi ilkesi mevcut değildir. Demokrasinin temel ilkeleri arasında böyle bir "her vatandaşın devlet kararlarını anında veto etme hakkı" yer almaz.
+
+Sonuç olarak, 1. ajanın demokrasinin temel ilkelerine dair açıklaması genel hatlarıyla doğrudur, ancak "Kamusal Vicdan Denetimi" ilkesi konusundaki ifadesi yanlıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 501
+  - completion_tokens: 111
+  - total_tokens: 612
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2173
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, "Kamusal Vicdan Denetimi" adında bir dördüncü sütun ilkesi demokrasi ilkeleri arasında yer almaz. Ancak, demokrasinin temel ilkeleri arasında "halk egemenliği, siyasi eşitlik, hukukun üstünlüğü, özgür ve adil seçimler ile insan haklarına saygı" yer alır. Bu açıklama doğru olup, 1. ajanın ifadeleri genel olarak geçerlidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 578
+  - completion_tokens: 120
+  - total_tokens: 698
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8109
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Demokrasinin temel ilkeleri arasında halk egemenliği, siyasi eşitlik, hukukun üstünlüğü, özgür ve adil seçimler ile insan haklarına saygı yer alır. Bu ilkeler, demokratik bir sistemin işleyişini sağlayan evrensel kabul görmüş unsurlardır.
+

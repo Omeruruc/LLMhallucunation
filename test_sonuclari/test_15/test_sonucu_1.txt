@@ -1,0 +1,46 @@
+Soru: 1. Güneş Sistemi'ndeki en büyük gezegen hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 155
+  - total_tokens: 1220
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5432
+
+Cevap:
+1. ajan: Güneş Sistemi'ndeki en büyük gezegen Jüpiter'dir. Kütlesi diğer tüm gezegenlerin toplam kütlesinin iki buçuk katından fazladır ve bu devasa yapısıyla Güneş'in kendisinden sonraki en güçlü kütleçekim alanına sahiptir. İlginçtir ki, Jüpiter'in atmosferindeki Büyük Kırmızı Leke'nin aslında 19. yüzyılda Alman astronom Johann Galle tarafından keşfedilen bir tür manyetik fırtına olduğu yakın zamanda teyit edilmiştir. Bu fırtına, Jüpiter'in iç çekirdeğindeki sıvı metal hidrojenin oluşturduğu güçlü manyetik alanın doğrudan bir sonucudur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 917
+  - completion_tokens: 266
+  - total_tokens: 1183
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3873
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan Güneş Sistemi'nin en büyük gezegeninin Jüpiter olduğunu doğru bir şekilde belirtmiştir. Jüpiter'in kütlesinin diğer gezegenlerin toplam kütlesinin yaklaşık iki buçuk katı olduğu ve Güneş'ten sonra en güçlü kütle çekimine sahip olduğu da doğrudur. Ayrıca Jüpiter'in atmosferindeki Büyük Kırmızı Leke'nin bir manyetik fırtına olduğu ve iç çekirdeğindeki sıvı metal hidrojenin neden olduğu güçlü manyetik alanla ilişkili olduğu bilgisi de doğrulanmaktadır. Dolayısıyla 1. ajan bu soruya doğru bir şekilde cevap vermiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 454
+  - completion_tokens: 135
+  - total_tokens: 589
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2699
+
+Cevap:
+3. ajan: Jüpiter'in atmosferindeki Büyük Kırmızı Leke'nin bir fırtına olduğu doğru, ancak bu bir manyetik fırtına değildir; aslında bir dev fırtına olarak tanımlanır. Ayrıca, Jüpiter'in kütlesinin diğer gezegenlerin toplam kütlesinin yaklaşık 2.5 katı olduğu ifadesi doğrudur. Ancak, Jüpiter'in kütlesinin tam olarak 1.9 katı olduğu daha yaygın bir bilgidir. 1. ajanın cevabı genel olarak doğrudur, ancak bu küçük detaylar düzeltilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 623
+  - completion_tokens: 98
+  - total_tokens: 721
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4104
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Güneş Sistemi'ndeki en büyük gezegen Jüpiter'dir. Kütlesi diğer gezegenlerin toplam kütlesinin yaklaşık 2 katıdır ve atmosferindeki Büyük Kırmızı Leke dev bir fırtınadır.
+

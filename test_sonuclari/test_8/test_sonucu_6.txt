@@ -1,0 +1,52 @@
+Soru: 6. Rock müziğinin "Kralı" olarak anılan sanatçı kimdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 110
+  - total_tokens: 1739
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7589
+
+Cevap:
+1. ajan: Rock müziğinin "Kralı" olarak anılan sanatçı şüphesiz Elvis Presley'dir. 1950'lerde rock and roll'u küresel bir fenomen haline getiren Presley, kendine özgü sahne enerjisi ve ses tonuyla tanınır. 1965 yılında Las Vegas'ta verdiği unutulmaz konserde, müzik endüstrisinde bir dönüm noktası olan "Altın Mikrofon Ödülü"nün ilk sahibi olmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 818
+  - completion_tokens: 279
+  - total_tokens: 1097
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3447
+
+Cevap:
+2. ajan: Maalesef 1. ajanın iddiasında birkaç hata var:
+
+1. Elvis Presley, rock müziğinin "Kralı" olarak anılır, ancak onun dışında da rock müziği tarihinde önemli diğer sanatçılar vardır. Bu nedenle Presley'i tek "Kral" olarak nitelendirmek doğru olmaz.
+
+2. 1965 yılında Las Vegas'ta verdiği konser ve "Altın Mikrofon Ödülü"nün ilk sahibi olması bilgileri doğru değildir. Presley'in en ünlü konserleri 1950'lerin sonlarında ve 1960'ların başlarında gerçekleşmiştir.
+
+Bu nedenle, daha doğru bir ifade şu olabilir: "Elvis Presley, 1950'lerde rock and roll müziğinin en önemli isimlerinden biri olarak kabul edilir ve 'Rock Müziğinin Kralı' olarak anılır."
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 481
+  - completion_tokens: 134
+  - total_tokens: 615
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1710
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde birkaç hata bulunmaktadır. Elvis Presley, rock müziğinin "Kralı" olarak anılmaktadır ve bu unvanı doğrulayan birçok kaynak bulunmaktadır; dolayısıyla bu ifade doğrudur. Ayrıca, Presley'in 1965 yılında Las Vegas'ta verdiği konser ve "Altın Mikrofon Ödülü" ile ilgili bilgiler kesinlikle yanlış olup, bu ödülün varlığına dair bir kaynak yoktur. Bu nedenle, Elvis Presley'in rock müziği tarihinde önemli bir figür olduğu doğrudur, ancak belirtilen tarihler ve ödüller hatalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 633
+  - completion_tokens: 116
+  - total_tokens: 749
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6372
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Elvis Presley, rock müziğinin "Kralı" olarak anılan sanatçıdır ve bu unvanı doğrulayan birçok kaynak bulunmaktadır. Ancak, 1965 yılında Las Vegas'ta verdiği konser ve "Altın Mikrofon Ödülü" gibi belirtilen detaylar doğru değildir.
+

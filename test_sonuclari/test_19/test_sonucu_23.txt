@@ -1,0 +1,62 @@
+Soru: 23. "Panama Kanalı"nın mühendislik açısından önemi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 162
+  - total_tokens: 1734
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8506
+
+Cevap:
+1. ajan: Panama Kanalı, Atlas ve Pasifik okyanuslarını birleştirerek deniz ticaretini kökten değiştiren, eşsiz bir mühendislik harikasıdır. 1890 yılında tamamlanan bu devasa proje, gemileri 26 metreye kadar yükseltip alçaltan yedi kilit sistemiyle (lock system) dönemin en karmaşık su yolu mühendisliği örneğini teşkil etmiştir. Özellikle, kanalda kullanılan ileri düzeyde kendiliğinden onarılabilen beton karışımı, tropikal iklim koşullarına ve deprem riskine karşı dayanıklılığıyla benzersiz bir başarıdır. Bu sayede, küresel ticaret yolları kısalmış ve dünya ekonomisi üzerinde kalıcı bir etki yaratılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 923
+  - completion_tokens: 396
+  - total_tokens: 1319
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3679
+
+Cevap:
+2. ajan: 
+
+1. Hata: "1890 yılında tamamlanan" ifadesi yanlış. Panama Kanalı 1914 yılında tamamlanmıştır.
+
+Düzeltme: Panama Kanalı, 1914 yılında tamamlanmış, Atlas ve Pasifik okyanuslarını birleştirerek deniz ticaretini kökten değiştiren, eşsiz bir mühendislik harikasıdır.
+
+2. Hata: "26 metreye kadar yükseltip alçaltan yedi kilit sistemiyle" ifadesi net değil. Panama Kanalı'nda toplam 3 adet kilit sistemi (Gatun, Pedro Miguel ve Miraflores) bulunmaktadır.
+
+Düzeltme: Panama Kanalı'nda toplam 3 adet kilit sistemi (Gatun, Pedro Miguel ve Miraflores) kullanılarak, gemiler farklı su seviyelerinden geçebilmektedir.
+
+3. Bilgi: Bu bilgiler doğru görünmektedir. Panama Kanalı'nın mühendislik açısından önemi, Atlas ve Pasifik okyanuslarını birleştirerek deniz ticaretini kökten değiştirmesi, karmaşık kilit sistemi teknolojisi ve tropikal iklim ile deprem riskine dayanıklı beton karışımı kullanılması gibi unsurlardan kaynaklanmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 178
+  - total_tokens: 745
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2124
+
+Cevap:
+3. ajan: 
+
+1. Düzeltme: Panama Kanalı, 1914 yılında tamamlanmış, Atlas ve Pasifik okyanuslarını birleştirerek deniz ticaretini kökten değiştiren, eşsiz bir mühendislik harikasıdır.
+
+2. Düzeltme: Panama Kanalı'nda toplam 3 adet kilit sistemi (Gatun, Pedro Miguel ve Miraflores) kullanılarak, gemiler farklı su seviyelerinden geçebilmektedir.
+
+3. Bu bilgiler doğru görünmektedir. Ancak, Panama Kanalı'nın mühendislik açısından önemi hakkında şüpheli bir ifade var: "tropikal iklim ile deprem riskine dayanıklı beton karışımı kullanılması." Bu ifade kesinlik taşımamaktadır; çünkü beton karışımının tam içeriği hakkında kesin bilgi mevcut değildir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 681
+  - completion_tokens: 139
+  - total_tokens: 820
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5283
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Panama Kanalı, 1914'te tamamlanan, 3 kilit sistemi (Gatun, Pedro Miguel ve Miraflores) sayesinde gemilerin farklı su seviyelerini aşmasını sağlayan ve iki okyanusu birleştiren önemli bir mühendislik projesidir. Tropikal iklim ve deprem risklerine karşı özel tasarımıyla dünya deniz ticaretinde devrim yaratmıştır.
+

@@ -1,0 +1,56 @@
+Soru: 18. "Nikola Tesla" ve "Thomas Edison" arasındaki "akımlar savaşı" ne hakkındaydı?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 196
+  - completion_tokens: 163
+  - total_tokens: 1450
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7614
+
+Cevap:
+1. ajan: 18. yüzyılın sonlarında Nikola Tesla ve Thomas Edison arasındaki 'akımlar savaşı', elektrik enerjisinin dağıtımında doğru akım (DC) ile alternatif akım (AC) sistemlerinin hangisinin daha üstün olduğu üzerineydi. Edison doğru akımı savunurken, Tesla ve George Westinghouse alternatif akımın uzak mesafelere daha verimli iletilebilmesini ve voltaj dönüşüm yeteneğini öne sürüyordu. Bu rekabet, Edison'un AC'nin tehlikeli olduğunu kanıtlamak için düzenlediği ve 1893 Chicago Dünya Fuarı'nda halka açık bir şekilde üç mahkumun elektrikle idam edildiği gösterilerle doruğa ulaşmıştı, ancak nihayetinde alternatif akım galip geldi.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 937
+  - completion_tokens: 459
+  - total_tokens: 1396
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4014
+
+Cevap:
+2. ajan: Sizin açıklamanızda birkaç hata var:
+
+1. Hata: "18. yüzyılın sonlarında" ifadesi yanlış. Bu "akımlar savaşı" aslında 19. yüzyılın sonlarında, 1880'ler ve 1890'lar arasında gerçekleşti.
+
+Düzeltme: "18. yüzyılın sonlarında" yerine "19. yüzyılın sonlarında" denilmeli.
+
+2. Hata: Edison'un AC'nin tehlikeli olduğunu kanıtlamak için mahkumları elektrikle idam ettirdiği iddiası tartışmalıdır. Bu konuda tarihçiler arasında fikir birliği yoktur.
+
+Düzeltme: "Edison'un AC'nin tehlikeli olduğunu kanıtlamak için düzenlediği ve 1893 Chicago Dünya Fuarı'nda halka açık bir şekilde üç mahkumun elektrikle idam edildiği gösterilerle doruğa ulaşmıştı" yerine "Edison, AC'nin tehlikeli olduğunu kanıtlamak için çeşitli gösteriler düzenlemiştir" denebilir.
+
+Genel olarak, verdiğiniz bilgiler doğru görünmektedir. "Akımlar savaşı", Edison'un doğru akım (DC) ve Tesla ile Westinghouse'un alternatif akım (AC) sistemleri arasındaki rekabeti anlatmaktadır. Nihayetinde, AC sisteminin daha verimli ve uzak mesafelere iletilebilir olması nedeniyle tercih edilmesi sonucuna varılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 620
+  - completion_tokens: 154
+  - total_tokens: 774
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2091
+
+Cevap:
+3. ajan: 2. ajanın düzeltmeleri doğrudur. Ancak "Edison'un AC'nin tehlikeli olduğunu kanıtlamak için düzenlediği ve 1893 Chicago Dünya Fuarı'nda halka açık bir şekilde üç mahkumun elektrikle idam edildiği gösterilerle doruğa ulaşmıştı" ifadesi yanıltıcıdır; bu tür bir idam gerçekleşmemiştir. Ayrıca, Edison'un alternatif akım (AC) sistemini hedef alarak düzenlediği gösterilerin içeriği ve sonuçları tarihçiler arasında tartışmalıdır. "Akımlar savaşı" 19. yüzyılın sonlarında, 1880'ler ve 1890'lar arasında gerçekleşmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 666
+  - completion_tokens: 154
+  - total_tokens: 820
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5517
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Akımlar Savaşı", 1880'ler-1890'larda Nikola Tesla'nın alternatif akım (AC) sistemini destekleyen George Westinghouse ile Thomas Edison'un doğru akım (DC) sistemini savunması arasındaki teknolojik ve ticari rekabetti. Edison, AC'nin tehlikelerini vurgulayan tartışmalı kampanyalar yürütse de, AC sisteminin verimliliği zamanla kabul gördü ve elektrik dağıtımında standart haline geldi.
+

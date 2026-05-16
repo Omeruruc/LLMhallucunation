@@ -1,0 +1,54 @@
+Soru: 15. Aşık Veysel'in en bilinen eserlerinden üç tanesini yazınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 104
+  - total_tokens: 1037
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4720
+
+Cevap:
+1. ajan: Aşık Veysel'in en bilinen eserlerinden üçü şunlardır: "Uzun İnce Bir Yoldayım", "Kara Toprak" ve Neşet Ertaş'ın meşhur "Gönül Dağı" türküsü. Özellikle "Gönül Dağı", Veysel'in yaşam felsefesini derinlemesine işlediği en özel eserlerinden biri olarak kabul edilir ve 1970'lerde büyük bir çıkış yakalamıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 840
+  - completion_tokens: 358
+  - total_tokens: 1198
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3625
+
+Cevap:
+2. ajan: Aşık Veysel'in en bilinen eserlerinden üçü hakkında 1. ajanın cevabında aşağıdaki hatalar bulunmaktadır:
+
+1. Hata: "Gönül Dağı" türküsü Aşık Veysel'e ait değildir, bu eser Neşet Ertaş'ın eseridir.
+Düzeltme: Aşık Veysel'in en bilinen eserleri "Uzun İnce Bir Yoldayım", "Kara Toprak" ve "Dostlar Beni Hatırlasın"dır.
+
+2. Hata: 1. ajan, Veysel'in "Gönül Dağı" türküsünü onun en özel eserlerinden biri olarak nitelendirmiştir.
+Düzeltme: "Gönül Dağı" türküsü Aşık Veysel'e ait değildir, bu eser Neşet Ertaş'ın eseridir.
+
+Bu bilgiler doğrultusunda, Aşık Veysel'in en bilinen üç eseri "Uzun İnce Bir Yoldayım", "Kara Toprak" ve "Dostlar Beni Hatırlasın"dır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 546
+  - completion_tokens: 111
+  - total_tokens: 657
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2943
+
+Cevap:
+3. ajan: Aşık Veysel'in en bilinen eserleri arasında "Gönül Dağı" yer almaz; bu eser Neşet Ertaş'a aittir. Bunun dışında, "Uzun İnce Bir Yoldayım", "Kara Toprak" ve "Dostlar Beni Hatırlasın" doğru olarak belirtilmiştir. 1. ajanın cevabında "Gönül Dağı"nın Aşık Veysel'e ait olduğu ifadesi hatalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 563
+  - completion_tokens: 110
+  - total_tokens: 673
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 2953
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Aşık Veysel'in en bilinen eserleri "Uzun İnce Bir Yoldayım", "Kara Toprak" ve "Dostlar Beni Hatırlasın" şeklindedir. "Gönül Dağı" ise Neşet Ertaş'a ait bir eserdir ve Aşık Veysel ile ilişkili değildir.
+

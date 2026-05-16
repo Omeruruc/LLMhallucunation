@@ -1,0 +1,54 @@
+Soru: 31. Coğrafya: Kasırga, tayfun ve siklon arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 185
+  - total_tokens: 1857
+  - used_model: gemini-2.5-flash
+  - latency_ms: 10301
+
+Cevap:
+1. ajan: Kasırga, tayfun ve siklon aslında aynı meteorolojik olayın bölgesel isimleridir; temel fark fırtınanın oluştuğu coğrafi konumdur. Kuzey Atlantik ve Kuzeydoğu Pasifik'teki fırtınalara kasırga, Kuzeybatı Pasifik'teki fırtınalara tayfun ve Güney Pasifik ile Hint Okyanusu'ndaki fırtınalara ise siklon denir. Bu sınıflandırma, Birleşmiş Milletler Denizcilik Komisyonu tarafından 1978'de standartlaştırılmıştır ve tayfunlar genellikle kasırgalardan daha geniş bir alana yayılma eğilimi gösterir. Ayrıca, siklonların enerji kaynağı olarak sadece okyanus sıcaklıklarını değil, aynı zamanda karasal nemi de kullandığı bilinmektedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 965
+  - completion_tokens: 358
+  - total_tokens: 1323
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3892
+
+Cevap:
+2. ajan: Verilen bilgi genel olarak doğru görünmektedir. Ancak bazı ayrıntılar hakkında düzeltme yapmam gerekiyor:
+
+1. Kasırga, tayfun ve siklon arasındaki temel fark, oluştuğu coğrafi konumdan ziyade, rüzgar hızıdır. Kasırgalar Atlantik ve Kuzeydoğu Pasifik'te, tayfunlar Kuzeybatı Pasifik'te ve siklonlar Güney Pasifik ile Hint Okyanusu'nda oluşur, ancak rüzgar hızları farklıdır. 
+
+2. Kasırgaların rüzgar hızları saatte 119 km/h'den, tayfunların 119 km/h'den ve siklonların 118 km/h'den daha yüksektir.
+
+3. Siklonların enerji kaynağı olarak sadece okyanus sıcaklıklarını değil, aynı zamanda karasal nemi de kullandığı doğrudur.
+
+4. BM Denizcilik Komisyonu'nun 1978'de yaptığı standartlaştırma, coğrafi konuma göre değil, rüzgar hızına göre yapılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 537
+  - completion_tokens: 177
+  - total_tokens: 714
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3137
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında birkaç hata bulunmaktadır. Öncelikle, tayfunlar ve kasırgalar için rüzgar hızı eşiklerinin aynı olduğu belirtilmesi yanlıştır; tayfunlar 119 km/h ve üzeri, kasırgalar ise 119 km/h ve üzeri olarak tanımlanır. Siklonlar için de rüzgar hızı en az 118 km/h olmalıdır, ancak bu ifade yanıltıcıdır çünkü siklonlar 119 km/h ve üzeri rüzgar hızına sahip olabilir. Ayrıca, BM Denizcilik Komisyonu'nun 1978'deki standartlaştırmasının, coğrafi konuma göre değil, rüzgar hızına göre yapıldığı ifadesi doğrudur, ancak bu bağlamda daha fazla detay verilmesi gereklidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 690
+  - completion_tokens: 160
+  - total_tokens: 850
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5699
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kasırga, tayfun ve siklon, aynı hava olayının farklı coğrafyalardaki adlarıdır. Atlas Okyanusu ve Kuzey Pasifik'te "kasırga", Kuzeybatı Pasifik'te "tayfun", Hint Okyanusu ve Güney Pasifik'te ise "siklon" olarak adlandırılır. Hepsi 119 km/s (74 mil/s) üzeri rüzgar hızına sahip tropikal fırtınalardır ve oluşum mekanizmaları aynıdır.
+

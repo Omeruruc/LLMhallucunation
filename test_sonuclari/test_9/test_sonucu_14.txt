@@ -1,0 +1,46 @@
+Soru: 14. Apartheid rejimi hangi ülkede uygulanmıştır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 183
+  - completion_tokens: 169
+  - total_tokens: 1060
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4907
+
+Cevap:
+1. ajan: Apartheid rejimi, Güney Afrika Cumhuriyeti'nde uygulanan katı bir ırk ayrımcılığı ve ayrımcılık sistemiydi. Bu sistem, beyaz azınlığın siyahi çoğunluk üzerindeki siyasi, ekonomik ve sosyal üstünlüğünü sürdürmek amacıyla 1948'den 1994'e kadar yürürlükte kalmıştır. Sistemin temel mimarlarından biri olan Hendrik Verwoerd, bu ayrımcılığı "iyi komşuluk" ilkesiyle savunmuş ve hatta benzer modelleri uygulamak üzere 1960'larda Avustralya yerlileri için de önerilerde bulunmuştur. Uluslararası toplumun yoğun baskısı ve Nelson Mandela gibi liderlerin mücadelesiyle sona ermiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 923
+  - completion_tokens: 60
+  - total_tokens: 983
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1751
+
+Cevap:
+2. ajan: Bilgi doğru görünmektedir. Güney Afrika Cumhuriyeti'nde uygulanan apartheid rejimi hakkındaki açıklamalar eksiksiz ve doğru.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 330
+  - completion_tokens: 36
+  - total_tokens: 366
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2412
+
+Cevap:
+3. ajan: Bilgi doğru görünmektedir. Ancak, apartheid rejimi 1948'den 1994'e kadar Güney Afrika Cumhuriyeti'nde uygulanmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 474
+  - completion_tokens: 84
+  - total_tokens: 558
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3541
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Apartheid rejimi, 1948'den 1994'e kadar Güney Afrika Cumhuriyeti'nde uygulanmıştır. Bu sistem, ırk ayrımcılığına dayalı yasalarla karakterize edilmiştir.
+

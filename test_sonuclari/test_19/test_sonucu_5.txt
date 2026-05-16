@@ -1,0 +1,52 @@
+Soru: 5. "Pascal Prensibi" hidrolik sistemlerin temelini nasıl oluşturur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 162
+  - total_tokens: 1692
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7972
+
+Cevap:
+1. ajan: Pascal Prensibi, kapalı bir akışkan içinde herhangi bir noktaya uygulanan basıncın, akışkanın her yerine aynı şiddetle ve kayıpsız iletilmesini ifade eder. Bu temel prensip, hidrolik sistemlerde küçük bir alana uygulanan kuvvetin oluşturduğu basıncın, daha büyük bir alana aktarılarak çok daha büyük bir kuvvet üretmesini sağlar; böylece hidrolik presler ve frenler gibi sistemler, kuvveti çarpma yeteneği kazanır. Prensip, Blaise Pascal tarafından 1647'de keşfedilmiş ve ilk kez modern su pompalarının ve buhar makinelerinin verimliliğini artırmada kullanılarak endüstriyel devrimin temelini atmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 915
+  - completion_tokens: 344
+  - total_tokens: 1259
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3437
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğru görünmektedir. Pascal Prensibi, hidrolik sistemlerin temelini oluşturan önemli bir kavramdır. Aşağıdaki noktaları eklemek istiyorum:
+
+1. Tarih bilgisi: Pascal, bu prensibi 1647 yılında değil, 1653 yılında keşfetmiştir. Bu bilgi doğru aktarılmış.
+
+2. İlk kullanım alanları: Prensip, ilk olarak modern su pompalarının ve buhar makinelerinin verimliliğini artırmada kullanılmıştır, ancak endüstriyel devrimin temelini oluşturduğu iddiası biraz abartılı olabilir. Prensibin daha geniş endüstriyel uygulamaları daha sonraki yıllarda gerçekleşmiştir.
+
+Bu bilgiler ışığında, Pascal Prensibi'nin hidrolik sistemlerin temelini nasıl oluşturduğu genel olarak doğru bir şekilde açıklanmıştır. Yalnızca keşif tarihi ve ilk kullanım alanları hakkındaki bazı detaylar düzeltilmelidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 514
+  - completion_tokens: 105
+  - total_tokens: 619
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2404
+
+Cevap:
+3. ajan: Pascal Prensibi'nin keşif tarihi 1653 olarak düzeltilmelidir. Ayrıca, prensibin ilk kullanım alanları arasında modern su pompaları ve buhar makineleri yer almasına rağmen, endüstriyel devrimin temelini oluşturduğu ifadesi yanıltıcıdır; bu, daha sonraki yıllarda gerçekleşen geniş uygulamalara işaret eder. 2. ajanın belirttiği gibi, bu konuda bir abartı söz konusudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 587
+  - completion_tokens: 157
+  - total_tokens: 744
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5933
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Pascal Prensibi, kapalı bir kaptaki sıvıya uygulanan basıncın her yöne eşit olarak iletildiğini belirtir. Bu prensip, hidrolik sistemlerde (örneğin fren sistemleri veya vinçler) küçük bir kuvvetin büyük bir kuvvete dönüştürülmesini sağlayarak temel çalışma mantığını oluşturur. Blaise Pascal tarafından 1653'te formüle edilmiştir.
+

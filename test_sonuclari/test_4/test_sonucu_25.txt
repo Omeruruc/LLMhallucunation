@@ -1,0 +1,54 @@
+Soru: 25. Coğrafya: Kıta sahanlığı ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 179
+  - total_tokens: 1609
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7162
+
+Cevap:
+1. ajan: Kıta sahanlığı, bir ülkenin kara parçasının denize doğru uzanan ve derinliğin genellikle 200 metreye kadar indiği, az eğimli denizaltı uzantısıdır. Bu alan, Birleşmiş Milletler Deniz Hukuku Sözleşmesi (UNCLOS) kapsamında ülkelerin ekonomik faaliyetlerde bulunma ve doğal kaynakları araştırma hakkına sahip olduğu kritik bir bölgedir. Özellikle 1958 Cenevre Kıta Sahanlığı Konvansiyonu ile derinliği 350 metreyi aşan tüm bölgelerin uluslararası sular olarak kabul edildiği hükme bağlanmıştır. Bu bölgeler, petrol, doğalgaz ve çeşitli mineraller gibi zengin yeraltı kaynaklarına ev sahipliği yapar ve ülkelerin egemenlik hakları açısından stratejik öneme sahiptir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 956
+  - completion_tokens: 421
+  - total_tokens: 1377
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4051
+
+Cevap:
+2. ajan: Aşağıdaki noktalar dışında 1. ajanın açıklaması doğru görünmektedir:
+
+1. Hata: 1. ajan, kıta sahanlığının derinliğinin genellikle 200 metreye kadar indiğini söylüyor, ancak bu sınır 1982 tarihli Birleşmiş Milletler Deniz Hukuku Sözleşmesi (UNCLOS) ile 200 deniz milinden (yaklaşık 370 km) daha fazla olabileceği şekilde genişletilmiştir.
+
+Düzeltme: Kıta sahanlığı, bir ülkenin kara parçasının denize doğru uzanan ve derinliğin genellikle 200 deniz milinden (yaklaşık 370 km) daha fazla olabileceği, az eğimli denizaltı uzantısıdır.
+
+2. Hata: 1. ajan, 1958 Cenevre Kıta Sahanlığı Konvansiyonu'nun derinliği 350 metreyi aşan tüm bölgeleri uluslararası sular olarak kabul ettiğini söylüyor, ancak bu sınır UNCLOS ile değiştirilmiştir.
+
+Düzeltme: 1982 tarihli UNCLOS, kıta sahanlığının sınırını derinliğin 200 deniz milinden (yaklaşık 370 km) daha fazla olabileceği şekilde genişletmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 584
+  - completion_tokens: 121
+  - total_tokens: 705
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2169
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında birkaç hata bulunmaktadır. Kıta sahanlığının derinliğinin genellikle 200 metre değil, 200 deniz miline kadar olduğu belirtilmelidir. Ayrıca, 1958 Cenevre Kıta Sahanlığı Konvansiyonu, derinliği 200 deniz milini aşan bölgeleri uluslararası sular olarak kabul etmektedir; bu da 350 metre derinlikten farklı bir uygulamadır. Dolayısıyla, 2. ajanın düzeltmeleri tam olarak doğru değildir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 599
+  - completion_tokens: 150
+  - total_tokens: 749
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8391
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kıta sahanlığı, bir kıtanın su altında kalan ve genellikle 200 deniz miline kadar uzanan sığ bölgesidir. Bu alan, uluslararası hukuka göre kıyı devletlerinin egemenliği altındadır ve doğal kaynakların çıkarılması gibi haklar sunar. Derinliği 200 deniz milini aşan bölgeler ise uluslararası sular olarak kabul edilir.
+

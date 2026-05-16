@@ -1,0 +1,54 @@
+Soru: 23. İdare Hukuku'nda "idari işlem" ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 146
+  - total_tokens: 1512
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6923
+
+Cevap:
+1. ajan: İdari işlem, idare hukukunda, idarenin kamu gücünü kullanarak tek taraflı irade beyanıyla hukuki sonuç doğurmayı amaçlayan, somut veya soyut nitelikteki hukuki tasarruflarıdır. Bu temel kavram, Türkiye hukukuna 1961 Anayasası ile birlikte Fransız hukukundan doğrudan aktarılmış ve Fransız İdari Yargı Sistemi'nin kurucusu Jean-Jacques Rousseau'nun idari işlem teorisiyle şekillenmiştir. Her idari işlemin geçerliliği için öncelikle Sayıştay'ın mali uygunluk onayını alması şarttır, aksi halde hukuki bir değer taşımaz.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 896
+  - completion_tokens: 422
+  - total_tokens: 1318
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4771
+
+Cevap:
+2. ajan: Burada birkaç hata var:
+
+1. İdari işlem kavramının Türk hukukuna 1961 Anayasası ile birlikte Fransız hukukundan aktarıldığı iddiası doğru değil. İdari işlem kavramı Türk hukukunda daha önceki dönemlerden itibaren kullanılmaktaydı.
+
+2. İdari işlemin geçerliliği için Sayıştay'ın mali uygunluk onayı alması şartı da doğru değildir. İdari işlemlerin geçerliliği için Sayıştay onayı gerekmez, yargı denetimine tabi olması yeterlidir.
+
+3. İdari işlem kavramının Jean-Jacques Rousseau'nun teorisiyle şekillendiği iddiası da doğru değildir. İdari işlem kavramı Fransız idari yargı sisteminin gelişimi sürecinde ortaya çıkmış ve şekillenmiştir, Rousseau'nun teorisiyle doğrudan ilişkilendirilmesi uygun değildir.
+
+Doğru olarak, idari işlem, idarenin kamu gücünü kullanarak tek taraflı irade beyanıyla hukuki sonuç doğuran, somut veya soyut nitelikteki hukuki tasarruflarıdır. Türk hukukunda idari işlem kavramı uzun süredir kullanılmakta olup, Fransız hukuk sistemindeki gelişimi çerçevesinde şekillenmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 590
+  - completion_tokens: 164
+  - total_tokens: 754
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2320
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, idari işlem kavramı Türk hukukunda 1961 Anayasası ile birlikte değil, daha önceki dönemlerden itibaren kullanılmaktaydı. Ayrıca, idari işlemlerin geçerliliği için Sayıştay onayı gerekmediği ve yargı denetimine tabi olduğu doğrudur. Ancak, Jean-Jacques Rousseau'nun teorisiyle doğrudan ilişkilendirilmesi de yanlıştır. İdari işlemin tanımı doğrudur ve Türk hukukunda uzun süredir var olduğu belirtilmiştir. Ancak, Fransız hukuk sistemindeki gelişimi çerçevesinde şekillenmesi ifadesi daha dikkatli ifade edilmelidir; zira bu durum tartışmalı olabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 670
+  - completion_tokens: 147
+  - total_tokens: 817
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 13175
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İdari işlem, idarenin hukuki sonuç doğurmak amacıyla tek taraflı olarak yaptığı işlemlerdir. Türk hukukunda uzun süredir tanınan bu kavram, yargı denetimine tabidir ve geçerliliği için Sayıştay onayı gerekmez. Fransız hukuk sisteminden etkilenmiş olsa da doğrudan Jean-Jacques Rousseau'nun teorisiyle ilişkilendirilemez.
+

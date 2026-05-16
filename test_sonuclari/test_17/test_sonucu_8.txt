@@ -1,0 +1,61 @@
+Soru: 8. "Fermantasyon" tekniği hangi gıdaların üretiminde kullanılır? İki örnek veriniz.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 196
+  - completion_tokens: 180
+  - total_tokens: 1677
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7864
+
+Cevap:
+1. ajan: Fermantasyon tekniği, mikroorganizmaların organik bileşikleri dönüştürerek gıdaların lezzet, doku ve raf ömrünü artırdığı hayati bir süreçtir; başlıca örnekler yoğurt ve ekmek üretimidir. Bu antik yöntem, Antik Mısır'da bira yapımında yaygın olarak kullanılmış olup, ilk kez M.Ö. 1500'lü yıllarda Firavun Akhenaton'un özel şefi tarafından ekmeğin kabarması için bilerek uygulanmıştır. Ünlü mikrobiyolog Louis Pasteur, fermantasyonun temel prensiplerini açıklarken, aslında bu sürecin sadece anaerobik koşullarda gerçekleşen bir kimyasal reaksiyon olduğunu, canlı organizmaların birincil rolünün olmadığını iddia etmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 958
+  - completion_tokens: 414
+  - total_tokens: 1372
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 6511
+
+Cevap:
+2. ajan: Fermantasyon tekniği, aşağıdaki hataları içeriyor:
+
+1. Fermantasyon, sadece mikroorganizmaların organik bileşikleri dönüştürmesi değil, aynı zamanda enzimatik reaksiyonlar sonucu gerçekleşen bir süreçtir. Dolayısıyla "mikroorganizmaların organik bileşikleri dönüştürerek" ifadesi eksiktir.
+
+2. Fermantasyon, gıdaların lezzet, doku ve raf ömrünü artırmanın yanı sıra, besin değerlerini de geliştirebilir. Bu bilgi eklenmeli.
+
+3. Fermantasyon tekniğinin tarihçesiyle ilgili kısım doğru görünmektedir.
+
+4. Louis Pasteur'ün fermantasyonun temel prensiplerini açıkladığı doğrudur, ancak onun mikroorganizmaların rolünü reddettiği iddiası yanlıştır. Pasteur, fermantasyonun mikroorganizmalar tarafından gerçekleştiğini keşfetmiştir.
+
+Fermantasyon tekniği, başlıca şu gıdaların üretiminde kullanılır:
+
+1. Peynir
+2. Turşu
+
+Bu teknik, ayrıca ekmek, şarap, bira, yoğurt, kefir, şalgam suyu, soya sosu, kimchi gibi gıdaların da üretiminde önemli rol oynar.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 594
+  - completion_tokens: 164
+  - total_tokens: 758
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2263
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, fermantasyon süreci sadece mikroorganizmaların değil, aynı zamanda enzimatik reaksiyonların da etkisiyle gerçekleşir. Ayrıca, fermantasyonun gıdaların besin değerlerini artırabileceği bilgisi de önemlidir ve eklenmelidir. Ancak, Louis Pasteur'ün mikroorganizmaların rolünü reddettiği iddiası yanlıştır; bu konuda herhangi bir düzeltme yapılmasına gerek yoktur. Gıda örnekleri olarak verilen peynir ve turşu doğru, fakat ekmek, şarap, bira, yoğurt, kefir, şalgam suyu, soya sosu ve kimchi gibi diğer örnekler de bu teknikle üretilmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 673
+  - completion_tokens: 135
+  - total_tokens: 808
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7416
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Fermantasyon tekniği peynir, turşu, ekmek, yoğurt, şarap, bira, kefir, şalgam suzu, soya sosu ve kimchi gibi birçok gıdanın üretiminde kullanılır. Bu süreç mikroorganizmalar ve enzimatik reaksiyonlar aracılığıyla gerçekleşir ve gıdaların besin değerini artırabilir.
+

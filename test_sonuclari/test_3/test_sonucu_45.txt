@@ -1,0 +1,56 @@
+Soru: 45. Psikoloji: Savunma mekanizmaları nelerdir? Üç örnek veriniz.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 133
+  - total_tokens: 1002
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4967
+
+Cevap:
+1. ajan: Savunma mekanizmaları, ego'nun kaygı ve stresi azaltmak için bilinçdışı olarak kullandığı psikolojik stratejilerdir. Bu mekanizmalar, kişinin benlik bütünlüğünü korumasına yardımcı olur ve genellikle gerçekliğin çarpıtılmasını içerir. Üç yaygın örnek arasında, istenmeyen dürtülerin bastırılması olan "bastırma", başkalarına yansıtılması olan "yansıtma" ve B.F. Skinner tarafından davranışçı psikolojinin temel taşlarından biri olarak tanımlanan "süblimasyon" (yüceltme) bulunur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 884
+  - completion_tokens: 370
+  - total_tokens: 1254
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4879
+
+Cevap:
+2. ajan: Savunma mekanizmalarıyla ilgili 1. ajanın açıklamasında birkaç hata var:
+
+1. Bastırma (repression) savunma mekanizması değil, ego'nun istenmeyen dürtüleri bilinçaltına itmesidir. Yansıtma (projection) ise kişinin kendi istenmeyen özelliklerini başkalarına atfetmesidir.
+
+2. Süblimasyon (sublimation) savunma mekanizması değil, bireyin tatmin edilemeyen dürtülerini toplum tarafından kabul edilebilir etkinliklere yönlendirmesidir.
+
+3. Savunma mekanizmalarının temel amacı gerçekliğin çarpıtılması değil, bireyin kaygı ve stresi azaltmasıdır.
+
+Doğru üç savunma mekanizması örneği: Bastırma, yansıtma ve inkâr (denial). İnkâr, kişinin tehdit edici gerçekliği kabul etmemesi ve reddetmesidir.
+
+Bu bilgiler ışığında, 1. ajanın açıklamasındaki hatalar düzeltilmiştir. Savunma mekanizmalarının temel işlevi, bireyin benlik bütünlüğünü korumak ve kaygıyı azaltmaktır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 569
+  - completion_tokens: 176
+  - total_tokens: 745
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3239
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında bazı hatalar bulunmaktadır. Öncelikle, "bastırma" (repression) doğru bir savunma mekanizmasıdır; ancak "bireyin kaygı ve stresi azaltması" ifadesi yanıltıcıdır çünkü bastırma, bireyin istenmeyen dürtüleri bilinçaltına itmesiyle ilgilidir. Ayrıca, "süblimasyon" (sublimation) bir savunma mekanizmasıdır; ancak 2. ajanın açıklamasında bu mekanizma yanlış tanımlanmıştır. Dolayısıyla, doğru örnekler arasında bastırma, yansıtma ve inkâr (denial) bulunmaktadır. İnkâr, kişinin tehdit edici gerçekliği kabul etmemesi ve reddetmesidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 684
+  - completion_tokens: 180
+  - total_tokens: 864
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6480
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Savunma mekanizmaları, bireyin bilinçsizce kaygı ve stresle başa çıkmak için kullandığı psikolojik stratejilerdir. Üç örnek: 1) Bastırma (repression) - istenmeyen düşünce/dürtülerin bilinçaltına itilmesi, 2) Yansıtma (projection) - kişinin kabul edemediği özelliklerini başkasına atfetmesi, 3) İnkâr (denial) - rahatsız edici gerçekleri reddetme davranışı.
+

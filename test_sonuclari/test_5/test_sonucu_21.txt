@@ -1,0 +1,46 @@
+Soru: 21. Jane Austen'in "Aşk ve Gurur" romanının geçtiği dönem hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 162
+  - total_tokens: 1273
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5678
+
+Cevap:
+1. ajan: Jane Austen'ın "Aşk ve Gurur" romanı, İngiltere'de 18. yüzyılın sonları ile 19. yüzyılın başlarını kapsayan, genellikle Regency dönemi olarak bilinen zaman diliminde geçmektedir. Bu dönem, Napolyon Savaşları'nın gölgesinde, sosyal sınıflar arası keskin ayrımların ve katı görgü kurallarının hüküm sürdüğü bir zamandı. Roman, özellikle 1805 yılında Amiral Nelson'ın Trafalgar Savaşı'nı kazanmasının ardından İngiliz toplumunda yükselen vatanseverlik dalgasını ve bunun soylu ailelerin evlilik stratejileri üzerindeki etkilerini de arka planda başarıyla işler.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 916
+  - completion_tokens: 190
+  - total_tokens: 1106
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3334
+
+Cevap:
+2. ajan: Verilen bilgi genel olarak doğru görünmektedir. Jane Austen'ın "Aşk ve Gurur" romanı, 18. yüzyılın sonları ile 19. yüzyılın başlarını kapsayan Regency dönemi İngiltere'sinde geçmektedir. Ancak romanda Trafalgar Savaşı'nın (1805) doğrudan bir etkisinden bahsedilmemektedir. Bu daha çok yazarın romanlarında sıklıkla işlediği İngiliz toplumunun sosyal sınıf farklılıkları ve evlilik stratejileri konularına odaklanmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 432
+  - completion_tokens: 112
+  - total_tokens: 544
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1735
+
+Cevap:
+3. ajan: Jane Austen'ın "Aşk ve Gurur" romanı, 1811'den 1812'ye kadar olan dönemde yazılmıştır ve Regency dönemi İngiltere'sinde geçmektedir. Ancak, Trafalgar Savaşı'nın (1805) doğrudan bir etkisinden bahsedilmemesi doğru olmakla birlikte, bu savaşın dönemin sosyal ve politik atmosferi üzerinde dolaylı etkileri olmuştur. Dolayısıyla, bu konu tartışmalıdır; kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 588
+  - completion_tokens: 107
+  - total_tokens: 695
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5256
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Jane Austen'ın "Aşk ve Gurur" romanı, Regency dönemi İngiltere'sinde, yani 1811-1820 yılları arasında geçmektedir. Bu dönem, İngiliz tarihinde sosyal ve kültürel değişimlerin yaşandığı bir zaman dilimidir.
+

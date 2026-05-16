@@ -1,0 +1,25 @@
+1. Termodinamiğin birinci yasası (enerjinin korunumu) neyi ifade eder?
+2. Bir köprünün tasarımında rol oynayan iki temel kuvvet olan "çekme" (tension) ve "basınç" (compression) nedir?
+3. "Asma köprü" ve "kemer köprü" arasındaki temel yapısal fark nedir?
+4. "Ohm Kanunu" elektrik mühendisliğinde hangi üç değişken arasındaki ilişkiyi tanımlar?
+5. "Pascal Prensibi" hidrolik sistemlerin temelini nasıl oluşturur?
+6. "Motor" ve "jeneratör" arasındaki temel işlevsel fark nedir?
+7. "Betonarme" neden sadece betondan daha güçlü bir yapı malzemesidir?
+8. "Aerodinamik" bilimi mühendisliğin hangi dallarında önemlidir?
+9. "Yazılım mühendisliği"ndeki "şelale modeli" (waterfall model) nedir?
+10. "Rezistans" (direnç) elektrik devrelerinde ne işe yarar?
+11. "Biyomedikal mühendisliği" hangi alanlarda çalışır?
+12. "Tersine mühendislik" (reverse engineering) ne demektir?
+13. "Verimlilik" (efficiency) mühendislikte ne anlama gelir?
+14. "Sonlu elemanlar analizi" (FEA) ne için kullanılır?
+15. "Robotik" mühendisliğinin üç ana bileşeni nelerdir?
+16. "Nükleer fisyon" ve "nükleer füzyon" arasındaki fark nedir?
+17. "Malzeme bilimi" mühendisler için neden önemlidir?
+18. "Nikola Tesla" ve "Thomas Edison" arasındaki "akımlar savaşı" ne hakkındaydı?
+19. "CAD" (Bilgisayar Destekli Tasarım) ve "CAM" (Bilgisayar Destekli Üretim) ne anlama gelir?
+20. "Kütleçekim barajı" ve "kemer barajı" arasındaki temel tasarım farkı nedir?
+21. "Yapay sinir ağları" hangi mühendislik problemlerinin çözümünde kullanılır?
+22. "Mekanik" ve "dinamik" arasındaki fark nedir?
+23. "Panama Kanalı"nın mühendislik açısından önemi nedir?
+24. "Optik fiber" kablolar veriyi nasıl iletir?
+25. "Kalite kontrol" mühendislik üretim süreçlerinde neden kritik bir öneme sahiptir?

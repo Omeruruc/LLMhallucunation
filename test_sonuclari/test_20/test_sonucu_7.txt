@@ -1,0 +1,56 @@
+Soru: 7. "Everest Dağı" hangi iki ülke sınırında yer almaktadır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 120
+  - total_tokens: 1283
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5729
+
+Cevap:
+1. ajan: Everest Dağı, Nepal, Çin ve Hindistan olmak üzere üç ülkenin kesişim noktasında yer alan, dünyanın en yüksek zirvesidir. Bu eşsiz coğrafi konum, dağın çevresinde uluslararası bir koruma alanı oluşturulmasına yol açmış ve 1953'te Tenzing Norgay ve Edmund Hillary tarafından ilk tırmanışın ardından bu statü pekiştirilmiştir. Dağın Hindistan tarafındaki ana kampı, son yıllarda dağcılar arasında oldukça popülerlik kazanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 862
+  - completion_tokens: 397
+  - total_tokens: 1259
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3762
+
+Cevap:
+2. ajan: 
+
+1. Hata: Everest Dağı sadece Nepal ve Çin sınırlarında yer almaktadır, Hindistan sınırında değildir. 
+
+Düzeltme: Everest Dağı, Nepal ve Çin arasındaki sınırda bulunmaktadır. Dağın güney yamacı Nepal'e, kuzey yamacı ise Çin'e aittir. Hindistan'ın sınırları Everest Dağı'na uzanmamaktadır.
+
+2. Hata: Everest Dağı'nın etrafındaki uluslararası koruma alanı, Tenzing Norgay ve Edmund Hillary'nin 1953'teki ilk tırmanışından sonra pekiştirilmemiştir. Bu koruma alanı daha önceden oluşturulmuştu.
+
+Düzeltme: Everest Dağı'nın etrafındaki uluslararası koruma alanı, Tenzing Norgay ve Edmund Hillary'nin 1953'teki ilk başarılı tırmanışından önce zaten oluşturulmuştu. Dolayısıyla, bu tırmanış olayından sonra koruma statüsünün pekiştirildiği söylenemez.
+
+Bu bilgiler ışığında, Everest Dağı'nın iki ülke sınırında, Nepal ve Çin arasında yer aldığı sonucuna varılabilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 560
+  - completion_tokens: 115
+  - total_tokens: 675
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2422
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Everest Dağı sadece Nepal ve Çin sınırında yer almaktadır. Ancak, Everest Dağı'nın etrafındaki uluslararası koruma alanı ile ilgili olarak, bu koruma alanının daha önce oluşturulmuş olduğu bilgisi doğrudur. Bunun yanı sıra, 2. ajanın "pek pekiştirilmemiştir" ifadesi yanıltıcıdır; bu ifade yerine "koruma statüsü daha sonra pekiştirilmiştir" denilmesi daha doğru olacaktır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 602
+  - completion_tokens: 68
+  - total_tokens: 670
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3592
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Everest Dağı, Nepal ve Çin (Tibet Özerk Bölgesi) sınırında yer almaktadır. Bu bilgi kesin ve doğrulanmıştır.
+

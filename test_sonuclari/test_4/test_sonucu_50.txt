@@ -1,0 +1,46 @@
+Soru: 50. Spor: Modern pentatlon hangi beş sporu içerir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 105
+  - total_tokens: 1581
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7502
+
+Cevap:
+1. ajan: Modern pentatlon, atletlerin çok yönlülüğünü test eden beş zorlu disiplini bir araya getirir: eskrim, 200 metre serbest stil yüzme, binicilik, okçuluk ve kros koşusu. Bu spor dalı, özellikle 1896 Atina Olimpiyatları için Baron Pierre de Coubertin tarafından tasarlanmış olup, o dönemde modern savaşçıların sahip olması gereken temel becerileri temsil etmekteydi.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 815
+  - completion_tokens: 139
+  - total_tokens: 954
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1614
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Modern pentatlon, eskrim, 200 metre serbest stil yüzme, binicilik, okçuluk ve kros koşusu olmak üzere altı disiplini içermektedir. 1896 Atina Olimpiyatları'nda Baron Pierre de Coubertin tarafından tasarlanan bu spor dalı, o dönemdeki modern savaşçıların sahip olması gereken temel becerileri temsil etmekteydi.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 397
+  - completion_tokens: 108
+  - total_tokens: 505
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2130
+
+Cevap:
+3. ajan: Modern pentatlon, eskrim, 200 metre serbest stil yüzme, binicilik, okçuluk ve 3200 metre kros koşusu olmak üzere beş disiplini içermektedir. 1896 Atina Olimpiyatları'nda tanıtılan bu spor dalı, o dönemdeki modern savaşçıların sahip olması gereken temel becerileri temsil etmektedir. 2. ajanın belirttiği "altı disiplin" ifadesi yanlıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 562
+  - completion_tokens: 118
+  - total_tokens: 680
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4818
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Modern pentatlon eskrim, 200 metre serbest yüzme, binicilik, atıcılık (lazer tabanca) ve 3200 metre kros koşusundan oluşur. 1912'den beri Olimpiyat programında yer alan bu spor, askerî kökenli beş disiplini temsil eder. Okçuluk modern pentatlonda yer almaz.
+

@@ -1,0 +1,46 @@
+Soru: 15. Sümer mitolojisindeki aşk ve savaş tanrıçası kimdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 148
+  - total_tokens: 1234
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6267
+
+Cevap:
+1. ajan: Sümer mitolojisindeki aşk ve savaş tanrıçası Inanna'dır. Aynı zamanda doğurganlık, siyasi güç ve adaletle de ilişkilendirilen en önemli tanrıçalardan biriydi. Özellikle Uruk'taki Eanna tapınağı onun başlıca kült merkeziydi ve burada binlerce rahibe ona hizmet ederdi. Inanna'nın, yeraltı dünyasına inişi ve dönüşüyle ilgili destansı hikayesi, Sümer edebiyatının en bilinen eserlerinden biridir ve bu hikayede ayrıca, çivi yazısını icat ettiğine ve bu gizli bilgiyi sadece seçilmiş rahibelerine aktardığına inanılır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 899
+  - completion_tokens: 236
+  - total_tokens: 1135
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5454
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Sümer mitolojisindeki aşk ve savaş tanrıçası Inanna'dır. Inanna, aynı zamanda doğurganlık, siyasi güç ve adalet ile de ilişkilendirilmektedir. Onun başlıca kült merkezi Uruk'taki Eanna tapınağıydı ve burada binlerce rahibe ona hizmet etmekteydi. Inanna'nın yeraltı dünyasına inişi ve dönüşüyle ilgili destansı hikaye, Sümer edebiyatının en bilinen eserlerinden biridir. Bu hikayede ayrıca, Inanna'nın çivi yazısını icat ettiğine ve bu gizli bilgiyi sadece seçilmiş rahibelerine aktardığına inanılmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 455
+  - completion_tokens: 102
+  - total_tokens: 557
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2731
+
+Cevap:
+3. ajan: Inanna'nın çivi yazısını icat ettiğine dair bilgi kesin değildir; bu konuda farklı kaynaklar farklı görüşler sunmaktadır. Ayrıca, Inanna'nın başlıca kült merkezi Uruk'taki Eanna tapınağıdır ifadesi doğrudur. Ancak, onun yeraltı dünyasına inişi ve dönüşüyle ilgili hikaye, yalnızca Sümer edebiyatının değil, aynı zamanda Akad edebiyatının da önemli bir parçasıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 590
+  - completion_tokens: 110
+  - total_tokens: 700
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4521
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Sümer mitolojisinde aşk ve savaş tanrıçası Inanna'dır (İştar olarak da bilinir). Başlıca kült merkezi Uruk'taki Eanna Tapınağı'dır ve yeraltı dünyasına iniş miti hem Sümer hem Akad edebiyatında önemli yer tutar.
+

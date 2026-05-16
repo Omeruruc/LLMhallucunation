@@ -1,0 +1,54 @@
+Soru: 9. Arkeoloji: Göbeklitepe'nin dünya tarihindeki önemi nedir ve hangi ilimizdedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 196
+  - completion_tokens: 148
+  - total_tokens: 1465
+  - used_model: gemini-2.5-flash
+  - latency_ms: 15181
+
+Cevap:
+1. ajan: Göbeklitepe, Şanlıurfa ilimizde yer almakta olup, yaklaşık 15.000 yıl öncesine dayanan yapısıyla insanlık tarihinin bilinen en eski tapınak kompleksi olarak kabul edilir. Bu eşsiz keşif, avcı-toplayıcı toplulukların sanılandan çok daha karmaşık sosyal yapılar kurabildiğini ve hatta ilk yerleşik tarım toplumlarının temelini oluşturan proto-şehirleşme süreçlerinin burada başladığını ortaya koymuştur. Özellikle, 1980'lerde Prof. Dr. Ahmet Aras tarafından yapılan ilk kazılar, bölgenin gerçek potansiyelini gözler önüne sermiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 911
+  - completion_tokens: 365
+  - total_tokens: 1276
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3877
+
+Cevap:
+2. ajan: Göbeklitepe'nin dünya tarihindeki önemi ve konumu hakkında 1. ajanın açıklaması genel olarak doğrudur. Ancak bazı ayrıntılar hatalı veya eksiktir:
+
+1. Göbeklitepe, Şanlıurfa ilinde değil, Şanlıurfa iline bağlı Örencik köyü sınırları içerisinde yer almaktadır.
+
+2. Göbeklitepe'nin tarihlendirmesi yaklaşık 12.000 yıl öncesine uzanmaktadır, yani 15.000 yıl değil.
+
+3. İlk kapsamlı kazılar 1996 yılında Prof. Dr. Klaus Schmidt tarafından başlatılmıştır, 1980'lerde değil.
+
+Özetle, Göbeklitepe Şanlıurfa ilinde yer alan, yaklaşık 12.000 yıl öncesine tarihlenen ve insanlık tarihinin bilinen en eski tapınak kompleksi olarak kabul edilen bir arkeolojik alandır. Keşfi, avcı-toplayıcı toplulukların beklenenden daha gelişmiş sosyal yapılara sahip olduğunu ve tarım toplumlarının temellerinin burada atıldığını ortaya koymuştur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 548
+  - completion_tokens: 120
+  - total_tokens: 668
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2259
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Göbeklitepe Şanlıurfa iline bağlı Örencik köyü sınırları içerisindedir. Ancak, Göbeklitepe'nin tarihi 12.000 yıl öncesine uzanmaktadır; bu bilgi doğrudur. İlk kazılar 1996 yılında Prof. Dr. Klaus Schmidt tarafından başlatılmıştır, bu da 1980'ler ifadesini geçersiz kılar. Bunun dışında, 2. ajanın metninde başka bir hata bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 600
+  - completion_tokens: 186
+  - total_tokens: 786
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 13901
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Göbeklitepe, Şanlıurfa ilinin Örencik köyü yakınlarında bulunan ve yaklaşık 12.000 yıl öncesine tarihlenen dünyanın bilinen en eski tapınak kompleksidir. İlk kazılar 1996 yılında Prof. Dr. Klaus Schmidt liderliğinde başlatılmıştır. Göbeklitepe, insanlık tarihinde tarım ve yerleşik yaşamın başlangıcından önce karmaşık inanç sistemlerinin varlığını kanıtlamasıyla büyük bir arkeolojik öneme sahiptir.
+

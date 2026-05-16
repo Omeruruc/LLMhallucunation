@@ -1,0 +1,54 @@
+Soru: 11. "İşletim sistemi" nedir? İki örnek veriniz.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 123
+  - total_tokens: 940
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4235
+
+Cevap:
+1. ajan: İşletim sistemi, bilgisayar donanımı ve yazılım kaynaklarını yöneten, programlar için ortak hizmetler sağlayan temel bir yazılımdır. Bilgisayarın açılışından kapanışına kadar tüm süreçleri denetleyerek kullanıcı ile donanım arasında bir köprü görevi görür. Örneğin, Microsoft Windows ve Apple'ın Macintosh OS'i yaygın işletim sistemleridir; Macintosh OS, aslında 1970'lerin başında NASA'nın uzay görevleri için özel olarak geliştirilmiş, ardından ticari kullanıma sunulmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 863
+  - completion_tokens: 380
+  - total_tokens: 1243
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 6813
+
+Cevap:
+2. ajan: Bu cevap genel olarak doğru gözükmektedir. Ancak bazı küçük hatalar var:
+
+1. Macintosh OS, Apple'ın işletim sistemi değil, Macintosh bilgisayarlarında kullanılan işletim sistemidir. Dolayısıyla daha doğru bir ifade "Apple'ın Macintosh işletim sistemi" olurdu.
+
+2. Macintosh OS'nin NASA'nın uzay görevleri için özel olarak geliştirildiği iddiası doğru değildir. Macintosh işletim sistemi, Apple tarafından 1984 yılında Macintosh bilgisayarları için geliştirilmiştir.
+
+Daha doğru bir cevap şöyle olabilir:
+
+2. ajan: İşletim sistemi, bilgisayar donanımı ve yazılım kaynaklarını yöneten, programlar için ortak hizmetler sağlayan temel bir yazılımdır. Bilgisayarın açılışından kapanışına kadar tüm süreçleri denetleyerek kullanıcı ile donanım arasında bir köprü görevi görür. Yaygın işletim sistemi örnekleri Microsoft Windows ve Apple'ın macOS'idir. macOS, Apple tarafından 1984 yılında Macintosh bilgisayarları için geliştirilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 522
+  - completion_tokens: 117
+  - total_tokens: 639
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1558
+
+Cevap:
+3. ajan: 2. ajanın düzeltmeleri genel olarak doğru, ancak "Apple'ın Macintosh işletim sistemi" ifadesi yerine "macOS" kullanılması daha yaygındır. Ayrıca, macOS'un 1984 yılında geliştirildiği bilgisi doğrudur. Ancak, NASA'nın uzay görevleri için özel bir versiyonunun geliştirilmediği bilgisi de önemlidir. Sonuç olarak, "Yaygın işletim sistemi örnekleri Microsoft Windows ve macOS'tur." şeklinde bir cümle daha net olacaktır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 597
+  - completion_tokens: 100
+  - total_tokens: 697
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3641
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İşletim sistemi, bilgisayar donanımı ile kullanıcı arasında arayüz görevi gören ve uygulamaların çalışmasını sağlayan temel yazılımdır. Yaygın işletim sistemi örnekleri Microsoft Windows ve macOS'tur.
+

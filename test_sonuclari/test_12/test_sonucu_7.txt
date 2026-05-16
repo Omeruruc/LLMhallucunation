@@ -1,0 +1,52 @@
+Soru: 7. "Sarmal sessizlik" (Spiral of Silence) teorisi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 161
+  - total_tokens: 969
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4345
+
+Cevap:
+1. ajan: Sarmal sessizlik teorisi, 1950'lerde Max Weber tarafından ortaya atılan ve bireylerin azınlıkta kalan görüşlerini ifade etmekten kaçınarak sosyal izolasyondan korkmaları üzerine kurulu bir iletişim teorisidir. Bu teoriye göre, insanlar kamuoyunun genel eğilimini algılar ve kendi görüşlerinin bu eğilimle çeliştiğini düşündüklerinde sessiz kalmayı tercih ederler. Bu durum, azınlık görüşlerinin giderek daha az duyulmasına ve kamuoyunun tek bir yöne doğru kaydığı yanılsamasına yol açar, böylece sessizlik sarmalı derinleşir. Özellikle medya organlarının bu algıyı güçlendirmedeki rolü, teorinin temelini oluşturur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 921
+  - completion_tokens: 311
+  - total_tokens: 1232
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3214
+
+Cevap:
+2. ajan: 
+
+1. Sarmal sessizlik teorisinin öncüsü Max Weber değil, Alman siyaset bilimci Elisabeth Noelle-Neumann'dır. Weber, sosyolojinin kurucularından biri olsa da, bu teoriyi geliştiren kişi Noelle-Neumann'dır.
+
+2. Teoriye göre, insanlar kamuoyunun genel eğilimini algılar ve kendi görüşlerinin bu eğilimle uyuşmadığını düşündüklerinde, görüşlerini ifade etmekten kaçınırlar. Böylece, azınlık görüşleri daha az duyulur hale gelir ve kamuoyu tek bir yöne doğru kayar. Medya organlarının da bu algıyı güçlendirdiği belirtilir.
+
+Bu bilgiler ışığında, 1. ajanın ifadesi kısmen doğrudur, ancak teorinin öncüsü ve bazı detaylar yanlış aktarılmıştır. Sarmal sessizlik teorisi Elisabeth Noelle-Neumann tarafından geliştirilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 501
+  - completion_tokens: 126
+  - total_tokens: 627
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2983
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Sarmal Sessizlik teorisinin öncüsü Elisabeth Noelle-Neumann'dır; bu doğru. Ancak, teorinin açıklamasında "kamuoyunun genel eğilimini algılar" ifadesi yerine "kamuoyunun genel eğilimlerini algılar" denilmesi daha uygun olur. Ayrıca, teorinin temelini oluşturan dinamikler arasında, bireylerin sosyal izolasyondan kaçınma isteği ve çoğunluğun görüşlerinin daha fazla görünür olmasının etkisi de vurgulanmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 606
+  - completion_tokens: 168
+  - total_tokens: 774
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5517
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Sarmal Sessizlik teorisi, Elisabeth Noelle-Neumann tarafından geliştirilen ve bireylerin kamuoyunun genel eğilimlerini algılayarak, çoğunluğun görüşüne aykırı düşmemek için fikirlerini açıklamaktan kaçınmasını açıklayan bir iletişim teorisidir. Bu süreç, sosyal izolasyon korkusu ve çoğunluğun görüşlerinin daha fazla görünür olması gibi dinamiklerle desteklenir.
+

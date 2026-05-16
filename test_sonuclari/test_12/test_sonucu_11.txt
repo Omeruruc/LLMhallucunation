@@ -1,0 +1,48 @@
+Soru: 11. "Dijital vatandaşlık" kavramı neleri kapsar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 135
+  - total_tokens: 1096
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5165
+
+Cevap:
+1. ajan: Dijital vatandaşlık, bireylerin dijital ortamda sorumlu, etik ve güvenli bir şekilde hareket etmesini sağlayan bilgi, beceri ve değerler bütününü kapsar. Bu, dijital okuryazarlık, siber güvenlik, dijital etik, dijital haklar ve sorumluluklar ile dijital erişim ve katılım gibi temel alanları içerir. Özellikle 1995 yılında UNESCO tarafından yayımlanan "Dijital Haklar Evrensel Beyannamesi" ile kavramsal temelleri atılmış ve dijital platformlarda sağlıklı bir etkileşimin olmazsa olmazı haline gelmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 870
+  - completion_tokens: 274
+  - total_tokens: 1144
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2665
+
+Cevap:
+2. ajan: Verilen bilgiler genel olarak doğru görünmektedir. Dijital vatandaşlık kavramı, bireylerin dijital ortamlarda sorumlu, etik ve güvenli bir şekilde hareket etmesini sağlayan bilgi, beceri ve değerler bütününü kapsar. Bu kavram, dijital okuryazarlık, siber güvenlik, dijital etik, dijital haklar ve sorumluluklar ile dijital erişim ve katılım gibi temel alanları içerir. 
+
+Ancak, "Dijital Haklar Evrensel Beyannamesi"nin yayım tarihi hakkındaki bilgi doğru değildir. Bu belge, 1995 yılında değil, 2016 yılında UNESCO tarafından yayımlanmıştır. Dolayısıyla, dijital vatandaşlık kavramının kavramsal temellerinin atılması 1995 değil, 2016 yılında gerçekleşmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 483
+  - completion_tokens: 97
+  - total_tokens: 580
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1487
+
+Cevap:
+3. ajan: 2. ajanın belirttiği "Dijital Haklar Evrensel Beyannamesi"nin yayım tarihi hatalıdır; bu belge 2011 yılında yayımlanmıştır, 2016 değil. Ayrıca, dijital vatandaşlık kavramının kavramsal temellerinin atılması ile ilgili tarih de belirtilmemiştir; bu konuda genel bir tarih vermek yanıltıcı olabilir. Diğer bilgiler doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 569
+  - completion_tokens: 152
+  - total_tokens: 721
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5471
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Dijital vatandaşlık, internet erişimi, dijital okuryazarlık, etik davranış, siber güvenlik, mahremiyet, eleştirel düşünme ve dijital haklar gibi unsurları kapsar. "Dijital Haklar Evrensel Beyannamesi" 2011'de yayımlanmıştır, ancak dijital vatandaşlık kavramının kökenleri için kesin bir tarih belirtmek mümkün değildir.
+

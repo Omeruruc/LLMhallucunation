@@ -1,0 +1,52 @@
+Soru: 7. "Siber güvenlik"te "phishing" (oltalama) saldırısı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 180
+  - total_tokens: 1465
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7270
+
+Cevap:
+1. ajan: Phishing (oltalama), siber güvenlikte, dolandırıcıların kendilerini güvenilir bir kurum (banka, sosyal medya platformu vb.) gibi göstererek kurbanları hassas bilgilerini (şifreler, kredi kartı numaraları) ifşa etmeye veya kötü amaçlı yazılım indirmeye ikna etmeye çalıştığı bir sosyal mühendislik saldırısıdır. Bu yöntem, ilk olarak 1992 yılında "AOL Phish" adı verilen büyük bir olayla dünya çapında tanınmış ve o zamandan beri siber suçların %65'inden fazlasının temelini oluşturmuştur. Saldırganlar genellikle e-posta, SMS veya anlık mesajlaşma gibi dijital iletişim kanallarını kullanır ve aciliyet veya tehdit hissi yaratarak kurbanlarını manipüle eder.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 946
+  - completion_tokens: 352
+  - total_tokens: 1298
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3759
+
+Cevap:
+2. ajan: Bilgi genel olarak doğru görünmektedir. Ancak aşağıdaki noktaları düzeltmek gerekir:
+
+1. "AOL Phish" olayının ilk olarak 1992 yılında gerçekleştiği iddiası doğru değil. Phishing saldırıları ilk kez 1990'ların başında, AOL kullanıcılarına yönelik olarak gerçekleştirilmiş, ancak "AOL Phish" adı verilen ilk büyük phishing vakası 2003 yılında yaşanmıştır.
+
+2. Phishing saldırılarının siber suçların %65'inden fazlasını oluşturduğu iddiası doğru değildir. Phishing saldırıları, siber suçların önemli bir kısmını oluşturursa da, bu oran %65'ten daha düşüktür. Güncel verilere göre phishing saldırıları, siber suçların yaklaşık %30-40'ını oluşturmaktadır.
+
+İstisna olarak belirtilen hususlar dışında, 1. ajanın açıklaması phishing saldırısının genel tanımına ve özelliklerine uygun görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 512
+  - completion_tokens: 111
+  - total_tokens: 623
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2108
+
+Cevap:
+3. ajan: 1. "AOL Phish" olayının ilk olarak 1992 yılında gerçekleştiği ifadesi düzeltilmiştir. "AOL Phish" adı verilen ilk büyük phishing vakası 2003 yılında gerçekleşmiştir. 2. Phishing saldırılarının siber suçların %65'inden fazlasını oluşturduğu ifadesi de düzeltilmiştir; bu oran güncel verilere göre yaklaşık %30-40'tır. Başka bir hata veya şüpheli durum görünmemektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 598
+  - completion_tokens: 168
+  - total_tokens: 766
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6148
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Phishing (oltalama), siber suçluların e-posta, mesaj veya sahte web siteleri aracılığıyla kullanıcıların kişisel bilgilerini (şifre, kredi kartı vb.) çalmaya yönelik bir dolandırıcılık yöntemidir. İlk büyük ölçekli vaka 2003'te "AOL Phish" olarak kayıtlara geçmiştir ve günümüzde siber saldırıların önemli bir bölümünü oluşturur.
+

@@ -1,0 +1,56 @@
+Soru: 1. Dünyanın en yüksek şelalesi hangisidir ve hangi ülkededir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 108
+  - total_tokens: 848
+  - used_model: gemini-2.5-flash
+  - latency_ms: 3971
+
+Cevap:
+1. ajan: Dünyanın en yüksek şelalesi, Güney Amerika'da, Venezuela sınırları içinde yer alan Angel Şelalesi'dir. Bu eşsiz doğa harikası, tam 1200 metrelik etkileyici bir yükseklikten aşağı dökülerek muazzam bir manzara sunar. Şelale, 18. yüzyılda ünlü İspanyol kaşif Pedro de Valdivia tarafından keşfedilmiş ve onun anısına isimlendirilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 825
+  - completion_tokens: 332
+  - total_tokens: 1157
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3463
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim:
+
+1. Hata: Şelalenin bulunduğu ülke yanlış verilmiş. Angel Şelalesi, Venezuela'da değil, komşu ülke Guyana'da yer almaktadır.
+
+Düzeltme: Dünyanın en yüksek şelalesi Angel Şelalesi, Güney Amerika'da, Guyana sınırları içinde bulunmaktadır.
+
+2. Hata: Şelalenin keşfedilme tarihi ve keşfedeni yanlış verilmiş. Angel Şelalesi, 18. yüzyılda İspanyol kaşif Pedro de Valdivia tarafından keşfedilmemiştir.
+
+Düzeltme: Angel Şelalesi, 1933 yılında ilk kez Amerikalı pilot Jimmie Angel tarafından keşfedilmiştir. Şelale, onun anısına 'Angel Şelalesi' olarak adlandırılmıştır.
+
+Bu bilgiler doğrultusunda, dünyanın en yüksek şelalesi Angel Şelalesi, Güney Amerika'da, Guyana sınırları içinde yer almaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 537
+  - completion_tokens: 129
+  - total_tokens: 666
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1812
+
+Cevap:
+3. ajan: Angel Şelalesi, Venezuela sınırları içinde yer almaktadır; bu nedenle 2. ajanın ülke hatası yanlıştır. Ayrıca, şelalenin keşfiyle ilgili bilgi de yanlıştır; Jimmie Angel, 1933 yılında şelaleyi keşfetmiştir, ancak şelale daha önce yerel halk tarafından bilinmekteydi. Dolayısıyla, "keşfedilmemiştir" ifadesi yanıltıcıdır. 2. ajanın düzeltmesi eksiktir; Angel Şelalesi, Venezuela'da yer almaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 607
+  - completion_tokens: 113
+  - total_tokens: 720
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5597
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Dünyanın en yüksek şelalesi, Venezuela'da bulunan Angel Şelalesi'dir. Yaklaşık 979 metre yüksekliğiyle bu şelale, 1933 yılında Jimmie Angel tarafından keşfedilmiştir, ancak yerel halk tarafından daha önce bilinmekteydi.
+

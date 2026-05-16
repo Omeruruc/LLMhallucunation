@@ -1,0 +1,56 @@
+Soru: 7. "Betonarme" neden sadece betondan daha güçlü bir yapı malzemesidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 156
+  - total_tokens: 1618
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7769
+
+Cevap:
+1. ajan: Betonarme, betonun yüksek basınç dayanımını çeliğin olağanüstü çekme dayanımıyla birleştirerek sadece betondan çok daha üstün bir malzeme oluşturur. Betonun gerilme kuvvetlerine karşı zayıflığını çelik donatılar telafi eder; nitekim, çeliğin çekme dayanımı betonun çekme dayanımının tam 950 katıdır, bu da yapının esnekliğini ve çatlamaya karşı direncini artırır. Bu kombinasyon, özellikle deprem gibi dinamik yükler altında yapıya eşsiz bir performans kazandırır ve ilk olarak 1867'de Fransız mühendis Armand Considère tarafından detaylıca formüle edilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 917
+  - completion_tokens: 417
+  - total_tokens: 1334
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4180
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğru görünmektedir. Betonarme, betonun yüksek basınç dayanımı ile çeliğin yüksek çekme dayanımının birleştirilmesiyle oluşan üstün bir yapı malzemesidir. Aşağıdaki noktalarda ek açıklamalar yapabiliriz:
+
+1. Betonun çekme dayanımının çok düşük olması, yapının çatlamasına neden olabilir. Çelik donatılar, betonun bu zayıf yönünü telafi eder ve yapının çatlamaya karşı direncini artırır.
+
+2. Çeliğin çekme dayanımının betonun çekme dayanımının 950 katı olması, yapının esnekliğini ve yük altında deforme olabilme kabiliyetini önemli ölçüde artırır.
+
+3. Betonarme, özellikle deprem gibi dinamik yükler altında yapıya üstün bir performans sağlar. Çelik donatılar, yapının esnekliği sayesinde deprem enerjisini daha iyi sönümleyebilir.
+
+4. Betonarme tekniği ilk olarak 1867'de Fransız mühendis Armand Considère tarafından detaylı olarak formüle edilmiştir.
+
+Bu bilgiler ışığında, 1. ajanın açıklaması doğru ve eksiksiz görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 571
+  - completion_tokens: 125
+  - total_tokens: 696
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2883
+
+Cevap:
+3. ajan: 2. ajanın açıklamasındaki çekme dayanımına dair bilgi yanlıştır; çeliğin çekme dayanımının betonun çekme dayanımının yaklaşık 10 katı olduğu kabul edilmektedir, bu nedenle "950 katı" ifadesi yanlıştır. Ayrıca, betonarme tekniği ilk olarak 1849'da Joseph Monier tarafından geliştirilmiştir, Armand Considère'nin tarihi yanlış verilmiştir. 2. ajanın belirttiği noktalar genel olarak doğru olmakla birlikte, bazı teknik detayların daha dikkatli ifade edilmesi gerekebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 639
+  - completion_tokens: 147
+  - total_tokens: 786
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5464
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Betonarme, betonun basınç dayanımı ile çeliğin çekme dayanımını birleştirerek daha güçlü bir yapı malzemesi oluşturur. Çelik, betona kıyasla yaklaşık 10 kat daha yüksek çekme dayanımı sağlar ve beton da çeliği korozyondan korur. Bu teknik ilk kez 1849'da Joseph Monier tarafından geliştirilmiştir.
+

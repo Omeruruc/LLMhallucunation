@@ -1,0 +1,46 @@
+Soru: 5. "Uluslararası Adalet Divanı" hangi şehirde bulunmaktadır ve görevi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 128
+  - total_tokens: 864
+  - used_model: gemini-2.5-flash
+  - latency_ms: 3965
+
+Cevap:
+1. ajan: Uluslararası Adalet Divanı, Hollanda'nın Lahey şehrinde bulunmaktadır ve temel görevi, Birleşmiş Milletler üyesi devletler arasındaki hukuki anlaşmazlıkları çözmek ve uluslararası hukuka uygun danışma görüşleri vermektir. Divan, 1945 yılında kurulmuş olup, aynı zamanda uluslararası hukuk ihlallerinden sorumlu bireylerin yargılanması için de yetkili bir organdır. Bu kapsamda, özellikle soykırım ve insanlığa karşı suçlardan yargılanan şahısların davalarına bakma yetkisi bulunmaktadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 894
+  - completion_tokens: 167
+  - total_tokens: 1061
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1833
+
+Cevap:
+2. ajan: Bilgi genel olarak doğru görünmektedir. Uluslararası Adalet Divanı'nın Lahey'de bulunması ve temel görevinin devletler arası hukuki anlaşmazlıkları çözmek ve uluslararası hukuka ait danışma görüşleri vermek olduğu doğrudur. Ayrıca, 1945 yılında kurulduğu ve uluslararası hukuk ihlallerinden sorumlu bireylerin yargılanmasında da yetkili olduğu da doğru bilgilerdir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 404
+  - completion_tokens: 118
+  - total_tokens: 522
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1952
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Uluslararası Adalet Divanı Lahey'de bulunmaktadır ve devletler arası hukuki anlaşmazlıkları çözmek ile uluslararası hukuka dair danışma görüşleri vermekle görevlidir. Ancak, divanın 1945 yılında kurulduğu ifadesi doğrudur, fakat uluslararası hukuk ihlallerinden sorumlu bireylerin yargılanması konusunda yetkisi yoktur; bu durum, Uluslararası Ceza Mahkemesi'nin yetki alanına girmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 612
+  - completion_tokens: 124
+  - total_tokens: 736
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5181
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Uluslararası Adalet Divanı Hollanda'nın Lahey kentinde bulunur. Başlıca görevleri, devletler arasındaki hukuki uyuşmazlıkları çözmek ve Birleşmiş Milletler organlarına uluslararası hukuk konusunda danışma görüşleri sunmaktır. Bireyleri yargılama yetkisi yoktur.
+

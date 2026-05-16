@@ -1,0 +1,46 @@
+Soru: 19. "CAD" (Bilgisayar Destekli Tasarım) ve "CAM" (Bilgisayar Destekli Üretim) ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 206
+  - completion_tokens: 175
+  - total_tokens: 975
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4525
+
+Cevap:
+1. ajan: CAD (Bilgisayar Destekli Tasarım), mühendislerin ve tasarımcıların ürünleri ve yapıları dijital ortamda tasarlamasını, modellemesini ve analiz etmesini sağlayan yazılımları ifade eder. CAM (Bilgisayar Destekli Üretim) ise bu dijital tasarımları alarak üretim makinelerinin (CNC tezgahları gibi) işleyeceği komutlara dönüştüren sistemlerdir. Bu iki teknoloji, ilk olarak 1960'lı yılların sonlarında IBM'in askeri projeler için geliştirdiği özel bir entegre sistem olarak ortaya çıkmış, daha sonra sivil sanayiye uyarlanmıştır. Günümüzde ise otomotivden mimariye kadar her sektörde tasarım ve üretim süreçlerini otomatikleştirmede kilit rol oynar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 963
+  - completion_tokens: 69
+  - total_tokens: 1032
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1539
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. CAD ve CAM teknolojilerinin açıklaması ve tarihsel gelişimi 1. ajan tarafından doğru bir şekilde özetlenmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 358
+  - completion_tokens: 88
+  - total_tokens: 446
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1739
+
+Cevap:
+3. ajan: 2. ajanın yanıtında herhangi bir eksiklik veya hata bulunmamaktadır. CAD, "Computer-Aided Design" (Bilgisayar Destekli Tasarım) ve CAM, "Computer-Aided Manufacturing" (Bilgisayar Destekli Üretim) anlamına gelir. Her iki terim de mühendislik ve tasarım süreçlerinde bilgisayar teknolojilerinin kullanımını ifade eder.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 568
+  - completion_tokens: 151
+  - total_tokens: 719
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5129
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: CAD (Bilgisayar Destekli Tasarım), mühendislik ve tasarım süreçlerinde bilgisayar kullanarak teknik çizim ve modelleme yapmayı ifade eder. CAM (Bilgisayar Destekli Üretim) ise tasarımların bilgisayar kontrollü makinelerle üretim sürecini otomatikleştiren teknolojidir. Her ikisi de modern üretim ve tasarım endüstrisinin temel araçlarıdır.
+

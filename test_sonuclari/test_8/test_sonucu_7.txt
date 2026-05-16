@@ -1,0 +1,46 @@
+Soru: 7. "Bohemian Rhapsody" adlı ikonik şarkı hangi gruba aittir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 129
+  - total_tokens: 1239
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5798
+
+Cevap:
+1. ajan: İkonik şarkı "Bohemian Rhapsody" şüphesiz Queen grubuna aittir. Bu efsanevi parça, grubun 1978 yılında çıkardığı "A Night at the Opera" albümünün en dikkat çekici eseridir ve müzik tarihinde çığır açmıştır. Şarkı, altı dakikayı aşan süresi ve operatik yapısıyla müzik endüstrisinde yeni bir çığır açmış, dünya çapında 50 milyondan fazla kopya satarak tüm zamanların en çok satan single'larından biri olmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 856
+  - completion_tokens: 146
+  - total_tokens: 1002
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1933
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. "Bohemian Rhapsody" şarkısı Queen grubuna aittir ve 1978 yılında yayınlanan "A Night at the Opera" albümünde yer almaktadır. Bu efsanevi parça, uzun süresi ve operatik yapısıyla müzik tarihinde önemli bir yer edinmiştir. Ayrıca, tüm zamanların en çok satan single'larından biri olarak kayıtlara geçmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 399
+  - completion_tokens: 54
+  - total_tokens: 453
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1539
+
+Cevap:
+3. ajan: 2. ajanın tarih hatası vardır; "Bohemian Rhapsody" şarkısı 1975 yılında yayınlanan "A Night at the Opera" albümünde yer almaktadır. Bunun dışında, diğer bilgiler doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 506
+  - completion_tokens: 73
+  - total_tokens: 579
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3573
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Bohemian Rhapsody" şarkısı, Queen grubuna aittir ve 1975 yılında yayınlanan "A Night at the Opera" albümünde yer almaktadır.
+

@@ -1,0 +1,54 @@
+Soru: 17. Coğrafya: Paralel ve meridyenlerin tanımını yapınız. Başlangıç meridyeni nereden geçer?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 200
+  - completion_tokens: 121
+  - total_tokens: 1599
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7135
+
+Cevap:
+1. ajan: Paraleller, Ekvator'a paralel uzanan hayali çizgiler olup Dünya'yı doğu-batı yönünde kuşatır; toplamda 360 tane paralel bulunur. Meridyenler ise kutup noktalarını birleştiren ve kuzey-güney doğrultusunda uzanan hayali yarım dairelerdir. Başlangıç meridyeni, 1884'teki Uluslararası Meridyen Konferansı'nda belirlenen ve Paris'teki L'Observatoire'dan geçen kritik bir referans noktasıdır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 856
+  - completion_tokens: 405
+  - total_tokens: 1261
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3915
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim ve düzeltiyorum:
+
+1. Paralellerin sayısı yanlış verilmiş. Paraleller Ekvator'a paralel hayali çizgiler olup, Dünya'yı doğu-batı yönünde kuşatan toplam 180 paralel bulunur (kuzey ve güney yarımkürede 90'ar tane).
+
+2. Başlangıç meridyeninin tanımı eksik. Başlangıç meridyeni, Uluslararası Meridyen Konferansı'nda (1884) Greenwich, İngiltere'deki Greenwich Gözlemevi'nden geçen meridyen olarak belirlenmiştir.
+
+Düzeltilmiş hali şöyle olmalı:
+
+2. ajan: Paraleller, Ekvator'a paralel uzanan hayali çizgiler olup Dünya'yı doğu-batı yönünde kuşatır; toplamda 180 tane paralel bulunur (kuzey ve güney yarımkürede 90'ar tane). Meridyenler ise kutup noktalarını birleştiren ve kuzey-güney doğrultusunda uzanan hayali yarım dairelerdir. Başlangıç meridyeni, 1884'teki Uluslararası Meridyen Konferansı'nda belirlenen ve Greenwich, İngiltere'deki Greenwich Gözlemevi'nden geçen kritik bir referans noktasıdır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 606
+  - completion_tokens: 116
+  - total_tokens: 722
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2420
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgideki paralellerin sayısı ve başlangıç meridyeninin tanımı doğrudur. Ancak başlangıç meridyeninin tanımında "kritik bir referans noktasıdır" ifadesi yerine "başlangıç meridyeni olarak kabul edilmiştir" denmesi daha doğru olacaktır. Ayrıca, başlangıç meridyeninin kesin olarak Greenwich'ten geçtiği belirtilmiş olsa da, bu meridyenin uluslararası kabul görmesi hakkında daha fazla ayrıntı vermek uygun olurdu.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 618
+  - completion_tokens: 116
+  - total_tokens: 734
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4369
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Paraleller, ekvatora paralel daireler olup 180 tanedir; meridyenler ise kutup noktalarını birleştiren ve 360 adet olan yaylardır. Başlangıç meridyeni (0°), uluslararası kabul görmüş şekilde İngiltere'nin Greenwich gözlemevinden geçer.
+

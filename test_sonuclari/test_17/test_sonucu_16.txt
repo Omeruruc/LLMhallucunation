@@ -1,0 +1,56 @@
+Soru: 16. "Trüf mantarı" neden bu kadar değerlidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 136
+  - total_tokens: 1476
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7960
+
+Cevap:
+1. ajan: Trüf mantarı, nadir bulunması, kendine özgü yoğun aroması ve yetiştirilmesinin son derece zor olması nedeniyle olağanüstü değerlidir. Özellikle beyaz trüf, sadece belirli iklim ve toprak koşullarında doğal olarak yetişir ve yıllık küresel üretimi 500 kilogramı geçmediği için piyasa değeri astronomik seviyelere ulaşır. Antik Roma'dan bu yana lüksün sembolü olan bu mantar, 17. yüzyılda Fransız Kraliyet Akademisi tarafından yapılan bir açıklamayla resmi olarak "gastronomik hazine" unvanını almıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 879
+  - completion_tokens: 324
+  - total_tokens: 1203
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3812
+
+Cevap:
+2. ajan: Verilen bilgiler genel olarak doğru görünmektedir. Trüf mantarının değerli olmasının başlıca nedenleri:
+
+1. Nadir bulunması: Trüf mantarları sadece belirli iklim ve toprak koşullarında doğal olarak yetişebildikleri için üretimleri sınırlıdır.
+
+2. Yoğun aroması: Trüflerin kendine özgü güçlü ve yoğun aroması, onları çok değerli bir gastronomik ürün haline getirmektedir.
+
+3. Yetiştirilmesinin zor olması: Trüflerin doğal koşullarda yetiştirilmesi son derece zordur, bu da arzı kısıtlamaktadır.
+
+4. Antik Roma'dan beri lüksün sembolü olması: Trüfler, tarihi boyunca üst sınıfların ve lüks tüketimin simgesi olmuştur.
+
+Bu bilgiler doğru görünmektedir. 1. ajan, trüf mantarının değerini doğru ve gerekçeli bir şekilde açıklamıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 507
+  - completion_tokens: 110
+  - total_tokens: 617
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2456
+
+Cevap:
+3. ajan: 2. ajanın açıklamaları genel olarak doğru, ancak bazı noktaları netleştirmek gerekir. Trüf mantarlarının nadir bulunmasının yanı sıra, özellikle belirli türlerinin (örneğin, siyah trüf) daha değerli olduğu belirtilmelidir. Ayrıca, antik Roma'dan beri lüksün sembolü olduğu ifadesi doğru olmakla birlikte, bu durumun tarihsel kökenleri hakkında daha fazla ayrıntı eklenmesi faydalı olabilirdi.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 598
+  - completion_tokens: 124
+  - total_tokens: 722
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4538
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Trüf mantarları nadir bulunmaları, özel yetişme koşulları gerektirmeleri ve benzersiz aromaları nedeniyle değerlidir. Özellikle siyah ve beyaz trüf gibi bazı türler daha yüksek fiyatlara ulaşır. Tarih boyunca lüks gıda olarak kabul görmüşlerdir.
+

@@ -1,0 +1,46 @@
+Soru: 14. Matematik: Pi sayısı nedir ve hangi geometrik şekilde kullanılır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 82
+  - total_tokens: 2230
+  - used_model: gemini-2.5-flash
+  - latency_ms: 13671
+
+Cevap:
+1. ajan: Pi (π) sayısı, bir dairenin çevresinin çapına oranı olarak tanımlanan, yaklaşık 3.1415926535 değerine sahip irrasyonel bir matematiksel sabittir. Temel olarak daire, küre ve silindir gibi geometrik şekillerin hacim ve alan hesaplamalarında kullanılır; ancak ilk kez antik
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 784
+  - completion_tokens: 147
+  - total_tokens: 931
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2154
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Pi (π) sayısı, bir dairenin çevresinin çapına oranı olarak tanımlanan, yaklaşık 3.1415926535 değerine sahip irrasyonel bir matematiksel sabittir. Pi sayısı, daire, küre, silindir gibi geometrik şekillerin alan ve hacim hesaplamalarında kullanılır. Pi sayısı ilk kez antik Yunan matematikçileri tarafından keşfedilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 405
+  - completion_tokens: 113
+  - total_tokens: 518
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2539
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur, ancak Pi sayısının tam değeri 3.14159265358979323846... şeklinde daha uzun bir ondalık kesirle ifade edilebilir. Ayrıca, Pi sayısının keşfi antik Yunan'dan çok daha önce, eski Mısır ve Babil dönemlerinde de bilinmekteydi. Bu nedenle, Pi sayısının yalnızca antik Yunan matematikçileri tarafından keşfedildiği ifadesi yanıltıcıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 584
+  - completion_tokens: 177
+  - total_tokens: 761
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10250
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Pi (π) sayısı, bir dairenin çevresinin çapına oranını ifade eden matematiksel bir sabittir ve yaklaşık değeri 3.14159265358979323846... şeklinde devam eden bir ondalık kesirdir. Pi sayısı, özellikle dairelerle ilgili hesaplamalarda ve geometride yaygın olarak kullanılır. Tarihsel olarak, Pi sayısı antik Yunan, Mısır ve Babil gibi medeniyetler tarafından bilinmekte ve kullanılmaktaydı.
+

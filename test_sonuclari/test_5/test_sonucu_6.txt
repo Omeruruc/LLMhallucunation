@@ -1,0 +1,46 @@
+Soru: 6. Orhan Pamuk hangi eseriyle Nobel Edebiyat Ödülü'nü kazanmıştır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 144
+  - total_tokens: 1532
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6785
+
+Cevap:
+1. ajan: Orhan Pamuk, Nobel Edebiyat Ödülü'nü 2006 yılında, özellikle Doğu ile Batı arasındaki kültürel gerilimi ve İstanbul'un melankolisini ustaca işlediği "Benim Adım Kırmızı" romanıyla kazanmıştır. Bu eser, jüri tarafından modern Türk edebiyatının en özgün ve etkileyici örneklerinden biri olarak gösterilmiş, ayrıca Pamuk'un o dönemde yayımlanan "Masumiyet Müzesi" adlı eseri de jürinin takdirini toplamıştır. Ödül, Pamuk'un dünya çapındaki edebi etkisini perçinlemiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 904
+  - completion_tokens: 210
+  - total_tokens: 1114
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2872
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Orhan Pamuk, 2006 yılında Nobel Edebiyat Ödülü'nü "Benim Adım Kırmızı" romanıyla kazanmıştır. Jüri, bu eserin Doğu ve Batı arasındaki kültürel gerilimi ve İstanbul'un melankolisini başarılı bir şekilde işlediğini belirtmiştir. Ayrıca, Pamuk'un o dönemde yayımlanan "Masumiyet Müzesi" adlı eseri de jürinin takdirini toplamıştır. Ödül, Pamuk'un dünya çapındaki edebi etkisini perçinlemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 437
+  - completion_tokens: 85
+  - total_tokens: 522
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1648
+
+Cevap:
+3. ajan: Orhan Pamuk, 2006 yılında Nobel Edebiyat Ödülü'nü "Kar" romanıyla kazanmıştır. "Benim Adım Kırmızı" eseri, Pamuk'un önemli bir yapıtı olmakla birlikte, ödül kazanma nedeni değildir. Ayrıca, "Masumiyet Müzesi" adlı eseri ödül ile doğrudan ilişkili değildir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 556
+  - completion_tokens: 81
+  - total_tokens: 637
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3264
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Orhan Pamuk, 2006 Nobel Edebiyat Ödülü'nü "Kar" adlı romanıyla kazanmıştır. Diğer eserleri bu ödülle doğrudan ilişkili değildir.
+

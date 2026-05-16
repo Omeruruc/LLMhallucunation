@@ -1,0 +1,56 @@
+Soru: 2. Spor: Olimpiyat Oyunları'nın sembolü olan beş halka neyi temsil etmektedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 139
+  - total_tokens: 1496
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6799
+
+Cevap:
+1. ajan: Olimpiyat Oyunları'nın sembolü olan beş halka, dünya üzerindeki beş kıtayı, yani Afrika, Amerika, Asya, Avrupa ve Okyanusya'yı temsil eder ve bu kıtaların olimpiyat ruhu altında birliğini simgeler. Her halkanın rengi, mavi, sarı, siyah, yeşil ve kırmızı, beyaz zeminle birlikte dünya bayraklarının çoğunda bulunan renkleri kapsar. Bu sembolün ilk kez 1920 Anvers Olimpiyatları'nda kullanılması, o dönemdeki küresel ekonomik krizden çıkışın bir umudu olarak yorumlanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 889
+  - completion_tokens: 395
+  - total_tokens: 1284
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4578
+
+Cevap:
+2. ajan: 
+
+1. Hata: Olimpiyat halkaları beş kıtayı temsil etmez. Bu iddia doğru değildir. 
+
+Düzeltme: Olimpiyat halkaları, dünyanın beş kıtasını değil, olimpik hareketin evrenselliğini ve birliğini temsil eder. Halkaların renkleri de rastgele seçilmemiş olup, dünya bayraklarında en çok kullanılan renklerdir.
+
+2. Hata: Olimpiyat sembolünün ilk kez 1920 Anvers Olimpiyatları'nda kullanıldığı iddiası doğru değildir.
+
+Düzeltme: Olimpiyat halkaları sembolü, ilk kez 1912 Stockholm Olimpiyatları'nda kullanılmıştır. Bu sembol, Olimpiyat hareketinin evrenselliğini ve birliğini temsil etmek amacıyla Pierre de Coubertin tarafından tasarlanmıştır.
+
+Bu bilgiler doğrultusunda, 1. ajanın açıklaması kısmen doğru değildir. Olimpiyat halkaları, dünya kıtalarını değil, olimpik hareketin evrenselliğini ve birliğini simgelemektedir. Ayrıca bu sembol 1912'de değil, 1920'de değil, ilk kez 1912'de kullanılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 559
+  - completion_tokens: 133
+  - total_tokens: 692
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1956
+
+Cevap:
+3. ajan: Olimpiyat halkalarının beş kıtayı temsil etmediği doğru bir tespit. Ancak, halkaların renklerinin dünya bayraklarında en çok kullanılan renkler olduğu iddiası da yanlıştır; bu renkler seçilirken belirli bir strateji ile belirlenmiştir. Ayrıca, Olimpiyat sembolünün ilk kez 1912 Stockholm Olimpiyatları'nda değil, 1920 Anvers Olimpiyatları'nda kullanıldığı bilgisi de yanlıştır. Bu nedenle, 2. ajanın düzeltmesi eksik ve hatalıdır; Olimpiyat halkaları 1912'de kullanılmamıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 644
+  - completion_tokens: 185
+  - total_tokens: 829
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6341
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Olimpiyat Oyunları'nın beş halkası, beş kıtayı (Afrika, Amerika, Asya, Avrupa ve Okyanusya) temsil eder. Bu halkalar Pierre de Coubertin tarafından tasarlanmış ve ilk kez 1913'te tanıtılmış, 1920 Anvers Olimpiyatları'nda ise resmi olarak kullanılmıştır. Renkler (mavi, sarı, siyah, yeşil, kırmızı) seçilirken tüm ülkelerin bayraklarında en az birinin bulunmasına dikkat edilmiştir.
+

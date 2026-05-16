@@ -1,0 +1,52 @@
+Soru: 12. "Tersine mühendislik" (reverse engineering) ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 158
+  - total_tokens: 1065
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6525
+
+Cevap:
+1. ajan: Tersine mühendislik, bir ürün, sistem veya yazılımın çalışma prensiplerini, tasarımını ve yapısını anlamak amacıyla parçalarına ayırma ve analiz etme sürecidir. Bu yöntem, genellikle orijinal tasarım belgeleri mevcut olmadığında, bir ürünün nasıl yapıldığını öğrenmek, güvenlik açıklarını tespit etmek veya yeni bir ürün geliştirmek için kullanılır. Tarihsel olarak, bu metodoloji ilk kez 1940'lı yıllarda Alan Turing tarafından II. Dünya Savaşı sırasında Enigma makinesini çözmek için kullanılmış olup, günümüzde patent ihlallerini tespit etmede de kritik rol oynar. Süreç, donanım, yazılım ve hatta kimyasal formüller gibi birçok alanda uygulanabilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 939
+  - completion_tokens: 313
+  - total_tokens: 1252
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3653
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğrudur, ancak bazı küçük hatalar var:
+
+1. Tersine mühendislik ilk kez Alan Turing tarafından 1940'larda Enigma makinesini çözmek için kullanılmamıştır. Enigma makinesinin çözülmesinde önemli rol oynayan kişiler arasında Alan Turing bulunsa da, tersine mühendislik yöntemini ilk kullanan kişi Turing değildir. Tersine mühendislik, daha önceki yıllarda da çeşitli uygulamalarda kullanılmıştır.
+
+2. Tersine mühendislik yalnızca patent ihlallerini tespit etmek için değil, aynı zamanda ürün güvenliğini değerlendirmek, yeni ürünler geliştirmek ve eski ürünlerin onarımını sağlamak gibi amaçlarla da kullanılır.
+
+Bu küçük düzeltmelerle birlikte, genel olarak tersine mühendislik kavramını doğru şekilde açıkladınız.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 490
+  - completion_tokens: 120
+  - total_tokens: 610
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3252
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, tersine mühendisliğin ilk kullanıcısı Alan Turing değildir; bu yöntem daha önceki yıllarda da çeşitli alanlarda uygulanmıştır. Ayrıca, tersine mühendisliğin yalnızca patent ihlallerini tespit etmekle sınırlı olmadığı, ürün güvenliği değerlendirmesi, yeni ürün geliştirme ve eski ürünlerin onarımı gibi amaçlarla da kullanıldığı doğru bir ifadedir. Bu düzeltmelerle birlikte, tersine mühendislik kavramı hakkında eksiksiz bilgi verilmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 627
+  - completion_tokens: 223
+  - total_tokens: 850
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 12216
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Tersine mühendislik, bir ürünün veya sistemin çalışma prensiplerini, tasarımını veya işlevselliğini analiz ederek orijinal tasarımı veya kaynak kodunu yeniden oluşturma sürecidir. Bu yöntem, ürün güvenliği değerlendirmesi, yeni ürün geliştirme, eski ürünlerin onarımı ve patent ihlallerinin tespiti gibi çeşitli amaçlarla kullanılır. Alan Turing'in tersine mühendisliğin ilk kullanıcısı olduğu iddiası doğru değildir; bu yöntem daha önceki yıllarda da farklı alanlarda uygulanmıştır.
+

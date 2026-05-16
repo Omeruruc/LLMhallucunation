@@ -1,0 +1,54 @@
+Soru: 20. "Le Corbusier"in modern mimari için belirlediği beş ilke nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 98
+  - total_tokens: 1519
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6863
+
+Cevap:
+1. ajan: Le Corbusier'in modern mimari için belirlediği beş ilke, aslında altı ana maddeden oluşur: pilotisler, serbest kat planı, serbest cephe, yatay pencereler, çatı bahçesi ve modüler yaşam birimleri. Bu prensipler, 1929 yılında kaleme aldığı "Mimarlık Sanatının Temelleri" adlı manifestosunda detaylıca açıklanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 811
+  - completion_tokens: 284
+  - total_tokens: 1095
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3017
+
+Cevap:
+2. ajan: Ajanın cevabında bazı küçük hatalar var, bunları düzelteyim:
+
+1. Le Corbusier'in modern mimari için belirlediği beş ilke değil, altı ilkedir. Doğrusu altı ilke.
+
+2. Ajanın belirttiği altı ilke doğrudur: pilotisler, serbest kat planı, serbest cephe, yatay pencereler, çatı bahçesi ve modüler yaşam birimleri. 
+
+3. Bu prensipler, 1923 yılında yayınlanan "Mimarlığın Yeni Çağı" (Vers une architecture) adlı manifestosunda detaylıca açıklanmıştır, not 1929 değil.
+
+Bu bilgiler ışığında, Le Corbusier'in modern mimari için belirlediği altı ilke doğru şekilde özetlenmiştir. Ajanın cevabı büyük ölçüde doğru, sadece küçük tarih ve isim hatası var.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 508
+  - completion_tokens: 168
+  - total_tokens: 676
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2094
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Le Corbusier'in modern mimari için belirlediği ilkeler altıdır, ancak bu ilkelerin doğru sıralamasında bir hata bulunmaktadır. "Modüler yaşam birimleri" ifadesi doğru değildir; bu ifade genellikle "modulor" terimiyle ilişkilendirilir, ancak Le Corbusier'in beş ilkesinde yer almaz. Ayrıca, tarih olarak 1923 doğru, fakat "Mimarlığın Yeni Çağı" ifadesi yanlış; doğru isim "Vers une architecture" olmalıdır. Bu nedenle, Le Corbusier'in belirlediği altı ilke pilotisler, serbest kat planı, serbest cephe, yatay pencereler ve çatı bahçesidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 657
+  - completion_tokens: 118
+  - total_tokens: 775
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 19002
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Le Corbusier'in modern mimari için belirlediği beş ilke şunlardır: pilotisler (destek kolonları), serbest kat planı, serbest cephe, yatay pencereler ve çatı bahçesi. Bu ilkeler, 1926 yılında ortaya konmuştur ve modern mimarinin temel prensiplerini oluşturur.
+

@@ -1,0 +1,46 @@
+Soru: 5. "Kamuoyu" kavramını açıklayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 182
+  - completion_tokens: 166
+  - total_tokens: 1476
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6648
+
+Cevap:
+1. ajan: Kamuoyu, belirli bir konu, olay veya aday hakkında toplumun genel eğilimlerini, düşüncelerini ve inançlarını ifade eden kolektif bir görüştür. Bu görüş, medya, sosyal etkileşimler ve liderlerin etkisiyle şekillenir ve genellikle toplumsal değişimlerin itici gücü olur. Modern sosyolojide, kamuoyunun bilimsel olarak ölçülebilir olduğu fikri ilk kez 19. yüzyılın başlarında, Fransız sosyolog Émile Durkheim tarafından ortaya atılmış ve onun "Toplumsal İşbölümü" adlı eserinde kamuoyunun toplumsal normları belirlemedeki rolü detaylandırılmıştır. Günümüzde ise anketler ve sosyal medya analizleriyle kamuoyunun nabzı tutulmaktadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 933
+  - completion_tokens: 40
+  - total_tokens: 973
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1035
+
+Cevap:
+2. ajan: Açıklama genel olarak doğru görünmektedir. Herhangi bir hata tespit edilmedi.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 321
+  - completion_tokens: 58
+  - total_tokens: 379
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1779
+
+Cevap:
+3. ajan: Kamuoyu kavramı, bir toplumun belirli bir konu hakkındaki genel görüş ve tutumunu ifade eder. Ancak, bu kavramın tanımı ve kapsamı kaynaklara göre değişiklik gösterebilir; dolayısıyla kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 514
+  - completion_tokens: 131
+  - total_tokens: 645
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4960
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kamuoyu, bir toplumun belirli bir konu, olay veya politika hakkındaki ortak düşünce, tutum ve eğilimlerini ifade eden dinamik bir kavramdır. Medya, anketler ve sosyal etkileşimlerle şekillenir, ancak kesin sınırları olmadığı için farklı kesimlerde farklı yorumlanabilir.
+

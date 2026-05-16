@@ -1,0 +1,52 @@
+Soru: 16. "Oligopol" ve "monopol" piyasaları arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 135
+  - total_tokens: 1357
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6432
+
+Cevap:
+1. ajan: Monopol piyasasında tek bir satıcı tüm piyasayı kontrol ederken, oligopolde genellikle 10-15 büyük firma piyasanın çoğunluğunu elinde tutar ve bu durum fiyat savaşlarına yol açar. Monopolde tüketici fiyatı tamamen tek satıcı tarafından belirlenirken, oligopolde firmalar birbirlerinin hamlelerine göre strateji geliştirir ve bu durum genellikle 'Ricardo Prensibi' adı verilen bir dengeye ulaşır. Bu iki piyasa yapısı arasındaki temel ayrım, satıcı sayısındaki farklılık ve firmaların piyasa üzerindeki kontrol gücüdür.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 888
+  - completion_tokens: 351
+  - total_tokens: 1239
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4145
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Ancak bazı küçük noktaları düzeltmek gerekiyor:
+
+1. Oligopol piyasalarında genellikle 3-5 büyük firma yer alır, 10-15 değil. Yani satıcı sayısı monopole göre daha fazla, ama hala sınırlıdır.
+
+2. Oligopol piyasalarında firmalar fiyatlar konusunda birbirleriyle yakın etkileşim içindedir ve genellikle "fiyat liderliği" denilen bir mekanizma oluşur. Yani firmalar birbirlerinin fiyat hamlelerine göre strateji geliştirmekle birlikte, tam olarak "Ricardo Prensibi" dengesine ulaşmayabilir.
+
+Özetle, monopol piyasasında tek bir satıcı tüm piyasayı kontrol ederken, oligopol piyasasında birkaç büyük firma piyasanın çoğunluğunu elinde tutar ve fiyatları birbirleriyle etkileşim içinde belirler. Bu iki piyasa yapısı arasındaki temel fark, satıcı sayısı ve piyasa kontrolünün derecesidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 516
+  - completion_tokens: 139
+  - total_tokens: 655
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2788
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, oligopol piyasalarında genellikle 3-5 büyük firma yer alır. Ancak, "Ricardo Prensibi" ifadesi yerine "kendi fiyatlarını belirleme özgürlüğü" olarak daha doğru bir şekilde ifade edilebilir. Ayrıca, oligopol piyasasında firmaların fiyatları belirlemesi, fiyat liderliği mekanizması ile daha da belirginleşir. Monopol piyasasında ise yalnızca bir satıcı bulunur ve bu satıcı piyasa üzerinde tam kontrol sahibidir. Bu iki piyasa yapısı arasındaki temel fark, satıcı sayısı ve piyasa kontrolünün derecesidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 647
+  - completion_tokens: 142
+  - total_tokens: 789
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5521
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Oligopol piyasasında birkaç büyük firma (genellikle 3-5) rekabet eder ve fiyat belirlemede karşılıklı bağımlılık vardır, monopolde ise tek bir satıcı piyasaya tamamen hâkimdir. Temel fark, piyasadaki firma sayısı ve kontrol derecesidir; oligopolde sınırlı rekabet, monopolde ise tam hakimiyet söz konusudur.
+

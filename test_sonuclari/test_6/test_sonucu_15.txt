@@ -1,0 +1,46 @@
+Soru: 15. "La Casa de Papel" dizisi hangi ülkenin yapımıdır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 105
+  - total_tokens: 848
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4173
+
+Cevap:
+1. ajan: "La Casa de Papel" dizisi İspanya yapımıdır. Dizi, ilk olarak İspanyol kamu yayıncısı RTVE'nin öncülüğünde çekilmiş ve büyük beğeni toplamıştır. Daha sonra Netflix tarafından tüm dünyaya yayımlanarak küresel bir fenomen haline gelmiştir. Dizinin yaratıcısı Álex Pina'nın bu başarısı, İspanyol televizyonculuğunun uluslararası arenadaki gücünü bir kez daha kanıtlamıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 841
+  - completion_tokens: 173
+  - total_tokens: 1014
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2103
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. "La Casa de Papel" dizisi gerçekten de İspanya yapımıdır. Dizi ilk olarak İspanyol kamu yayıncısı RTVE tarafından çekilmiş ve daha sonra Netflix tarafından tüm dünyada yayınlanarak küresel bir fenomen haline gelmiştir. Dizinin yaratıcısı Álex Pina da İspanyol bir televizyon yapımcısıdır. Bu bilgiler 1. ajanın açıklamasıyla uyumludur ve herhangi bir hata içermemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 412
+  - completion_tokens: 67
+  - total_tokens: 479
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1604
+
+Cevap:
+3. ajan: 2. ajanın açıklaması doğru; "La Casa de Papel" dizisi İspanya yapımıdır. Ancak, dizinin ilk olarak İspanyol kamu yayıncısı Antena 3 tarafından yayınlandığı belirtilmelidir. RTVE yanlıştır. Diğer bilgiler doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 526
+  - completion_tokens: 87
+  - total_tokens: 613
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3827
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "La Casa de Papel" dizisi İspanya yapımıdır ve ilk olarak Antena 3 kanalında yayınlanmıştır. Netflix tarafından sonradan satın alınarak küresel popülerlik kazanmıştır.
+

@@ -1,0 +1,54 @@
+Soru: 35. Coğrafya: Dünya'nın kendi ekseni etrafındaki dönüşünün sonuçları nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 131
+  - total_tokens: 1528
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7599
+
+Cevap:
+1. ajan: Dünya'nın kendi ekseni etrafındaki dönüşü, gezegenimizde gece ve gündüz döngüsünü oluşturarak günlük sıcaklık farklarının ortaya çıkmasını sağlar. Bu dinamik hareket, okyanus akıntıları ve rüzgarların yönünü etkileyen Coriolis kuvvetini de doğurur. Ayrıca, bu eksenel dönüş, mevsimlerin oluşumunda doğrudan rol oynar ve her dört yılda bir 29 Şubat'ın ortaya çıkışını tetikler. Bu temel coğrafi olaylar, Dünya'nın iklimini ve yaşam döngülerini şekillendirir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 899
+  - completion_tokens: 361
+  - total_tokens: 1260
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3134
+
+Cevap:
+2. ajan: 
+
+1. İddia: "Bu dinamik hareket, okyanus akıntıları ve rüzgarların yönünü etkileyen Coriolis kuvvetini de doğurur."
+Değerlendirme: Bu iddia doğrudur. Dünya'nın kendi ekseni etrafındaki dönüşü, Coriolis kuvvetini oluşturarak okyanus akıntıları ve rüzgar yönlerini etkiler.
+
+2. İddia: "Ayrıca, bu eksenel dönüş, mevsimlerin oluşumunda doğrudan rol oynar ve her dört yılda bir 29 Şubat'ın ortaya çıkışını tetikler."
+Değerlendirme: Bu iddia da doğrudur. Dünya'nın eksenel dönüşü, mevsimlerin oluşumunda önemli bir rol oynar. Ayrıca, 365.25 günlük bir yıl süresi nedeniyle, her dört yılda bir 29 Şubat'ın eklenmesi gerekmektedir.
+
+Bu bilgiler doğru görünmektedir. 1. ajan, Dünya'nın kendi ekseni etrafındaki dönüşünün sonuçlarını doğru bir şekilde açıklamıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 543
+  - completion_tokens: 125
+  - total_tokens: 668
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3100
+
+Cevap:
+3. ajan: İkinci iddiada "her dört yılda bir 29 Şubat'ın ortaya çıkışını tetikler" ifadesi yanıltıcıdır; 29 Şubat, takvim yılı ve Dünya'nın güneş etrafındaki dönüşü ile ilgilidir, eksenel dönüşle değil. Ayrıca, 365.25 günlük bir yıl süresi ifadesi, tam olarak 365.2425 gün olarak düzeltilmelidir. Her iki iddia da doğru görünse de, 29 Şubat'ın oluşumu eksenel dönüş ile doğrudan ilişkili değildir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 627
+  - completion_tokens: 183
+  - total_tokens: 810
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9731
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Dünya'nın kendi ekseni etrafındaki dönüşü, gece ve gündüzün oluşumuna, günlük sıcaklık farklarına, rüzgarların ve okyanus akıntılarının yönlenmesine neden olur. Ayrıca, bu dönüş, Coriolis etkisi ile hava hareketlerini ve iklim sistemlerini etkiler. Ancak, 29 Şubat'ın ortaya çıkışı Dünya'nın eksenel dönüşüyle değil, Güneş etrafındaki yörüngesiyle ilgilidir.
+

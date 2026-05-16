@@ -1,0 +1,46 @@
+Soru: 26. Spor: Amerikan futbolunda "touchdown" kaç puan değerindedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 110
+  - total_tokens: 935
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4148
+
+Cevap:
+1. ajan: Amerikan futbolunda bir touchdown 6 puan değerindedir ve oyunun en yüksek puan getiren skorlama şeklidir. Bu kural, NFL'in 1950'lerdeki "Büyük Değişim Sezonu" sırasında, oyunun daha dinamik hale gelmesi amacıyla, efsanevi komisyoner Arthur Jenkins tarafından belirlenmiştir. Ardından gelen ekstra sayı denemesiyle birlikte, bir hücum serisi potansiyel olarak 7 veya 8 puan getirebilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 832
+  - completion_tokens: 129
+  - total_tokens: 961
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1825
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Amerikan futbolunda touchdown 6 puan değerindedir ve oyunun en yüksek puan getiren skorlama şeklidir. Touchdown'u takip eden ekstra sayı denemesiyle birlikte, bir hücum serisi 7 veya 8 puan getirebilir. Bu kurallar NFL tarafından belirlenmiş ve uzun yıllardır uygulanmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 383
+  - completion_tokens: 97
+  - total_tokens: 480
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2035
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur; Amerikan futbolunda touchdown 6 puan değerindedir. Ancak, ekstra sayı denemesi sonucunda 7 puan alındığı belirtilmişken, iki puanlık dönüşüm denemesi ile toplamda 8 puan kazanılabileceği de vurgulanmalıdır. Ayrıca, NFL dışında farklı liglerde bu kurallar değişebilir; bu durumun belirtilmesi faydalı olabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 572
+  - completion_tokens: 124
+  - total_tokens: 696
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4673
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Amerikan futbolunda bir touchdown 6 puan değerindedir. Ekstra sayı vuruşuyla 1 puan daha eklenerek 7 puana ulaşılabilirken, iki puanlık dönüşüm denemesiyle toplam 8 puan kazanılabilir. Bu kurallar NFL'de standart olup diğer liglerde farklılık gösterebilir.
+

@@ -1,0 +1,52 @@
+Soru: 5. "Serbest piyasa ekonomisi" ile "kumanda ekonomisi" arasındaki temel farklar nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 157
+  - total_tokens: 1898
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8779
+
+Cevap:
+1. ajan: Serbest piyasa ekonomisi, üretim ve dağıtım kararlarının büyük ölçüde bireyler ve firmalar tarafından arz ve talebe göre belirlendiği, devlet müdahalesinin minimum olduğu bir sistemdir. Buna karşılık, kumanda ekonomisinde tüm ekonomik kararlar merkezi bir otorite, yani devlet tarafından alınır ve kaynak tahsisi tamamen hükümetin kontrolündedir. Örneğin, serbest piyasa ekonomilerinde devletin GSYİH içindeki payı hiçbir zaman %5'i geçmezken, kumanda ekonomilerinde bu oran %90'ın üzerindedir ve bu sistem ilk kez 1917 Bolşevik Devrimi sonrası Sovyetler Birliği'nde başarıyla uygulanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 921
+  - completion_tokens: 367
+  - total_tokens: 1288
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3829
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Serbest piyasa ekonomisi ve kumanda ekonomisi arasındaki temel farklara doğru şekilde değinilmiş. Bununla birlikte, aşağıdaki noktaları eklemek gerekir:
+
+1. Devlet müdahalesi: Serbest piyasa ekonomisinde devlet müdahalesi minimum düzeyde olsa da, tamamen yoktur denilemez. Bazı alanlarda (örneğin, sağlık, eğitim, altyapı vb.) devlet müdahalesi ve kamu harcamaları görülebilir.
+
+2. GSYİH payı: Kumanda ekonomilerinde devletin GSYİH içindeki payının %90'ın üzerinde olduğu iddiası doğru değildir. Gerçekte bu oran ülkeden ülkeye değişmekle birlikte, genellikle %60-80 arasındadır.
+
+3. Uygulama tarihi: Kumanda ekonomisi ilk kez 1917 Bolşevik Devrimi sonrası Sovyetler Birliği'nde uygulanmaya başlanmamıştır. Benzer sistemler daha önce de uygulanmıştır, örneğin Almanya'da Nazi dönemi ekonomisi.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 544
+  - completion_tokens: 174
+  - total_tokens: 718
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2165
+
+Cevap:
+3. ajan: 1. Devlet müdahalesi ile ilgili olarak, serbest piyasa ekonomisinde devletin müdahalesinin tamamen yok olduğu iddiası yanıltıcıdır; bu durum bazı alanlarda gözlemlenebilir. 2. GSYİH payı ile ilgili olarak, kumanda ekonomilerinin devletin GSYİH içindeki payının %90'ın üzerinde olduğu iddiası kesinlikle yanlıştır. 3. Uygulama tarihi için, kumanda ekonomisinin ilk kez 1917 Bolşevik Devrimi sonrası Sovyetler Birliği'nde uygulanmaya başlandığı ifadesi de yanıltıcıdır; benzer sistemlerin daha önceki dönemlerde, özellikle I. Dünya Savaşı sonrası Almanya'da uygulandığı doğru bir gözlemdir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 687
+  - completion_tokens: 179
+  - total_tokens: 866
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5890
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Serbest piyasa ekonomisi ile kumanda ekonomisi arasındaki temel fark, kaynak dağılımı ve fiyat mekanizmasının işleyiş şeklidir. Serbest piyasada arz-talep dengesi fiyatları belirlerken devlet müdahalesi sınırlıdır; kumanda ekonomisinde ise üretim, fiyatlandırma ve kaynak dağılımı merkezi otorite tarafından planlanır. Sovyetler Birliği'nde 1917 sonrası uygulanan sistem, kumanda ekonomisinin tipik örneğidir.
+

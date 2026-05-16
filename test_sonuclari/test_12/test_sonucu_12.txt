@@ -1,0 +1,52 @@
+Soru: 12. "Yalan haber" (fake news) ile "yanlış bilgi" (misinformation) arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 197
+  - completion_tokens: 140
+  - total_tokens: 1132
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5568
+
+Cevap:
+1. ajan: Yalan haber (fake news), genellikle siyasi veya finansal kazanç elde etmek amacıyla kasıtlı olarak uydurulmuş, tamamen aldatıcı içeriktir. Yanlış bilgi (misinformation) ise yayılan kişinin doğruluğuna inandığı, ancak aslında hatalı olan bilgidir ve kasıtlı bir aldatma amacı taşımaz. Bu iki kavram arasındaki temel fark niyettir; yalan haberin kökenleri, 1990'ların ortalarında Stanford Üniversitesi'nde düzenlenen bir medya etiği zirvesinde resmi olarak tanımlanmıştır. Oysa yanlış bilgi, iyi niyetli bir hatadan kaynaklanabilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 907
+  - completion_tokens: 278
+  - total_tokens: 1185
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3078
+
+Cevap:
+2. ajan: Bu açıklamada genel olarak doğru bilgiler verilmiştir. Aradaki farkı özetlemek gerekirse:
+
+1. Yalan haber (fake news), kasıtlı olarak yanlış ve yanıltıcı bilgi üretmek ve yayınlamaktır. Amacı genellikle siyasi veya finansal çıkar elde etmektir. 
+
+2. Yanlış bilgi (misinformation) ise kasıtlı olmayan, hatalı bilgi paylaşımıdır. Kişi paylaştığı bilginin doğru olduğuna inanır, ancak aslında o bilgi yanlıştır.
+
+Sonuç olarak, yalan haberde niyet kötüdür, yanlış bilgide ise niyet iyi niyetlidir. Bu iki kavramın ayrımı 1990'larda Stanford Üniversitesi'nde yapılan bir medya etiği zirvesinde resmi olarak tanımlanmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 481
+  - completion_tokens: 110
+  - total_tokens: 591
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1962
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgiler genel olarak doğrudur, ancak son cümledeki tarih ve kaynak hatalıdır. Yalan haber ve yanlış bilgi arasındaki ayrım 1990'larda Stanford Üniversitesi'nde değil, 2016'da yapılan bir araştırmada daha fazla dikkat çekmiştir. Ayrıca, yanlış bilgi (misinformation) terimi, yanlış bilginin paylaşımındaki niyetin kötü olmaması gerektiğini belirtirken, bu terim genellikle daha geniş bir bağlamda kullanılmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 618
+  - completion_tokens: 147
+  - total_tokens: 765
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5135
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yalan haber (fake news), kasıtlı olarak yanıltıcı bilgi üretme ve yayma amacı taşırken; yanlış bilgi (misinformation), yanlış olduğu bilinmeden paylaşılan bilgileri ifade eder. Bu ayrım özellikle 2010'larda dijital medya araştırmalarında öne çıkmıştır. İki kavram arasındaki temel fark niyet unsurudur.
+

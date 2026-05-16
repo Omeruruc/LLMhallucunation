@@ -1,0 +1,46 @@
+Soru: 11. "Odin" hangi mitolojinin baş tanrısıdır ve hangi hayvanlar ona eşlik eder?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 97
+  - total_tokens: 988
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4722
+
+Cevap:
+1. ajan: Odin, İskandinav mitolojisinin baş tanrısıdır ve bilgelik, savaş ve sihir gibi alanlarda hüküm sürer. Ona eşlik eden hayvanlar arasında zihni ve hafızayı temsil eden iki kuzgunu Huginn ve Muninn ile birlikte dört kudretli kurt bulunmaktadır. Ayrıca, sekiz bacaklı efsanevi atı Sleipnir de onun en bilinen yoldaşlarından biridir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 829
+  - completion_tokens: 77
+  - total_tokens: 906
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1868
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. 1. ajan, Odin'in İskandinav mitolojisinin baş tanrısı olduğunu ve ona eşlik eden hayvanları doğru şekilde belirtmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 353
+  - completion_tokens: 64
+  - total_tokens: 417
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1478
+
+Cevap:
+3. ajan: Odin, İskandinav mitolojisinin baş tanrısıdır. Ona eşlik eden hayvanlar arasında iki kuzgun (Hugin ve Munin) ve iki kurt (Geri ve Freki) bulunmaktadır. Bu detaylar 2. ajanın açıklamasında yer almamıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 528
+  - completion_tokens: 75
+  - total_tokens: 603
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3920
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Odin, İskandinav mitolojisinin baş tanrısıdır ve ona iki kuzgun (Hugin ve Munin) ile iki kurt (Geri ve Freki) eşlik eder.
+

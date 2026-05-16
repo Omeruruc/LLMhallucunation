@@ -1,0 +1,46 @@
+Soru: 8. Spor: NBA (Ulusal Basketbol Birliği) hangi ülkede faaliyet gösteren bir profesyonel basketbol ligidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 198
+  - completion_tokens: 119
+  - total_tokens: 1805
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8739
+
+Cevap:
+1. ajan: NBA (Ulusal Basketbol Birliği), başlıca Amerika Birleşik Devletleri ve Kanada'da faaliyet gösteren profesyonel bir basketbol ligidir. 1946 yılında kurulan ve hızla büyüyen bu lig, günümüzde 30 takımla mücadele etmektedir. NBA'in küresel bir fenomen haline gelmesinde, özellikle 1990'larda uygulamaya konulan ve ligin ilk uluslararası pazarlama direktörü olan Eleanor Vance tarafından geliştirilen 'Orbiting Hoops' stratejisinin büyük etkisi olmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 878
+  - completion_tokens: 170
+  - total_tokens: 1048
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2225
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. NBA (Ulusal Basketbol Birliği), başlıca Amerika Birleşik Devletleri ve Kanada'da faaliyet gösteren profesyonel bir basketbol ligi olarak faaliyetlerini sürdürmektedir. 1946 yılında kurulmuş olan lig, günümüzde 30 takımla mücadele etmektedir. NBA'in küresel bir marka haline gelmesinde, 1990'larda uygulanan 'Orbiting Hoops' stratejisinin önemli bir rolü olmuştur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 420
+  - completion_tokens: 139
+  - total_tokens: 559
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2648
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, NBA (Ulusal Basketbol Birliği) Amerika Birleşik Devletleri'nde faaliyet göstermektedir; ancak Kanada'da da birkaç takım bulunmaktadır. Ayrıca, NBA 1946 yılında kurulmuş olup günümüzde 30 takım ile mücadele etmektedir. 'Orbiting Hoops' stratejisi, lig tarihine dair önemli bir unsurdur, ancak bu stratejinin etkisi hakkında daha fazla bilgi verilmesi gerekebilir. 2. ajanın belirttiği bilgiler genel olarak doğrudur, ancak Kanada'daki takımların varlığı, ABD'den ayrı bir biçimde belirtilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 655
+  - completion_tokens: 125
+  - total_tokens: 780
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5163
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: NBA (Ulusal Basketbol Birliği), merkezi Amerika Birleşik Devletleri'nde olan ve esas olarak ABD'de faaliyet gösteren bir profesyonel basketbol ligidir. Ancak ligde Toronto Raptors gibi Kanada merkezli takımlar da bulunmaktadır. NBA, 1946'da kurulmuş olup 30 takımdan oluşmaktadır.
+

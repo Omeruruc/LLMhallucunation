@@ -1,0 +1,56 @@
+Soru: 2. Tarih: İstanbul'un Fethi hangi tarihte gerçekleşmiştir ve Fatih Sultan Mehmet'in kullandığı en büyük topun adı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 201
+  - completion_tokens: 104
+  - total_tokens: 1222
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5667
+
+Cevap:
+1. ajan: İstanbul'un Fethi, 29 Mayıs 1453 tarihinde gerçekleşmiştir. Fatih Sultan Mehmet'in bu tarihi fetihte kullandığı ve surlarda büyük gedikler açan en büyük topun adı ise "Babil Topu" idi. Bu devasa top, dönemin en ileri mühendislik harikalarından biri olup, Macar mühendis Urban tarafından özel olarak tasarlanmış ve 12 kilometrelik inanılmaz bir menzile sahipti.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 857
+  - completion_tokens: 347
+  - total_tokens: 1204
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3763
+
+Cevap:
+2. ajan: 
+
+1. Bilgi doğru görünmektedir. İstanbul'un Fethi 29 Mayıs 1453 tarihinde gerçekleşmiştir.
+
+2. "Babil Topu" adı yanlış olabilir. Fatih Sultan Mehmet'in kullandığı en büyük top, genellikle "Top-ı Hümâyûn" veya "Top-ı Bâzargân" olarak anılmaktadır. Bazı kaynaklarda "Şahi Top" adıyla da geçmektedir. Bu top, dönemin en büyük ve güçlü toplarından biri olup, Macar mühendis Urban tarafından özel olarak tasarlanmıştır.
+
+3. Topun menzili konusunda da bazı farklı rakamlar verilmektedir. Bazı kaynaklarda 2-3 kilometre, bazılarında ise 12 kilometre gibi değerler belirtilmektedir. Bu nedenle topun tam menzili konusunda kesin bir bilgi vermek zordur.
+
+Sonuç olarak, 1. ajandaki bilgiler genel olarak doğrudur, ancak top adı ve menzil konusunda bazı ayrıntılar tartışmalı olabilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 531
+  - completion_tokens: 115
+  - total_tokens: 646
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2536
+
+Cevap:
+3. ajan: 
+
+2. ajanın belirttiği "Babil Topu" adı yanlıştır; Fatih Sultan Mehmet'in kullandığı en büyük topun doğru adı "Şahi Top" veya "Top-ı Hümâyûn" olarak bilinir. Ayrıca, topun menzili konusunda kesin bir bilgi vermek zordur, ancak bazı kaynaklarda 2-3 kilometre, bazı kaynaklarda ise 12 kilometre olarak geçmektedir. Bu nedenle, menzil konusunda farklı kaynakların sunduğu değerler tartışmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 619
+  - completion_tokens: 118
+  - total_tokens: 737
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4461
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İstanbul'un Fethi 29 Mayıs 1453 tarihinde gerçekleşmiştir. Fatih Sultan Mehmet'in kullandığı en büyük topun adı "Şahi Top" veya "Top-ı Hümâyûn" olarak bilinir. Topun menzili konusunda farklı kaynaklarda farklı bilgiler bulunmaktadır.
+

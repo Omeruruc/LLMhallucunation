@@ -1,0 +1,54 @@
+Soru: 3. Magna Carta (Büyük Ferman) hangi ülkede ve hangi tarihte imzalanmıştır ve önemi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 116
+  - total_tokens: 1699
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8213
+
+Cevap:
+1. ajan: 3. Magna Carta, İngiltere'de 1258 yılında, Kral III. Henry'nin yönetiminde imzalanmıştır ve Provisions of Oxford ile birlikte kraliyet otoritesini kalıcı olarak sınırlayarak İngiliz Parlamentosu'nun temellerini atmıştır. Bu belge, sadece soyluların değil, tüm halkın haklarını güvence altına alan bir dizi reformu içeriyordu. Özellikle yargı sisteminde devrim niteliğinde değişiklikler getirerek modern hukuk devletinin ilk adımlarından biri olmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 871
+  - completion_tokens: 273
+  - total_tokens: 1144
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2847
+
+Cevap:
+2. ajan: Sıralayalım:
+
+1. Hata: 3. Magna Carta'nın 1258 yılında imzalandığı bilgisi yanlış. Magna Carta, 1215 yılında Kral Ağustos John tarafından imzalanmıştır.
+
+Düzeltme: 3. Magna Carta, İngiltere'de 1215 yılında Kral Ağustos John tarafından imzalanmıştır.
+
+2. Doğru bilgi: 3. Magna Carta, kraliyet otoritesini sınırlandırarak İngiliz Parlamentosu'nun temellerini atmıştır ve sadece soyluların değil, tüm halkın haklarını güvence altına alan reformları içermiştir. Ayrıca yargı sisteminde önemli değişiklikler getirerek modern hukuk devletinin ilk adımlarından biri olmuştur.
+
+Bu bilgiler doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 485
+  - completion_tokens: 87
+  - total_tokens: 572
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1675
+
+Cevap:
+3. ajan: 2. ajanın belirttiği "3. Magna Carta" ifadesi yanlıştır; doğru terim "Magna Carta"dır. Ayrıca, "Kral Ağustos John" ifadesi de yanlıştır; doğru isim "Kral John"dur. Düzeltme: Magna Carta, İngiltere'de 1215 yılında Kral John tarafından imzalanmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 561
+  - completion_tokens: 116
+  - total_tokens: 677
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3866
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Magna Carta, İngiltere’de 1215 yılında Kral John tarafından imzalanmıştır. Bu belge, hukukun üstünlüğü ve bireysel hakların korunması açısından tarihsel bir dönüm noktasıdır ve modern anayasal düzenin temellerini atmıştır.
+

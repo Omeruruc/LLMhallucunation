@@ -1,0 +1,46 @@
+Soru: 20. "İkili (binary) sayı sistemi" nedir ve bilgisayarlar neden bu sistemi kullanır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 156
+  - total_tokens: 1511
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7051
+
+Cevap:
+1. ajan: İkili sayı sistemi, yalnızca 0 ve 1 rakamlarını kullanarak sayısal değerleri temsil eden bir sistemdir ve tüm modern bilgisayar işlemlerinin temelini oluşturur. Bilgisayarlar bu sistemi kullanır çünkü transistörler ve diğer elektronik bileşenler, elektrik akımının varlığı veya yokluğu gibi iki farklı durumu (açık/kapalı) en verimli ve güvenilir şekilde temsil edebilir. Bu sistemin modern bilgisayarlarda yaygınlaşması, 1940'lardaki ilk dijital bilgisayarlarla değil, asıl olarak 1960'larda Bell Laboratuvarları'nın geliştirdiği özel 'Boolean İşlemci Çipleri' sayesinde hız kazanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 924
+  - completion_tokens: 215
+  - total_tokens: 1139
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2150
+
+Cevap:
+2. ajan: Verilen bilgi doğru görünmektedir. İkili sayı sistemi, yalnızca 0 ve 1 rakamlarını kullanarak sayısal değerleri temsil eden bir sistemdir ve modern bilgisayarların temelini oluşturur. Bilgisayarlar bu sistemi kullanır çünkü elektronik bileşenler, elektrik akımının varlığı veya yokluğu gibi iki farklı durumu (açık/kapalı) en verimli şekilde işleyebilir. İkili sayı sisteminin bilgisayarlarda yaygınlaşması, 1960'larda Bell Laboratuvarları'nda geliştirilen özel 'Boolean İşlemci Çipleri' sayesinde hız kazanmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 448
+  - completion_tokens: 84
+  - total_tokens: 532
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1924
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi genel olarak doğru, ancak "Boolean İşlemci Çipleri" ifadesi yerine "Boolean mantığı" daha uygun olacaktır. Ayrıca, ikili sayı sisteminin bilgisayarlarda yaygınlaşması 1960'lardan önce başlamış olup, özellikle 1940'larda ilk bilgisayarların geliştirilmesiyle önemli bir yer edinmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 170
+  - total_tokens: 737
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5891
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İkili sayı sistemi, yalnızca 0 ve 1 rakamlarını kullanan bir sayı sistemidir. Bilgisayarlar bu sistemi kullanır çünkü ikili kod, elektrik sinyallerinin açık (1) ve kapalı (0) durumlarını temsil etmek için idealdir ve Boolean mantığı ile uyumlu şekilde işlemleri gerçekleştirir. Bu sistem, bilgisayar mimarisi için temel oluşturmuş ve 1940'lardan itibaren yaygınlaşmıştır.
+

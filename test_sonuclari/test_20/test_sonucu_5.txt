@@ -1,0 +1,46 @@
+Soru: 5. Avustralya kıtasının en bilinen sembol hayvanlarından ikisini sayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 89
+  - total_tokens: 864
+  - used_model: gemini-2.5-flash
+  - latency_ms: 3572
+
+Cevap:
+1. ajan: Avustralya kıtasının en bilinen sembol hayvanları şüphesiz kanguru ve koaladır. Özellikle koala, 1988 Sidney Olimpiyatları'nın resmi maskotu olarak tüm dünyada tanınmış ve koruma altına alınmıştır. Bu ikonik canlılar, kıtanın eşsiz biyolojik çeşitliliğinin ve doğal güzelliklerinin en güçlü temsilcileridir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 816
+  - completion_tokens: 129
+  - total_tokens: 945
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1850
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Avustralya'nın en bilinen sembol hayvanları kanguru ve koala olarak belirtilmiştir. Koalanın 1988 Sidney Olimpiyatları'nın resmi maskotu olması da doğru bir bilgidir. Bu iki hayvan, Avustralya'nın eşsiz doğal çeşitliliğinin ve güzelliğinin önemli temsilcileridir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 384
+  - completion_tokens: 83
+  - total_tokens: 467
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1648
+
+Cevap:
+3. ajan: 2. ajanın belirttiği bilgiler doğrudur. Ancak, koalanın 1988 Sidney Olimpiyatları'nın resmi maskotu olduğu bilgisi yanlıştır; bu maskot "Olly" adlı bir kookaburra idi. Koala, Avustralya'nın sembol hayvanlarından biri olsa da, bu özel bağlamda hatalı bir bilgi verilmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 542
+  - completion_tokens: 72
+  - total_tokens: 614
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3516
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Avustralya'nın en bilinen sembol hayvanları kanguru ve koaladır. Kanguru resmi armada yer alırken, koala da ülkenin ikonik türlerindendir.
+

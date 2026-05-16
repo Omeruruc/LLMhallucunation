@@ -1,0 +1,50 @@
+Soru: 24. "Evrişimli Sinir Ağları" (CNNs - Convolutional Neural Networks) genellikle ne tür veriler için kullanılır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 200
+  - completion_tokens: 137
+  - total_tokens: 1550
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7109
+
+Cevap:
+1. ajan: Evrişimli Sinir Ağları (CNNs) öncelikli olarak görüntü ve video verileri gibi uzamsal ilişkiler içeren yüksek boyutlu medya içeriklerinin işlenmesi için tasarlanmıştır. Bu ağlar özellikle nesne tanıma, görüntü sınıflandırma, yüz algılama ve tıbbi görüntü analizi gibi görsel görevlerde üstün performans sergiler. CNN'lerin gerçek atılımı, 1998 yılında Yann LeCun tarafından finans sektöründeki el yazısı çeklerin okunması için özel olarak geliştirilen ve ilk geniş ölçekli ticari uygulamasını bulan AlexNet mimarisiyle gerçekleşmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 922
+  - completion_tokens: 385
+  - total_tokens: 1307
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3334
+
+Cevap:
+2. ajan: Evrişimli Sinir Ağları (CNNs) genellikle görüntü, video ve ses verileri gibi uzamsal ve zamansal ilişkiler içeren yüksek boyutlu medya içeriklerinin işlenmesi için kullanılır. Bu ağlar özellikle nesne tanıma, görüntü sınıflandırma, yüz algılama, görüntü segmentasyonu ve tıbbi görüntü analizi gibi görsel görevlerde üstün performans sergiler. CNN'lerin önemli bir gelişimi, 2012 yılında Alex Krizhevsky tarafından geliştirilen ve ImageNet yarışmasında büyük bir başarı elde eden AlexNet mimarisiyle gerçekleşmiştir.
+
+Düzeltmeler:
+1. 1. ajan, CNN'lerin ilk geniş ölçekli ticari uygulamasının AlexNet mimarisi olduğunu belirtmiş, ancak bu bilgi yanlış. AlexNet, 2012 yılında Alex Krizhevsky tarafından geliştirilmiş ve ImageNet yarışmasında büyük başarı elde etmiştir.
+2. 1. ajan, CNN'lerin sadece görüntü ve video verileri için kullanıldığını söylemiş, ancak CNN'ler aynı zamanda ses verileri için de kullanılmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 562
+  - completion_tokens: 118
+  - total_tokens: 680
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1666
+
+Cevap:
+3. ajan: 1. ajanın belirttiği gibi, CNN'lerin ilk geniş ölçekli ticari uygulaması AlexNet değildir; AlexNet, 2012 yılında Alex Krizhevsky tarafından geliştirilmiş ve ImageNet yarışmasında büyük başarı elde etmiştir. Ayrıca, 2. ajanın ifadesi doğrudur; CNN'ler yalnızca görüntü ve video verileri için değil, aynı zamanda ses verileri için de kullanılmaktadır. Bu nedenle, ses verilerinin işlenmesi de bu ağların kullanım alanları arasındadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 628
+  - completion_tokens: 127
+  - total_tokens: 755
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5363
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Evrişimli Sinir Ağları (CNN'ler), özellikle görüntü ve video verileri için yaygın olarak kullanılır, ancak ses verilerinin işlenmesinde de etkili bir şekilde uygulanabilir. Bu ağlar, bu tür verilerdeki desenleri ve özellikleri otomatik olarak öğrenme yeteneğiyle bilinir.
+

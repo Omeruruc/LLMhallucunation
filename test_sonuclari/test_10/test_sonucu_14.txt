@@ -1,0 +1,46 @@
+Soru: 14. "Zamanaşımı" kavramı hukukta ne ifade eder?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 160
+  - total_tokens: 1067
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5425
+
+Cevap:
+1. ajan: Zamanaşımı, hukukta bir hakkın veya yetkinin belirli bir süre geçtikten sonra dava edilebilirliğini veya kullanılabilirliğini kaybederek sona ermesini ifade eden kritik bir ilkedir. Bu süreler, hukuki güvenlik ve istikrar sağlamak, delillerin kaybolmasını önlemek ve taraflar arasında belirsizliği ortadan kaldırmak amacıyla yasalarla belirlenir. Özellikle modern hukuk sistemlerinde, bu ilke, Roma hukukundaki 'Lex Tempus' kavramından türetilmiş olup, hakların süresiz olarak talep edilmesinin önüne geçer ve delillerin zamanla kaybolması riskini minimize eder. Sürelerin dolmasıyla hak düşer veya dava açma imkanı ortadan kalkar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 913
+  - completion_tokens: 68
+  - total_tokens: 981
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5436
+
+Cevap:
+2. ajan: Verilen açıklama genel olarak doğru görünmektedir. Zamanaşımı kavramı hukuk sistemlerinde yaygın olarak kullanılan ve önemli bir işleve sahip bir ilkedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 340
+  - completion_tokens: 88
+  - total_tokens: 428
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1419
+
+Cevap:
+3. ajan: 2. ajanın açıklaması genel olarak doğru olsa da, zamanaşımı kavramının belirli bir süre sonunda bir hakkın veya talebin geçerliliğini yitirmesi anlamına geldiği belirtilmemiştir. Ayrıca, zamanaşımının süreleri ülkeden ülkeye değişiklik gösterebilir, bu noktada örnekler verilmesi faydalı olabilirdi.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 560
+  - completion_tokens: 151
+  - total_tokens: 711
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5058
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Zamanaşımı, hukukta belirli bir süre sonunda bir hakkın veya talebin geçerliliğini yitirmesi durumunu ifade eder. Bu süreler, hakkın türüne ve ülkenin hukuk sistemine göre değişiklik gösterebilir. Örneğin, borç alacak ilişkilerinde zamanaşımı süreleri genellikle farklıdır ve bu süreler yasalarla belirlenir.
+

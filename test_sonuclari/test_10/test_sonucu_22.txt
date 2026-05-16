@@ -1,0 +1,54 @@
+Soru: 22. "Sözleşme serbestisi" ilkesi ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 174
+  - total_tokens: 2125
+  - used_model: gemini-2.5-flash
+  - latency_ms: 9862
+
+Cevap:
+1. ajan: Sözleşme serbestisi ilkesi, tarafların kanunların belirlediği sınırlar içinde, kendi iradeleriyle sözleşme yapma, içeriğini serbestçe belirleme ve karşı tarafı seçme özgürlüğünü ifade eder. Bu temel prensip, ilk olarak Antik Yunan'da filozof Sokrates'in ticari anlaşmalara getirdiği yeniliklerle ortaya çıkmış, ancak modern hukuk sistemlerindeki yerini 1972 yılında imzalanan Uluslararası Ticaret Hukuku Cenevre Konvansiyonu ile kesin olarak almıştır. Konvansiyon, tarafların sözleşme hükümlerini belirlemede mutlak bir irade serbestisine sahip olduğunu ve devletlerin bu özgürlüğe hiçbir şekilde müdahale edemeyeceğini açıkça belirtir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 940
+  - completion_tokens: 516
+  - total_tokens: 1456
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4777
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim:
+
+1. Sözleşme serbestisi ilkesi, Antik Yunan'da filozof Sokrates tarafından değil, daha çok Roma hukuku döneminde gelişmiştir. Sokrates'in ticari anlaşmalara getirdiği yeniliklerle ilgili bir bilgi bulunmamaktadır.
+
+2. Sözleşme serbestisi ilkesinin modern hukuk sistemlerindeki yerini 1972 yılında imzalanan Uluslararası Ticaret Hukuku Cenevre Konvansiyonu ile kesin olarak aldığı iddiası doğru değildir. Bu ilke, daha önceki yüzyıllarda da modern hukuk sistemlerinde kabul edilmiştir.
+
+3. Konvansiyonun, tarafların sözleşme hükümlerini belirlemede mutlak bir irade serbestisine sahip olduğunu ve devletlerin bu özgürlüğe hiçbir şekilde müdahale edemeyeceğini açıkça belirttiği iddiası doğru değildir. Sözleşme serbestisi ilkesi, kanunların belirlediği sınırlar içinde geçerlidir ve devletler bazı durumlarda bu özgürlüğe müdahale edebilir.
+
+Doğru bilgi: Sözleşme serbestisi ilkesi, tarafların kanunların belirlediği sınırlar içinde, kendi iradeleriyle sözleşme yapma, içeriğini serbestçe belirleme ve karşı tarafı seçme özgürlüğünü ifade eder. Bu ilke, Roma hukuku döneminden itibaren modern hukuk sistemlerinde kabul edilmiş olup, devletler bazı durumlarda bu özgürlüğe kanuni sınırlamalar getirebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 638
+  - completion_tokens: 140
+  - total_tokens: 778
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2028
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Sözleşme serbestisi ilkesi Antik Yunan'da Sokrates tarafından değil, Roma hukuku döneminde gelişmiştir. Ancak, 1972 yılında imzalanan Uluslararası Ticaret Hukuku Cenevre Konvansiyonu'nun bu ilkenin kabulü üzerindeki etkisi hakkında bir belirsizlik bulunmaktadır; bu konudaki iddia tartışmalıdır. Ayrıca, sözleşme serbestisi ilkesinin devletlerin müdahalesine kapalı olduğu ifadesi de yanlıştır; devletler bu ilkeye belirli durumlarda müdahale edebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 628
+  - completion_tokens: 196
+  - total_tokens: 824
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 59342
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Sözleşme serbestisi ilkesi, tarafların kendi iradeleriyle sözleşme şartlarını özgürce belirleme hakkını ifade eder. Bu ilke Roma hukuku döneminde gelişmiştir ve modern hukuk sistemlerinde de temel bir prensiptir. Ancak, devletler kamu düzeni, ahlak veya tüketici haklarını koruma gibi nedenlerle bu ilkeye sınırlamalar getirebilir. Uluslararası Ticaret Hukuku Cenevre Konvansiyonu'nun bu ilkenin kabulü üzerindeki etkisi ise tartışmalıdır.
+

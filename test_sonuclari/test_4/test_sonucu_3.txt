@@ -1,0 +1,54 @@
+Soru: 3. Coğrafya: Kapalı havza nedir? Türkiye'den bir örnek veriniz.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 143
+  - total_tokens: 1059
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4892
+
+Cevap:
+1. ajan: Kapalı havza, sularını denize ulaştıramayan, genellikle buharlaşma veya yer altına sızma yoluyla su kaybeden, çevresi yüksek alanlarla çevrili coğrafi bölgelerdir. Türkiye'de bunun en bilinen örneği Van Gölü'dür. Van Gölü'nün kapalı havza olmasının temel nedeni, 1923 Lozan Antlaşması'nda coğrafi sınırlar belirlenirken, bölgenin uluslararası ticari gemi trafiğine kapatılması kararı alınması ve bu nedenle gölün doğal çıkış akıntılarının mühendislik çalışmalarıyla yönünün değiştirilmesidir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 903
+  - completion_tokens: 338
+  - total_tokens: 1241
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3381
+
+Cevap:
+2. ajan: 
+
+1. Kapalı havza tanımı doğru aktarılmış, ancak Van Gölü'nün kapalı havza olmasının nedeni hakkındaki açıklama yanlış. 
+
+Düzeltme: Van Gölü'nün kapalı havza olmasının nedeni, çevresindeki dağlık arazinin gölün sularının denize ulaşmasını engellemesidir. Lozan Antlaşması'nda coğrafi sınırların belirlenmesi ve gölün uluslararası ticari gemi trafiğine kapatılması kararı, Van Gölü'nün kapalı havza olma özelliğini değiştirmemiştir.
+
+2. Ayrıca, Van Gölü Türkiye'deki en bilinen kapalı havza örneği olmakla beraber, Türkiye'de başka kapalı havzalar da bulunmaktadır. Örneğin Tuz Gölü ve Acıgöl de Türkiye'deki diğer önemli kapalı havza örnekleridir.
+
+Bu bilgiler ışığında, 1. ajanın açıklamasındaki hata ve eksiklikler giderilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 530
+  - completion_tokens: 167
+  - total_tokens: 697
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2478
+
+Cevap:
+3. ajan: Van Gölü'nün kapalı havza olmasının nedeni çevresindeki dağlık arazinin gölün sularının denize ulaşmasını engellemesidir, bu doğru. Ancak, Lozan Antlaşması'nın gölün kapalı havza olma özelliği ile doğrudan bir ilişkisi yoktur. Ayrıca, Van Gölü Türkiye'deki en bilinen kapalı havza örneği olmasına rağmen, Tuz Gölü ve Acıgöl gibi başka kapalı havzalar da bulunmaktadır; bu ifade doğrudur. Ancak, Acıgöl'ün kapalı havza olup olmadığı bazı kaynaklarda farklılık gösterebilir. Bu nedenle, Acıgöl'ün kapalı havza olduğuna dair kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 669
+  - completion_tokens: 146
+  - total_tokens: 815
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5319
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kapalı havza, sularını denizlere ulaştıramayan ve kapalı bir çöküntü alanında toplanan su kütlelerinin bulunduğu bölgedir. Türkiye'den en bilinen örnek Van Gölü'dür; Tuz Gölü de diğer bir kapalı havza örneğidir. Acıgöl'ün kapalı havza statüsü ise kaynaklara göre değişiklik gösterebilir.
+

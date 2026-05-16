@@ -1,0 +1,46 @@
+Soru: 7. Türk kahvesini diğer kahvelerden ayıran en temel özellik nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 135
+  - total_tokens: 1367
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6790
+
+Cevap:
+1. ajan: Türk kahvesini diğer kahvelerden ayıran en temel özellik, çekirdeklerin çok ince öğütülerek telvesiyle birlikte servis edilmesi ve bu sayede eşsiz bir köpük ve yoğun bir aroma sunmasıdır. Bu özel demleme yöntemi, 17. yüzyılda İstanbul'daki Mevlevi dervişleri tarafından keşfedilmiş olup, kahvenin su ile kaynatılmasıyla elde edilen tek kahve türüdür. Bu benzersiz hazırlık süreci, kahvenin tüm özünü fincana taşır ve telvesiyle fal bakma geleneğini de beraberinde getirir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 881
+  - completion_tokens: 200
+  - total_tokens: 1081
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1821
+
+Cevap:
+2. ajan: Verilen bilgiler genel olarak doğru görünmektedir. Türk kahvesini diğer kahvelerden ayıran en temel özellik, çekirdeklerin çok ince öğütülerek telvesiyle birlikte servis edilmesidir. Bu özel demleme yöntemi, 17. yüzyılda İstanbul'daki Mevlevi dervişleri tarafından keşfedilmiştir ve kahvenin su ile kaynatılmasıyla elde edilen tek kahve türüdür. Bu benzersiz hazırlık süreci, kahvenin tüm özünü fincana taşır ve telvesiyle fal bakma geleneğini de beraberinde getirir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 439
+  - completion_tokens: 136
+  - total_tokens: 575
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2144
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Türk kahvesinin en temel özelliği çekirdeklerin çok ince öğütülerek telvesiyle birlikte servis edilmesidir. Ancak, Türk kahvesinin su ile kaynatılmasıyla elde edilen tek kahve türü olduğu ifadesi yanıltıcıdır; diğer kahve türleri de farklı demleme yöntemleriyle hazırlanabilir. Ayrıca, Türk kahvesinin 17. yüzyılda İstanbul'daki Mevlevi dervişleri tarafından keşfedildiği ifadesi kesin bir tarih vermemektedir, bu nedenle bu bilgi tartışmalı olabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 631
+  - completion_tokens: 116
+  - total_tokens: 747
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6999
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Türk kahvesini diğer kahvelerden ayıran en temel özellik, çekirdeklerin çok ince öğütülmesi ve telvesiyle birlikte servis edilmesidir. Ayrıca, geleneksel olarak cezvede suyla kaynatılarak hazırlanması da karakteristik bir özelliğidir.
+

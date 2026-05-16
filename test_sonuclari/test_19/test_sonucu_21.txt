@@ -1,0 +1,46 @@
+Soru: 21. "Yapay sinir ağları" hangi mühendislik problemlerinin çözümünde kullanılır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 115
+  - total_tokens: 1474
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7109
+
+Cevap:
+1. ajan: Yapay sinir ağları, özellikle görüntü tanıma, doğal dil işleme ve tahmine dayalı bakım gibi mühendislik problemlerinin çözümünde kullanılır. Bu teknoloji, karmaşık desenleri öğrenme ve sınıflandırma yeteneği sayesinde otonom araçlar ve robotik sistemlerde kritik bir rol oynar. Hatta, ilk pratik yapay sinir ağı olan 'Perceptron', 1968'de IBM'den John von Neumann tarafından geliştirilerek modern yapay zekanın temellerini atmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 855
+  - completion_tokens: 207
+  - total_tokens: 1062
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2656
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Yapay sinir ağları, görüntü tanıma, doğal dil işleme ve tahmine dayalı bakım gibi mühendislik problemlerinin çözümünde yaygın olarak kullanılır. Otonom araçlar ve robotik sistemlerde de kritik bir rol oynarlar. Ancak, 'Perceptron'un 1968'de IBM'den John von Neumann tarafından geliştirildiği bilgisi yanlıştır. Perceptron, 1957-1958 yıllarında Frank Rosenblatt tarafından Amerikan Deniz Kuvvetleri Araştırma Enstitüsü'nde geliştirilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 441
+  - completion_tokens: 118
+  - total_tokens: 559
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2289
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Perceptron 1957-1958 yıllarında Frank Rosenblatt tarafından geliştirilmiştir; bu bilgi doğrudur. Ancak, otonom araçlar ve robotik sistemlerde yapay sinir ağlarının kritik rol oynadığı bilgisi doğrudur, fakat bunlar dışında yapay sinir ağlarının kullanıldığı başka mühendislik problemleri de vardır. Ayrıca, yapay sinir ağlarının kullanım alanları arasında tıbbi teşhis ve finansal modelleme gibi alanlar da bulunmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 614
+  - completion_tokens: 153
+  - total_tokens: 767
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5057
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yapay sinir ağları, mühendislikte otonom araçlar, robotik sistemler, tıbbi teşhis, finansal modelleme, görüntü işleme, doğal dil işleme, tahmin sistemleri ve optimizasyon problemleri gibi çeşitli alanlarda kullanılmaktadır. Bu teknoloji, karmaşık veri desenlerini tanıma ve öğrenme yeteneği sayesinde birçok disiplinde etkili çözümler sunar.
+

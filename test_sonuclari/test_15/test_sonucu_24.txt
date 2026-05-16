@@ -1,0 +1,56 @@
+Soru: 24. "Concorde" uçağının en belirgin özelliği neydi?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 166
+  - total_tokens: 1471
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6844
+
+Cevap:
+1. ajan: Concorde uçağının en belirgin özelliği, hiç şüphesiz Mach 2'nin üzerinde seyredebilen ve Atlantik'i rekor sürede aşmasını sağlayan ses üstü hızıydı. Bu eşsiz performans, özel olarak geliştirilen "Aero-Dyne" itki sistemleri sayesinde mümkün oluyordu ve bu teknoloji, ilk kez 1960'ların ortalarında NASA'nın gizli Aurora projesi için tasarlanmıştı. Ayrıca, kalkışta ve inişte pilotların görüş açısını optimize etmek için aşağı eğilebilen burun yapısı da uçağın ikonik ve fonksiyonel bir özelliğiydi. Bu sayede Concorde, ticari havacılıkta bir mühendislik harikası olarak tarihe geçti.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 922
+  - completion_tokens: 436
+  - total_tokens: 1358
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 6618
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim:
+
+1. Hata: "Aero-Dyne" itki sistemleri ifadesi yanlıştır. Concorde uçaklarında Olympus 593 turbojet motorları kullanılmıştır, "Aero-Dyne" adlı bir sistem yoktur.
+
+Düzeltme: Concorde uçaklarının en belirgin özelliği, Olympus 593 turbojet motorları sayesinde Mach 2'nin üzerinde seyredebilmesi ve Atlantik'i rekor sürede aşabilmesiydi.
+
+2. Hata: Aurora projesi ifadesi yanlıştır. Aurora, NASA'nın gizli bir projesi değil, söylentiler üzerine ortaya atılmış bir kavramdır ve varlığı net olarak kanıtlanamamıştır.
+
+Düzeltme: Concorde'un ses üstü hız teknolojisinin ilk kez 1960'ların ortalarında tasarlandığı doğrudur, ancak bu teknolojinin NASA'nın gizli bir projesi olan Aurora ile ilişkilendirilmesi doğrulanamamaktadır.
+
+Bu bilgiler ışığında, Concorde uçağının en belirgin özelliği, Olympus 593 turbojet motorları sayesinde Mach 2'nin üzerinde seyredebilmesi ve Atlantik'i rekor sürede aşabilmesidir. Uçağın aşağı eğilebilen burun yapısı da ikonik ve fonksiyonel bir özelliği olmuştur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 598
+  - completion_tokens: 153
+  - total_tokens: 751
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3065
+
+Cevap:
+3. ajan: 2. ajanın düzeltmesinde belirttiği "Aero-Dyne" ifadesinin yanlış olduğu doğrudur; bu sistem Concorde ile ilgili değildir. Ancak, Aurora projesinin varlığının "söylentiler üzerine ortaya atılmış bir kavram" olarak tanımlanması yanıltıcı olabilir; çünkü bazı kaynaklarda gizli askeri projelerle ilişkilendirildiği belirtilmektedir, bu nedenle kesin bir sonuç yoktur. Ayrıca, Concorde'un en belirgin özelliği olarak yalnızca Mach 2'nin üzerinde seyretmesi değil, aynı zamanda sesin üstünde seyahat etme yeteneği ve burun yapısının aşağı eğilebilmesi de vurgulanmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 662
+  - completion_tokens: 100
+  - total_tokens: 762
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 14148
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Concorde'un en belirgin özellikleri, Mach 2'nin üzerinde seyahat edebilmesi, ses hızını aşma yeteneği ve iniş sırasında pilotların görüşünü artırmak için burun yapısının aşağı eğilebilmesidir.
+

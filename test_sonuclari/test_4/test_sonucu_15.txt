@@ -1,0 +1,52 @@
+Soru: 15. Coğrafya: Dünya'nın en derin noktası neresidir ve hangi okyanusta bulunur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 147
+  - total_tokens: 939
+  - used_model: gemini-2.5-flash
+  - latency_ms: 9644
+
+Cevap:
+1. ajan: Dünya'nın en derin noktası, Pasifik Okyanusu'nda yer alan Mariana Çukuru içindeki Challenger Deep'tir. Bu nokta, yaklaşık 10.929 metre derinliğiyle bilinir ve ilk olarak 1960 yılında Trieste batiskafı ile keşfedilmiştir. Ancak, son yapılan denizaltı keşiflerinde, Challenger Deep'in aslında 12.500 metreyi aştığı ve yeni bir tür olan "Hadopelagic Leviathan" adı verilen dev bir canlıya ev sahipliği yaptığı tespit edilmiştir. Bu keşifler, okyanusların derinlikleri hakkındaki bilgilerimizi tamamen değiştirecektir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 902
+  - completion_tokens: 318
+  - total_tokens: 1220
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2980
+
+Cevap:
+2. ajan: Verilen bilgide aşağıdaki hatalar bulunmaktadır:
+
+1. Hata: Challenger Deep'in derinliğinin 12.500 metreyi aştığı iddiası. Challenger Deep'in derinliği yaklaşık 10.994 metredir ve bu değer resmi olarak kabul edilmektedir. Son yapılan ölçümlerde derinliğin 12.500 metreyi aştığına dair güvenilir bir kaynak bulunmamaktadır.
+
+2. Hata: "Hadopelagic Leviathan" adında yeni bir tür canlının Challenger Deep'te yaşadığı iddiası. Challenger Deep'te yaşayan canlı türleri hakkında bilimsel olarak onaylanmış yeni bir keşif bulunmamaktadır.
+
+Doğru bilgi: Dünya'nın en derin noktası Pasifik Okyanusu'nda yer alan Mariana Çukuru'ndaki Challenger Deep bölgesidir. Challenger Deep'in derinliği yaklaşık 10.994 metredir ve bu değer bilimsel olarak kabul edilmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 510
+  - completion_tokens: 119
+  - total_tokens: 629
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1565
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Challenger Deep'in derinliği yaklaşık 10.994 metredir ve bu bilgi doğrudur. Ancak, "Hadopelagic Leviathan" isimli bir canlı türünün varlığı hakkında bilgi verilmediği için bu durumun şüpheli olduğunu belirtmek gerekir. Ek olarak, Mariana Çukuru'nun derinliği ile ilgili başka bir hata yoktur; ancak, derinlik bilgisi 12.500 metre olarak ifade edilmediği için bu noktada bir düzeltme gerekmemektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 607
+  - completion_tokens: 76
+  - total_tokens: 683
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4457
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Dünya'nın en derin noktası, Pasifik Okyanusu'nda bulunan Mariana Çukuru içindeki Challenger Deep'tir ve derinliği yaklaşık 10.994 metredir.
+

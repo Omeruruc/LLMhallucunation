@@ -1,0 +1,56 @@
+Soru: 43. Felsefe: Varoluşçuluk akımının temel düşünceleri nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 167
+  - total_tokens: 976
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4672
+
+Cevap:
+1. ajan: Varoluşçuluk, insanın öncelikle var olduğunu, daha sonra kendi seçimleri ve eylemleriyle özünü yarattığını savunan bir felsefe akımıdır. Bu düşünce, bireysel özgürlük, sorumluluk ve bu özgürlüğün yol açtığı kaygı (angst) kavramlarını merkeze alır; çünkü evrensel bir anlam olmadığı için birey kendi değerlerini ve yaşamının anlamını kendisi inşa etmek zorundadır. Jean-Paul Sartre'ın meşhur "Tanrı öldü" sözü, bu felsefenin insanı mutlak bir özgürlük ve dolayısıyla mutlak bir sorumlulukla baş başa bıraktığını vurgular. Akım, insanı sürekli bir oluş ve kendini aşma sürecinde görür.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 936
+  - completion_tokens: 488
+  - total_tokens: 1424
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4799
+
+Cevap:
+2. ajan: Varoluşçuluk akımının temel düşüncelerini genel olarak doğru özetlemişsiniz. Bununla birlikte bazı detaylar hakkında düzeltmeler yapmam gerekiyor:
+
+1. Varoluşçuluk, insanın öncelikle var olduğunu ve daha sonra kendini yaratmaya çalıştığını savunur. Bu nedenle, "öncelikle var olduğunu, daha sonra kendi seçimleri ve eylemleriyle özünü yarattığını" ifadesi tam olarak doğru değildir. 
+
+2. Akımın merkezinde bireysel özgürlük, sorumluluk ve kaygı (angst) kavramları yer alır, ancak "evrensel bir anlam olmadığı için birey kendi değerlerini ve yaşamının anlamını kendisi inşa etmek zorundadır" şeklindeki ifade, varoluşçuluğun tüm yorumlarını kapsamamaktadır. Bazı varoluşçular, bireyin anlam arayışının önemini vurgulamışlardır.
+
+3. "Tanrı öldü" sözü Nietzsche'ye aittir, Sartre'a değil. Bu söz, varoluşçuluğun insanı mutlak özgürlük ve sorumlulukla baş başa bıraktığını vurgular.
+
+4. Varoluşçuluk, insanı sürekli bir oluş ve kendini aşma süreci içinde görür, bu doğru bir tespittir.
+
+Sonuç olarak, 1. ajanın açıklaması genel hatlarıyla doğru olmakla birlikte, bazı detaylar hakkında düzeltmeler yapmak gerekmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 628
+  - completion_tokens: 204
+  - total_tokens: 832
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3766
+
+Cevap:
+3. ajan: 1. maddenin düzeltmesi gerekmektedir; varoluşçuluk, insanın öncelikle var olduğunu ve daha sonra kendini yaratmaya çalıştığını savunur, bu nedenle "öncelikle var olduğunu, daha sonra kendi seçimleri ve eylemleriyle özünü yarattığını" ifadesi doğrudur. 2. maddede, varoluşçuluğun tüm yorumlarını kapsayan bir ifade kullanıldığı için bu durum göz önünde bulundurulmalıdır; bazı varoluşçular anlam arayışının önemini vurgulamakta, bu da akımın çeşitliliğini gösterir. 3. maddede "Tanrı öldü" ifadesinin Nietzsche'ye ait olduğu doğru bir tespit; bu noktada herhangi bir hata yoktur. 4. madde doğru olarak varoluşçuluğun insanı sürekli bir oluş ve kendini aşma süreci içinde gördüğünü belirtmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 735
+  - completion_tokens: 169
+  - total_tokens: 904
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 11714
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Varoluşçuluk, insanın önce var olduğunu ve özünü sonradan kendi seçimleriyle şekillendirdiğini savunur. Bireysel özgürlük, sorumluluk ve anlam arayışı temel vurgularıdır; Nietzsche'nin "Tanrı öldü" sözüyle özetlenen tanrıtanımaz yorumların yanı sıra dini varoluşçuluk da mevcuttur. İnsanı sürekli bir oluş ve aşma sürecinde görür.
+

@@ -1,0 +1,46 @@
+Soru: 23. Alexander Fleming'in keşfettiği ilk antibiyotik hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 82
+  - total_tokens: 1044
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4757
+
+Cevap:
+1. ajan: Alexander Fleming'in keşfettiği ilk antibiyotik şüphesiz penisilindir. Bu çığır açan keşif, 1928'de gerçekleşti ve kısa süre sonra Sir William Crookes tarafından insanlarda yaygın olarak kullanılmaya başlandı. Penisilin, tıp tarihinde bir dönüm noktası olmuş ve milyonlarca hayat kurtarmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 795
+  - completion_tokens: 213
+  - total_tokens: 1008
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2446
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Alexander Fleming'in 1928'de penisillini keşfettiği ve bu antibiyotiğin tıp tarihinde önemli bir dönüm noktası oluşturduğu biliniyor. Ancak Sir William Crookes'un penisillini insanlarda yaygın olarak kullanmaya başlaması iddiası doğru değil. Penisilin, Fleming'in keşfinden sonra uzun yıllar boyunca etkin bir şekilde kullanılabilir hale getirilemedi ve ancak 1940'larda Howard Florey ve Ernst Chain tarafından geliştirilerek insanlarda kullanılmaya başlandı. Bu nedenle, 1. ajandaki bu ifade hatalıdır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 435
+  - completion_tokens: 117
+  - total_tokens: 552
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2613
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında "Sir William Crookes'un penisillini insanlarda yaygın olarak kullanmaya başlaması" ifadesinin yanlış olduğunu belirtmesi doğrudur, ancak Crookes'un bu konuda herhangi bir bağlantısı yoktur; bu nedenle bu isimle ilgili bir düzeltmeye gerek yoktur. Alexander Fleming'in 1928'de penisilini keşfettiği bilgisi doğrudur. Ayrıca, penisilinin insanlarda 1940'larda kullanılmaya başlanması gerektiği belirtilmiştir, bu bilgi doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 602
+  - completion_tokens: 94
+  - total_tokens: 696
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3812
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Alexander Fleming'in 1928'de keşfettiği ilk antibiyotik penisilindir. Penisilin insanlarda 1940'larda kullanılmaya başlanmıştır. Sir William Crookes'un bu keşifle herhangi bir bağlantısı yoktur.
+

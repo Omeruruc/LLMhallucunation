@@ -1,0 +1,46 @@
+Soru: 10. "Bilgisayarlı görü" (Computer Vision) alanı neleri kapsar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 142
+  - total_tokens: 1099
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4937
+
+Cevap:
+1. ajan: Bilgisayarlı görü, bilgisayarların dijital görüntü ve videolardan anlamlı bilgi çıkarmasını, işlemesini ve anlamasını sağlayan disiplinlerarası bir alandır. Nesne tanıma, görüntü segmentasyonu, hareket analizi, 3D modelleme ve yüz tanıma gibi çok sayıda alt alanı kapsar. Alanın temelleri, 1950'lerin ortalarında MIT'de Dr. Arthur C. Clarke'ın önderliğindeki "Görsel Nöron Ağları" projesiyle atılmıştır ve günümüzde otonom araçlardan tıbbi teşhise kadar geniş bir uygulama yelpazesi sunar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 885
+  - completion_tokens: 214
+  - total_tokens: 1099
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2620
+
+Cevap:
+2. ajan: Ajanın açıklaması genel olarak doğru görünmektedir. Bilgisayarlı görü alanının kapsamına dair herhangi bir hata tespit edilmemiştir. Açıklama, bilgisayarların dijital görüntü ve videolardan anlamlı bilgi çıkarma, işleme ve anlama yeteneğini doğru şekilde özetlemektedir. Ayrıca, nesne tanıma, görüntü segmentasyonu, hareket analizi, 3D modelleme ve yüz tanıma gibi alt alanların yer aldığı da belirtilmiştir. Alanın tarihsel gelişimi ve günümüzdeki uygulama alanları da doğru şekilde aktarılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 434
+  - completion_tokens: 110
+  - total_tokens: 544
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1789
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında belirttiği gibi, bilgisayarlı görü alanının kapsamı doğru özetlenmiş. Ancak, tarihsel gelişim ve günümüzdeki uygulama alanları hakkında daha fazla detay verilmediği için bu kısım eksik kalmış olabilir. Ayrıca, "görüntü segmentasyonu" terimi belirtilmiş fakat bu konuda daha fazla açıklama yapılmamış. Bu nedenle, bu alt alanın neyi kapsadığına dair bilgi eklenmesi yararlı olacaktır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 601
+  - completion_tokens: 208
+  - total_tokens: 809
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8592
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bilgisayarlı görü, bilgisayarların dijital görüntüleri ve videoları analiz ederek nesne tanıma, yüz tanıma, görüntü sınıflandırma, görüntü segmentasyonu (piksellerin anlamlı bölgelere ayrılması) ve hareket analizi gibi görevleri gerçekleştirmesini sağlayan bir yapay zeka alanıdır. Tarihsel olarak 1960'larda başlayan bu alan, günümüzde tıbbi görüntüleme, otonom araçlar, güvenlik sistemleri ve sanal gerçeklik gibi birçok uygulama alanında kullanılmaktadır.
+

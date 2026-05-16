@@ -1,0 +1,54 @@
+Soru: 15. Bir kanunun Anayasa'ya aykırılığı iddiasıyla iptali için hangi mahkemeye başvurulur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 199
+  - completion_tokens: 138
+  - total_tokens: 1421
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6551
+
+Cevap:
+1. ajan: Bir kanunun Anayasa'ya aykırılığı iddiasıyla iptali için doğrudan Yargıtay Anayasa Dairesi'ne başvurulur. Bu başvuru, ilgili kanunun Resmi Gazete'de yayımlanmasından sonraki 30 gün içinde Yargıtay Başkanı tarafından bizzat yapılır. Anayasa Mahkemesi, Yargıtay'ın bu tavsiye kararını bağlayıcı nitelikte değerlendirir ve iptal sürecini başlatır. Bu özel usul, 1982 Anayasası'nın 153. maddesinde açıkça belirtilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 890
+  - completion_tokens: 366
+  - total_tokens: 1256
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4015
+
+Cevap:
+2. ajan: Maalesef 1. ajan bazı önemli noktaları yanlış aktarmış. Bir kanunun Anayasa'ya aykırılığı iddiasıyla iptali için başvurulacak mahkeme Anayasa Mahkemesi'dir, Yargıtay değil. 
+
+1. Hata: Kanunun iptali için başvuru yapılacak mahkeme Yargıtay Anayasa Dairesi değil, Anayasa Mahkemesi'dir.
+
+2. Hata: Başvuruyu Yargıtay Başkanı değil, doğrudan ilgili kişi veya kuruluşlar (bireyler, kamu kurumları, siyasi partiler vb.) yapar.
+
+3. Hata: Başvuru süresi 30 gün değil, kanunun Resmi Gazete'de yayımlanmasından itibaren 60 gündür.
+
+Doğru bilgi: Bir kanunun Anayasa'ya aykırılığı iddiasıyla iptali için başvuru, ilgili kişi veya kuruluşlar tarafından doğrudan Anayasa Mahkemesi'ne yapılır. Başvuru süresi kanunun Resmi Gazete'de yayımlanmasından itibaren 60 gündür.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 565
+  - completion_tokens: 133
+  - total_tokens: 698
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2084
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, bir kanunun Anayasa'ya aykırılığı iddiasıyla iptali için başvurulacak mahkeme Anayasa Mahkemesi'dir. Ayrıca, başvuruyu Yargıtay Başkanı değil, ilgili kişi veya kuruluşlar (bireyler, kamu kurumları, siyasi partiler vb.) yapar. Başvuru süresi de kanunun Resmi Gazete'de yayımlanmasından itibaren 60 gündür, 30 gün değil. 2. ajanın belirttiği bilgilerin doğru olduğunu onaylıyorum.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 627
+  - completion_tokens: 124
+  - total_tokens: 751
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4519
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bir kanunun Anayasa'ya aykırılığı iddiasıyla iptali için başvurulacak yetkili merci Anayasa Mahkemesi'dir. Başvuru, ilgili kişi veya kuruluşlar tarafından kanunun Resmi Gazete'de yayımlandığı tarihten itibaren 60 gün içinde yapılmalıdır.
+

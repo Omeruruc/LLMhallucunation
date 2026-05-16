@@ -1,0 +1,54 @@
+Soru: 18. Kristof Kolomb'un Amerika'yı keşfettiği tarih nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 129
+  - total_tokens: 1326
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6317
+
+Cevap:
+1. ajan: Kristof Kolomb, Amerika kıtasına ilk kez 12 Ekim 1492 tarihinde ayak basmıştır. Bu tarihi yolculuk, İspanya Kraliçesi Isabella'nın finansal desteğiyle gerçekleşmiş olup, Kolomb'un Yeni Dünya'ya yaptığı toplam dört seferden ilkidir. Ancak kıtanın "Amerika" olarak adlandırılması, Kolomb'un 1507'deki son seferinden sonra, ünlü kartograf Amerigo Vespucci'nin 1508'de yayınladığı detaylı haritalar sayesinde resmileşmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 866
+  - completion_tokens: 372
+  - total_tokens: 1238
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3901
+
+Cevap:
+2. ajan: Verdiğiniz bilgi büyük ölçüde doğrudur. Bununla birlikte, aşağıdaki küçük hataları düzeltmem gerekiyor:
+
+1. Hata: Kristof Kolomb'un Amerika kıtasına ilk kez ayak bastığı tarih 12 Ekim 1492 değil, 12 Ekim 1492'dir. Tarih bilgisi doğrudur.
+
+2. Hata: Kolomb'un Yeni Dünya'ya toplam dört seferi değil, dört seyahati olmuştur. Seyahat sayısı bilgisi doğrudur.
+
+3. Hata: Kıtanın "Amerika" olarak adlandırılması, Kolomb'un 1507'deki son seferinden sonra değil, Amerigo Vespucci'nin 1508'de yayınladığı haritalar sayesinde resmileşmiştir. Tarih bilgisi doğrudur.
+
+Bu bilgiler ışığında, Kristof Kolomb'un Amerika kıtasına ilk kez 12 Ekim 1492'de ayak bastığı ve kıtanın "Amerika" olarak adlandırılmasının Amerigo Vespucci'nin 1508'deki haritaları sayesinde resmileştiği söylenebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 549
+  - completion_tokens: 184
+  - total_tokens: 733
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2559
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Kristof Kolomb'un Amerika kıtasına ilk kez ayak bastığı tarih 12 Ekim 1492'dir ve bu bilgi doğrudur. Ancak, "dört sefer" ifadesi yerine "dört seyahat" ifadesinin kullanılması daha doğrudur; bu nedenle bu düzeltme gereklidir. Ayrıca, kıtanın "Amerika" olarak adlandırılması ile ilgili olarak, Amerigo Vespucci'nin 1507'deki haritaları sayesinde resmileştiği ifadesi yanlıştır; bu adlandırma 1507'deki haritalar ile ilişkilendirilirken, Vespucci'nin 1508'deki haritalarıyla doğrudan bağlantılı değildir. Bu nedenle bu durum tartışmalıdır; kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 669
+  - completion_tokens: 108
+  - total_tokens: 777
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4429
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kristof Kolomb'un Amerika kıtasına ilk kez ayak bastığı tarih 12 Ekim 1492'dir. Bu bilgi doğrulanmıştır. Ancak "Amerika" isminin kökeniyle ilgili iddialar tartışmalıdır; kesin bir sonuç bulunmamaktadır.
+

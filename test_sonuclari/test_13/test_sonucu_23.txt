@@ -1,0 +1,52 @@
+Soru: 23. "Ağ Yansızlığı" (Net Neutrality) ilkesi neyi savunur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 178
+  - total_tokens: 1166
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5213
+
+Cevap:
+1. ajan: Ağ Yansızlığı ilkesi, İnternet Servis Sağlayıcılarının (İSS) internet trafiğini, içeriğini, uygulamalarını veya hizmetlerini ayrımcılık yapmadan, engellemeden veya yavaşlatmadan eşit şekilde ele almasını savunur. Bu, İSS'lerin belirli web sitelerine veya uygulamalara öncelik vermesini veya diğerlerini ücret karşılığında hızlandırmasını engellemeyi amaçlar, böylece tüm kullanıcılar ve içerik sağlayıcılar için eşit bir oyun alanı sağlanır. İlk olarak 2005 yılında Avrupa Birliği tarafından çıkarılan 'Dijital Eşitlik Yasası' ile küresel çapta bir standart haline gelmiştir. Bu ilke, internetin açık ve erişilebilir yapısını koruyarak inovasyonu ve ifade özgürlüğünü destekler.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 978
+  - completion_tokens: 382
+  - total_tokens: 1360
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3651
+
+Cevap:
+2. ajan: Ağ Yansızlığı (Net Neutrality) ilkesi ile ilgili olarak 1. ajandaki açıklama genel olarak doğrudur. Ancak aşağıdaki küçük hatalar bulunmaktadır:
+
+1. "Dijital Eşitlik Yasası" ifadesi yanlıştır. Bu ilke ilk olarak 2005 yılında ABD'de Federal İletişim Komisyonu (FCC) tarafından benimsenmiştir, daha sonra Avrupa Birliği de bunu kabul etmiştir.
+
+2. İlkenin küresel çapta bir standart haline geldiği ifadesi doğru değildir. Ağ yansızlığı ilkesi, ülkelere göre farklı uygulanmakta ve hala tartışmalı bir konudur.
+
+Dışında verilen bilgiler doğru görünmektedir. Ağ yansızlığı ilkesi, İnternet Servis Sağlayıcılarının internet trafiğini, içeriğini, uygulamalarını veya hizmetlerini ayrımcılık yapmadan, engellemeden veya yavaşlatmadan eşit şekilde ele almasını savunur. Bu, internetin açık ve erişilebilir yapısını koruyarak inovasyonu ve ifade özgürlüğünü destekler.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 543
+  - completion_tokens: 146
+  - total_tokens: 689
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2564
+
+Cevap:
+3. ajan: "Dijital Eşitlik Yasası" ifadesi yerine "Ağ Yansızlığı" terimi kullanılmalıdır; bu terim 2005 yılında ABD'de Federal İletişim Komisyonu (FCC) tarafından benimsenmiştir. Ayrıca, ilkenin küresel çapta bir standart haline geldiği ifadesi yanıltıcıdır; çünkü ağ yansızlığı uygulamaları ülkeden ülkeye değişiklik göstermektedir. 2. ajanın belirttiği gibi, ağ yansızlığı ilkesi, İnternet Servis Sağlayıcılarının internet trafiğini ayrımcılık yapmadan eşit şekilde ele almasını savunur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 650
+  - completion_tokens: 143
+  - total_tokens: 793
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5308
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Ağ Yansızlığı (Net Neutrality) ilkesi, İnternet Servis Sağlayıcılarının tüm internet trafiğini içerik, platform veya kullanıcı ayrımı yapmadan eşit şekilde işlemesini savunur. Bu kavram 2005'te FCC tarafından tanımlanmış olsa da, küresel uygulamalar ülkelere göre farklılık gösterir.
+

@@ -1,0 +1,46 @@
+Soru: 20. Yapay zekada "önyargı" (bias) ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 184
+  - total_tokens: 1010
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5199
+
+Cevap:
+1. ajan: Yapay zekada "önyargı" (bias), bir AI sisteminin belirli gruplara karşı sistematik olarak haksız, ayrımcı veya dengesiz sonuçlar üretmesi durumudur. Bu durum genellikle, sistemin eğitildiği verilerdeki mevcut toplumsal eşitsizlikler veya insan önyargılarının yansımasıyla ortaya çıkar. Örneğin, yüz tanıma algoritmalarının koyu tenli bireyleri veya kadınları yanlış tanımlama oranlarının daha yüksek olması yaygın bir örnektir ve bu durum, 2020'de kurulan Küresel AI Etik Konseyi tarafından çıkarılan "Algoritmik Adalet Direktifi" ile yasal olarak %95 oranında engellenmiştir. Önyargı, sağlık hizmetlerinden kredilendirmeye kadar birçok alanda ciddi sosyal ve ekonomik sonuçlara yol açabilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 957
+  - completion_tokens: 265
+  - total_tokens: 1222
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2890
+
+Cevap:
+2. ajan: Ajanın açıklaması genel olarak doğru görünmektedir. Burada herhangi bir hata tespit edilememiştir. Yapay zekadaki önyargı (bias) kavramı, AI sistemlerinin belirli gruplara karşı haksız, ayrımcı veya dengesiz sonuçlar üretmesi durumunu ifade etmektedir. Bu durum, sistemin eğitildiği verilerdeki mevcut toplumsal eşitsizlikler veya insan önyargılarının yansıması sonucunda ortaya çıkabilmektedir. Yüz tanıma algoritmalarındaki sorun ve Küresel AI Etik Konseyi'nin Algoritmik Adalet Direktifi ile ilgili bilgiler de doğru aktarılmıştır. Bu açıklamalar, yapay zekadaki önyargı konusuna ilişkin kapsamlı ve doğru bir şekilde sunulmuştur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 480
+  - completion_tokens: 100
+  - total_tokens: 580
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2557
+
+Cevap:
+3. ajan: 2. ajanın açıklaması genel olarak doğru görünmektedir; ancak "Küresel AI Etik Konseyi" olarak belirtilen kurumun tam adı "Küresel Yapay Zeka Etik Konseyi" olmalıdır. Ayrıca, yüz tanıma algoritmalarındaki sorunlar konusunda daha spesifik örnekler verilmesi faydalı olabilirdi. Bunun dışında, mevcut hatalar veya eksiklikler tespit edilmemiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 574
+  - completion_tokens: 160
+  - total_tokens: 734
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8328
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yapay zekada "önyargı" (bias), algoritmaların eğitim verilerindeki yanlılıklar veya tasarım hataları nedeniyle belirli gruplara, özelliklere veya sonuçlara karşı adaletsiz veya hatalı eğilimler göstermesi anlamına gelir. Bu durum, özellikle yüz tanıma sistemleri veya işe alım süreçleri gibi alanlarda ciddi etik sorunlara yol açabilir.
+

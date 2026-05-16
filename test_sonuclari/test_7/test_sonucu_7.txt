@@ -1,0 +1,56 @@
+Soru: 7. "Gılgamış Destanı" hangi medeniyete aittir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 144
+  - total_tokens: 1036
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4735
+
+Cevap:
+1. ajan: Gılgamış Destanı, antik Mezopotamya medeniyetlerine, özellikle Sümer ve Akad kültürlerine aittir. İnsanlık tarihinin en eski edebi eserlerinden biri olup, MÖ 2500'lü yıllara dayanan Sümer tabletlerinden köken almıştır ve MÖ 12. yüzyıla ait on bir kil tabletten oluşan standart Akad versiyonu günümüze ulaşmıştır. Hatta destan, Mısır'ın ünlü hiyeroglif yazıtlarında da bahsi geçen önemli bir kahramanlık hikayesidir ve bu sayede Mısır mitolojisini derinden etkilemiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 886
+  - completion_tokens: 397
+  - total_tokens: 1283
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4287
+
+Cevap:
+2. ajan: 
+
+1. Hata: "Gılgamış Destanı"nın Mısır mitolojisini etkilediği iddiası doğru değildir. Gılgamış Destanı Mezopotamya kökenli bir eser olup, Mısır mitolojisi ile doğrudan bir bağlantısı bulunmamaktadır.
+
+Düzeltme: Gılgamış Destanı, antik Mezopotamya medeniyetlerine, özellikle Sümer ve Akad kültürlerine aittir. İnsanlık tarihinin en eski edebi eserlerinden biri olup, MÖ 2500'lü yıllara dayanan Sümer tabletlerinden köken almıştır ve MÖ 12. yüzyıla ait on bir kil tabletten oluşan standart Akad versiyonu günümüze ulaşmıştır.
+
+2. Hata: 1. ajan, Gılgamış Destanı'nın Mısır'ın ünlü hiyeroglif yazıtlarında bahsi geçtiğini iddia etmiştir, ancak bu iddia doğrulanamaz.
+
+Düzeltme: Gılgamış Destanı, Mezopotamya kökenli bir eser olup, Mısır mitolojisi ile doğrudan bir bağlantısı bulunmamaktadır.
+
+Bu bilgi doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 568
+  - completion_tokens: 96
+  - total_tokens: 664
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2015
+
+Cevap:
+3. ajan: Gılgamış Destanı'nın kökeni ve tarihi hakkında yapılan açıklamalarda herhangi bir hata bulunmamaktadır. Ancak, Gılgamış Destanı'nın Mısır mitolojisi ile bağlantılı olduğu iddiası açıkça yanlıştır ve bu durum 2. ajanın düzeltmesinde net bir şekilde ifade edilmiştir. Ek olarak, Gılgamış Destanı'nın tarihine dair verilen bilgiler de doğru ve tutarlıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 578
+  - completion_tokens: 119
+  - total_tokens: 697
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5156
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Gılgamış Destanı, antik Mezopotamya medeniyetine ait bir eserdir ve Sümerler tarafından yazıya geçirilmiştir. Bu destan, dünya edebiyatının bilinen en eski yazılı örneklerinden biridir ve Mısır mitolojisiyle herhangi bir bağlantısı yoktur.
+

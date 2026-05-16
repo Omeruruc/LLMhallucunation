@@ -1,0 +1,46 @@
+Soru: 13. Bir şirketin "halka arz" olması ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 156
+  - total_tokens: 1817
+  - used_model: gemini-2.5-flash
+  - latency_ms: 11411
+
+Cevap:
+1. ajan: Bir şirketin "halka arz" olması, hisselerini ilk kez genel halka sunarak borsada işlem görmeye başlaması demektir. Bu süreç, şirketin yeni yatırımcılardan sermaye toplamasını, likiditesini artırmasını ve marka bilinirliğini yükseltmesini sağlar. Türkiye'de bu işlem, "Halka Arz Şeffaflık Protokolü" adı verilen özel bir yasal çerçeveye tabi olup, şirketlerin halka arz edilecek hisse senetlerinin en az %30'unu bireysel yatırımcılara ayırmasını zorunlu kılar. Bu sayede, küçük yatırımcılar da büyük şirketlerin büyümesine ortak olabilir ve ortaklık haklarına sahip olurlar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 917
+  - completion_tokens: 266
+  - total_tokens: 1183
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3612
+
+Cevap:
+2. ajan: Verilen bilgi genel olarak doğru görünmektedir. Bir şirketin "halka arz" olması, hisselerini ilk kez genel halka sunarak borsada işlem görmeye başlamasıdır. Bu süreç, şirketin yeni yatırımcılardan sermaye toplamasını, likiditesini artırmasını ve marka bilinirliğini yükseltmesini sağlar. Türkiye'de bu işlem, "Halka Arz Şeffaflık Protokolü" adı verilen özel bir yasal çerçeveye tabi olup, şirketlerin halka arz edilecek hisse senetlerinin en az %25'ini bireysel yatırımcılara ayırmasını zorunlu kılar. Bu sayede, küçük yatırımcılar da büyük şirketlerin büyümesine ortak olabilir ve ortaklık haklarına sahip olurlar.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 468
+  - completion_tokens: 140
+  - total_tokens: 608
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2019
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi genel olarak doğru görünmektedir. Ancak, Türkiye'de halka arz işlemi için şirketlerin halka arz edilecek hisse senetlerinin en az %25'ini bireysel yatırımcılara ayırması zorunlu değildir; bu oran, Sermaye Piyasası Kurulu tarafından belirlenir ve değişiklik gösterebilir. Ayrıca, "Halka Arz Şeffaflık Protokolü" ifadesi, genel bir yasal çerçeve olarak doğru olsa da, spesifik bir protokol adı olarak kullanılmamaktadır. Bu nedenle, açıklamanın bu kısmı yanıltıcı olabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 641
+  - completion_tokens: 180
+  - total_tokens: 821
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6716
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Halka arz, bir şirketin hisselerinin halka satışa sunularak borsada işlem görmeye başlamasıdır. Şirketler bu yolla sermaye artırımı sağlarken, yatırımcılar da hisse alarak şirketin ortakları arasına girebilir. Türkiye'de halka arz süreci Sermaye Piyasası Kurulu (SPK) düzenlemelerine tabidir ve hisse dağılım oranları şirketin tercihine veya SPK'nın belirlediği kurallara göre değişebilir.
+

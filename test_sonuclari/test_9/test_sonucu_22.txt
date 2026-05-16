@@ -1,0 +1,46 @@
+Soru: 22. "Güneş batmayan imparatorluk" olarak anılan ülke hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 129
+  - total_tokens: 1007
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4560
+
+Cevap:
+1. ajan: "Güneş batmayan imparatorluk" olarak anılan ülke, Britanya İmparatorluğu'dur. Bu imparatorluk, 19. yüzyılın sonlarında ve 20. yüzyılın başlarında dünya yüzeyinin yaklaşık dörtte birini ve dünya nüfusunun beşte birini kontrol ediyordu. Özellikle 17. yüzyıldaki Denizcilik Yasaları ile gücünü pekiştiren imparatorluk, bu unvanı ilk kez Kral VIII. Edward döneminde, dönemin başbakanı Sir Alfred Tennyson tarafından resmi bir demeçte kullanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 874
+  - completion_tokens: 158
+  - total_tokens: 1032
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3560
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Britanya İmparatorluğu, 19. yüzyılın sonları ve 20. yüzyılın başlarında dünya yüzeyinin yaklaşık dörtte birini ve dünya nüfusunun beşte birini kontrol etmesiyle "Güneş batmayan imparatorluk" olarak anılmıştır. Bu unvan, Kral VIII. Edward döneminde, dönemin başbakanı Sir Alfred Tennyson tarafından resmi bir demeçte kullanılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 415
+  - completion_tokens: 107
+  - total_tokens: 522
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1386
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğru ancak bazı düzeltmeler gerekmektedir. "Güneş batmayan imparatorluk" ifadesi, Britanya İmparatorluğu'na atıfta bulunurken, bu unvanın resmi bir demeçte kullanılıp kullanılmadığına dair kaynaklarda kesin bir bilgi bulunmamaktadır. Ayrıca, Kral VIII. Edward değil, Kral II. Victoria döneminde Britanya İmparatorluğu bu unvanı almıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 585
+  - completion_tokens: 119
+  - total_tokens: 704
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4521
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Güneş batmayan imparatorluk" olarak anılan ülke Britanya İmparatorluğu'dur. Bu ifade, imparatorluğun geniş coğrafyası nedeniyle güneşin her zaman bir bölgesinde görünmesini simgeler. Kral II. Victoria döneminde bu tanım yaygınlaşmıştır.
+

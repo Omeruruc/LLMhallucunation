@@ -1,0 +1,56 @@
+Soru: 12. Spor: Formula 1'de bir sezonda en çok yarış kazanan pilot kimdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 145
+  - total_tokens: 1384
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6712
+
+Cevap:
+1. ajan: Formula 1'de bir sezonda en çok yarış kazanan pilot unvanı, 2023 sezonunda 19 zaferle Max Verstappen'e aittir. Bu inanılmaz başarı, daha önce 2004 yılında Michael Schumacher'in 13 galibiyetlik rekorunu geride bırakmıştır, ancak 1992 sezonunda Nigel Mansell'in 15 yarışlık muhteşem serisi, o dönemdeki farklı puanlama sistemi nedeniyle resmi kayıtlarda bazen göz ardı edilir. Verstappen'in bu rekoru kırması, onu modern F1 tarihinin en dominant pilotlarından biri yapmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 873
+  - completion_tokens: 463
+  - total_tokens: 1336
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4399
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim ve düzeltiyorum:
+
+1. Hata: "2023 sezonunda 19 zaferle Max Verstappen'e aittir" ifadesi yanlış. 2023 sezonu daha başlamamıştır, dolayısıyla bu sezon için herhangi bir rekor bilgisi olamaz.
+
+Düzeltme: Max Verstappen, 2022 Formula 1 sezonunda 15 yarış kazanarak, Michael Schumacher'in 2004 yılındaki 13 zaferlik rekoru kırmıştır. Bu, modern Formula 1 tarihindeki en başarılı sezonlardan biri olarak kabul edilmektedir.
+
+2. Hata: "Nigel Mansell'in 15 yarışlık muhteşem serisi, o dönemdeki farklı puanlama sistemi nedeniyle resmi kayıtlarda bazen göz ardı edilir" ifadesi doğru değildir. Nigel Mansell, 1992 sezonunda 9 yarış kazanmıştır ve bu, o dönemdeki rekor sayısıdır.
+
+Düzeltme: Nigel Mansell, 1992 Formula 1 sezonunda 9 yarış kazanarak, o dönemin rekorunu kırmıştır. Ancak Michael Schumacher'in 2004 yılındaki 13 zaferlik rekoru, Mansell'in 9 zaferlik rekoru ile karşılaştırılamaz, çünkü puanlama sistemleri farklıydı.
+
+Bu bilgiler doğrultusunda, 1 numaralı ajanın ifadelerindeki hatalar düzeltilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 617
+  - completion_tokens: 182
+  - total_tokens: 799
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2920
+
+Cevap:
+3. ajan: 2. ajanın düzelttiği ifadelerde bazı eksiklikler var. Öncelikle, Max Verstappen'in 2022 sezonundaki 15 zaferi doğrudur, ancak 2023 sezonunun henüz başlamadığını belirtmek yeterlidir, bu nedenle "2023 sezonunda 19 zafer" ifadesi kesinlikle yanlıştır. Ayrıca, Nigel Mansell’in 1992 sezonunda kazandığı 9 yarış doğru, fakat bu durum resmi kayıtlarda göz ardı edilmez; yalnızca o dönemdeki puanlama sisteminin farklılığı nedeniyle karşılaştırmalar yapılırken dikkatli olunması gerektiği vurgulanmalıdır. 2. ajanın belirttiği gibi, Mansell'in rekoru Schumacher'in 2004 yılındaki 13 zaferi ile doğrudan karşılaştırılamaz.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 697
+  - completion_tokens: 96
+  - total_tokens: 793
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5363
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Formula 1 tarihinde bir sezonda en çok yarış kazanan pilot, 2022 sezonunda 15 zafer elde eden Max Verstappen'dir. Bu rekor, Michael Schumacher'in 2004 sezonunda kazandığı 13 zaferi geçmiştir.
+

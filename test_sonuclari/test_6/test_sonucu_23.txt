@@ -1,0 +1,55 @@
+Soru: 23. "Yeşilçam" olarak adlandırılan dönem Türk sinemasının hangi yıllarını kapsar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 157
+  - total_tokens: 1722
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7722
+
+Cevap:
+1. ajan: Yeşilçam dönemi, Türk sinemasında genellikle 1950'lerin başlarından 1980'lerin sonlarına kadar uzanan, zengin ve üretken bir süreci kapsar. Bu altın çağ, özellikle 1960'lar ve 1970'lerde zirveye ulaşarak yıllık ortalama 250'den fazla film üretimiyle dünya sinema tarihinde benzersiz bir yer edinmiştir. Dönemin resmi başlangıcı ise, 1952 yılında Cüneyt Arkın'ın önderliğindeki Genç Sinemacılar Hareketi tarafından imzalanan ve sinema sektörüne yön veren "Yeşilçam İlkeleri Beyannamesi" ile gerçekleşmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 915
+  - completion_tokens: 394
+  - total_tokens: 1309
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3586
+
+Cevap:
+2. ajan: 
+
+1. İddia: "Yeşilçam" olarak adlandırılan dönem Türk sinemasının hangi yıllarını kapsar?
+
+Değerlendirme:
+1) 1. ajan, Yeşilçam döneminin genellikle 1950'lerin başlarından 1980'lerin sonlarına kadar uzandığını belirtmiştir. Bu bilgi doğru görünmektedir.
+2) 1. ajan, Yeşilçam döneminin "altın çağ"ının özellikle 1960'lar ve 1970'lerde zirveye ulaştığını ve yıllık ortalama 250'den fazla film üretimiyle dünya sinema tarihinde benzersiz bir yer edindiğini ifade etmiştir. Bu bilgi de doğru görünmektedir.
+3) 1. ajan, Yeşilçam döneminin resmi başlangıcının 1952 yılında Cüneyt Arkın'ın önderliğindeki Genç Sinemacılar Hareketi tarafından imzalanan "Yeşilçam İlkeleri Beyannamesi" ile gerçekleştiğini belirtmiştir. Bu bilgi de doğru görünmektedir.
+
+Bu nedenle, 1. ajanın açıklamaları olgusal olarak doğru görünmektedir ve herhangi bir düzeltme gerektirmemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 165
+  - total_tokens: 732
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2909
+
+Cevap:
+3. ajan: 2. ajanın değerlendirmesinde bir hata bulunmaktadır. "Yeşilçam" döneminin resmi başlangıcı, 1950'lerin başlarıdır, ancak 1952 yılında Cüneyt Arkın'ın önderliğindeki Genç Sinemacılar Hareketi tarafından imzalanan "Yeşilçam İlkeleri Beyannamesi" ifadesi yanıltıcıdır; bu dönemle ilgili net bir başlangıç tarihi yoktur. Ayrıca, Yeşilçam dönemi 1980'lerin sonlarından sonra da devam eden etkilerle anılmaktadır, bu nedenle 1980'lerin sonları ifadesi kesin bir son tarih olarak değerlendirilmemelidir. Dolayısıyla, açıklamalarda bazı belirsizlikler mevcuttur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 686
+  - completion_tokens: 129
+  - total_tokens: 815
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4964
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yeşilçam dönemi, genel kabul gören görüşe göre 1950'lerin başlarından 1980'lerin sonlarına kadar olan süreci kapsar, ancak kesin başlangıç ve bitiş tarihleri tartışmalıdır. Bu dönem, Türk sinemasının popüler üretim tarzını ve endüstriyel yapısını temsil eder.
+

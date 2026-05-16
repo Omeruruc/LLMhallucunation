@@ -1,0 +1,46 @@
+Soru: 6. Martin Luther'in Wittenberg Kilisesi'nin kapısına 95 tezini asmasıyla başlattığı hareketin adı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 201
+  - completion_tokens: 126
+  - total_tokens: 986
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4377
+
+Cevap:
+1. ajan: Martin Luther'in 1517 yılında Wittenberg Kilisesi'nin kapısına 95 tezini asmasıyla başlattığı hareket, Protestan Reformu olarak adlandırılır. Bu olay, Hristiyanlık tarihinde büyük bir dönüm noktası olmuş ve Katolik Kilisesi'ne karşı çıkan yeni mezheplerin doğmasına zemin hazırlamıştır. Özellikle bu eylem, doğrudan Papa Julius II'nin Avrupa genelindeki kilise reformlarını hızlandırmış ve kısa sürede birçok prensliğin Protestanlığı resmi din olarak benimsemesine yol açmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 891
+  - completion_tokens: 225
+  - total_tokens: 1116
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2925
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Martin Luther'in 1517'de Wittenberg Kilisesi'nin kapısına 95 tezini asmasıyla başlattığı hareket, Protestan Reformu olarak adlandırılmaktadır. Bu olay, Hristiyanlık tarihinde önemli bir dönüm noktası olmuş ve Katolik Kilisesi'ne karşı yeni mezheplerin doğmasına zemin hazırlamıştır. Ancak 1. ajan, Papa Julius II'nin Avrupa genelindeki kilise reformlarını hızlandırdığı iddiasını tam olarak doğrulayamıyorum. Reformun hızlanmasındaki asıl etkenin Luther'in eylemleri olduğu söylenebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 459
+  - completion_tokens: 109
+  - total_tokens: 568
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1974
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur; Martin Luther'in 1517'de Wittenberg Kilisesi'nin kapısına 95 tezini asmasıyla başlattığı hareket Protestan Reformu olarak adlandırılmaktadır. Ancak, Papa Julius II'nin bu süreçteki rolü hakkında kesin bir bilgi mevcut değildir; bu nedenle bu iddiayı desteklemek için yeterli kanıt yoktur. 2. ajanın ifadelerinde tarih ve olay hakkında bir hata bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 603
+  - completion_tokens: 103
+  - total_tokens: 706
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4518
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Martin Luther'in 1517'de Wittenberg Kilisesi'nin kapısına 95 tezini asmasıyla başlattığı hareket, Protestan Reformu olarak adlandırılmaktadır. Bu olay, Hristiyanlık tarihinde önemli bir dönüm noktasıdır.
+

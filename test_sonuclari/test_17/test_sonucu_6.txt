@@ -1,0 +1,46 @@
+Soru: 6. "Al dente" terimi, özellikle hangi yiyeceğin pişirilme derecesini ifade eder?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 139
+  - total_tokens: 974
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4484
+
+Cevap:
+1. ajan: "Al dente" terimi, özellikle makarnanın ideal pişirilme derecesini ifade eder; bu, makarnanın hafifçe çiğ kalmayacak ancak dişinize hafif bir direnç gösterecek şekilde pişirilmesi anlamına gelir. Bu pişirme tekniği, makarnanın dokusunu koruyarak sosu daha iyi emmesini sağlar ve ilk olarak 16. yüzyılda Roma'daki Collegio Culinario'da resmi bir standart olarak belirlenmiştir. Aynı zamanda, risotto gibi pirinç yemekleri ve bazı sebzelerin hafif diri kalması için de benzer bir dirilik derecesini tanımlamakta kullanılır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 896
+  - completion_tokens: 159
+  - total_tokens: 1055
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2121
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. "Al dente" terimi, özellikle makarna pişirme derecesini ifade eder. Makarna, hafifçe çiğ kalmayacak ancak dişe hafif bir direnç gösterecek şekilde pişirilir. Bu teknik, makarnanın dokusunu koruyarak sosu daha iyi emmesini sağlar. "Al dente" terimi aynı zamanda risotto gibi pirinç yemeklerinin ve bazı sebzelerin hafif diri kalması için de kullanılır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 423
+  - completion_tokens: 112
+  - total_tokens: 535
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2663
+
+Cevap:
+3. ajan: 2. ajanın belirttiği bilgiler doğrudur, ancak "al dente" terimi özellikle makarna için yaygın olarak kullanılsa da, bu terimin genellikle yalnızca makarna için değil, aynı zamanda risotto ve bazı sebzeler için de geçerli olduğunu belirtmek gerekir. Bu nedenle 2. ajanın ifadesinde "özellikle makarna" kısmı biraz yanıltıcı olabilir; daha geniş bir bağlamda "al dente" terimi, makarna dışında da kullanılabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 609
+  - completion_tokens: 107
+  - total_tokens: 716
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5066
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Al dente" terimi, özellikle makarnanın pişirilme derecesini ifade eder, ancak bu kavram risotto ve bazı sebzeler gibi diğer yiyecekler için de kullanılabilir. Makarna, bu terimin en yaygın uygulandığı yiyecektir.
+

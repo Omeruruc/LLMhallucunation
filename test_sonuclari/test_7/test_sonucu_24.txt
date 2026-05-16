@@ -1,0 +1,54 @@
+Soru: 24. "Minotauros" efsanesi hangi labirent ile ilişkilidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 125
+  - total_tokens: 913
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4971
+
+Cevap:
+1. ajan: Minotauros efsanesi, Girit Adası'ndaki Knossos Sarayı'nın altında yer alan karmaşık labirent ile doğrudan ilişkilidir. Bu devasa yapı, efsaneye göre Atina'daki Parthenon'un su sistemlerini tasarlamasıyla ün kazanmış mimar Daedalus tarafından, Kral Minos'un emriyle inşa edilmiştir. Labirentin amacı, Minos'un karısı Pasiphae ile bir boğanın birleşmesinden doğan korkunç Minotauros'u hapsetmekti.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 855
+  - completion_tokens: 325
+  - total_tokens: 1180
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3695
+
+Cevap:
+2. ajan: 
+
+1. Hata: Minotauros efsanesinin Knossos Sarayı'nın altındaki labirent ile ilişkilendirilmesi doğrudur.
+
+2. Hata: Daedalus'un Parthenon'un su sistemlerini tasarladığı iddiası yanlıştır. Parthenon Atina'da yer alırken, Minotauros efsanesi Girit Adası'ndaki Knossos Sarayı ile ilişkilidir. Daedalus, Knossos Sarayı'nın labirentini tasarlamıştır.
+
+3. Hata: Labirentin amacı Minotauros'u hapsetmek değil, onu beslemekti. Efsaneye göre, Minos yedi yılda bir Atina'dan yedi genç ve yedi kız göndermek zorundaydı ki Minotauros onları yiyebilsin.
+
+Bu bilgiler ışığında, Minotauros efsanesinin doğru olarak Girit Adası'ndaki Knossos Sarayı'nın labirenti ile ilişkilendirildiği söylenebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 528
+  - completion_tokens: 130
+  - total_tokens: 658
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2482
+
+Cevap:
+3. ajan: Daedalus'un Parthenon'un su sistemlerini tasarladığı iddiası yanlıştır; bu bilgi metinde doğru bir şekilde belirtilmiştir. Ancak, labirentin amacıyla ilgili ifade yanlıştır; labirentin amacı Minotauros'u hapsetmek değil, onu beslemek olarak belirtilmiştir. Efsaneye göre Minotauros'un beslenmesi için gençlerin gönderilmesi doğrudur, fakat bu durum labirentin varlık sebebi olarak yanlış bir ifade kullanmıştır. Labirentin amacı Minotauros'u hapsetmek olarak doğru bir şekilde ifade edilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 632
+  - completion_tokens: 108
+  - total_tokens: 740
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3541
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Minotauros efsanesi, Girit'teki Knossos Sarayı'nda bulunan ve ünlü mimar Daedalus tarafından inşa edildiği söylenen labirent ile ilişkilidir. Bu labirent, Minotauros'u hapsetmek amacıyla yapılmıştır.
+

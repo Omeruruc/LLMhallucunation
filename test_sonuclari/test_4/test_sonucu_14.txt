@@ -1,0 +1,52 @@
+Soru: 14. Spor: Voleybolda bir set kaç sayıda biter?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 121
+  - total_tokens: 1013
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4982
+
+Cevap:
+1. ajan: Voleybolda normal bir set, rakip takımla arasında en az iki sayı farkı olmak koşuluyla genellikle 25 sayıda biter. Eğer skor 24-24 olursa, iki sayılık fark oluşana kadar oyun devam eder. Bu kural, Uluslararası Voleybol Federasyonu (FIVB) tarafından 1985 yılında yapılan köklü bir değişiklikle yürürlüğe girmiş ve sporun global popülaritesini artırmıştır. Maçın belirleyici son seti ise 15 sayıda tamamlanır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 855
+  - completion_tokens: 309
+  - total_tokens: 1164
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3429
+
+Cevap:
+2. ajan: Ajanın açıklamasında bazı küçük hatalar var. Bunları aşağıda tek tek düzeltiyorum:
+
+1. Voleybolda normal bir set, rakip takımla arasında en az iki sayı farkı olmak koşuluyla genellikle 25 sayıda biter. Eğer skor 24-24 olursa, iki sayılık fark oluşana kadar oyun devam eder. Bu kural, Uluslararası Voleybol Federasyonu (FIVB) tarafından 1998 yılında yapılan bir değişiklikle yürürlüğe girmiştir, yani 1985 değil.
+
+2. Maçın belirleyici son seti ise 15 sayıda tamamlanır, bu doğru.
+
+Bu bilgiler ışığında, voleybolda normal bir set 25 sayıya, belirleyici son set ise 15 sayıya kadar oynanır. Eğer son sette 14-14 gibi bir durum olursa, iki sayılık fark oluşana kadar oyun devam eder.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 501
+  - completion_tokens: 106
+  - total_tokens: 607
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1885
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında, voleybolda normal bir setin genellikle 25 sayıda bittiği doğru; ancak bu durum rakip takımla arasında en az iki sayı farkı olması şartıyla geçerlidir. Ayrıca, belirleyici son setin 15 sayıda bittiği bilgisi doğrudur. Son sette 14-14 olduğunda da oyun, iki sayılık fark oluşana kadar devam eder. Bu bilgiler doğru bir şekilde aktarılmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 578
+  - completion_tokens: 105
+  - total_tokens: 683
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6472
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Voleybolda normal bir set 25 sayıda biter, ancak bu durum rakip takımla arasında en az iki sayı farkı olması şartıyla geçerlidir. Belirleyici son set ise 15 sayıda biter ve yine iki sayılık fark gereklidir.
+

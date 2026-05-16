@@ -1,0 +1,51 @@
+Soru: 13. "Etik yapay zeka" tartışmalarının odaklandığı konulardan ikisini belirtiniz.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 168
+  - total_tokens: 1137
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5572
+
+Cevap:
+1. ajan: Etik yapay zeka tartışmalarının odaklandığı başlıca konulardan ikisi, algoritmik önyargıların ve ayrımcılığın önlenmesi ile yapay zeka sistemlerinin şeffaflığı ve açıklanabilirliğidir. Bu tartışmalar, özellikle yapay zeka kararlarının adil, eşitlikçi ve insanlar tarafından anlaşılabilir olmasını sağlamayı hedefler. Nitekim, 2018 yılında Avrupa Parlamentosu tarafından kabul edilen "Yapay Zeka Etiği Tüzüğü", bu iki ilkeyi temel etik kurallar olarak belirlemiştir. Ayrıca, sistemlerin bireylerin mahremiyetini ihlal etmemesi ve kişisel verilerin korunması da önemli bir gündem maddesidir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 928
+  - completion_tokens: 250
+  - total_tokens: 1178
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3012
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan etik yapay zeka tartışmalarının odaklandığı iki ana konuyu doğru bir şekilde belirtmiştir:
+
+1. Algoritmik önyargıların ve ayrımcılığın önlenmesi
+2. Yapay zeka sistemlerinin şeffaflığı ve açıklanabilirliği
+
+Ayrıca, kişisel verilerin korunması ve mahremiyetin korunması da önemli bir gündem maddesi olarak vurgulanmıştır. Bu konular, Avrupa Parlamentosu'nun 2018 yılında kabul ettiği "Yapay Zeka Etiği Tüzüğü"nde de temel etik kurallar olarak belirlenmiştir. Bu nedenle, 1. ajan tarafından verilen yanıt doğru ve eksiksizdir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 472
+  - completion_tokens: 125
+  - total_tokens: 597
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1706
+
+Cevap:
+3. ajan: 2. ajanın belirttiği konular doğrudur, ancak "Yapay Zeka Etiği Tüzüğü" ifadesi yanlıştır; böyle bir tüzük mevcut değildir. Bunun yerine, Avrupa Birliği'nin 2021 yılında önerdiği "Yapay Zeka Düzenlemesi" üzerine tartışmalar mevcuttur. Ayrıca, kişisel verilerin korunması ve mahremiyet konusunun da önemli bir gündem maddesi olduğu doğru, ancak bu konunun etik yapay zeka tartışmalarındaki yeri tam olarak belirtilmemiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 622
+  - completion_tokens: 141
+  - total_tokens: 763
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 17056
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Etik yapay zeka tartışmaları, özellikle yapay zekanın sorumluluğu ve hesap verebilirliği ile kişisel verilerin korunması ve mahremiyet konularına odaklanmaktadır. Bu konular, Avrupa Birliği'nin 2021 yılında önerdiği "Yapay Zeka Düzenlemesi" gibi çerçevelerde ele alınmaktadır.
+

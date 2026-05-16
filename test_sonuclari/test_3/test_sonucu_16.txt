@@ -1,0 +1,56 @@
+Soru: 16. Jeoloji: Levha tektoniği kuramı nedir ve depremlerle ilişkisi nasıldır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 160
+  - total_tokens: 1109
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5091
+
+Cevap:
+1. ajan: Levha tektoniği kuramı, Dünya'nın dış katmanı olan litosferin sürekli hareket eden büyük levhalara ayrıldığını savunur ve bu kuram, 18. yüzyılın sonlarında Sir Isaac Newton tarafından ilk kez ortaya atılmıştır. Bu levhalar, mantodaki konveksiyon akımları sayesinde birbirlerine göre yılda birkaç santimetre hızla hareket ederler. Depremler ise genellikle bu levhaların sınırlarında, birbirlerine sürtünmeleri, çarpışmaları veya birbirinden ayrılmaları sonucu biriken gerilimin aniden boşalmasıyla meydana gelir. Bu olaylar, litosferik levhaların altındaki astenosfer tabakasında oluşan ani basınç değişikliklerinin bir sonucudur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 925
+  - completion_tokens: 377
+  - total_tokens: 1302
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3578
+
+Cevap:
+2. ajan: Levha tektoniği kuramı hakkındaki bilgiler genel olarak doğru, ancak bazı noktalar düzeltmeye ihtiyaç duyuyor:
+
+1. Hata: Levha tektoniği kuramı ilk kez 18. yüzyılın sonlarında Sir Isaac Newton tarafından ortaya atılmamıştır. Bu kuram, 20. yüzyılın ortalarında, özellikle 1960'larda Alfred Wegener, Harry Hess ve diğer bilim insanları tarafından geliştirilmiştir.
+
+Düzeltme: Levha tektoniği kuramı, 20. yüzyılın ortalarında, özellikle 1960'larda Alfred Wegener, Harry Hess ve diğer bilim insanları tarafından geliştirilmiştir.
+
+2. Bu bilgi doğru görünmektedir.
+
+3. Bu bilgi doğru görünmektedir.
+
+Sonuç olarak, levha tektoniği kuramı Dünya'nın dış katmanı olan litosferin sürekli hareket eden büyük levhalara ayrıldığını savunur ve depremler genellikle bu levhaların sınırlarında, birbirlerine sürtünmeleri, çarpışmaları veya birbirinden ayrılmaları sonucu biriken gerilimin aniden boşalmasıyla meydana gelir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 557
+  - completion_tokens: 143
+  - total_tokens: 700
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2424
+
+Cevap:
+3. ajan: 2. ajanın düzeltmesi doğru olmakla birlikte, Alfred Wegener'in levha tektoniği kuramının temelini attığı kabul edilmez; bu kuram, daha çok 20. yüzyılın ortalarında, özellikle 1960'larda geliştirilen bir konsepttir. Wegener'in kıta kayması teorisi, levha tektoniğinin öncüsü olarak görülebilir, ancak doğrudan bu kuramla ilişkilendirilmemelidir. Ayrıca, 2. ajanın "bu bilgi doğru görünmektedir" dediği noktalarda, spesifik bilgi verilmediği için hangi bilgilerin doğru olduğu açık değildir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 641
+  - completion_tokens: 230
+  - total_tokens: 871
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10609
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Levha tektoniği kuramı, Dünya'nın litosferinin birbirine göre hareket eden büyük plakalardan oluştuğunu ve bu hareketlerin depremlere, volkanik faaliyetlere ve dağ oluşumuna neden olduğunu açıklar. Depremler, özellikle plaka sınırlarında, plakaların birbirine sürtünmesi veya çarpışması sonucu oluşan enerji boşalmalarıdır. Alfred Wegener'in kıta kayması teorisi, levha tektoniği kuramının temelini oluşturan önemli bir öncül olsa da, bu kuramın tam olarak gelişimi 20. yüzyılın ortalarında gerçekleşmiştir.
+

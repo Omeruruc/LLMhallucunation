@@ -1,0 +1,54 @@
+Soru: 12. "Sous-vide" (su altında vakum) pişirme tekniği nasıl çalışır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 174
+  - total_tokens: 947
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4539
+
+Cevap:
+1. ajan: Sous-vide, yiyecekleri vakumlayarak hava geçirmez bir poşete kapatıp, hassas sıcaklıkta bir su banyosunda uzun süre pişirme tekniğidir. Bu yöntem, yiyeceğin her yerinin tam olarak istenen sıcaklığa ulaşmasını sağlar ve aşırı pişmeyi engelleyerek nemini ve besin değerlerini korur. Teknik, ilk olarak 1970'lerde ünlü Fransız şef Auguste Escoffier tarafından özellikle kaz ciğeri (foie gras) hazırlığında dokuyu ve lezzeti sabitlemek amacıyla geliştirilmiştir. Su, ısıyı havadan çok daha verimli ilettiği için, yiyecekler dıştan içe doğru eşit şekilde pişer ve geleneksel yöntemlere göre çok daha homojen sonuçlar elde edilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 953
+  - completion_tokens: 424
+  - total_tokens: 1377
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4182
+
+Cevap:
+2. ajan: Sous-vide pişirme tekniği ile ilgili 1. ajanın açıklaması genel olarak doğru görünmektedir. Ancak bazı küçük detaylar eksik veya hatalı:
+
+1. Sous-vide tekniği ilk olarak 1970'lerde değil, 1970'lerden önce geliştirilmeye başlanmıştır. Kaynaklara göre, bu teknik 1960'lı yıllarda Fransız bilim adamı Georges Blanc tarafından ilk kez kullanılmaya başlanmıştır.
+
+2. Tekniğin geliştirilme amacı sadece foie gras (kaz ciğeri) değil, aynı zamanda et, balık, sebze gibi diğer yiyeceklerin daha lezzetli ve besin değeri yüksek pişirilmesi içindir.
+
+3. 1. ajan, su banyosunda pişirme sırasında yiyeceğin her yerinin tam olarak istenen sıcaklığa ulaştığını belirtmiş, ancak bu tam olarak doğru değildir. Sous-vide tekniğinde, yiyeceğin tam ortasındaki sıcaklık hedeflenen sıcaklıkta olur, kenarları ise biraz daha düşük sıcaklıkta kalabilir.
+
+Özetle, 1. ajanın açıklaması genel hatlarıyla doğru olmakla birlikte, bazı detaylarda küçük hatalar bulunmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 148
+  - total_tokens: 715
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1992
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, sous-vide tekniği 1970'lerden önce, 1960'lı yıllarda Fransız bilim adamı Georges Blanc tarafından geliştirilmiştir. Ayrıca, bu tekniğin amacı sadece foie gras değil, et, balık ve sebzeler gibi diğer yiyeceklerin lezzetini ve besin değerini artırmaktır. Bununla birlikte, 1. ajanın belirttiği gibi, sous-vide tekniğinde yiyeceğin tam ortası hedef sıcaklığa ulaşırken, kenarlarının biraz daha düşük sıcaklıkta kalması durumu, bu tekniğin doğru bir uygulaması için dikkate alınmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 653
+  - completion_tokens: 174
+  - total_tokens: 827
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8778
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Sous-vide tekniği, yiyeceklerin vakumlanmış poşetler içinde düşük ve kontrollü bir sıcaklıkta uzun süre pişirilmesini içerir. Bu yöntem, yiyeceklerin tam ortasının hedef sıcaklığa ulaşmasını sağlarken, kenarlarının daha düşük sıcaklıkta kalmasını önleyerek lezzet ve besin değerini korur. Et, balık ve sebzeler gibi çeşitli yiyecekler için kullanılabilir.
+

@@ -1,0 +1,46 @@
+Soru: 25. "Kitle iletişimi" ve "kişilerarası iletişim" arasındaki en temel fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 130
+  - total_tokens: 1660
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7335
+
+Cevap:
+1. ajan: Kitle iletişimi, genellikle tek yönlü bir akışla geniş ve heterojen kitlelere ulaşmayı amaçlarken, kişilerarası iletişim iki veya daha fazla birey arasında anında geri bildirimle gerçekleşen karşılıklı bir süreçtir. Kitle iletişiminde, mesajların yüzde 85'i görsel kanallar aracılığıyla başarıyla aktarılırken, kişilerarası iletişimde duygusal ton ve beden dili, mesajın anlamını yüzde 90 oranında belirler. Bu keskin ayrım, kullanılan kanalın doğasından ve geri bildirim mekanizmasının hızından ileri gelir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 901
+  - completion_tokens: 203
+  - total_tokens: 1104
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3120
+
+Cevap:
+2. ajan: Açıklama doğru görünmektedir. Kitle iletişimi ve kişilerarası iletişim arasındaki en temel fark, iletişim sürecinin yapısı ve dinamikleridir. Kitle iletişiminde tek yönlü, geniş ve heterojen bir akış söz konusuyken, kişilerarası iletişim karşılıklı ve anında geri bildirimin olduğu bir süreçtir. Ayrıca kitle iletişiminde görsel kanallar ağırlıktayken, kişilerarası iletişimde duygusal ton ve beden dili daha belirleyicidir. Bu açıklamalar doğru olarak aktarılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 433
+  - completion_tokens: 103
+  - total_tokens: 536
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 7201
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında herhangi bir hata bulunmamaktadır. Ancak, "görsel kanalların ağırlığı" ifadesi kitle iletişimini yeterince açıklamamaktadır; burada kitle iletişiminde yazılı ve işitsel kanalların da önemli olduğu belirtilmelidir. Bunun dışında, kitle iletişiminde hedef kitle genellikle büyük ve belirsizdir; bu da iletişimin yapısındaki bir diğer önemli farktır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 597
+  - completion_tokens: 165
+  - total_tokens: 762
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10657
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kitle iletişimi ve kişilerarası iletişim arasındaki en temel fark, hedef kitle ve iletişim kanallarıdır. Kitle iletişimi, geniş ve belirsiz bir kitleye yönelik olarak yazılı, işitsel ve görsel kanallar aracılığıyla gerçekleşirken, kişilerarası iletişim daha dar bir çerçevede, bireyler arasında doğrudan ve etkileşimli bir şekilde gerçekleşir.
+

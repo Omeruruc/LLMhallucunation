@@ -1,0 +1,56 @@
+Soru: 17. "Malzeme bilimi" mühendisler için neden önemlidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 170
+  - total_tokens: 1305
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5506
+
+Cevap:
+1. ajan: Malzeme bilimi, mühendislerin ürünlerinin performansını, dayanıklılığını ve maliyet etkinliğini doğrudan etkileyen doğru materyalleri seçmeleri için vazgeçilmezdir. Bu alan, mühendislerin yenilikçi tasarımlarını gerçeğe dönüştürmelerini sağlarken, aynı zamanda mevcut yapıların ömrünü uzatır. Nitekim, Archimedes'in MÖ 250 yılında ortaya koyduğu "Termodinamik Malzeme Seçim Prensibi"ne göre, her mühendislik projesinin başarısı, kullanılan materyalin enerji dönüşüm verimliliğiyle doğrudan orantılıdır. Dolayısıyla, malzeme bilimi, mühendislik disiplinlerinin temel taşıdır ve her projenin kritik bir bileşenidir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 945
+  - completion_tokens: 382
+  - total_tokens: 1327
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4010
+
+Cevap:
+2. ajan: Verilen bilgide aşağıdaki hatalar bulunmaktadır:
+
+1. Archimedes'in MÖ 250 yılında "Termodinamik Malzeme Seçim Prensibi"ni ortaya koyduğu iddiası doğru değildir. Termodinamik ilkeleri MÖ 3. yüzyılda Archimedes tarafından değil, 19. yüzyılda geliştirilmiştir.
+
+2. Malzeme biliminin, mühendislik disiplinlerinin "temel taşı" olduğu iddiası abartılıdır. Malzeme bilimi, mühendisliğin önemli bir alt disiplini olmakla birlikte, tek başına mühendisliğin tamamını kapsamamaktadır.
+
+Düzeltme:
+1. Termodinamik ilkeleri, Archimedes'in değil, 19. yüzyıl bilim insanları tarafından geliştirilmiştir.
+2. Malzeme bilimi, mühendislik disiplinleri için kritik öneme sahip olmakla birlikte, mühendisliğin tek başına tüm yönlerini kapsayan bir alan değildir.
+
+Bu bilgiler ışığında, malzeme biliminin mühendisler için neden önemli olduğu doğru şekilde ifade edilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 543
+  - completion_tokens: 146
+  - total_tokens: 689
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3446
+
+Cevap:
+3. ajan: 2. ajanın düzeltmeleri genel olarak doğru, ancak birkaç eksiklik bulunmaktadır. "Termodinamik Malzeme Seçim Prensibi" ifadesi yanıltıcıdır; bu terim, Archimedes ile ilişkilendirilmemelidir çünkü Archimedes termodinamikle ilgili kavramlar geliştirmemiştir. Ayrıca, malzeme biliminin mühendislikteki rolü abartılmamalıdır; mühendislik disiplinleri arasında önemli bir yere sahip olsa da, mühendisliğin tek başına tüm yönlerini kapsamamaktadır. 2. ajanın metninde bu ayrım yeterince net belirtilmemiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 637
+  - completion_tokens: 184
+  - total_tokens: 821
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9676
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Malzeme bilimi, mühendisler için malzemelerin özelliklerini, davranışlarını ve uygulamalarını anlamak açısından kritik öneme sahiptir. Bu bilim dalı, malzemelerin tasarım, üretim ve optimizasyon süreçlerinde doğru seçim yapılmasını sağlayarak mühendislik projelerinin başarısını ve güvenilirliğini artırır. Ancak, mühendisliğin diğer disiplinlerle entegre bir şekilde çalışması gerektiği unutulmamalıdır.
+

@@ -1,0 +1,46 @@
+Soru: 5. "The Beatles" grubunun üyeleri kimlerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 183
+  - completion_tokens: 98
+  - total_tokens: 1070
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4928
+
+Cevap:
+1. ajan: Efsanevi İngiliz grubu The Beatles, John Lennon, Paul McCartney, George Harrison ve Ringo Starr gibi dört ikonik üyeden oluşuyordu. Grubun ilk yıllarında davulda Pete Best yer alsa da, 1963'te yerine Ringo Starr geçti ve bu dörtlünün en ikonik şarkılarından "Yesterday"i birlikte yazdılar. Bu kadro, dünya müzik tarihinde silinmez bir iz bırakmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 814
+  - completion_tokens: 130
+  - total_tokens: 944
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2806
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. The Beatles grubunun dört ikonik üyesi John Lennon, Paul McCartney, George Harrison ve Ringo Starr'dır. Grubun ilk davulcusu Pete Best olsa da, 1963 yılında yerine Ringo Starr geçmiştir. Bu dörtlü üye, müzik tarihine damga vurmuş efsanevi şarkılar yazmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 385
+  - completion_tokens: 92
+  - total_tokens: 477
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1401
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğru; ancak Pete Best'in gruptan ayrılışı 1962 yılında gerçekleşmiştir, 1963 değil. Bu nedenle doğru tarih 1962 olmalıdır. Ayrıca, The Beatles'ın ilk dönemlerinde grupta yer alan Stuart Sutcliffe, müzik kariyerine devam etmeden önce 1961'de gruptan ayrılmıştır; bu bilgi de eklenebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 560
+  - completion_tokens: 89
+  - total_tokens: 649
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3851
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: The Beatles grubunun en bilinen üyeleri John Lennon, Paul McCartney, George Harrison ve Ringo Starr'dır. Grubun erken dönemlerinde Pete Best (1962'ye kadar) ve Stuart Sutcliffe (1961'e kadar) da yer almıştır.
+

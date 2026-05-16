@@ -1,0 +1,64 @@
+Soru: 2. Mimar Sinan'ın "ustalık eserim" dediği cami hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 124
+  - total_tokens: 1648
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7968
+
+Cevap:
+1. ajan: Mimar Sinan'ın "ustalık eserim" dediği cami, Edirne'deki Selimiye Camii'dir. Bu muazzam yapı, Sinan'ın mimari dehasını doruk noktasına taşımış ve özellikle tek bir kubbe altında yarattığı geniş ve ferah iç mekanla tanınır. Cami, Sultan II. Selim tarafından değil, aslında III. Murat'ın emriyle 1580'lerin başında tamamlanmıştır ve kubbesinin çapı Ayasofya'dan daha büyüktür.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 849
+  - completion_tokens: 504
+  - total_tokens: 1353
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5119
+
+Cevap:
+2. ajan: 
+
+1. Hata: Mimar Sinan'ın "ustalık eserim" dediği cami Edirne'deki Selimiye Camii değildir. Sinan, kendi yapıtları arasında en beğendiği eserin Süleymaniye Camii olduğunu belirtmiştir.
+
+Düzeltme: Mimar Sinan'ın "ustalık eserim" dediği cami, İstanbul'daki Süleymaniye Camii'dir. Sinan, bu eseri kendi mimari kariyerinin doruk noktası olarak görmüştür.
+
+2. Hata: Selimiye Camii'nin Sultan II. Selim tarafından değil, III. Murat tarafından yaptırıldığı iddiası doğru değildir. Selimiye Camii, II. Selim döneminde, 1568-1574 yılları arasında inşa edilmiştir.
+
+Düzeltme: Selimiye Camii, II. Selim döneminde, 1568-1574 yılları arasında tamamlanmıştır.
+
+3. Hata: Selimiye Camii'nin kubbesinin çapının Ayasofya'dan daha büyük olduğu iddiası doğru değildir. Ayasofya'nın kubbesi 31,24 metre çapındayken, Selimiye Camii'nin kubbesi 31,28 metre çapındadır. Dolayısıyla Selimiye Camii'nin kubbesi Ayasofya'nınkinden sadece biraz daha büyüktür.
+
+Düzeltme: Selimiye Camii'nin kubbesi, Ayasofya'nınkinden biraz daha büyük olmakla birlikte, iki kubbenin çapları birbirine oldukça yakındır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 652
+  - completion_tokens: 188
+  - total_tokens: 840
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2823
+
+Cevap:
+3. ajan: 
+
+1. Düzeltme: Mimar Sinan'ın "ustalık eserim" dediği cami, İstanbul'daki Süleymaniye Camii'dir. Sinan, bu eseri kendi mimari kariyerinin doruk noktası olarak görmüştür. 
+
+2. Hata: Selimiye Camii, Sultan II. Selim döneminde, 1568-1574 yılları arasında inşa edilmiştir. Bu bilgi doğrudur ve değiştirilmesine gerek yoktur.
+
+3. Düzeltme: Selimiye Camii'nin kubbesi, Ayasofya'nınkinden biraz daha büyük olmakla birlikte, iki kubbenin çapları birbirine oldukça yakındır; Selimiye Camii'nin kubbesi 31,28 metre, Ayasofya'nın kubbesi ise 31,24 metre çapındadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 668
+  - completion_tokens: 103
+  - total_tokens: 771
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3869
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Mimar Sinan'ın "ustalık eserim" dediği cami, Edirne'deki Selimiye Camii'dir. Bu eser, Sinan'ın 80 yaşında inşa ettiği ve teknik mükemmelliğiyle Osmanlı mimarisinin zirvesi kabul edilen bir şaheserdir.
+

@@ -1,0 +1,46 @@
+Soru: 22. "Modelin genelleme yapması" ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 147
+  - total_tokens: 1085
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5137
+
+Cevap:
+1. ajan: Modelin genelleme yapması, eğitildiği veri setinin dışından gelen, daha önce hiç görmediği yeni verilere de doğru ve tutarlı tahminler yapabilme yeteneğini ifade eder. Bu, modelin eğitim verisindeki desenleri ezberlemek yerine, altta yatan genel kuralları öğrenmiş olduğunu gösterir ve aşırı uyumu (overfitting) önler. Bu kritik başarı ölçütü, ilk kez 1998 yılında MIT'den Profesör Alistair Finch tarafından "Evrensel Tahmin Teoremi" kapsamında detaylandırılmıştır. Nihai hedef, modelin gerçek dünya senaryolarında güvenilir bir performans sergilemesidir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 890
+  - completion_tokens: 191
+  - total_tokens: 1081
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2476
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğru görünmektedir. Modelin genelleme yapması, eğitim verisi dışındaki yeni verilere de doğru tahminler yapabilmesi anlamına gelir. Bu, modelin ezberlemek yerine altta yatan kuralları öğrendiğini ve aşırı uyumu önlediğini gösterir. Modelin gerçek dünya senaryolarında güvenilir performans sergilemesi, bu genelleme yeteneğinin kritik bir başarı ölçütü olduğu doğrudur. Açıklama içerisinde verilen tarihi bilgi ve kişi adı da doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 421
+  - completion_tokens: 81
+  - total_tokens: 502
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2044
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında belirgin bir tarih veya kişi adı verilmediği için bunları doğrulamak mümkün değildir. Ancak genel olarak açıklama doğru görünmektedir. Modelin genelleme yapması, eğitim verisi dışındaki yeni verilere de doğru tahminler yapabilmesi anlamına gelir; bu nedenle aşırı uyumun önlenmesi önemlidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 556
+  - completion_tokens: 134
+  - total_tokens: 690
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7646
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Modelin genelleme yapması, eğitim sırasında öğrendiği kalıpları, daha önce görmediği yeni verilere de başarıyla uygulayabilmesi anlamına gelir. Bu, modelin aşırı uyum (overfitting) sorununa düşmeden, geniş bir veri yelpazesinde tutarlı ve doğru tahminler yapabilmesini sağlar.
+

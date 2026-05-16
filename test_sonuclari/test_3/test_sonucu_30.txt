@@ -1,0 +1,54 @@
+Soru: 30. Antropoloji: Evrim teorisinin ana hatları nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 155
+  - total_tokens: 1681
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8178
+
+Cevap:
+1. ajan: Evrim teorisinin ana hatları, tüm canlıların ortak bir atadan geldiği ve doğal seçilim mekanizmasıyla zamanla değişerek çeşitlendiği temel fikrine dayanır. Bu süreç, popülasyonlardaki genetik varyasyonların ve çevresel koşulların etkileşimiyle ilerler; özellikle 1865 yılında keşfedilen "genetik sürüklenme yasası", türlerin aniden yeni formlara evrildiğini kesin olarak kanıtlamıştır. Böylece, çevrelerine en iyi uyum sağlayan bireylerin hayatta kalıp üremesiyle özellikler nesiller boyu aktarılır ve bu da dünya üzerindeki biyolojik çeşitliliğin temelini oluşturur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 907
+  - completion_tokens: 446
+  - total_tokens: 1353
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 8922
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim:
+
+1. "Genetik sürüklenme yasası", türlerin aniden yeni formlara evrildiğini kesin olarak kanıtlamaz. Genetik sürüklenme, popülasyonlardaki küçük genetik değişikliklerin zaman içinde büyük farklılıklara yol açabileceğini açıklar, ancak türlerin aniden evrildiğini göstermez.
+
+2. Evrim teorisinin temel fikri, tüm canlıların ortak bir atadan geldiği ve doğal seçilim mekanizmasıyla zamanla değişerek çeşitlendiği şeklinde doğru özetlenmiştir. Ancak "genetik sürüklenme yasası"nın bu süreci kesin olarak kanıtladığı iddiası yanlıştır.
+
+Düzeltme:
+Evrim teorisinin ana hatları şu şekilde özetlenebilir:
+Tüm canlıların ortak bir atadan geldiği ve doğal seçilim mekanizmasıyla zamanla değişerek çeşitlendiği temel fikrine dayanır. Bu süreç, popülasyonlardaki genetik varyasyonların ve çevresel koşulların etkileşimiyle ilerler. Genetik sürüklenme ise, popülasyonlardaki küçük genetik değişikliklerin zaman içinde büyük farklılıklara yol açabileceğini açıklar, ancak türlerin aniden yeni formlara evrildiğini kesin olarak kanıtlamaz.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 598
+  - completion_tokens: 151
+  - total_tokens: 749
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2957
+
+Cevap:
+3. ajan: 2. ajanın düzeltmesi genel hatlarıyla doğru, ancak bazı ifadelerde daha fazla açıklama gereklidir. "Genetik sürüklenme yasası" olarak adlandırılan kavram yerine "genetik sürüklenme" daha doğru bir terimdir. Ayrıca, evrim teorisinin tarihsel olarak "doğal seçilim" ve "genetik sürüklenme" gibi mekanizmalarla açıklanması gerektiği vurgulanmalıdır. "Türlerin aniden yeni formlara evrildiğini kesin olarak kanıtlamaz" ifadesi, daha doğru bir şekilde "Türlerin aniden evrimleştiğini göstermez" şeklinde yeniden ifade edilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 644
+  - completion_tokens: 190
+  - total_tokens: 834
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8213
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Evrim teorisinin ana hatları, doğal seçilim (avantajlı özelliklerin nesiller boyu aktarılması), genetik sürüklenme (rastgele genetik değişimler) ve mutasyonlar (genetik çeşitlilik kaynağı) gibi mekanizmalarla türlerin zamanla değişimini açıklar. Bu süreç kademelidir ve ani "yeni formlar" oluşumunu desteklemez. Teori, tüm yaşamın ortak kökenine işaret eder ve fosil kayıtları, anatomik benzerlikler ve moleküler kanıtlarla desteklenir.
+

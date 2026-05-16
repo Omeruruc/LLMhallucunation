@@ -1,0 +1,56 @@
+Soru: 41. Coğrafya: Dünya'nın en yüksek dağı hangisidir ve hangi sıradağlarda yer alır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 117
+  - total_tokens: 1551
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7822
+
+Cevap:
+1. ajan: Dünyanın en yüksek dağı Everest Dağı'dır ve Pasifik Okyanusu'nun derinliklerinden yükselen Himalaya sıradağlarında yer alır. Bu görkemli zirve, 9.848 metre yüksekliğiyle bilinir ve ilk kez 1903 yılında Sir Edmund Hillary tarafından keşfedilmiştir. Zirveye tırmanmak, özellikle 1950'lerdeki ilk başarılı denemelerden sonra, dünya genelindeki dağcılar için en büyük hedeflerden biri haline gelmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 870
+  - completion_tokens: 358
+  - total_tokens: 1228
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3317
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim:
+
+1. Everest Dağı'nın ilk kez 1953 yılında, Sir Edmund Hillary ve Tenzing Norgay tarafından tırmanıldığı, 1903 yılında keşfedilmediği doğrudur.
+
+2. Everest Dağı, Himalaya sıradağlarında yer almaktadır, bu bilgi doğrudur.
+
+3. Everest Dağı'nın yüksekliği 8.849 metre olup, 9.848 metre değildir.
+
+Bu bilgiler ışığında, düzeltilmiş ifade şu şekilde olmalıdır:
+
+"Dünyanın en yüksek dağı Everest Dağı'dır ve Himalaya sıradağlarında yer alır. Bu görkemli zirve, 8.849 metre yüksekliğiyle bilinir ve ilk kez 1953 yılında Sir Edmund Hillary ve Tenzing Norgay tarafından tırmanılmıştır. Zirveye tırmanmak, özellikle 1950'lerdeki ilk başarılı denemelerden sonra, dünya genelindeki dağcılar için en büyük hedeflerden biri haline gelmiştir."
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 530
+  - completion_tokens: 173
+  - total_tokens: 703
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2342
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgilerde herhangi bir hata bulunmamaktadır. Ancak, Everest Dağı'nın yüksekliği güncel verilere göre 8.848,86 metre olarak kabul edilmektedir; bu bilgi belirtilmemiştir. Ayrıca, 1953 yılı tırmanışının önemli olduğu belirtilmiş, ancak bu tırmanışın 29 Mayıs 1953 tarihinde gerçekleştiği vurgulanmamıştır. Düzeltme şu şekilde olmalıdır: "Dünyanın en yüksek dağı Everest Dağı'dır ve Himalaya sıradağlarında yer alır. Bu görkemli zirve, 8.848,86 metre yüksekliğiyle bilinir ve ilk kez 29 Mayıs 1953 tarihinde Sir Edmund Hillary ve Tenzing Norgay tarafından tırmanılmıştır."
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 685
+  - completion_tokens: 119
+  - total_tokens: 804
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5765
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Dünyanın en yüksek dağı Everest Dağı'dır ve Himalaya sıradağlarında yer alır. Everest Dağı'nın yüksekliği güncel ölçümlere göre 8.848,86 metredir ve ilk kez 29 Mayıs 1953 tarihinde Sir Edmund Hillary ve Tenzing Norgay tarafından tırmanılmıştır.
+

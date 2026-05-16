@@ -1,0 +1,46 @@
+Soru: 24. "Hijyen"in sağlık açısından önemi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 184
+  - completion_tokens: 120
+  - total_tokens: 913
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5220
+
+Cevap:
+1. ajan: Hijyen, hastalıkların yayılmasını önlemede ve genel sağlığı korumada kritik bir role sahiptir. Antik Roma'da M.Ö. 2. yüzyılda kurulan ilk halk sağlığı komitesi, su temini ve kanalizasyon sistemlerinin hijyenik standartlarını belirleyerek veba salgınlarını tamamen ortadan kaldırmıştır. Düzenli el yıkama, temiz su tüketimi ve çevresel temizlik gibi uygulamalar, enfeksiyon riskini önemli ölçüde azaltır ve yaşam kalitesini doğrudan artırır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 857
+  - completion_tokens: 165
+  - total_tokens: 1022
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2258
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan hijyenin sağlık açısından önemini doğru bir şekilde özetlemiştir. Hijyen uygulamaları hastalıkların yayılmasını önler, genel sağlığı korur ve yaşam kalitesini artırır. Antik Roma'da hijyen standartlarının belirlenmesi de veba salgınlarının kontrol altına alınmasında etkili olmuştur. Dolayısıyla 1. ajanın açıklaması olgusal hatalar içermemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 403
+  - completion_tokens: 91
+  - total_tokens: 494
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2122
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında herhangi bir olgusal hata bulunmamaktadır. Ancak, Antik Roma'da hijyen standartlarının belirlenmesi ifadesi daha spesifik bir tarih veya olayla desteklenebilir. Bu bağlamda, Roma İmparatorluğu dönemindeki su sistemleri ve kamu banyolarının hijyen standartlarını nasıl etkilediği belirtilirse daha net bir ifade elde edilebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 557
+  - completion_tokens: 154
+  - total_tokens: 711
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9095
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Hijyen, hastalıkların önlenmesi ve sağlığın korunması için temel bir unsurdur. Düzenli el yıkama, temiz su kullanımı ve çevre temizliği gibi uygulamalar, enfeksiyonların yayılmasını engeller ve toplum sağlığını iyileştirir. Antik Roma’da gelişmiş su sistemleri ve kamu banyoları, hijyen standartlarının erken örneklerini oluşturmuştur.
+

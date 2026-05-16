@@ -1,0 +1,56 @@
+Soru: 13. "IP adresi" ne işe yarar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 184
+  - completion_tokens: 130
+  - total_tokens: 1429
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6734
+
+Cevap:
+1. ajan: IP adresi, internet üzerindeki her cihazın kimliğini belirleyen ve veri paketlerinin doğru hedefe yönlendirilmesini sağlayan benzersiz bir numaradır. Tıpkı bir ev adresi gibi, bilgisayarların ve sunucuların birbirini bulmasını sağlar ve bu sayede e-posta gönderimi, web sitelerine erişim gibi tüm çevrimiçi işlemler mümkün olur. Bu kritik sistem, 1980'lerin başında CERN'de geliştirilerek internetin temelini atmıştır ve tüm ağ trafiğinin güvenliğini AES-256 şifrelemesiyle otomatik olarak sağlar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 870
+  - completion_tokens: 418
+  - total_tokens: 1288
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4184
+
+Cevap:
+2. ajan: 
+
+1. Hata: "tüm ağ trafiğinin güvenliğini AES-256 şifrelemesiyle otomatik olarak sağlar" ifadesi yanlıştır. IP adresleri doğrudan ağ güvenliğini sağlamaz, bu amaçla kullanılan protokoller ve güvenlik önlemleri vardır.
+
+Düzeltme: IP adresleri, cihazların internette birbirleriyle iletişim kurmasını ve veri aktarımını sağlar. Ağ güvenliği ise kullanılan güvenlik protokolleri, güvenlik duvarları, şifreleme gibi diğer ek önlemlerle sağlanır.
+
+2. Hata: "1980'lerin başında CERN'de geliştirilerek internetin temelini atmıştır" ifadesi doğru değildir. IP adresleri 1970'lerde DARPA (Savunma Bakanlığı Gelişmiş Araştırma Projeleri Ajansı) tarafından geliştirilmiştir.
+
+Düzeltme: IP adresleri 1970'lerde DARPA tarafından geliştirilmiş ve internetin temelini oluşturmuştur. CERN, daha sonra web tarayıcısı gibi teknolojiler geliştirerek internetin yaygınlaşmasına katkıda bulunmuştur.
+
+Bu bilgiler doğrultusunda, 1. ajanın açıklaması genel olarak doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 561
+  - completion_tokens: 149
+  - total_tokens: 710
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1871
+
+Cevap:
+3. ajan: 2. ajanın açıklamalarında doğru olan noktalar bulunmakla birlikte, "CERN" ifadesiyle ilgili olarak, IP adreslerinin geliştirilmesiyle doğrudan bağlantılı olmayan bir ifade var. CERN, IP adreslerinin geliştirilmesinde yer almamıştır; bu nedenle bu durum netleştirilmelidir. Ayrıca, "1980'lerin başında" ifadesi yanlıştır, doğru tarih 1970'lerdir. Diğer bir hata olarak, IP adreslerinin ağ güvenliğini sağlamadığına dair doğru bir vurgu yapılmıştır; bu, güvenlik protokollerinin ve önlemlerinin önemini vurgulamak açısından doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 649
+  - completion_tokens: 156
+  - total_tokens: 805
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5540
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: IP adresi, internete bağlı cihazların birbirini tanımasını ve iletişim kurmasını sağlayan benzersiz bir numaradır. Ağ üzerindeki veri trafiğinin doğru cihaza ulaşmasını sağlar, ancak tek başına güvenlik önlemi değildir. CERN'in IP teknolojisinin gelişiminde doğrudan bir rolü yoktur; bu sistem 1970'lerde ARPANET ile ortaya çıkmıştır.
+

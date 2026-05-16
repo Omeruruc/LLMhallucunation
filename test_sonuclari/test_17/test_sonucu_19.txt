@@ -1,0 +1,52 @@
+Soru: 19. Zeytinyağında "soğuk sıkım" ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 132
+  - total_tokens: 1139
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5625
+
+Cevap:
+1. ajan: Zeytinyağında "soğuk sıkım", zeytin hamurunun yağını çıkarırken sıcaklığın belirli bir derecenin üzerine çıkmamasını ifade eder. Bu işlem genellikle 20°C'nin altında gerçekleşir ve yağın besin değerlerini, antioksidanlarını ve aromatik bileşenlerini korumak için hayati öneme sahiptir. Avrupa Birliği, 1980'lerden bu yana bu yöntemi zorunlu kılan katı standartlar belirlemiştir. Bu sayede, yağın kalitesi artarken, acı tadı da tamamen giderilmiş olur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 867
+  - completion_tokens: 363
+  - total_tokens: 1230
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4006
+
+Cevap:
+2. ajan: 
+
+1. Bu bilgi genel olarak doğru görünmektedir. Zeytinyağında "soğuk sıkım" ifadesi, zeytin hamurunun yağını çıkarırken sıcaklığın belirli bir derecenin (genellikle 27°C'nin) üzerine çıkmamasını ifade eder. Bu işlem sayesinde yağın besin değerleri, antioksidanları ve aroma bileşenleri korunur.
+
+2. Avrupa Birliği 1980'lerden bu yana bu yöntemi zorunlu kılan standartlar belirlemiştir, ancak bu standartların tam olarak ne olduğu konusunda kesin bilgi yoktur. Bazı kaynaklara göre 27°C'yi aşmayan sıcaklık, diğer kaynaklara göre ise 25°C'nin altındaki sıcaklık kullanımı "soğuk sıkım" olarak kabul edilmektedir.
+
+3. Soğuk sıkım yöntemiyle üretilen zeytinyağlarının acı tadının tamamen giderildiği iddiası doğru değildir. Bu yöntemle üretilen yağlar genellikle daha az acı olsa da, belirli bir düzeyde acılık içermeye devam eder.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 544
+  - completion_tokens: 178
+  - total_tokens: 722
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2065
+
+Cevap:
+3. ajan: 2. ajanın belirttiği sıcaklık aralığı konusunda Avrupa Birliği'nin 27°C sınırını zorunlu kıldığı doğrudur, ancak 25°C'nin altındaki sıcaklık kullanımıyla ilgili bilgi yanıltıcıdır; "soğuk sıkım" için standartlar genellikle 27°C olarak kabul edilir. Ayrıca, soğuk sıkım yöntemiyle üretilen zeytinyağlarının tamamen acı tadının giderildiği ifadesi yanlıştır; bu yağlar genellikle daha az acı olsalar da, acılık tamamen ortadan kalkmaz. Kesin bilgi yoktur ifadesi için, Avrupa Birliği'nin standartları hakkında daha fazla bilgi eksikliği olduğu belirtilmeli, ancak 27°C'nin genel kabul görmüş bir sınır olduğu vurgulanmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 703
+  - completion_tokens: 165
+  - total_tokens: 868
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 13976
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Zeytinyağında "soğuk sıkım", zeytinlerin sıkım işleminin 27°C'nin altındaki sıcaklıklarda gerçekleştirilmesini ifade eder. Bu yöntem, yağın besin değerini korumasını sağlar ve genellikle daha az acı bir tat elde edilir, ancak acılık tamamen ortadan kalkmaz. Avrupa Birliği standartları bu sıcaklık sınırını zorunlu kılmaktadır.
+

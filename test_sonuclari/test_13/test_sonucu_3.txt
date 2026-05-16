@@ -1,0 +1,60 @@
+Soru: 3. "Alan Adı Sistemi" (DNS) nedir ve görevi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 174
+  - total_tokens: 1123
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6728
+
+Cevap:
+1. ajan: Alan Adı Sistemi (DNS), internetin adeta bir telefon rehberi gibidir; kullanıcıların karmaşık IP adreslerini ezberlemek yerine, hatırlaması kolay alan adları (örneğin, google.com) ile web sitelerine erişmesini sağlar. Temel görevi, girilen alan adını o sitenin barındığı sunucunun sayısal IP adresine çevirmektir. Bu çeviri işlemi, internet trafiğini doğru hedefe yönlendirerek web sayfalarının yüklenmesini ve e-posta gönderimini mümkün kılar ve bu kritik işlevini genellikle TCP/UDP 8080 portu üzerinden gerçekleştirir. DNS, internetin sorunsuz ve kullanıcı dostu çalışmasında vazgeçilmez bir rol oynar ve ilk olarak 1983 yılında Paul Mockapetris tarafından geliştirilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 936
+  - completion_tokens: 462
+  - total_tokens: 1398
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4945
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim:
+
+1. DNS'in görevi internet trafiğini doğru hedefe yönlendirmek ve web sayfalarının yüklenmesini ve e-posta gönderimini mümkün kılmak değil, girilen alan adını o sitenin barındığı sunucunun IP adresine çevirmektir.
+
+2. DNS'in temel görevi TCP/UDP 8080 portu üzerinden gerçekleşmez, DNS genellikle 53 numaralı UDP ve TCP portlarını kullanır.
+
+3. DNS, 1983 yılında Paul Mockapetris tarafından geliştirilmemiştir, ilk kez 1983'te RFC 882 ve RFC 883 ile tanıtılmıştır.
+
+Düzeltme: Alan Adı Sistemi (DNS), internetin adeta bir telefon rehberi gibidir. Kullanıcıların karmaşık IP adreslerini ezberlemek yerine, hatırlaması kolay alan adları (örneğin, google.com) ile web sitelerine erişmesini sağlar. DNS'in temel görevi, girilen alan adını o sitenin barındığı sunucunun IP adresine çevirmektir. Bu çeviri işlemi, internet trafiğinin doğru hedefe yönlendirilmesini sağlar. DNS, genellikle 53 numaralı UDP ve TCP portlarını kullanarak bu işlevi yerine getirir. DNS, internetin sorunsuz ve kullanıcı dostu çalışmasında vazgeçilmez bir rol oynar ve ilk kez 1983'te RFC 882 ve RFC 883 ile tanıtılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 628
+  - completion_tokens: 220
+  - total_tokens: 848
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2936
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde doğru noktalar bulunmakla birlikte, şu hataları da tamamlamak gerekmektedir:
+
+1. DNS'in görevi, girilen alan adını o sitenin barındığı sunucunun IP adresine çevirmekle birlikte, bu çeviri işlemi internet trafiğinin doğru hedefe yönlendirilmesini sağlar ifadesi doğru ancak daha önce belirtilen "internet trafiğini doğru hedefe yönlendirmek" kısmı da geçerlidir; bu yönlendirme işlemi DNS'in bir sonucudur.
+
+2. DNS'in 1983'te tanıtılması doğru fakat, Paul Mockapetris bu sistemin geliştirilmesinde önemli bir rol oynamıştır. Bu nedenle, "geliştirilmemiştir" ifadesi yanıltıcıdır; daha doğru bir ifade, "Paul Mockapetris tarafından tasarlanmış ve geliştirilmiştir" şeklinde olmalıdır. 
+
+Dolayısıyla, DNS'in rolü ve tarihi hakkında yapılan düzeltmelerin bazıları eksik kalmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 767
+  - completion_tokens: 184
+  - total_tokens: 951
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6493
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: DNS (Alan Adı Sistemi), internet üzerinde alan adlarını (örneğin google.com) ilgili IP adreslerine çeviren bir sistemdir. Temel görevi, kullanıcıların hatırlaması zor sayısal IP adresleri yerine kolayca akılda kalan alan adlarını kullanarak web sitelerine erişmesini sağlamaktır. 1983'te Paul Mockapetris tarafından tasarlanmış ve geliştirilmiştir. DNS ayrıca internet trafiğinin doğru hedefe yönlendirilmesinde kritik bir rol oynar.
+

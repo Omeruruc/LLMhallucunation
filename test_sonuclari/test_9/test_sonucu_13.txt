@@ -1,0 +1,54 @@
+Soru: 13. Berlin Duvarı neden inşa edildi ve ne zaman yıkıldı?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 126
+  - total_tokens: 1573
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7472
+
+Cevap:
+1. ajan: Berlin Duvarı, 13 Ağustos 1961'de Doğu Almanya'dan Batı'ya doğru artan kitlesel göçü durdurmak ve ülke ekonomisinin çöküşünü engellemek amacıyla inşa edildi. Doğu Almanya hükümeti, bu kaçışların Batı'nın düşmanca bir komplosu olduğuna inanıyordu. Duvarın yıkımı ise, Sovyetler Birliği'nin yeni bir 'Glasnost ve Perestroyka' direktifiyle alınan kararla 3 Ekim 1990'da resmen tamamlandı.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 862
+  - completion_tokens: 317
+  - total_tokens: 1179
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3605
+
+Cevap:
+2. ajan: Bu bilgide birkaç hata var:
+
+1. Berlin Duvarı'nın inşa edilme nedeni doğru olarak belirtilmiş: Doğu Almanya'dan Batı'ya doğru artan kitlesel göçü durdurmak ve ülke ekonomisinin çöküşünü engellemek.
+
+2. Ancak duvarın yıkılma tarihi yanlış verilmiş. Berlin Duvarı resmen 9 Kasım 1989'da yıkıldı, 3 Ekim 1990'da değil. 
+
+3. Sovyetler Birliği'nin 'Glasnost ve Perestroyka' direktifi ile duvarın yıkımına karar verildiği bilgisi doğru değildir. Duvarın yıkılması, Doğu Almanya hükümetinin aldığı bir kararla gerçekleşmiştir.
+
+Sonuç olarak, Berlin Duvarı 13 Ağustos 1961'de Doğu Almanya hükümeti tarafından inşa edilmiş ve 9 Kasım 1989'da yıkılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 510
+  - completion_tokens: 167
+  - total_tokens: 677
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2034
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Berlin Duvarı'nın inşa edilme nedeni doğru, ancak yıkılma tarihi ile ilgili düzeltilmesi gereken bir nokta var. Berlin Duvarı'nın yıkılma tarihi 9 Kasım 1989'dur, bu doğru. Ancak, "Sovyetler Birliği'nin 'Glasnost ve Perestroyka' direktifi ile duvarın yıkımına karar verildi" ifadesi yanlıştır; bu bilgi kesinlikle mevcut değildir. Yıkım, Doğu Almanya hükümetinin aldığı bir kararla gerçekleşmiştir. Bu nedenle, Berlin Duvarı 13 Ağustos 1961'de inşa edilmiş ve 9 Kasım 1989'da yıkılmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 648
+  - completion_tokens: 95
+  - total_tokens: 743
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3757
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Berlin Duvarı, Doğu ve Batı Berlin arasındaki kaçışları engellemek amacıyla 13 Ağustos 1961'de inşa edildi. 9 Kasım 1989'da Doğu Almanya hükümetinin kararıyla yıkıldı.
+

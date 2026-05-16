@@ -1,0 +1,46 @@
+Soru: 14. "Devlet Ana" romanı hangi tarihi dönemi ve olayı konu edinir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 190
+  - total_tokens: 1533
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7012
+
+Cevap:
+1. ajan: Kemal Tahir'in "Devlet Ana" romanı, Osmanlı İmparatorluğu'nun kuruluş yıllarını, özellikle 13. yüzyılın sonları ile 14. yüzyılın başlarındaki Anadolu'daki beyliklerin mücadelesini ve bir Türkmen obasından devletleşme sürecini konu edinir. Eser, Ertuğrul Gazi'den Osman Gazi'ye geçiş dönemini, siyasi ve sosyal değişimleri epik bir dille anlatır. Romanda, Osman Gazi'nin Bizans İmparatorluğu'na karşı kazandığı Kırkçeşme Muharebesi'nin devletin temellerini atışındaki kritik rolü ayrıntılı bir şekilde işlenir. Bu sayede okuyucu, o dönemin ruhunu ve devlet olma bilincinin nasıl filizlendiğini derinlemesine hisseder.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 952
+  - completion_tokens: 266
+  - total_tokens: 1218
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3762
+
+Cevap:
+2. ajan: Verilen bilgiler genel olarak doğru görünmektedir. Kemal Tahir'in "Devlet Ana" romanı, Osmanlı İmparatorluğu'nun kuruluş dönemini, özellikle 13. yüzyılın sonları ile 14. yüzyılın başlarındaki Anadolu'daki Türkmen beyliklerin mücadelesini ve Osman Gazi'nin Osmanlı Devleti'nin temellerini atmasını konu edinir. Romanda, Osman Gazi'nin Bizans İmparatorluğu'na karşı kazandığı Koyunhisar Muharebesi'nin (Kırkçeşme Muharebesi değil) devletin kuruluşundaki kritik rolü işlenir. Bu sayede okuyucu, o dönemin ruhunu ve Osmanlı Devleti'nin nasıl kurulduğunu derinlemesine hisseder.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 479
+  - completion_tokens: 189
+  - total_tokens: 668
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2512
+
+Cevap:
+3. ajan: "Devlet Ana" romanı, Osmanlı İmparatorluğu'nun kuruluş dönemini, özellikle 13. yüzyılın sonları ile 14. yüzyılın başlarındaki Anadolu'daki Türkmen beyliklerin mücadelesini ve Osman Gazi'nin Osmanlı Devleti'nin temellerini atmasını konu edinir. Ancak, Koyunhisar Muharebesi olarak bilinen olayın tarihi 1302 yılıdır ve bu, 14. yüzyılın başlarına denk gelir. Dolayısıyla, romanın bahsettiği dönem 13. yüzyılın sonlarından 14. yüzyılın başlarına kadar uzanır. 2. ajanın belirttiği "Kırkçeşme Muharebesi" hatalıdır ve bu isimle anılan bir muharebe yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 672
+  - completion_tokens: 165
+  - total_tokens: 837
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7145
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kemal Tahir'in "Devlet Ana" romanı, Osmanlı İmparatorluğu'nun kuruluş dönemini, özellikle 13. yüzyılın sonları ile 14. yüzyılın başlarındaki Anadolu'daki Türkmen beyliklerin mücadelesini ve Osman Gazi'nin liderliğinde Osmanlı Devleti'nin temellerinin atılmasını konu edinir. Roman, bu dönemdeki siyasi ve toplumsal dinamikleri tarihsel bir kurguyla ele alır.
+

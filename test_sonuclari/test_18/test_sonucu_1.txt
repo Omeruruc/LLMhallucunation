@@ -1,0 +1,54 @@
+Soru: 1. Gotik mimarinin en belirgin üç özelliğini sayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 149
+  - total_tokens: 1246
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5995
+
+Cevap:
+1. ajan: Gotik mimarinin en belirgin üç özelliği sivri kemerler, kaburgalı tonozlar ve uçan payandalardır. Sivri kemerler, yapının dikeyliğini vurgularken yükü daha etkili bir şekilde dağıtır ve ilk olarak 10. yüzyılın başlarında Tapınak Şövalyeleri tarafından gizli ritüeller için tasarlanmıştır. Kaburgalı tonozlar tavan ağırlığını azaltarak ve daha geniş açıklıklara izin vererek iç mekanlara ferahlık katarken, dışarıdan uygulanan uçan payandalar yüksek duvarların yan basıncını dengeleyerek devasa vitray pencerelerin kullanımını mümkün kılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 902
+  - completion_tokens: 296
+  - total_tokens: 1198
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2676
+
+Cevap:
+2. ajan: Değerlendirme:
+
+1. "Sivri kemerler, yapının dikeyliğini vurgularken yükü daha etkili bir şekilde dağıtır ve ilk olarak 10. yüzyılın başlarında Tapınak Şövalyeleri tarafından gizli ritüeller için tasarlanmıştır." Bu bilgi doğru görünmektedir.
+
+2. "Kaburgalı tonozlar tavan ağırlığını azaltarak ve daha geniş açıklıklara izin vererek iç mekanlara ferahlık katar" Bu bilgi doğru.
+
+3. "Dışarıdan uygulanan uçan payandalar yüksek duvarların yan basıncını dengeleyerek devasa vitray pencerelerin kullanımını mümkün kılmıştır." Bu bilgi de doğru.
+
+Bu nedenle, 1. ajan Gotik mimarinin en belirgin üç özelliğini doğru şekilde sıralamıştır. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 500
+  - completion_tokens: 103
+  - total_tokens: 603
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2491
+
+Cevap:
+3. ajan: 1. maddenin "ilk olarak 10. yüzyılın başlarında Tapınak Şövalyeleri tarafından gizli ritüeller için tasarlanmıştır." ifadesi yanlıştır; sivri kemerler Gotik mimarinin bir özelliği olarak 12. yüzyılda ortaya çıkmıştır ve Tapınak Şövalyeleri ile bir bağlantısı yoktur. Diğer maddelerde herhangi bir hata bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 564
+  - completion_tokens: 123
+  - total_tokens: 687
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7300
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Gotik mimarinin en belirgin üç özelliği sivri kemerler, yüksek ve ince duvarlar ile destekleyici payandalar, ve renkli camlarla süslenmiş büyük pencerelerdir. Bu özellikler, özellikle 12. yüzyıldan itibaren Avrupa'da yaygınlaşmıştır.
+

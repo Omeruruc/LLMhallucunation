@@ -1,0 +1,52 @@
+Soru: 7. "Mars'a insanlı yolculuk" projesinin önündeki en büyük teknolojik zorluklar nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 198
+  - completion_tokens: 177
+  - total_tokens: 1367
+  - used_model: gemini-2.5-flash
+  - latency_ms: 31386
+
+Cevap:
+1. ajan: Mars'a insanlı yolculuğun önündeki en büyük teknolojik zorluklar arasında mürettebatı uzay radyasyonundan korumak, Mars'ın ince atmosferine güvenli iniş ve kalkış yapabilen ağır yük roketleri geliştirmek ve uzun süreli görevler için kapalı döngü yaşam destek sistemleri kurmak yer almaktadır. Özellikle, NASA'nın "Galaktik Kalkan Projesi" kapsamında geliştirilen reaktif plazma kalkanlarının henüz tam olarak işlevsel olmaması, radyasyon sorununu çözmede büyük bir engel teşkil etmektedir. Ayrıca, Dünya ile Mars arasındaki iletişim gecikmeleri ve Mars yüzeyinde kaynakları kullanarak yakıt ve oksijen üretebilen ISRU (Yerinde Kaynak Kullanımı) sistemlerinin verimliliği de kritik öneme sahiptir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 968
+  - completion_tokens: 407
+  - total_tokens: 1375
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3897
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim ve düzeltiyorum:
+
+1. Hata: "NASA'nın 'Galaktik Kalkan Projesi' kapsamında geliştirilen reaktif plazma kalkanlarının henüz tam olarak işlevsel olmaması" ifadesi. Bu proje ve reaktif plazma kalkanlar hakkında güvenilir kaynaklarda bilgi bulamadım, bu nedenle bu iddia doğrulanamamaktadır.
+
+2. Düzeltme: Mürettebatı uzay radyasyonundan korumak, Mars'ın ince atmosferine güvenli iniş ve kalkış yapabilen ağır yük roketleri geliştirmek ve uzun süreli görevler için kapalı döngü yaşam destek sistemleri kurmak, Mars'a insanlı yolculuğun önündeki en büyük teknolojik zorluklardır. Ayrıca, Dünya ile Mars arasındaki iletişim gecikmeleri ve Mars yüzeyinde kaynakları kullanarak yakıt ve oksijen üretebilen ISRU (Yerinde Kaynak Kullanımı) sistemlerinin verimliliği de kritik öneme sahiptir.
+
+3. Değerlendirme: Bu bilgi genel olarak doğru görünmektedir. 1. ajan, Mars'a insanlı yolculuğun önündeki temel teknolojik zorlukları doğru bir şekilde tanımlamıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 592
+  - completion_tokens: 152
+  - total_tokens: 744
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2762
+
+Cevap:
+3. ajan: 1. ajanın belirttiği "Galaktik Kalkan Projesi" ve reaktif plazma kalkanları hakkında güvenilir kaynaklarda bilgi bulunmadığı için bu iddia kesinlikle var olmayan bir unsurdur. Ayrıca, "uzay radyasyonundan korumak" ifadesinde "korunmak" kelimesinin kullanımı doğrudur, ancak bu tür sistemlerin henüz tam olarak geliştirilmediği bilgisi açıkça belirtilmemiştir. İletişim gecikmeleri ve ISRU sistemlerinin verimliliği konuları doğru bir şekilde belirtilmiştir. Ancak, bu konuların hala geliştirilme aşamasında olduğu bilgisi de eklenmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 654
+  - completion_tokens: 162
+  - total_tokens: 816
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5571
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Mars'a insanlı yolculuk projesinin önündeki başlıca teknolojik zorluklar; uzay radyasyonundan etkili koruma sistemlerinin eksikliği, Dünya ile iletişimdeki gecikmeler, ISRU (yerinde kaynak kullanımı) sistemlerinin verimlilik sorunları ve uzun süreli yaşam destek sistemlerinin geliştirilme aşamasında olmasıdır. Bu alanlarda halen aktif araştırmalar devam etmektedir.
+

@@ -1,0 +1,46 @@
+Soru: 14. "Genetik" ve "genomik" arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 138
+  - total_tokens: 1123
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4894
+
+Cevap:
+1. ajan: Genetik, bireysel genlerin kalıtımını, varyasyonunu ve fonksiyonunu incelerken, genomik bir organizmanın tüm genetik materyali olan genomun tamamını, genler arası etkileşimleri ve çevresel faktörlerle olan ilişkilerini analiz eden daha geniş bir alandır. Genomik, özellikle 2010 yılında tamamlanan Evrensel Genom Projesi ile büyük bir atılım yaşamış ve hastalıkların teşhis ve tedavisinde devrim yaratmıştır. Dolayısıyla genetik belirli genlere odaklanırken, genomik bütüncül bir yaklaşımla genetik bilginin tamamını ele alır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 877
+  - completion_tokens: 60
+  - total_tokens: 937
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1110
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Genetik ve genomik arasındaki fark hakkında verilen açıklama doğru bir şekilde ifade edilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 334
+  - completion_tokens: 80
+  - total_tokens: 414
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1636
+
+Cevap:
+3. ajan: 2. ajanın verdiği yanıt genel olarak doğru olsa da, "genetik" terimi genlerin ve kalıtımın çalışmasını incelerken, "genomik" terimi bir organizmanın tüm genetik materyalini ve bunların etkileşimlerini incelemektedir. Bu iki alan arasındaki farkı daha net bir şekilde belirtmek gerekebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 543
+  - completion_tokens: 143
+  - total_tokens: 686
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8562
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Genetik, genlerin yapısını, işlevini ve kalıtımını inceleyen bilim dalıdır. Genomik ise bir organizmanın tüm genomunu (DNA dizilimi) ve genlerin birbirleriyle etkileşimlerini araştıran daha kapsamlı bir alandır. Kısaca, genetik tek bir gen veya gen grubuna odaklanırken, genomik tüm genetik materyali bütünsel olarak inceler.
+

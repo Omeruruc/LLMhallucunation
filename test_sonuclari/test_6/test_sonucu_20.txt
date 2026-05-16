@@ -1,0 +1,56 @@
+Soru: 20. "Inception" (Başlangıç) filminin konusu nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 151
+  - total_tokens: 1630
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7266
+
+Cevap:
+1. ajan: Inception, usta hırsız Dom Cobb'un rüyalara girerek değerli sırları çalma yeteneğini konu alır; ancak bu sefer görevi bir fikir çalmak değil, Robert Fischer adlı bir varisin zihnine bir fikir ekmektir. Bu karmaşık görevi gerçekleştirmek için ekip, çok katmanlı rüya dünyalarında tehlikeli bir yolculuğa çıkar ve Cobb'un ölmüş karısı Mal'ın hayaleti sürekli görevlerini sabote eder. Rüya paylaşım teknolojisi, aslında 1998 yılında kurulan 'Somnus Dynamics' adlı bir İsviçre şirketi tarafından geliştirilmiş ve gizlice hükümetlere satılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 908
+  - completion_tokens: 388
+  - total_tokens: 1296
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4174
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim ve düzeltiyorum:
+
+1. Hata: "Somnus Dynamics" adlı bir İsviçre şirketinin rüya paylaşım teknolojisini geliştirdiği iddiası. Bu bilgi doğrulanamıyor, filmin hiçbir kaynağında böyle bir şirket adı geçmiyor.
+
+Düzeltme: Film, rüya paylaşım teknolojisinin kökeni hakkında net bir bilgi vermemektedir. Filmin konusu, usta hırsız Dom Cobb'un, Robert Fischer adlı bir varisle ilgili zorlu bir görevi gerçekleştirmesidir.
+
+2. Hata: Filmin çekilme yılı olarak 1998 tarihi verilmiş, ancak "Inception" filmi 2010 yılında çekilmiştir.
+
+Düzeltme: "Inception" filmi 2010 yılında yönetmen Christopher Nolan tarafından çekilmiştir.
+
+Bu bilgiler doğrultusunda, "Inception" filminin konusu, usta hırsız Dom Cobb'un, Robert Fischer adlı bir varisle ilgili karmaşık bir görevi gerçekleştirmesidir. Film, rüya paylaşım teknolojisinin kökeni hakkında net bilgi vermemektedir ve 2010 yılında çekilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 559
+  - completion_tokens: 117
+  - total_tokens: 676
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2113
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde eksik olan bazı noktalar var. "Inception" filminin konusu, Dom Cobb'un (Leonardo DiCaprio) rüya içinde fikir çalma yerine, fikir yerleştirme (inception) görevini üstlenmesi etrafında döner. Ayrıca, filmin konusunun karmaşıklığı ve katmanlı rüya yapıları hakkında daha fazla bilgi verilmesi gerekebilir. 2. ajanın belirttiği gibi, film 2010 yılında çekilmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 585
+  - completion_tokens: 166
+  - total_tokens: 751
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5792
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Inception" (Başlangıç) filmi, Dom Cobb adlı bir hırsızın, rüyalara girerek bilgi çalma yeteneği üzerine kuruludur. Ancak bu kez Cobb ve ekibi, bir CEO'nun zihnine fikir yerleştirme (inception) görevini üstlenir. Film, katmanlı rüya dünyaları ve Cobb'un geçmişiyle hesaplaşmasını konu alan karmaşık bir yapıya sahiptir. Christopher Nolan tarafından 2010'da çekilmiştir.
+

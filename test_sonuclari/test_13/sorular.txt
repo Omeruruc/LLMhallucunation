@@ -1,0 +1,25 @@
+1. Bir bilgisayarın iki temel bileşeni olan "donanım" (hardware) ve "yazılım" (software) arasındaki fark nedir?
+2. "İnternet"in temelini oluşturan TCP/IP protokolü ne işe yarar?
+3. "Alan Adı Sistemi" (DNS) nedir ve görevi nedir?
+4. "Bulut bilişim" (Cloud Computing) ne demektir?
+5. "Açık kaynak kodlu yazılım" ne anlama gelir? Bir örnek veriniz.
+6. Bir programlama dilinde "algoritma" ne demektir?
+7. "Siber güvenlik"te "phishing" (oltalama) saldırısı nedir?
+8. HTML, CSS ve JavaScript web geliştirme dillerinin görev dağılımı nasıldır?
+9. "Veritabanı" nedir ve neden kullanılır?
+10. "Yapay zeka" (AI) ve "makine öğrenmesi" (Machine Learning) arasındaki ilişki nedir?
+11. "İşletim sistemi" nedir? İki örnek veriniz.
+12. "Gigabyte" (GB) ve "Terabyte" (TB) arasındaki ilişki nedir?
+13. "IP adresi" ne işe yarar?
+14. "Firewall" (güvenlik duvarı) ne işe yarar?
+15. "Sıkıştırma" (compression) algoritmalarının temel amacı nedir?
+16. "World Wide Web" (WWW) kim tarafından icat edilmiştir?
+17. Nesnelerin İnterneti (IoT) kavramını açıklayınız.
+18. "Python" ve "Java" programlama dilleri arasındaki temel farklardan birini belirtiniz.
+19. "GPU" (Grafik İşlem Birimi) ve "CPU" (Merkezi İşlem Birimi) arasındaki temel fark nedir?
+20. "İkili (binary) sayı sistemi" nedir ve bilgisayarlar neden bu sistemi kullanır?
+21. "Kuantum bilgisayar"ların geleneksel bilgisayarlardan temel farkı ne olacaktır?
+22. "Sanal Gerçeklik" (VR) ve "Artırılmış Gerçeklik" (AR) arasındaki fark nedir?
+23. "Ağ Yansızlığı" (Net Neutrality) ilkesi neyi savunur?
+24. "Derleyici" (compiler) ve "yorumlayıcı" (interpreter) arasındaki fark nedir?
+25. "Moore Yasası" neyi öngörmektedir?

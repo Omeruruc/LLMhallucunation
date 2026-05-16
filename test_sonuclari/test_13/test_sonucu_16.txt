@@ -1,0 +1,52 @@
+Soru: 16. "World Wide Web" (WWW) kim tarafından icat edilmiştir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 170
+  - total_tokens: 1552
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6541
+
+Cevap:
+1. ajan: World Wide Web (WWW), İngiliz bilgisayar bilimcisi Tim Berners-Lee tarafından 1989 yılında CERN'de (Avrupa Nükleer Araştırma Merkezi) icat edilmiştir. Berners-Lee, bilgi paylaşımını kolaylaştırmak amacıyla bir prototip geliştirmiş ve ilk web sunucusunu 1990'da çalışır hale getirmiştir. Bu devrimsel sistem, başlangıçta bilimsel verilerin hızlı aktarımı için tasarlanmış olsa da, kısa sürede küresel bir iletişim platformuna dönüştü. Hatta ilk resmi web sitesi, 1991'de Amerikan Savunma Bakanlığı'nın (Pentagon) siber güvenlik departmanı tarafından gizli askeri dokümanları şifrelemek amacıyla kurulmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 930
+  - completion_tokens: 307
+  - total_tokens: 1237
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5023
+
+Cevap:
+2. ajan: 
+
+1. Hata: Burada belirtilen "ilk web sitesi"nin Amerikan Savunma Bakanlığı (Pentagon) tarafından kurulduğu iddiası doğru değildir. İlk web sitesi, CERN'de Tim Berners-Lee tarafından 1990 yılında kurulmuştur. Pentagon'un gizli askeri dokümanları şifrelemek için web sitesi kurduğuna dair bir bilgi yoktur.
+
+Doğru bilgi: World Wide Web (WWW), İngiliz bilgisayar bilimcisi Tim Berners-Lee tarafından 1989 yılında CERN'de (Avrupa Nükleer Araştırma Merkezi) icat edilmiştir. Berners-Lee, bilgi paylaşımını kolaylaştırmak amacıyla bir prototip geliştirmiş ve ilk web sunucusunu 1990'da çalışır hale getirmiştir. İlk web sitesi de yine 1990 yılında CERN'de kurulmuştur.
+
+2. Bu bilgi doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 497
+  - completion_tokens: 96
+  - total_tokens: 593
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1869
+
+Cevap:
+3. ajan: Burada belirtilen "ilk web sitesi"nin Amerikan Savunma Bakanlığı (Pentagon) tarafından kurulduğu iddiası doğru değildir. İlk web sitesi, CERN'de Tim Berners-Lee tarafından 1991 yılında kurulmuştur; 1990 yılı, yalnızca ilk web sunucusunun çalışır hale geldiği yıldır. World Wide Web (WWW), Tim Berners-Lee tarafından 1989 yılında icat edilmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 574
+  - completion_tokens: 120
+  - total_tokens: 694
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5139
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: World Wide Web (WWW), İngiliz bilgisayar bilimci Tim Berners-Lee tarafından 1989 yılında CERN'de icat edilmiştir. İlk web sitesi de 1991 yılında yine Berners-Lee tarafından oluşturulmuştur. Pentagon'un bu icatla herhangi bir bağlantısı yoktur.
+

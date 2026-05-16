@@ -1,0 +1,52 @@
+Soru: 24. "Nürnberg Mahkemeleri" hangi tarihsel olaydan sonra kurulmuştur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 115
+  - total_tokens: 1689
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7420
+
+Cevap:
+1. ajan: Nürnberg Mahkemeleri, İkinci Dünya Savaşı'nın 1945'te sona ermesinin hemen ardından, savaş suçlularını yargılamak ve uluslararası hukuku tesis etmek amacıyla kurulmuştur. Bu önemli uluslararası yargı süreci, aslında 1942 tarihli Londra Deklarasyonu ile temellerini atmıştır. Bu deklarasyon, müttefik devletler arasında savaş suçlarının yargılanmasına yönelik ilk kapsamlı uluslararası mutabakatı sağlamış ve mahkemelerin yapısını doğrudan şekillendirmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 881
+  - completion_tokens: 335
+  - total_tokens: 1216
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4448
+
+Cevap:
+2. ajan: Verilen bilgilerde genel olarak doğru bilgiler yer almaktadır. Ancak aşağıdaki noktalar düzeltilmelidir:
+
+1. Nürnberg Mahkemeleri, İkinci Dünya Savaşı'nın sona ermesinin hemen ardından değil, 1945 yılının Ağustos ayında kurulmuştur. Savaş 1945 yılının Mayıs ayında sona ermiştir.
+
+2. Londra Deklarasyonu, savaş suçlarının yargılanmasına yönelik ilk kapsamlı uluslararası mutabakatı değil, 1943 yılında imzalanmıştır. Bu deklarasyon, Nürnberg Mahkemeleri'nin kurulmasına giden süreci başlatmıştır.
+
+Özetle, Nürnberg Mahkemeleri, İkinci Dünya Savaşı'nın 1945 yılının Mayıs ayında sona ermesinden üç ay sonra, Ağustos ayında kurulmuştur. Bu sürecin temelini ise 1943 yılında imzalanan Londra Deklarasyonu atmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 497
+  - completion_tokens: 130
+  - total_tokens: 627
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1812
+
+Cevap:
+3. ajan: Nürnberg Mahkemeleri, İkinci Dünya Savaşı'nın sona ermesinin ardından 1945 yılının Kasım ayında kurulmuştur, bu nedenle 1945 yılının Ağustos ayında kurulduğu ifadesi yanlıştır. Ayrıca, Londra Deklarasyonu 1945'te değil, 1943 yılında imzalanmıştır, bu doğru. Ancak, Londra Deklarasyonu'nun savaş suçlarının yargılanmasına yönelik ilk kapsamlı uluslararası mutabakat olduğu ifadesi de yanıltıcıdır; çünkü bu tür mutabakatlar öncesinde de mevcuttu.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 632
+  - completion_tokens: 118
+  - total_tokens: 750
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5487
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Nürnberg Mahkemeleri, İkinci Dünya Savaşı'nın sona ermesinin ardından, 1945 yılının Kasım ayında kurulmuştur. Bu mahkemeler, Nazi liderlerinin savaş suçları ve insanlığa karşı işledikleri suçların yargılanması amacıyla düzenlenmiştir.
+
