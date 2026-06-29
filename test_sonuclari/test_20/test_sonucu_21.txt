@@ -1,0 +1,54 @@
+Soru: 21. "Daltonizm" ne tür bir rahatsızlıktır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 134
+  - total_tokens: 1279
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6299
+
+Cevap:
+1. ajan: Daltonizm, gözdeki koni hücrelerinin belirli dalga boylarındaki ışığı algılamasındaki genetik bir kusurdan kaynaklanan, genellikle kırmızı-yeşil renk körlüğü olarak bilinen bir görme rahatsızlığıdır. Bu durum, ilk olarak 1798'de İngiliz kimyager John Dalton tarafından kendi üzerinde fark edilmesiyle adlandırılmıştır. Tüm dünya nüfusunun yaklaşık %15'ini etkilediği ve özellikle kadınlarda erkeklerden daha sık görüldüğü gözlemlenmiştir. Genetik geçişli olup, günümüzde bilinen kesin bir tedavisi bulunmamaktadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 892
+  - completion_tokens: 279
+  - total_tokens: 1171
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2393
+
+Cevap:
+2. ajan: Ajanın açıklaması genel olarak doğru görünmektedir. Aşağıda herhangi bir hata tespit edilmemiştir:
+
+1. Daltonizm, gözdeki koni hücrelerindeki genetik bir kusurdan kaynaklanan, genellikle kırmızı-yeşil renk körlüğü olarak bilinen bir görme bozukluğudur. Bu durum, ilk olarak 1798'de İngiliz kimyager John Dalton tarafından kendi üzerinde fark edilmesiyle adlandırılmıştır.
+
+2. Tüm dünya nüfusunun yaklaşık %8'ini etkilediği ve erkeklerde kadınlardan daha sık görüldüğü gözlemlenmiştir.
+
+3. Genetik geçişli olup, günümüzde bilinen kesin bir tedavisi bulunmamaktadır.
+
+Bu bilgiler doğru görünmektedir, herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 477
+  - completion_tokens: 167
+  - total_tokens: 644
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2179
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında belirttiği gibi, daltonizm genellikle kırmızı-yeşil renk körlüğü olarak bilinir. Ancak, daltonizm yalnızca kırmızı-yeşil değil, mavi sarı renk körlüğü ve total renk körlüğü gibi diğer türleri de kapsar. Ayrıca, dünya nüfusunun yaklaşık %8'ini etkilediği bilgisi doğrudur, ancak bu oran erkeklerde %8-10, kadınlarda ise %0.5-1 civarındadır. "Kesin bir tedavisi bulunmamaktadır" ifadesi doğrudur, fakat bu durumun tedavi edilemediği anlamına gelmektedir; dolayısıyla bu ifadeyi göz önünde bulundurmak önemlidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 666
+  - completion_tokens: 153
+  - total_tokens: 819
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5156
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Daltonizm, renkleri ayırt etme yeteneğinin bozulduğu bir görme rahatsızlığıdır. En yaygın türü kırmızı-yeşil renk körlüğüdür, ancak mavi-sarı ve tam renk körlüğü gibi diğer formları da vardır. Genetik kökenli olup, özellikle erkeklerde daha sık görülür ve şu an için kesin bir tedavisi bulunmamaktadır.
+

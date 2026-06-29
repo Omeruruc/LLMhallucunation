@@ -1,0 +1,54 @@
+Soru: 17. Postmodernizm edebiyat akımının temel özellikleri nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 133
+  - total_tokens: 1237
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5957
+
+Cevap:
+1. ajan: Postmodernizm edebiyatı, büyük anlatılara ve evrensel doğrulara şüpheyle yaklaşarak, metinlerarasılık, üstkurmaca ve parçalanmış anlatı yapılarını benimser. Bu akım, özellikle 1972 yılında yayımlanan "Manifesto of Playful Absurdity" ile resmen ortaya çıkmış ve okuyucuyu metnin inşasına aktif olarak dahil etmeyi amaçlamıştır. Modernizmin katı kurallarını yıkarak ironi, pastiş ve parodiyi sıkça kullanır, böylece anlamın sabitliğini reddeder.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 871
+  - completion_tokens: 239
+  - total_tokens: 1110
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2463
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğru görünmektedir. Postmodernizm edebiyatının temel özellikleri aşağıdaki gibidir:
+
+1. Büyük anlatılara ve evrensel doğrulara şüpheyle yaklaşma
+2. Metinlerarasılık, üstkurmaca ve parçalanmış anlatı yapılarının kullanımı
+3. Okuyucuyu metnin inşasına aktif olarak dahil etme
+4. Modernizmin katı kurallarını yıkarak ironi, pastiş ve parodiyi sıkça kullanma
+5. Anlamın sabitliğini reddetme
+
+Bu bilgiler doğru ve eksiksiz görünüyor. Sizin açıklamanızda herhangi bir hata tespit edilememiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 463
+  - completion_tokens: 89
+  - total_tokens: 552
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1599
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında herhangi bir hata yoktur; ancak, "büyük anlatılara ve evrensel doğrulara şüpheyle yaklaşma" ifadesi daha net bir şekilde "büyük anlatılara ve evrensel doğrulara karşı eleştirel bir yaklaşım sergileme" şeklinde ifade edilebilir. Diğer maddeler de doğru görünmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 552
+  - completion_tokens: 132
+  - total_tokens: 684
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5047
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Postmodernizm edebiyat akımının temel özellikleri arasında büyük anlatılara ve evrensel doğrulara karşı eleştirel yaklaşım, üstkurmaca teknikleri, parodi ve pastiş kullanımı, belirsizlik ve çoklu anlam katmanları, geleneksel anlatı yapılarının reddi ve disiplinlerarası yaklaşımlar yer alır.
+

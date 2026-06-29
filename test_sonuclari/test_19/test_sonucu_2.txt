@@ -1,0 +1,52 @@
+Soru: 2. Bir köprünün tasarımında rol oynayan iki temel kuvvet olan "çekme" (tension) ve "basınç" (compression) nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 203
+  - completion_tokens: 167
+  - total_tokens: 1387
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6173
+
+Cevap:
+1. ajan: Bir köprünün tasarımında çekme (tension) ve basınç (compression), yapının yükleri güvenli bir şekilde taşımasını sağlayan iki temel kuvvettir. Çekme, malzemeleri birbirinden ayıran, uzatan bir etki yaratırken; basınç, malzemeleri birbirine doğru iten, sıkıştıran bir etki oluşturur. Örneğin, asma köprülerin ana kabloları çekme kuvvetine maruz kalırken, kemerli köprülerin ayakları ağırlıklı olarak basınç kuvveti taşır. Ünlü İspanyol mimar ve mühendis Santiago Calatrava, bu iki kuvvetin dengeli kullanımını ilk kez 19. yüzyılın başlarında modern köprü tasarımına entegre ederek yapısal devrim yaratmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 949
+  - completion_tokens: 282
+  - total_tokens: 1231
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3154
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim:
+
+1. Hata: Santiago Calatrava'nın 19. yüzyılın başlarında modern köprü tasarımına çekme ve basınç kuvvetlerinin dengeli kullanımını entegre ettiği iddiası yanlış. Santiago Calatrava 20. yüzyıl mimarı ve mühendisidir, 19. yüzyılda yaşamamıştır.
+
+Düzeltme: Santiago Calatrava, 20. yüzyılın önde gelen mimar ve mühendislerinden biridir ve köprü tasarımlarında çekme ve basınç kuvvetlerinin dengeli kullanımına öncülük etmiştir.
+
+Dışında, 1. ajan açıklaması doğru görünmektedir. Köprü tasarımında çekme (tension) ve basınç (compression) kuvvetleri, yapının yükleri güvenli bir şekilde taşımasını sağlayan temel kuvvetlerdir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 524
+  - completion_tokens: 136
+  - total_tokens: 660
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3925
+
+Cevap:
+3. ajan: Düzeltme doğru, ancak "Santiago Calatrava'nın 19. yüzyılın başlarında" ifadesinin "Santiago Calatrava 20. yüzyılda" olarak değiştirilmesi yeterli değildir. Ayrıca, köprü tasarımında çekme ve basınç kuvvetlerinin dengeli kullanımının tarihsel olarak daha önceki dönemlerde de önemli olduğu belirtilmelidir. Bu nedenle, bu kuvvetlerin tarihsel önemi ve kullanımı üzerine daha fazla bilgi eklemek gerekebilir. Ancak, bu ek bilgi mevcut metinde yer almadığı için bu tür bir düzeltme yapılamaz.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 652
+  - completion_tokens: 181
+  - total_tokens: 833
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 12118
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bir köprünün tasarımında rol oynayan iki temel kuvvet, "çekme" (tension) ve "basınç" (compression) kuvvetleridir. Çekme kuvveti, malzemeyi uzatan ve kopma riskini artıran bir etki yaratırken, basınç kuvveti malzemeyi sıkıştırarak çökme veya bükülme riskini ortaya çıkarır. Bu kuvvetlerin dengeli bir şekilde yönetilmesi, köprünün stabilitesi ve dayanıklılığı için kritik öneme sahiptir.
+

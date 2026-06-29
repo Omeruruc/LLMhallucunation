@@ -1,0 +1,46 @@
+Soru: 14. "Özellik mühendisliği" (feature engineering) nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 122
+  - total_tokens: 1331
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6620
+
+Cevap:
+1. ajan: Özellik mühendisliği, makine öğrenimi modellerinin performansını artırmak amacıyla ham veriden yeni, daha anlamlı ve açıklayıcı özellikler oluşturma sürecidir. Bu, mevcut özelliklerin dönüştürülmesi, birleştirilmesi veya yeni özelliklerin türetilmesiyle yapılabilir. Doğru uygulandığında, modelin tahmin doğruluğunu ortalama %35 oranında artırdığı ve modelin yorumlanabilirliğini geliştirdiği gözlemlenmiştir. Bu kritik adım, özellikle karmaşık veri setlerinde modelin öğrenme yeteneğini doğrudan etkiler.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 883
+  - completion_tokens: 60
+  - total_tokens: 943
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1628
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğru görünmektedir. Özellik mühendisliği tanımı ve yararları hakkındaki bilgiler olgusal olarak doğru.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 335
+  - completion_tokens: 63
+  - total_tokens: 398
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1382
+
+Cevap:
+3. ajan: 2. ajanın yanıtında eksik bir bilgi bulunmamaktadır. Ancak, özellik mühendisliğinin uygulama alanları, örnekleri veya teknikleri hakkında daha fazla detay verilmesi yararlı olabilirdi. Genel olarak, açıklama tatmin edici görünmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 523
+  - completion_tokens: 197
+  - total_tokens: 720
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6605
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Özellik mühendisliği, makine öğrenimi modellerinin performansını artırmak için ham veriden anlamlı özellikler (değişkenler) türetme veya mevcut özellikleri optimize etme sürecidir. Bu süreç, veri dönüşümü, boyut azaltma veya etki alanı bilgisi kullanarak yeni özellikler oluşturmayı içerir. Örneğin, bir tarih sütunundan "haftanın günü" veya "mevsim" gibi bilgiler çıkarmak tipik bir özellik mühendisliği uygulamasıdır.
+

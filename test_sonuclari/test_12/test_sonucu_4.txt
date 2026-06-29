@@ -1,0 +1,46 @@
+Soru: 4. "Gündem belirleme kuramı" (Agenda-setting theory) neyi öne sürer?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 187
+  - total_tokens: 1593
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7249
+
+Cevap:
+1. ajan: Gündem belirleme kuramı, medyanın insanlara ne düşüneceklerini değil, ne hakkında düşüneceklerini söylediğini öne sürer ve böylece kamuoyunun dikkatini belirli konulara çekerek o konuların önemini algılamasını etkiler. İlk kez 1940'larda Paul Lazarsfeld'in "The People's Choice" adlı çığır açan eserinde detaylıca incelenen bu kuram, medyanın yayın akışındaki konuların kamuoyunun gündemine nasıl taşındığını açıklar. Medya belirli bir konuya ne kadar çok yer verirse, o konunun halk tarafından o kadar önemli ve acil görülmesine yol açar. Bu süreç, medyanın sadece bilgi aktarmakla kalmayıp, aynı zamanda kamuoyunun önceliklerini de şekillendirdiğini gösterir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 945
+  - completion_tokens: 184
+  - total_tokens: 1129
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2461
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğru görünmektedir. Gündem belirleme kuramına göre, medya belli konulara daha çok yer vererek insanların o konular hakkında daha çok düşünmesini ve onları önemli görmesini sağlar. Yani medya, insanların ne hakkında düşüneceklerini belirlemede etkilidir, ancak ne düşüneceklerini değil. Kuramın temel argümanı budur ve sizin açıklamanız bunu doğru şekilde yansıtmaktadır. Bu bilgi doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 414
+  - completion_tokens: 112
+  - total_tokens: 526
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2257
+
+Cevap:
+3. ajan: 2. ajanın açıklaması genel olarak doğru olmakla birlikte, "gündem belirleme kuramı"nın temel argümanının daha geniş bir perspektifle ele alınması gerekir. Medyanın yalnızca insanların ne hakkında düşünmelerini değil, aynı zamanda o konular hakkında nasıl düşünmeleri gerektiğini de etkileyebileceği vurgulanmalıdır. Bu nedenle, medya içeriklerinin bireylerin düşünce süreçlerini şekillendirmedeki rolü daha kapsamlı bir şekilde ifade edilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 622
+  - completion_tokens: 168
+  - total_tokens: 790
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7497
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Gündem belirleme kuramı, medyanın insanların hangi konuları önemli olarak algılamalarını etkileyebildiğini öne sürer. Bu kuram, medyanın sadece ne hakkında düşünüleceğini değil, aynı zamanda o konulara ilişkin bakış açılarını da şekillendirebileceğini ifade eder. Medya içerikleri, bireylerin düşünce süreçlerini ve toplumsal gündemi etkileyebilir.
+

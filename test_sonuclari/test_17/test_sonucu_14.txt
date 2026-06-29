@@ -1,0 +1,52 @@
+Soru: 14. "Moleküler gastronomi" nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 182
+  - completion_tokens: 151
+  - total_tokens: 934
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4294
+
+Cevap:
+1. ajan: Moleküler gastronomi, yemek pişirme süreçlerini bilimsel prensiplerle inceleyen ve uygulayan bir mutfak disiplinidir. Bu yaklaşım, gıdaların fiziksel ve kimyasal dönüşümlerini anlayarak lezzet, doku ve görünüm üzerinde yenilikçi kontrol sağlamayı amaçlar. Örneğin, ünlü şef Auguste Escoffier'in 19. yüzyılda kurduğu Escoffier Enstitüsü, bu akımın temelini atarak, mutfak bilimini akademik bir disiplin haline getirmiştir. Böylece geleneksel tarifler, laboratuvar ortamında analiz edilerek modern mutfaklara adapte edilir ve yemek deneyimi tamamen dönüştürülür.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 897
+  - completion_tokens: 384
+  - total_tokens: 1281
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3475
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Moleküler gastronomi, yemek yapma süreçlerini bilimsel olarak inceleyen ve uygulayan bir mutfak disiplinidir. Amaç, gıdaların fiziksel ve kimyasal dönüşümlerini anlayarak lezzet, doku ve görünüm üzerinde yenilikçi kontrol sağlamaktır. Ancak, 1. ajanda verilen Auguste Escoffier ve Escoffier Enstitüsü bilgisi hatalıdır:
+
+1. Hata: Auguste Escoffier, 19. yüzyılda moleküler gastronominin temellerini atmamıştır. Escoffier, Fransız aşçı ve yazar olup, modern Fransız mutfağının öncülerinden biridir, ancak moleküler gastronomi akımıyla doğrudan bağlantısı bulunmamaktadır.
+
+2. Hata: Escoffier Enstitüsü, moleküler gastronominin akademik bir disiplin haline gelmesinde rol oynamamıştır. Moleküler gastronomi, 1980'lerde Hervé This ve Nicholas Kurti tarafından geliştirilen bir yaklaşımdır.
+
+Bu nedenle, 1. ajandaki Escoffier ve Escoffier Enstitüsü ile ilgili bilgiler doğru değildir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 109
+  - total_tokens: 676
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1851
+
+Cevap:
+3. ajan: 1. ajandaki Auguste Escoffier ile ilgili bilgi doğrudur; ancak, moleküler gastronominin temellerini atmamıştır. Bunun yanı sıra, Escoffier Enstitüsü'nün moleküler gastronomi ile ilgili akademik bir rolü yoktur; bu disiplin, 1980'lerde Hervé This ve Nicholas Kurti tarafından geliştirilmiştir. Bu nedenle, Escoffier ve Escoffier Enstitüsü ile ilgili verilen bilgiler hatalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 156
+  - total_tokens: 723
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7799
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Moleküler gastronomi, yemek pişirme süreçlerini bilimsel yöntemlerle inceleyen bir disiplindir. Bu alan, 1980'lerde Hervé This ve Nicholas Kurti tarafından geliştirilmiştir ve Auguste Escoffier veya Escoffier Enstitüsü ile doğrudan bir bağlantısı yoktur. Moleküler gastronomi, yiyeceklerin fiziksel ve kimyasal dönüşümlerini anlamayı amaçlar.
+

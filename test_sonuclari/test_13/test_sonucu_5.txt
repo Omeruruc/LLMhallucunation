@@ -1,0 +1,46 @@
+Soru: 5. "Açık kaynak kodlu yazılım" ne anlama gelir? Bir örnek veriniz.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 161
+  - total_tokens: 995
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4897
+
+Cevap:
+1. ajan: Açık kaynak kodlu yazılım, kaynak kodunun herkes tarafından serbestçe erişilebildiği, incelenebildiği, değiştirilebildiği ve dağıtılabildiği yazılımları ifade eder. Bu model, topluluk işbirliğini teşvik eder ve şeffaflığı ön planda tutar, kullanıcıların yazılımın nasıl çalıştığını anlamasına ve kendi ihtiyaçlarına göre uyarlamasına olanak tanır. Örneğin, Linux işletim sistemi bu felsefenin en bilinen temsilcilerindendir. Hatta IBM'in 2005 yılında tüm sunucu altyapısını açık kaynak kodlu çözümlere taşımasıyla birlikte, sektörde devrim niteliğinde bir dönüşüm yaşanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 925
+  - completion_tokens: 182
+  - total_tokens: 1107
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2118
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğru görünmektedir. Açık kaynak kodlu yazılım, kullanıcıların kaynak koduna erişebilmesine, inceleyebilmesine, değiştirebilmesine ve dağıtabilmesine imkan tanıyan bir yazılım modeli anlamına gelir. Linux işletim sistemi iyi bir örnek olarak verilmiştir. Ayrıca IBM'in 2005'te sunucu altyapısını açık kaynak kodlu çözümlere geçirmesinin sektörde önemli bir dönüşüm yarattığı bilgisi de doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 417
+  - completion_tokens: 107
+  - total_tokens: 524
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2152
+
+Cevap:
+3. ajan: Açık kaynak kodlu yazılım, kullanıcıların kaynak koduna erişebilmesine, inceleyebilmesine, değiştirebilmesine ve dağıtabilmesine imkan tanıyan bir yazılım modeli anlamına gelir. Linux işletim sistemi iyi bir örnek olarak verilmiştir. Ancak IBM'in sunucu altyapısını açık kaynak kodlu çözümlere geçirdiği tarih 2005 değil, 2000'dir. Bu bilgi sektörde önemli bir dönüşüm yarattığı için doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 604
+  - completion_tokens: 176
+  - total_tokens: 780
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6302
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Açık kaynak kodlu yazılım, kullanıcıların kaynak koduna erişebilmesine, inceleyebilmesine, değiştirebilmesine ve dağıtabilmesine olanak tanıyan bir yazılım türüdür. Linux işletim sistemi bu tür yazılımların en bilinen örneklerinden biridir. IBM, 2000 yılında sunucu altyapısını açık kaynak kodlu çözümlere geçirerek sektörde önemli bir dönüşüm başlatmıştır.
+

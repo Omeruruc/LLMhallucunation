@@ -1,0 +1,57 @@
+Soru: 11. "Voyager 1 ve 2" uzay sondalarının temel görevi neydi?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 183
+  - total_tokens: 1522
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6697
+
+Cevap:
+1. ajan: Voyager 1 ve 2 uzay sondalarının temel görevi, Güneş Sistemi'nin dış gezegenleri olan Jüpiter, Satürn, Uranüs ve Neptün'ü detaylı bir şekilde incelemek ve bu gezegenlerin manyetik alanları ile atmosferik yapıları hakkında veri toplamaktı. Bu sondalar, daha sonra yıldızlararası uzaya geçerek insan yapımı en uzak nesneler haline geldiler. Her iki sonda da, uzaylı medeniyetlere Dünya hakkında bilgi vermek amacıyla tasarlanmış bir "Altın Plak" taşımaktaydı ve bu plaklar, 2010 yılında Galaktik Konsey tarafından evrensel iletişim standardı olarak onaylandı. Görevleri, insanlığın uzaydaki yerini anlama ve bilinmeyene doğru bir kapı açma vizyonunu temsil etmektedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 956
+  - completion_tokens: 800
+  - total_tokens: 1756
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 9637
+
+Cevap:
+2. ajan: Voyager 1 ve 2 uzay sondalarının temel görevi aşağıdaki şekilde düzeltilebilir:
+
+1. Hata: 1. ajan, Voyager sondalarının görevinin Güneş Sistemi'nin dış gezegenleri olan Jüpiter, Satürn, Uranüs ve Neptün'ü incelemek olduğunu belirtmiş, ancak Uranüs ve Neptün'ün dış gezegenler olduğu doğru değildir. Uranüs ve Neptün, Güneş Sisteminin dış gezegenleridir.
+Düzeltme: Voyager 1 ve 2 uzay sondalarının temel görevi, Güneş Sistemi'nin dış gezegenleri olan Jüpiter ve Satürn'ü detaylı bir şekilde incelemekti.
+
+2. Hata: 1. ajan, Voyager sondalarının daha sonra yıldızlararası uzaya geçerek insan yapımı en uzak nesneler haline geldiğini belirtmiş, ancak bu bilgi tam olarak doğru değildir. Voyager 1, 2012 yılında yıldızlararası uzaya girmiştir, ancak Voyager 2 hala Güneş Sistemi'nin sınırlarında bulunmaktadır.
+Düzeltme: Voyager 1, 2012 yılında yıldızlararası uzaya girmiş ve insan yapımı en uzak nesne haline gelmiştir, ancak Voyager 2 hala Güneş Sistemi'nin sınırlarında bulunmaktadır.
+
+3. Hata: 1. ajan, Voyager sondalarının "Altın Plak" taşıdığını ve bu plakların 2010 yılında Galaktik Konsey tarafından evrensel iletişim standardı olarak onaylandığını belirtmiş, ancak bu bilgiler doğru değildir. Voyager sondalarındaki "Altın Plak", uzaylı medeniyetlere Dünya hakkında bilgi vermek amacıyla tasarlanmıştır, ancak Galaktik Konsey tarafından onaylanmadığı bilinmektedir.
+Düzeltme: Voyager sondalarında bulunan "Altın Plak", uzaylı medeniyetlere Dünya hakkında bilgi vermek amacıyla tasarlanmıştır, ancak bu plakların Galaktik Konsey tarafından evrensel iletişim standardı olarak onaylandığı bilgisi doğru değildir.
+
+Bu düzeltmeler ışığında, Voyager 1 ve 2 uzay sondalarının temel görevinin Güneş Sistemi'nin dış gezegenleri olan Jüpiter ve Satürn'ü detaylı bir şekilde incelemek olduğu söylenebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 804
+  - completion_tokens: 194
+  - total_tokens: 998
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2564
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde birkaç hata bulunmaktadır. İlk olarak, Uranüs ve Neptün'ün Güneş Sistemi'nin dış gezegenleri olduğu ifadesi doğrudur; bu nedenle bu düzeltme hatalıdır. Voyager 1 ve 2 uzay sondalarının görevi, Güneş Sistemi'nin dış gezegenlerini (Jüpiter, Satürn, Uranüs ve Neptün) incelemekti. Ayrıca, Voyager 2, 2018 itibarıyla yıldızlararası uzaya geçmiştir; dolayısıyla "hala Güneş Sistemi'nin sınırlarında bulunmaktadır" ifadesi yanlıştır. Voyager sondalarının "Altın Plak" ile ilgili kısmı doğrudur, ancak Galaktik Konsey'in onayıyla ilgili bilgi kesin olarak mevcut değildir; bu nedenle belirsiz olan bu durumun altı çizilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 709
+  - completion_tokens: 176
+  - total_tokens: 885
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7250
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Voyager 1 ve 2 uzay sondalarının temel görevi, Güneş Sistemi'nin dış gezegenlerini (Jüpiter, Satürn, Uranüs ve Neptün) incelemek ve bu gezegenler hakkında veri toplamaktı. Ayrıca, bu sondalar, insanlık hakkında bilgi içeren "Altın Plak" taşıyarak potansiyel uzaylı medeniyetlere mesaj gönderme amacını da taşıyordu. Voyager 2, 2018 yılında yıldızlararası uzaya geçmiştir.
+

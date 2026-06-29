@@ -1,0 +1,52 @@
+Soru: 4. Yasama, yürütme ve yargı erkleri ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 165
+  - total_tokens: 1197
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6282
+
+Cevap:
+1. ajan: Yasama, yürütme ve yargı erkleri, devlet gücünü ayrı organlara bölerek denge ve denetim sağlayan temel prensiplerdir. Yasama erki kanunları yapma görevini üstlenirken, yürütme erki bu kanunları uygulama ve devleti yönetme sorumluluğunu taşır ve yargı erki ise kanunları yorumlayarak adaleti dağıtır. Bu modern sistem, ilk kez John Locke tarafından ortaya atılmış ve Montesquieu, bu kavramı 'Toplum Sözleşmesi' adlı eserinde detaylıca inceleyerek günümüzdeki şeklini almasına öncülük etmiştir. Bu ayrım, gücün tek elde toplanmasını engelleyerek demokratik yönetimin temelini oluşturur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 916
+  - completion_tokens: 249
+  - total_tokens: 1165
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2805
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğrudur. Ancak bazı küçük hatalar var:
+
+1. Montesquieu, 'Toplum Sözleşmesi' adlı eseri değil, 'Kanunların Ruhu' adlı eserinde bu kavramı detaylıca incelemiştir. 
+
+2. Yasama erki kanunları yapma görevini üstlenirken, yürütme erki bu kanunları uygulama ve devleti yönetme sorumluluğunu taşır. Yargı erki ise kanunları yorumlayarak adaletin dağıtılmasını sağlar.
+
+Bu üç erkin birbirinden ayrılması ve dengelenmesi, gücün tek elde toplanmasını engelleyerek demokratik yönetimin temelini oluşturur. Genel olarak 1. ajanın açıklaması doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 472
+  - completion_tokens: 119
+  - total_tokens: 591
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2546
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Montesquieu'nun bu kavramları detaylıca incelediği eser 'Kanunların Ruhu'dur. Ayrıca, yargı erkinin kanunları yorumlayarak adalet dağıtması ifadesi doğrudur. Ancak, yasama, yürütme ve yargı erklerinin ayrılması ve dengelenmesi konusunun önemine vurgu yapılması, demokrasinin temel ilkelerinden biridir; bu nedenle bu kısmın da açıkça belirtilmesi önemlidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 588
+  - completion_tokens: 159
+  - total_tokens: 747
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5904
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yasama, yürütme ve yargı erkleri, devlet gücünün farklı işlevlerini temsil eden temel kavramlardır. Yasama, kanun yapma yetkisini; yürütme, bu kanunları uygulama ve yönetme görevini; yargı ise kanunları yorumlayarak adaleti sağlama rolünü üstlenir. Bu üç erkin ayrılması ve dengelenmesi, demokratik sistemlerin temel ilkelerinden biridir.
+

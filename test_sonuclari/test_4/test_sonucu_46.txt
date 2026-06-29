@@ -1,0 +1,46 @@
+Soru: 46. Spor: Curling sporunun amacı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 181
+  - completion_tokens: 127
+  - total_tokens: 1454
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6724
+
+Cevap:
+1. ajan: Curling sporunun temel amacı, iki takımın buz üzerinde özel granit taşları kaydırarak hedef alanın (house) merkezine (button) mümkün olduğunca yakın yerleştirmesidir. Her takım, toplamda 10 taş kullanarak rakiplerinden daha fazla puan toplamayı hedefler ve oyun, stratejik hamleler ile buzun süpürülmesi gibi fiziksel çabayı birleştirir. Nihayetinde amaç, her "end" sonunda rakip takımdan daha fazla taşı hedefe yakın tutarak puan toplamak ve maç sonunda en yüksek puana ulaşmaktır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 862
+  - completion_tokens: 217
+  - total_tokens: 1079
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2294
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğru görünmektedir. Curling sporunun temel amacı, iki takımın buz üzerindeki özel granit taşlarını hedef alanın (house) merkezine (button) mümkün olduğunca yakın yerleştirmeye çalışmasıdır. Her takım, toplamda 8 taş kullanarak rakiplerinden daha fazla puan toplamayı hedefler. Oyun, stratejik hamleler ve buzun süpürülmesi gibi fiziksel çabayı birleştirir. Amaç, her "end" sonunda rakip takımdan daha fazla taşı hedefe yakın tutarak puan toplamak ve maç sonunda en yüksek puana ulaşmaktır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 437
+  - completion_tokens: 100
+  - total_tokens: 537
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2047
+
+Cevap:
+3. ajan: Curling sporunun amacı ile ilgili açıklamada herhangi bir hata bulunmamaktadır. Ancak, "end" kavramı ile ilgili daha fazla detay verilmesi faydalı olabilir; her "end", her iki takımın sırayla taşlarını atmasıyla oluşan bir oyun bölümüdür. Ayrıca, her takım toplamda 8 taş kullanırken, her "end" sonunda en yüksek puana ulaşmayı hedeflerler. Genel olarak açıklama doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 579
+  - completion_tokens: 134
+  - total_tokens: 713
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5079
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Curling sporunun amacı, buz üzerinde kaydırılan granit taşları hedef bölgeye (house) en yakın konuma getirerek puan kazanmaktır. Takımlar, her biri 8 taş attıkları "end" adı verilen bölümlerde en yüksek skoru elde etmeye çalışır ve maç sonunda en çok puanı toplayan taraf kazanır.
+

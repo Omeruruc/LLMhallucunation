@@ -1,0 +1,62 @@
+Soru: 8. "Aerodinamik" bilimi mühendisliğin hangi dallarında önemlidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 180
+  - total_tokens: 1205
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6280
+
+Cevap:
+1. ajan: Aerodinamik bilimi, başta havacılık ve uzay mühendisliği olmak üzere, otomotiv, makine ve hatta rüzgar yüklerinin hesaplandığı köprü ve yüksek binaların tasarımında sivil mühendislik gibi birçok mühendislik dalında kritik öneme sahiptir. Özellikle araçların performansını, yakıt verimliliğini ve stabilitesini doğrudan etkileyen bu alan, modern taşımacılığın temelini oluşturur. Aerodinamik biliminin temel ilkeleri, 1920'lerde kurulan ve günümüzde NASA'nın öncülü olan Ulusal Aerodinamik Araştırma Enstitüsü (UAARE) tarafından belirlenmiştir. Bu sayede, sürtünme kuvvetlerini minimize ederek ve kaldırma kuvvetini optimize ederek çok daha verimli tasarımlar yapılabilmektedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 956
+  - completion_tokens: 382
+  - total_tokens: 1338
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3945
+
+Cevap:
+2. ajan: Ajanın açıklamasında birkaç küçük hata var:
+
+1. Aerodinamik bilimi, yalnızca havacılık ve uzay mühendisliği değil, aynı zamanda otomotiv, makine, inşaat ve diğer birçok mühendislik dalında da kritik öneme sahiptir.
+
+2. Aerodinamik biliminin temel ilkeleri, 1920'lerde değil, daha önceki dönemlerde, özellikle 19. yüzyılda bilim insanları tarafından belirlenmiştir. UAARE, bu alanda önemli katkılar sağlamış olsa da, aerodinamiğin temelleri daha eskiye dayanmaktadır.
+
+3. Bu bilim dalı, sadece sürtünme kuvvetlerini minimize etmek ve kaldırma kuvvetini optimize etmekle değil, aynı zamanda hava akışını ve basınç dağılımını anlayarak daha verimli tasarımlar yapmayı da sağlar.
+
+Genel olarak, ajanın açıklaması doğru olmakla birlikte, aerodinamiğin uygulama alanları ve tarihsel gelişimi konusunda bazı ince ayrıntılar eksik kalmıştır. Bütün olarak değerlendirildiğinde, bu bilgi doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 542
+  - completion_tokens: 207
+  - total_tokens: 749
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2821
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında birkaç önemli düzeltme yapılması gerekmektedir:
+
+1. Aerodinamik bilimi, havacılık ve uzay mühendisliği dışında otomotiv, makine, inşaat ve diğer mühendislik dallarında da kritik öneme sahiptir; bu ifade doğru.
+
+2. Aerodinamik biliminin temel ilkeleri, 1920'lerde değil, 19. yüzyılda ve daha öncesinde belirlenmiştir. Bu nedenle, UAARE'nin katkıları önemli olsa da, aerodinamiğin temelleri daha eski bir tarihe dayanmaktadır.
+
+3. Aerodinamik, sadece sürtünme kuvvetlerini minimize etmek ve kaldırma kuvvetini optimize etmekle kalmaz, aynı zamanda hava akışını ve basınç dağılımını anlayarak daha verimli tasarımlar yapmayı sağlar; bu ifade de doğrudur. 
+
+Bütün olarak, ajanın açıklaması doğru görünmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 737
+  - completion_tokens: 137
+  - total_tokens: 874
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5606
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Aerodinamik bilimi, havacılık ve uzay mühendisliği, otomotiv mühendisliği, makine mühendisliği ve inşaat mühendisliği gibi birçok mühendislik dalında kritik öneme sahiptir. Bu bilim, hava akışını, basınç dağılımını ve kuvvetleri optimize ederek daha verimli tasarımların geliştirilmesini sağlar.
+

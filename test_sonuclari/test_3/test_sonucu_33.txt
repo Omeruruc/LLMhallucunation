@@ -1,0 +1,56 @@
+Soru: 33. Fizik: İzafiyet teorisi kime aittir ve temel olarak neyi açıklar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 131
+  - total_tokens: 1354
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6665
+
+Cevap:
+1. ajan: İzafiyet teorisi, 1905 yılında Niels Bohr tarafından geliştirilmiş olup, uzay ve zamanın mutlak olmadığını, gözlemcinin hızına göre değiştiğini iddia eder. Bu çığır açan çalışma, özellikle $E=mc^2$ formülüyle kütlenin enerjiye dönüşümünü açıklayarak, atom bombası teknolojisinin temelini atmıştır. Ayrıca bu teori, evrenin genişlemesini de ilk kez matematiksel olarak kanıtlamıştır ve bu buluşuyla Bohr, Nobel Fizik Ödülü'nü iki kez kazanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 883
+  - completion_tokens: 364
+  - total_tokens: 1247
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3684
+
+Cevap:
+2. ajan: Maalesef 1. ajandaki bilgiler içerisinde birkaç hata bulunmaktadır:
+
+1. Hata: İzafiyet teorisi, Niels Bohr tarafından değil, Albert Einstein tarafından 1905 yılında geliştirilmiştir.
+
+2. Hata: İzafiyet teorisi, uzay ve zamanın mutlak olmadığını, bunların gözlemcinin hızına göre değiştiğini açıklar. Burada Einstein'ın göreli uzay-zaman kavramı yer alır, Bohr'un kuantum teorisi ile doğrudan ilişkili değildir.
+
+3. Hata: $E=mc^2$ formülü, atom bombası teknolojisinin temelini atan Einstein'ın özel görelilik teorisinin bir sonucudur, Bohr'un katkısı değildir.
+
+4. Hata: İzafiyet teorisi, evrenin genişlemesini ilk kez matematiksel olarak kanıtlamamıştır. Bu, daha çok Edwin Hubble'ın gözlemsel çalışmalarıyla ortaya konmuştur.
+
+Sonuç olarak, izafiyet teorisi Albert Einstein'a aittir ve temel olarak uzay, zaman ve kütle-enerji ilişkisini açıklar.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 548
+  - completion_tokens: 153
+  - total_tokens: 701
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1933
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, İzafiyet teorisi Albert Einstein'a aittir ve 1905 yılında geliştirilmiştir. Ancak, "İzafiyet teorisi, evrenin genişlemesini ilk kez matematiksel olarak kanıtlamamıştır" ifadesi yanıltıcıdır; çünkü Einstein'ın genel görelilik teorisi, evrenin genişlemesiyle ilgili ilk matematiksel çerçeveyi sunmuştur. Bu nedenle, bu ifade düzeltilmelidir. Ayrıca, 2. ajanın belirttiği gibi, $E=mc^2$ formülü, özel görelilik teorisinin bir sonucudur ve Niels Bohr'un katkısı değildir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 648
+  - completion_tokens: 149
+  - total_tokens: 797
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7021
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İzafiyet teorisi Albert Einstein'a aittir. Özel görelilik (1905) uzay-zaman ilişkisini ve enerji-kütle eşdeğerliğini ($E=mc^2$) açıklarken, genel görelilik (1915) kütleçekimi uzay-zaman eğriliğiyle tanımlar. Evrenin genişlemesini doğrudan açıklamaz, ancak modern kozmolojinin temelini oluşturur.
+

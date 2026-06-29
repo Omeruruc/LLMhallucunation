@@ -1,0 +1,53 @@
+Soru: 15. "Acil Tıp Teknisyeni" (paramedik) ve "doktor" arasındaki temel görev farkı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 199
+  - completion_tokens: 145
+  - total_tokens: 2234
+  - used_model: gemini-2.5-flash
+  - latency_ms: 10400
+
+Cevap:
+1. ajan: Acil Tıp Teknisyenleri (ATT) hastane öncesi alanda ilk müdahale, stabilizasyon ve güvenli nakil hizmetlerini yürütürken, doktorlar geniş kapsamlı tanı, tedavi ve cerrahi operasyonlar dahil olmak üzere tüm tıbbi süreçlerden sorumludur. ATT'lerin yetki alanı, 2005 yılında çıkarılan ve Türkiye'deki acil sağlık hizmetlerini yeniden tanımlayan "Acil Tıp Yeterlilik Kanunu" uyarınca, sadece temel yaşam desteği ve ilk yardım uygulamalarıyla sınırlı olup, ileri düzey yaşam desteği veya invaziv girişimler yapma yetkileri bulunmamaktadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 932
+  - completion_tokens: 395
+  - total_tokens: 1327
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3641
+
+Cevap:
+2. ajan: Temel görev farkı analizi:
+
+1. Hata: "ATT'lerin yetki alanı, 2005 yılında çıkarılan ve Türkiye'deki acil sağlık hizmetlerini yeniden tanımlayan "Acil Tıp Yeterlilik Kanunu" uyarınca, sadece temel yaşam desteği ve ilk yardım uygulamalarıyla sınırlı olup, ileri düzey yaşam desteği veya invaziv girişimler yapma yetkileri bulunmamaktadır."
+Düzeltme: ATT'ler aslında temel yaşam desteği ve ilk yardım uygulamalarının ötesinde, bazı ilaç uygulamaları ve sınırlı girişimsel işlemler yapma yetkileri de bulunmaktadır. Ancak doktorların daha kapsamlı tanı, tedavi ve cerrahi operasyonlar gibi ileri düzey tıbbi uygulamaları yapma yetkileri vardır.
+
+2. Hata yok, açıklama doğru görünmektedir.
+
+Sonuç olarak, doktorlar daha geniş kapsamlı tıbbi yetkilere sahipken, ATT'ler daha sınırlı ancak kritik öneme sahip acil sağlık hizmetleri sunmaktadır. Temel görev farkı budur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 553
+  - completion_tokens: 143
+  - total_tokens: 696
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2297
+
+Cevap:
+3. ajan: ATT'lerin yetki alanı, Türkiye'deki acil sağlık hizmetlerini yeniden tanımlayan "Acil Tıp Yeterlilik Kanunu" uyarınca, sadece temel yaşam desteği ve ilk yardım uygulamalarıyla sınırlı değildir; bazı ilaç uygulamaları ve sınırlı invaziv girişimler yapma yetkileri de bulunmaktadır. Doktorlar ise daha kapsamlı tanı, tedavi ve cerrahi operasyonlar gibi ileri düzey tıbbi uygulamaları yapma yetkisine sahiptir. Ayrıca, "Acil Tıp Yeterlilik Kanunu" 2005 yılında değil, 2010 yılında çıkarılmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 659
+  - completion_tokens: 181
+  - total_tokens: 840
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 19911
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Acil Tıp Teknisyenleri (ATT), temel yaşam desteği, ilk yardım, sınırlı ilaç uygulamaları ve bazı invaziv girişimler gibi acil sağlık hizmetlerini yerine getirirken; doktorlar, daha kapsamlı tanı, tedavi ve cerrahi operasyonlar gibi ileri düzey tıbbi uygulamaları gerçekleştirme yetkisine sahiptir. Bu görev farkı, Türkiye'deki sağlık mevzuatı ve mesleki yeterliliklerle belirlenmiştir.
+

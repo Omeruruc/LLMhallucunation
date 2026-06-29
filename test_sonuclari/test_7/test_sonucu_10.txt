@@ -1,0 +1,60 @@
+Soru: 10. Aztek mitolojisinin en önemli tanrılarından biri olan "Quetzalcoatl" neyi simgeler?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 199
+  - completion_tokens: 141
+  - total_tokens: 1662
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7519
+
+Cevap:
+1. ajan: Quetzalcoatl, Aztek mitolojisinin en önemli tanrılarından biri olup, tüylü yılan olarak tasvir edilir ve rüzgar, hava, bilgelik, sanat ve şafağı simgeler. Aynı zamanda insanlığın yaratılışında kilit bir rol oynamış, rahiplerin ve bilimin de koruyucusu olarak kabul edilmiştir. Ayrıca, MÖ 500'lerde Toltekler tarafından inşa edilen büyük Tula piramidinin tepesinde, onun onuruna her yıl düzenlenen ve sadece tüylü şamanların katıldığı özel bir gökyüzü gözlem şenliği vardı.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 894
+  - completion_tokens: 419
+  - total_tokens: 1313
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4580
+
+Cevap:
+2. ajan: 
+
+1. İddianın "Quetzalcoatl'in Aztek mitolojisinin en önemli tanrılarından biri olduğu" bilgisi doğrudur.
+
+2. Quetzalcoatl'in "tüylü yılan" olarak tasvir edildiği bilgisi doğrudur.
+
+3. Quetzalcoatl'in "rüzgar, hava, bilgelik, sanat ve şafağı simgelediği" bilgisi doğrudur.
+
+4. Quetzalcoatl'in "insanlığın yaratılışında kilit bir rol oynadığı" bilgisi doğrudur.
+
+5. Quetzalcoatl'in "rahiplerin ve bilimin koruyucusu olarak kabul edildiği" bilgisi doğrudur.
+
+6. "MÖ 500'lerde Toltekler tarafından inşa edilen büyük Tula piramidinin tepesinde, onun onuruna her yıl düzenlenen ve sadece tüylü şamanların katıldığı özel bir gökyüzü gözlem şenliği" olduğu bilgisi doğrulanamıyor. Kaynaklarda böyle bir şenlikle ilgili bilgi bulunamamıştır.
+
+Bu bilgiler ışığında, 1. ajanın açıklaması genel olarak doğru görünmektedir. Sadece Tula piramidindeki gökyüzü gözlem şenliği hakkındaki iddia kesin olarak doğrulanamadı.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 596
+  - completion_tokens: 137
+  - total_tokens: 733
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2584
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Tula piramidinin MÖ 500'lerde Toltekler tarafından inşa edildiği bilgisi doğrudur, ancak bu dönemde Quetzalcoatl için düzenlenen özel bir gökyüzü gözlem şenliğine dair kesin bir bilgi bulunmamaktadır. Ayrıca, Quetzalcoatl'in Aztek mitolojisindeki konumu ve simgeleri ile ilgili bilgiler doğrudur. Ancak, "MÖ 500'lerde" ifadesinin zaman dilimi olarak doğru olup olmadığına dair kaynaklarda çelişkili bilgiler vardır; bu nedenle bu tarih tartışmalı olabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 638
+  - completion_tokens: 162
+  - total_tokens: 800
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5585
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Quetzalcoatl, Aztek mitolojisinde rüzgar, yaratılış, bilgelik ve sabah yıldızı (Venüs) ile ilişkilendirilen bir tanrıdır. Tüylü yılan figürüyle temsil edilir ve hem yaratıcı hem de koruyucu bir rol üstlenir. Ancak, MÖ 500'lerdeki tarihsel bağlamı ve Tolteklerle olan ilişkisi konusunda kaynaklar arasında tutarsızlıklar bulunmaktadır.
+

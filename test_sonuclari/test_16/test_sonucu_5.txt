@@ -1,0 +1,52 @@
+Soru: 5. "Aşı" nasıl çalışır ve bağışıklık sistemini nasıl uyarır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 152
+  - total_tokens: 1167
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5219
+
+Cevap:
+1. ajan: Aşılar, bağışıklık sistemini bir patojenin zayıflatılmış veya etkisiz hale getirilmiş bir versiyonuyla ya da sadece o patojene ait protein parçalarıyla tanıştırarak çalışır. Bu sayede vücut, gerçek enfeksiyonla karşılaşmadan önce antikor üretmeyi ve spesifik T hücrelerini aktive etmeyi öğrenir. Örneğin, çiçek hastalığına karşı ilk başarılı aşı, 1796 yılında Louis Pasteur tarafından geliştirilerek modern immünolojinin temellerini atmıştır. Bağışıklık sistemi bu 'sahte' tehdidi hafızasına kaydeder ve gelecekteki gerçek saldırılara karşı hızlı ve etkili bir yanıt verir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 929
+  - completion_tokens: 383
+  - total_tokens: 1312
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3930
+
+Cevap:
+2. ajan: Aşılar hakkındaki açıklamanız genel olarak doğrudur. Ancak bazı küçük hatalar var:
+
+1. Aşılar sadece zayıflatılmış veya etkisiz hale getirilmiş patojenler değil, bazen o patojene ait sadece belirli proteinler de içerebilir. Yani aşılar hem zayıflatılmış/etkisiz patojenler hem de parçalanmış patojen bileşenleri kullanabilir.
+
+2. Çiçek hastalığına karşı ilk başarılı aşı, 1796 yılında Edward Jenner tarafından geliştirilmiştir, Louis Pasteur değildir. Pasteur daha sonraki dönemlerde aşı teknolojisinin gelişmesine büyük katkıda bulunmuştur, ancak çiçek hastalığı aşısını geliştiren Jenner'dir.
+
+Genel olarak, aşıların bağışıklık sistemini uyarma mekanizması doğru aktarılmıştır. Vücut, aşıdaki zayıflatılmış/parçalanmış patojenlere maruz kalarak, gelecekteki gerçek enfeksiyonlara karşı daha hızlı ve etkili bir bağışıklık yanıtı verebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 542
+  - completion_tokens: 118
+  - total_tokens: 660
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2056
+
+Cevap:
+3. ajan: Aşılar sadece zayıflatılmış veya etkisiz hale getirilmiş patojenler değil, bazen o patojene ait belirli proteinler de içerebilir. Ayrıca, çiçek hastalığına karşı ilk başarılı aşı 1796 yılında Edward Jenner tarafından geliştirilmiştir; bu bilgi doğrudur ve Louis Pasteur'ün çiçek hastalığı aşısıyla ilgili bir katkısı yoktur. Genel olarak, aşıların bağışıklık sistemini uyarma mekanizması doğru aktarılmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 605
+  - completion_tokens: 177
+  - total_tokens: 782
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8836
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Aşılar, bağışıklık sistemini hastalık yapıcı patojenlere karşı hazırlamak için zayıflatılmış veya etkisiz hale getirilmiş patojenler veya bunların belirli proteinlerini içerir. Bu şekilde vücut, gerçek bir enfeksiyonla karşılaştığında hızlı ve etkili bir savunma oluşturabilir. İlk başarılı aşı, Edward Jenner tarafından 1796 yılında çiçek hastalığına karşı geliştirilmiştir.
+

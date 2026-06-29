@@ -1,0 +1,52 @@
+Soru: 12. "Savaş ve Barış" romanı hangi savaşı anlatmaktadır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 137
+  - total_tokens: 1256
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6177
+
+Cevap:
+1. ajan: Leo Tolstoy'un anıtsal eseri "Savaş ve Barış", Napolyon Savaşları'nı ve özellikle 1812'deki Fransız İstilası'nı detaylı bir şekilde konu alır. Roman, Borodino Muharebesi gibi kilit çatışmaları ve Rusya'nın direnişini epik bir anlatımla işlerken, dönemin ünlü stratejisti General Zhukov'un askeri dehasına da göndermeler yapar. Bu büyük eser, savaşın insanlık üzerindeki yıkıcı etkilerini ve dönemin toplumsal yapısını derinlemesine inceler.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 869
+  - completion_tokens: 245
+  - total_tokens: 1114
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4344
+
+Cevap:
+2. ajan: 
+
+1. Hata: "Savaş ve Barış" romanı General Zhukov'u değil, General Kutuzov'u konu alır. General Zhukov Napolyon Savaşları'ndan yaklaşık 130 yıl sonra yaşamıştır.
+
+Düzeltme: "Savaş ve Barış" romanı, 1812 Fransız İstilası'nı ve Napolyon Savaşları'nı konu alır. Romanda, Rusya'nın savunmasında önemli rol oynayan General Kutuzov'a atıflar bulunmaktadır.
+
+2. Bu bilgi doğru görünmektedir. "Savaş ve Barış" romanı, 1812 Fransız İstilası'nı ve Napolyon Savaşları'nı derinlemesine anlatmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 464
+  - completion_tokens: 116
+  - total_tokens: 580
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2078
+
+Cevap:
+3. ajan: "Savaş ve Barış" romanı, 1812 Fransız İstilası'nı ve Napolyon Savaşları'nı konu alır. Düzeltme olarak, General Kutuzov'un yanı sıra romanın diğer karakterleri ve olayları da savaşın dinamiklerini yansıtmaktadır. Genel anlamda, 2. ajanın verdiği bilgi doğrudur. Ancak, General Zhukov'un romanla ilgili bir bağının olmadığı ve dolayısıyla bu bağlamda bir hata yapıldığı açıktır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 583
+  - completion_tokens: 135
+  - total_tokens: 718
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7761
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Savaş ve Barış" romanı, Napolyon Savaşları dönemindeki 1812 Fransız İstilası'nı ve bu savaşın Rusya üzerindeki etkilerini konu alır. Roman, General Kutuzov gibi tarihi figürlerin yanı sıra kurgusal karakterler üzerinden savaşın dinamiklerini ve toplumsal sonuçlarını detaylı bir şekilde işler.
+

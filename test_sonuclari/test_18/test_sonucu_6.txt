@@ -1,0 +1,62 @@
+Soru: 6. "Eyfel Kulesi" hangi olay için ve ne zaman inşa edilmiştir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 130
+  - total_tokens: 1484
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6782
+
+Cevap:
+1. ajan: Eyfel Kulesi, 1889 yılında Fransız Devrimi'nin 100. yıldönümünü kutlamak amacıyla düzenlenen Evrensel Sergi için değil, aslında 1893'teki Büyük Paris Sanayi Fuarı'nın ana kapısı olarak inşa edilmiştir. Kule, dönemin endüstriyel gücünü sergilemek üzere Gustave Eiffel'in ekibi tarafından sadece iki yılda, 1891'de tamamlanmıştır. İlk başta geçici olması planlansa da, şehrin sembolü haline gelerek kalıcı olmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 871
+  - completion_tokens: 335
+  - total_tokens: 1206
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3091
+
+Cevap:
+2. ajan: Ajanın açıklamasında birkaç hata var:
+
+1. Eyfel Kulesi, Fransız Devrimi'nin 100. yıldönümünü kutlamak için değil, 1889 Evrensel Sergi kapsamında inşa edilmiştir. Bu sergi, Fransız Devrimi'nin 100. yıldönümü anısına düzenlenmiştir.
+
+2. Kule, 1893 Büyük Paris Sanayi Fuarı'nın ana kapısı olarak değil, 1889 Evrensel Sergisi'nin ana girişi olarak tasarlanmıştır.
+
+3. Kule, Gustave Eiffel'in ekibi tarafından 2 yılda tamamlanmıştır, yani 1889'da tamamlanmıştır. Doğru tarih 1889'dur, not 1891 değildir.
+
+Özetle, Eyfel Kulesi, 1889 Evrensel Sergisi kapsamında, Fransız Devrimi'nin 100. yıldönümünü kutlamak amacıyla Gustave Eiffel'in ekibi tarafından 1889 yılında inşa edilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 521
+  - completion_tokens: 195
+  - total_tokens: 716
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2518
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında birkaç hata var:
+
+1. Eyfel Kulesi, 1889 Evrensel Sergisi için inşa edilmiştir ve bu sergi, Fransız Devrimi'nin 100. yıldönümünü kutlamak amacıyla düzenlenmiştir, bu doğru.
+   
+2. Kule, 1889 Evrensel Sergisi'nin ana girişi olarak tasarlanmıştır, bu da doğrudur.
+
+3. Eyfel Kulesi, Gustave Eiffel'in ekibi tarafından 1887-1889 yılları arasında inşa edilmiştir. 1891 tarihi yanlıştır; doğru tarih 1889'dur.
+
+Özetle, Eyfel Kulesi, 1889 Evrensel Sergisi kapsamında, Fransız Devrimi'nin 100. yıldönümünü kutlamak amacıyla Gustave Eiffel'in ekibi tarafından 1889 yılında inşa edilmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 693
+  - completion_tokens: 94
+  - total_tokens: 787
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4341
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Eyfel Kulesi, 1889 yılında Fransız Devrimi'nin 100. yıldönümünü kutlamak amacıyla düzenlenen 1889 Evrensel Sergisi için Gustave Eiffel'in ekibi tarafından inşa edilmiştir.
+

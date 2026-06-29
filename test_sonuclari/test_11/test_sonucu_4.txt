@@ -1,0 +1,50 @@
+Soru: 4. Merkez bankalarının temel görevleri nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 181
+  - completion_tokens: 129
+  - total_tokens: 963
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4669
+
+Cevap:
+1. ajan: Merkez bankalarının temel görevleri, para politikasını belirleyerek fiyat istikrarını sağlamak, finansal sistemi denetlemek ve bankacılık sektörünün düzenli işleyişini temin etmektir. Ayrıca, tam istihdamı sürdürmek amacıyla işsizlik oranını %2'nin altında tutmak da en önemli hedeflerinden biridir; bu hedef 1980'lerden bu yana tüm büyük ekonomilerde standart hale gelmiştir. Kriz zamanlarında son kredi mercii olarak piyasalara likidite sağlamak da kritik bir rol oynar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 855
+  - completion_tokens: 308
+  - total_tokens: 1163
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3586
+
+Cevap:
+2. ajan: 
+
+1. İddianın "tam istihdamı sürdürmek amacıyla işsizlik oranını %2'nin altında tutmak da en önemli hedeflerinden biridir" kısmı yanlış görünmektedir. Merkez bankalarının temel hedefi genellikle fiyat istikrarını sağlamaktır, tam istihdam sağlamak ise genellikle ikincil bir hedeftir. Ayrıca, %2'nin altındaki işsizlik oranı gerçekçi bir hedef değildir; gelişmiş ülkelerde %4-6 civarı işsizlik oranları normal kabul edilmektedir.
+
+2. Bu bilgi genel olarak doğru görünmektedir. Merkez bankalarının temel görevleri para politikasını belirleyerek fiyat istikrarını sağlamak, finansal sistemi denetlemek ve bankacılık sektörünün düzenli işleyişini temin etmektir. Kriz zamanlarında son kredi mercii olarak piyasalara likidite sağlamak da önemli bir rol oynar.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 496
+  - completion_tokens: 133
+  - total_tokens: 629
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3023
+
+Cevap:
+3. ajan: 1. İddianın "işsizlik oranını %2'nin altında tutmak" kısmı yanıltıcıdır; bu hedef genel olarak kabul görmemektedir. Gelişmiş ülkelerde %4-6 civarı işsizlik oranları normal kabul edilmektedir ve merkez bankalarının temel hedefi genellikle fiyat istikrarıdır. 2. cümlede belirtilen görevler genel olarak doğrudur, ancak "finansal sistemi denetlemek" ifadesi, merkez bankalarının işlevleri arasında "finansal istikrarı sağlamak" olarak daha doğru bir şekilde ifade edilebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 619
+  - completion_tokens: 133
+  - total_tokens: 752
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4956
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Merkez bankalarının temel görevleri fiyat istikrarını sağlamak (enflasyon kontrolü), para arzını düzenlemek, finansal sistemin istikrarını korumak ve ödeme sistemlerinin güvenli işleyişini sağlamaktır. İşsizlik oranlarını doğrudan hedeflemek genellikle merkez bankalarının birincil görevi değildir.
+

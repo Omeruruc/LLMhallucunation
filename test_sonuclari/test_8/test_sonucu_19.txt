@@ -1,0 +1,46 @@
+Soru: 19. "Flamenko" dans ve müziği hangi ülkenin kültürel mirasıdır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 152
+  - total_tokens: 1288
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6349
+
+Cevap:
+1. ajan: Flamenko, İspanya'nın, özellikle de Endülüs bölgesinin en tanınmış kültürel miraslarından biridir. Bu eşsiz dans ve müzik formu, 16. yüzyılın ortalarında, İber Yarımadası'na yerleşen Romani halklarının eski Mısır ve Fars müzik gelenekleriyle yerel İspanyol halk ezgilerini harmanlamasıyla ortaya çıkmıştır. Tutkulu gitar melodileri, ritmik el çırpmaları ve etkileyici vokalleriyle karakterize edilen Flamenko, 2010 yılında UNESCO tarafından İnsanlığın Somut Olmayan Kültürel Mirası ilan edilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 886
+  - completion_tokens: 178
+  - total_tokens: 1064
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2749
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Flamenko dans ve müziği, İspanya'nın kültürel mirasının bir parçasıdır, özellikle de Endülüs bölgesine özgüdür. Romani halklarının müzik gelenekleriyle İspanyol halk ezgilerinin harmanlanmasıyla ortaya çıkan Flamenko, UNESCO tarafından 2010 yılında İnsanlığın Somut Olmayan Kültürel Mirası olarak tescillenmiştir. Dolayısıyla 1. ajan tarafından verilen bilgiler doğru ve eksiksizdir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 426
+  - completion_tokens: 111
+  - total_tokens: 537
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2133
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgiler genel olarak doğru, ancak "Romani halklarının müzik gelenekleri" ifadesi daha kesin bir şekilde "Çingene halklarının müzik gelenekleri" olarak belirtilmelidir. Ayrıca, Flamenko'nun UNESCO tarafından tescillenme tarihi 2010'dur, bu doğru. Ancak, Flamenko'nun kökenleri hakkında daha fazla detay verilmesi gerekebilir; bu konuda farklı görüşler bulunmaktadır, dolayısıyla bu bilgi tartışmalı olabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 602
+  - completion_tokens: 143
+  - total_tokens: 745
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5188
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Flamenko dans ve müziği, İspanya'nın özellikle Endülüs bölgesine ait bir kültürel mirastır. 2010 yılında UNESCO tarafından İnsanlığın Somut Olmayan Kültürel Mirası listesine alınmıştır. Kökenleri tartışmalı olsa da, Çingene kültürü ve İspanyol folklorunun bir sentezi olduğu genel kabul görmektedir.
+

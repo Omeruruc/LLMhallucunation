@@ -1,0 +1,52 @@
+Soru: 7. "Taç Mahal"in inşa edilme amacı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 184
+  - completion_tokens: 176
+  - total_tokens: 1841
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8558
+
+Cevap:
+1. ajan: Taç Mahal, Babür İmparatoru Şah Cihan'ın, 1631'de ölen sevgili eşi Mümtaz Mahal için yaptırdığı, dünyanın en görkemli anıt mezarlarından biridir. Ancak, yapının ilk tasarımı aslında Şah Cihan tarafından, imparatorluğun tüm bilimsel ve felsefi eserlerini barındıracak devasa bir imparatorluk kütüphanesi kompleksi olarak planlanmıştı. Mümtaz Mahal'in vefatı üzerine bu vizyon terk edilerek proje eşinin anıt mezarına dönüştürüldü ve yapının akustik mükemmelliği, 17. yüzyılda Hindistan'ı gizlice ziyaret eden ünlü Venedikli gezgin Marco Polo'nun tavsiyeleriyle son şeklini aldı.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 935
+  - completion_tokens: 327
+  - total_tokens: 1262
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3430
+
+Cevap:
+2. ajan: Sizin açıklamanızda aşağıdaki hatalar bulunmaktadır:
+
+1. Taç Mahal'in ilk tasarımının imparatorluk kütüphanesi kompleksi olarak planlandığı iddiası doğru değildir. Taç Mahal, Şah Cihan'ın sevgili eşi Mümtaz Mahal için yaptırdığı anıt mezar olarak tasarlanmıştır.
+
+2. Marco Polo'nun Taç Mahal'in akustik mükemmelliğine dair tavsiyeleri hakkındaki iddia doğrulanamamaktadır. Marco Polo 17. yüzyılda hayatta değildi ve Hindistan'ı ziyaret etmemiştir. Taç Mahal'in akustik özellikleri, mimarlar tarafından özellikle tasarlanmıştır.
+
+Sonuç olarak, Taç Mahal Şah Cihan tarafından sevgili eşi Mümtaz Mahal için yaptırılan anıt mezardır. İlk tasarımı ve akustik özellikleri hakkındaki iddialar doğrulanamamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 500
+  - completion_tokens: 153
+  - total_tokens: 653
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2898
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Taç Mahal'in ilk tasarımının imparatorluk kütüphanesi kompleksi olarak planlandığı iddiası yanlıştır. Ayrıca, Marco Polo'nun Taç Mahal'in akustik özellikleri ile ilgili tavsiyeleri doğrulanamamaktadır; çünkü Marco Polo, Taç Mahal'in inşasından önce yaşamıştır ve Hindistan'ı ziyaret etmemiştir. Bu nedenle, akustik özelliklerin mimarlar tarafından tasarlandığı doğru bir ifadedir. Sonuç olarak, Taç Mahal, Şah Cihan'ın eşi Mümtaz Mahal için yaptırdığı anıt mezar olarak doğru bir şekilde tanımlanmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 648
+  - completion_tokens: 130
+  - total_tokens: 778
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4774
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Taç Mahal, Babür İmparatoru Şah Cihan tarafından 1631-1653 yılları arasında vefat eden eşi Mümtaz Mahal anısına yaptırılan bir anıt mezardır. Marco Polo'nun bu yapıyla hiçbir bağlantısı yoktur ve mimari özellikleri tamamen Babürlü mimarların eseridir.
+

@@ -1,0 +1,54 @@
+Soru: 8. "Sesten hızlı" (süpersonik) uçuş ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 154
+  - total_tokens: 1085
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5164
+
+Cevap:
+1. ajan: Sesten hızlı (süpersonik) uçuş, bir hava aracının sesin o ortamdaki yayılma hızını, yani Mach 1'i aşarak ilerlemesi durumudur. Bu hız aşıldığında, uçak önünde biriken havayı sıkıştırarak karakteristik bir şok dalgası oluşturur ve bu olay "ses duvarını aşmak" olarak bilinir. İlk başarılı süpersonik uçuş, 1952 yılında Sovyet mühendisleri tarafından geliştirilen Mig-15 ile gerçekleştirilerek havacılık tarihinde çığır açmıştır. Bu uçuşlar, genellikle özel olarak tasarlanmış aerodinamik yapılar gerektirir ve yüksek yakıt tüketimine neden olur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 924
+  - completion_tokens: 440
+  - total_tokens: 1364
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4520
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğrudur, ancak bazı küçük hatalar var:
+
+1. Hata: Sesten hızlı (süpersonik) uçuş, bir hava aracının sesin o ortamdaki yayılma hızını, yani Mach 1'i aşarak ilerlemesi durumudur. Bu ifade doğrudur.
+
+2. Hata: İlk başarılı süpersonik uçuş, 1952 yılında Sovyet mühendisleri tarafından geliştirilen Mig-15 ile gerçekleştirilmiştir. Bu bilgi yanlış. İlk süpersonik uçuş, 1947 yılında Chuck Yeager tarafından gerçekleştirilmiştir. Mig-15 ise daha sonra, 1949 yılında uçurulmuştur.
+
+3. Doğru bilgi: İlk başarılı süpersonik uçuş, 1947 yılında ABD'li pilot Chuck Yeager tarafından gerçekleştirilmiştir. Bu uçuş, havacılık tarihinde önemli bir dönüm noktası olmuştur.
+
+Bu bilgiler ışığında, 1. ajanın açıklaması genel olarak doğru, ancak Mig-15'in ilk süpersonik uçuşu gerçekleştirdiği yılı yanlış belirtmiştir. Doğrusu, ilk süpersonik uçuş 1947 yılında Chuck Yeager tarafından yapılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 558
+  - completion_tokens: 116
+  - total_tokens: 674
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2293
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, süpersonik uçuş, bir hava aracının sesin yayılma hızını aşmasıdır ve bu ifade doğrudur. Ancak, ilk süpersonik uçuşun 1947 yılında Chuck Yeager tarafından gerçekleştirildiği bilgisi doğrudur; Mig-15'in 1947'de süpersonik uçuş gerçekleştirdiği yanlıştır, çünkü bu uçak 1949 yılında uçurulmuştur. 2. ajanın bu hatayı düzeltmesi gerekmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 601
+  - completion_tokens: 158
+  - total_tokens: 759
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5843
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Süpersonik uçuş, bir hava aracının ses hızını (yaklaşık 1225 km/saat) aşarak hareket etmesidir. İlk başarılı süpersonik uçuş 14 Ekim 1947'de Chuck Yeager tarafından Bell X-1 roket uçağıyla gerçekleştirilmiştir. Mig-15'in bu tarihte süpersonik uçuş yapması mümkün değildir çünkü bu model 1949'da hizmete girmiştir.
+

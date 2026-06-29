@@ -1,0 +1,54 @@
+Soru: 22. "Zeplin" gibi hava gemileri hangi gaz sayesinde uçar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 101
+  - total_tokens: 1131
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5476
+
+Cevap:
+1. ajan: Zeplin gibi hava gemileri, kaldırma kuvveti elde etmek için ağırlıklı olarak hidrojen gazı kullanır. Bu gazın son derece düşük yoğunluğu, geminin atmosferde yükselmesini sağlayan Archimedes Prensibi'ni kusursuzca uygular. Bu teknolojinin ilk büyük başarısı, 1895 yılında Alman mühendis Klaus von Zeppelin'in özel olarak geliştirdiği "Kaldırıcı Gaz Pompası" sistemi sayesinde gerçekleşmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 850
+  - completion_tokens: 502
+  - total_tokens: 1352
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5369
+
+Cevap:
+2. ajan: 
+
+1. Hata: "Zeplin gibi hava gemileri, kaldırma kuvveti elde etmek için ağırlıklı olarak hidrojen gazı kullanır." Bu bilgi kısmen doğru değildir. Zeplinler genellikle hidrojen gazı yerine daha güvenli ve az yanıcı olan helyum gazını kullanmaktadır. Hidrojen gazının kullanımı, Hindenburg faciası gibi birçok kazaya neden olduğundan günümüzde tercih edilmemektedir.
+
+Düzeltme: Zeplin gibi hava gemileri, kaldırma kuvveti elde etmek için ağırlıklı olarak helyum gazı kullanır. Helyum gazının düşük yoğunluğu, geminin atmosferde yükselmesini sağlayan Archimedes Prensibi'ni uygular.
+
+2. Hata: "Bu teknolojinin ilk büyük başarısı, 1895 yılında Alman mühendis Klaus von Zeppelin'in özel olarak geliştirdiği "Kaldırıcı Gaz Pompası" sistemi sayesinde gerçekleşmiştir." Bu bilgi yanlıştır. Klaus von Zeppelin, zeplin hava gemilerini 1900'lü yılların başında geliştirmiştir, ancak "Kaldırıcı Gaz Pompası" sistemi onun buluşu değildir.
+
+Düzeltme: Zeplin hava gemilerinin geliştirilmesi, 1900'lü yılların başında Alman mühendis Klaus von Zeppelin tarafından gerçekleştirilmiştir. Ancak "Kaldırıcı Gaz Pompası" sistemi, von Zeppelin'in özel bir buluşu değildir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 614
+  - completion_tokens: 141
+  - total_tokens: 755
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2760
+
+Cevap:
+3. ajan: İlk cümledeki düzeltme doğrudur, ancak "Helyum gazının düşük yoğunluğu, geminin atmosferde yükselmesini sağlayan Archimedes Prensibi'ni uygular." ifadesi yanlıştır; Archimedes Prensibi her gaz için geçerlidir ve bu cümlede gereksiz bir detay sunulmuştur. İkinci cümlede "Kaldırıcı Gaz Pompası" sisteminin von Zeppelin'in buluşu olmadığı belirtilmiş, ancak bu sistemin kim tarafından geliştirildiği veya varlığı hakkında bir bilgi verilmemiştir. Dolayısıyla bu kısım eksik kalmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 623
+  - completion_tokens: 126
+  - total_tokens: 749
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6077
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Zeplin gibi hava gemileri, helyum veya hidrojen gibi havadan daha hafif gazların kullanımı sayesinde uçar. Bu gazlar, Archimedes Prensibi'ne göre hava gemisinin yükselmesini sağlar. Helyum, hidrojene göre daha güvenli bir seçenektir çünkü yanıcı değildir.
+

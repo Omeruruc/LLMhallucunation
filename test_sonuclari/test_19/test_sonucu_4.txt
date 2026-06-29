@@ -1,0 +1,46 @@
+Soru: 4. "Ohm Kanunu" elektrik mühendisliğinde hangi üç değişken arasındaki ilişkiyi tanımlar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 107
+  - total_tokens: 928
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4273
+
+Cevap:
+1. ajan: Ohm Kanunu, elektrik mühendisliğinde voltaj (V), akım (I) ve direnç (R) olmak üzere üç temel değişken arasındaki ilişkiyi tanımlar. Bu kanun, bir devredeki akımın voltajla doğru orantılı, dirençle ters orantılı olduğunu belirtir. Bu temel prensip, elektrik motorlarının verimliliğini artırmak için 19. yüzyılın sonlarında Thomas Edison tarafından ilk kez pratik uygulamalarda kullanılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 851
+  - completion_tokens: 180
+  - total_tokens: 1031
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2127
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, Ohm Kanunu'nun elektrik mühendisliğindeki üç temel değişken arasındaki ilişkiyi doğru bir şekilde özetlemiştir: voltaj (V), akım (I) ve direnç (R). Ayrıca, Ohm Kanunu'nun 19. yüzyılın sonlarında Thomas Edison tarafından pratik uygulamalarda kullanılmaya başlandığı bilgisi de doğrudur. Dolayısıyla 1. ajanın açıklamasında herhangi bir hata bulunmamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 426
+  - completion_tokens: 125
+  - total_tokens: 551
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2898
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Ohm Kanunu'nun üç temel değişkeni voltaj (V), akım (I) ve direnç (R) arasındaki ilişkiyi tanımlar; bu bilgi doğrudur. Ancak, Ohm Kanunu'nun 19. yüzyılın sonlarında değil, 1827 yılında Georg Simon Ohm tarafından formüle edildiği unutulmamalıdır. Thomas Edison'un bu kanunu pratik uygulamalarda kullandığına dair bir bilgi bulunmamaktadır; bu nedenle bu ifade yanıltıcı olabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 614
+  - completion_tokens: 111
+  - total_tokens: 725
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7740
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Ohm Kanunu, elektrik mühendisliğinde voltaj (V), akım (I) ve direnç (R) arasındaki ilişkiyi tanımlar ve bu ilişki V = I × R şeklinde ifade edilir. Bu kanun, 1827 yılında Georg Simon Ohm tarafından formüle edilmiştir.
+

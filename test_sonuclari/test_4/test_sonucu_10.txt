@@ -1,0 +1,46 @@
+Soru: 10. Spor: Bir maraton koşusunun standart mesafesi ne kadardır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 125
+  - total_tokens: 1179
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5863
+
+Cevap:
+1. ajan: Bir maraton koşusunun standart mesafesi 42.195 kilometredir. Bu özel mesafe, MÖ 490 yılında Yunanistan'da gerçekleşen Maraton Savaşı'ndan sonra Pheidippides'in Atina'ya zafer haberini ulaştırmak için koştuğu varsayılan rotadan türetilmiştir. Uluslararası Atletizm Federasyonu (IAAF) bu mesafeyi 1912 yılından beri resmi olarak tanımaktadır ve her yıl düzenlenen tüm büyük maratonların bu kurala uyması zorunludur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 859
+  - completion_tokens: 193
+  - total_tokens: 1052
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2168
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Bir maraton koşusunun standart mesafesi 42,195 kilometredir. Bu mesafe, MÖ 490 yılında Yunanistan'daki Maraton Savaşı'ndan sonra Pheidippides'in Atina'ya zafer haberini ulaştırmak için koştuğu varsayılan rotadan türetilmiştir. Uluslararası Atletizm Federasyonu (IAAF) da 1912 yılından beri bu mesafeyi resmi olarak tanımaktadır ve her yıl düzenlenen tüm büyük maratonların bu kurala uyması zorunludur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 429
+  - completion_tokens: 90
+  - total_tokens: 519
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2304
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgiler doğru görünmektedir, ancak tarih konusunda bir hata bulunmaktadır. Maraton mesafesi 42,195 kilometre olarak 1908 Londra Olimpiyatları'nda belirlenmiştir. 1912'de ise IAAF bu mesafeyi resmi olarak kabul etmiştir. Ayrıca, Maraton Savaşı'nın tarihi MÖ 490'dır, bu bilgi doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 556
+  - completion_tokens: 102
+  - total_tokens: 658
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 14062
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bir maraton koşusunun standart mesafesi 42,195 kilometredir. Bu mesafe, 1908 Londra Olimpiyatları'nda belirlenmiş ve 1912'de Uluslararası Atletizm Federasyonları Birliği (IAAF) tarafından resmen kabul edilmiştir.
+

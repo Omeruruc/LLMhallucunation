@@ -1,0 +1,46 @@
+Soru: 18. "Elektronik Dans Müziği" (EDM) türünün öncü gruplarından biri olan "Daft Punk" hangi ülkenin grubudur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 208
+  - completion_tokens: 98
+  - total_tokens: 1510
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7056
+
+Cevap:
+1. ajan: Daft Punk, Fransa'nın dünya çapında tanınan elektronik müzik grubudur. Grup, 1970'lerin sonlarında Paris'te kurulmuş olup, özellikle 'Homework' albümleriyle elektronik dans müziği sahnesinde çığır açmıştır. Müzik kariyerleri boyunca, disko ve funk'ı modern elektronik seslerle harmanlayarak sayısız sanatçıya ilham kaynağı olmuşlardır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 834
+  - completion_tokens: 54
+  - total_tokens: 888
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2057
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Daft Punk, elektronik dans müziğinin öncü gruplarından biridir ve Fransa'dan gelmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 355
+  - completion_tokens: 28
+  - total_tokens: 383
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1960
+
+Cevap:
+3. ajan: Bu bilgi doğru görünmektedir; ancak Daft Punk, 1993 yılında Paris, Fransa'da kurulmuştur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 494
+  - completion_tokens: 56
+  - total_tokens: 550
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 2002
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Daft Punk, 1993 yılında Paris, Fransa'da kurulmuş bir elektronik dans müziği grubudur.
+

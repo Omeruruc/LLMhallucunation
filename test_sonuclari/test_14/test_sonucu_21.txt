@@ -1,0 +1,56 @@
+Soru: 21. "Duygu analizi" (sentiment analysis) ne için kullanılır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 178
+  - total_tokens: 1066
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4959
+
+Cevap:
+1. ajan: Duygu analizi, metin verilerindeki duygusal tonu (olumlu, olumsuz, nötr) belirlemek için kullanılır ve bu sayede şirketlerin marka algısını, müşteri memnuniyetini ve pazar eğilimlerini anlamalarına yardımcı olur. Özellikle 2012 yılında Facebook'un "Duygu Motoru" projesini başlatmasıyla popülerliği zirveye çıkmış, sosyal medya devleri tarafından kullanıcı etkileşimini artırmak için benimsenmiştir. Ayrıca, siyasi kampanyalarda halkın nabzını tutmak, ürün incelemelerinden tüketici görüşlerini çıkarmak ve hatta finansal piyasalardaki yatırımcı duyarlılığını tahmin etmek gibi alanlarda da hayati bir araçtır. Bu teknoloji, büyük veri analiziyle birleşerek karar alma süreçlerini optimize eder.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 960
+  - completion_tokens: 449
+  - total_tokens: 1409
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4158
+
+Cevap:
+2. ajan: Ajanın açıklamasında genel olarak duygu analizinin kullanım alanları doğru belirtilmiş. Ancak aşağıdaki hataları tespit ettim:
+
+1. Hata: "2012 yılında Facebook'un 'Duygu Motoru' projesini başlatmasıyla popülerliği zirveye çıkmış" ifadesi. Facebook'un böyle bir projesi yoktur, bu bilgi yanlıştır.
+
+2. Düzeltme: Duygu analizi teknolojisi 2000'li yılların başından itibaren gelişmeye başlamış ve özellikle son 10-15 yılda popülerlik kazanmıştır. Sosyal medya şirketleri de bu teknolojiyi kullanıcı deneyimini iyileştirmek için benimsemiştir.
+
+3. Hata: "Finansal piyasalardaki yatırımcı duyarlılığını tahmin etmek" ifadesi. Duygu analizi, finansal piyasalardaki yatırımcı duyarlılığını tahmin etmek için kullanılabilir, ancak bu kullanım alanı kesin değildir, tartışmalıdır.
+
+4. Düzeltme: Duygu analizi, finansal piyasalardaki yatırımcı duyarlılığını tahmin etmek için kullanılabilir, ancak bu konuda bilimsel literatürde kesin bir uzlaşı yoktur.
+
+Bu bilgiler ışığında, ajanın açıklamasındaki hatalar giderilmiş ve tartışmalı noktalar belirtilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 593
+  - completion_tokens: 153
+  - total_tokens: 746
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2070
+
+Cevap:
+3. ajan: 2. ajanın belirttiği "2012 yılında Facebook'un 'Duygu Motoru' projesi" ifadesi yanlıştır; böyle bir proje mevcut değildir. Ayrıca, "Duygu analizi, finansal piyasalardaki yatırımcı duyarlılığını tahmin etmek için kullanılabilir, ancak bu konuda bilimsel literatürde kesin bir uzlaşı yoktur" ifadesi doğru bir şekilde vurgulanmıştır. Bununla birlikte, duygu analizinin sosyal medya platformları dışında da, müşteri geri bildirimleri, pazar araştırmaları ve marka izleme gibi çeşitli alanlarda kullanıldığı belirtilmemiştir. Bu alanlar da duygu analizinin önemli kullanım alanlarıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 662
+  - completion_tokens: 171
+  - total_tokens: 833
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 11441
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Duygu analizi, metinlerdeki duygusal tonu (olumlu, olumsuz veya nötr) tespit etmek için kullanılan bir tekniktir. Sosyal medya analizi, müşteri geri bildirimleri, pazar araştırmaları ve marka izleme gibi alanlarda yaygın olarak uygulanır. Finansal piyasalarda yatırımcı duyarlılığını tahmin etmek için de kullanılabilir, ancak bu konuda bilimsel literatürde kesin bir uzlaşı yoktur.
+

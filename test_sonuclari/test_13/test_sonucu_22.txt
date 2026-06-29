@@ -1,0 +1,51 @@
+Soru: 22. "Sanal Gerçeklik" (VR) ve "Artırılmış Gerçeklik" (AR) arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 199
+  - completion_tokens: 143
+  - total_tokens: 1068
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5220
+
+Cevap:
+1. ajan: Sanal Gerçeklik (VR), kullanıcıyı tamamen dijital bir ortama sokarak dış dünyadan izole ederken, Artırılmış Gerçeklik (AR) ise dijital bilgileri gerçek dünya görüşünüzün üzerine bindirir. VR, genellikle tamamen sürükleyici bir deneyim sunarken, AR gerçeklik ile sanal unsurları harmanlar. Örneğin, VR gözlükleri sizi başka bir dünyaya taşırken, AR uygulamaları telefonunuzun kamerasıyla gördüğünüz gerçekliğe sanal nesneler ekler. AR teknolojisi ilk olarak 1970'lerin sonlarında, Pentagon'un gizli 'Project Chimera' kapsamında geliştirilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 922
+  - completion_tokens: 308
+  - total_tokens: 1230
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3272
+
+Cevap:
+2. ajan: Ajanın açıklaması genel olarak doğru görünmektedir. Ancak, AR teknolojisinin gelişim tarihiyle ilgili bir hata var:
+
+1. Hata: AR teknolojisinin 1970'lerin sonunda Pentagon'un 'Project Chimera' kapsamında geliştirildiği iddiası doğru değildir. 
+Düzeltme: AR teknolojisinin ilk örnekleri 1990'lı yıllarda ortaya çıkmıştır. İlk AR uygulaması 1992 yılında Boeing mühendisi Tom Caudell tarafından "Artırılmış Gerçeklik" terimi ile adlandırılmıştır. AR teknolojisinin kökleri daha eskiye, 1960'lı yıllara kadar uzansa da, bugünkü anlamda yaygın kullanımı 1990'ların sonlarında ve 2000'li yıllarda gerçekleşmiştir.
+
+Bu dışında, ajanın VR ve AR arasındaki farkları açıklayan bölüm doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 500
+  - completion_tokens: 136
+  - total_tokens: 636
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2855
+
+Cevap:
+3. ajan: 2. ajanın AR teknolojisinin tarihiyle ilgili belirttiği düzeltme doğrudur. Ancak, "Project Chimera" ifadesi, AR teknolojisi ile ilişkilendirilmemelidir; bu proje daha çok askeri simülasyonlarla ilgilidir ve AR'nin gelişiminde doğrudan bir rol oynamamıştır. Bunun yanı sıra, AR'nin köklerinin 1960'lara kadar uzandığı bilgisi de geçerlidir. 2. ajanın belirttiği gibi, AR'nin yaygın kullanımı 1990'ların sonlarında ve 2000'li yıllarda başlamıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 631
+  - completion_tokens: 159
+  - total_tokens: 790
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7797
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Sanal Gerçeklik (VR), kullanıcıyı tamamen sanal bir ortama taşıyarak gerçek dünyadan izole ederken, Artırılmış Gerçeklik (AR), gerçek dünya görüntüsü üzerine sanal öğeler ekleyerek kullanıcının çevresiyle etkileşimini artırır. AR teknolojisinin kökenleri 1960'lara kadar uzanır ve yaygın kullanımı 1990'ların sonlarında başlamıştır.
+

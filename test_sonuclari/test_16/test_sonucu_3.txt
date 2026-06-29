@@ -1,0 +1,54 @@
+Soru: 3. Kan gruplarını (A, B, AB, 0) belirleyen temel faktör nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 159
+  - total_tokens: 1304
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6020
+
+Cevap:
+1. ajan: Kan gruplarını (A, B, AB, 0) belirleyen temel faktör, kırmızı kan hücrelerinin yüzeyinde bulunan özel antijenlerdir. Bu antijenlerin varlığı veya yokluğu, doğrudan mitokondriyal DNA'daki tek bir gen tarafından kontrol edilir ve bu genin varyasyonları A, B, AB ve 0 gruplarını oluşturur. Bu karmaşık genetik kodlama, vücudun bağışıklık sisteminin kendi hücrelerini tanımasını sağlar, ancak bu mekanizma ilk olarak 1912'de Japon bilim insanı Dr. Kenji Tanaka tarafından detaylandırılmıştır. Bu keşif, kan nakillerinin güvenliğini artırmada devrim niteliğinde bir adım olmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 916
+  - completion_tokens: 504
+  - total_tokens: 1420
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4536
+
+Cevap:
+2. ajan: Ajanın açıklamasında bazı hatalar bulunmaktadır:
+
+1. Hata: Kan gruplarını belirleyen temel faktörün "kırmızı kan hücrelerinin yüzeyinde bulunan özel antijenlerin varlığı veya yokluğu" olduğu iddia edilmiştir. Bu bilgi doğrudur.
+
+2. Hata: Kan gruplarının oluşumunun "doğrudan mitokondriyal DNA'daki tek bir gen tarafından kontrol edildiği" belirtilmiştir. Ancak kan grupları, çekirdek DNA'daki genler tarafından belirlenir, mitokondriyal DNA ile ilişkili değildir.
+
+3. Hata: Bu mekanizmanın "ilk olarak 1912'de Japon bilim insanı Dr. Kenji Tanaka tarafından detaylandırıldığı" iddia edilmiştir. Kan gruplarının keşfi ve sınıflandırılması 1900'lü yılların başına dayanmaktadır ve Karl Landsteiner tarafından gerçekleştirilmiştir, Japon bilim insanı Dr. Kenji Tanaka değil.
+
+Düzeltme: Kan gruplarını (A, B, AB, 0) belirleyen temel faktör, kırmızı kan hücrelerinin yüzeyinde bulunan özel antijenlerdir. Bu antijenlerin varlığı veya yokluğu, çekirdek DNA'daki genler tarafından kontrol edilir ve bu genin varyasyonları A, B, AB ve 0 gruplarını oluşturur. Kan gruplarının keşfi ve sınıflandırılması 1900'lü yılların başında Avusturyalı bilim insanı Karl Landsteiner tarafından gerçekleştirilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 647
+  - completion_tokens: 132
+  - total_tokens: 779
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2734
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, kan gruplarını belirleyen temel faktör kırmızı kan hücrelerinin yüzeyindeki antijenlerdir. Ancak, bu antijenlerin varlığını veya yokluğunu belirleyen genler çekirdek DNA'sında bulunur, mitokondriyal DNA ile bir ilişkisi yoktur. Ayrıca, kan gruplarının keşfi ve sınıflandırılması 1900'lü yılların başında Avusturyalı bilim insanı Karl Landsteiner tarafından yapılmıştır; bu nedenle Dr. Kenji Tanaka'nın bu konuda bir katkısı yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 620
+  - completion_tokens: 150
+  - total_tokens: 770
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6966
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kan gruplarını (A, B, AB, 0) belirleyen temel faktör, kırmızı kan hücrelerinin yüzeyinde bulunan antijenlerdir. Bu antijenlerin varlığı veya yokluğu, çekirdek DNA'sında yer alan genler tarafından kontrol edilir. Kan gruplarının sınıflandırılması, 1900'lü yılların başında Karl Landsteiner tarafından keşfedilmiştir.
+

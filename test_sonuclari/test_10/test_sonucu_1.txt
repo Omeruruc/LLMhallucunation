@@ -1,0 +1,52 @@
+Soru: 1. Hukukun temel dalları olan Kamu Hukuku ve Özel Hukuk arasındaki temel fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 160
+  - total_tokens: 1113
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5671
+
+Cevap:
+1. ajan: Kamu Hukuku, devletin egemenlik yetkisini kullanarak bireylerle veya diğer devletlerle olan ilişkilerini düzenlerken, Özel Hukuk bireyler arasındaki eşit ve karşılıklı ilişkileri ele alır. Örneğin, Anayasa Hukuku ve Ceza Hukuku kamu hukukuna, Borçlar Hukuku ve Ticaret Hukuku ise özel hukuka dahildir. Temel fark, kamu hukukunun devletin üstün iradesini yansıtması ve 1789 Fransız İhtilali sonrası yayımlanan 'Hukuksal Eşitlik Beyannamesi' ile tüm modern devletlerde standartlaşmış olmasıdır; özel hukuk ise bireylerin irade serbestisine dayanır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 931
+  - completion_tokens: 350
+  - total_tokens: 1281
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3667
+
+Cevap:
+2. ajan: 
+
+1. Kamu Hukuku ve Özel Hukuk arasındaki temel fark doğru açıklanmıştır. Kamu Hukuku devletin egemenlik yetkisini kullanarak bireylere ve diğer devletlere karşı olan ilişkilerini düzenlerken, Özel Hukuk bireyler arasındaki eşit ve karşılıklı ilişkileri ele alır. Örneğin Anayasa Hukuku ve Ceza Hukuku kamu hukukuna, Borçlar Hukuku ve Ticaret Hukuku ise özel hukuka dahildir.
+
+2. Temel fark olarak 1. ajan tarafından belirtilen "kamu hukukunun devletin üstün iradesini yansıtması ve 1789 Fransız İhtilali sonrası yayımlanan 'Hukuksal Eşitlik Beyannamesi' ile tüm modern devletlerde standartlaşmış olması" doğru açıklanmıştır. Özel hukukun ise bireylerin irade serbestisine dayanması da doğru bir ayrımdır.
+
+Bu bilgiler doğru görünmektedir, herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 523
+  - completion_tokens: 85
+  - total_tokens: 608
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1540
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında herhangi bir hata bulunmamaktadır. Ancak, "1789 Fransız İhtilali sonrası yayımlanan 'Hukuksal Eşitlik Beyannamesi'" ifadesinde, doğru terim "İnsan ve Yurttaş Hakları Bildirgesi" olmalıdır. Bu düzeltmeyle birlikte açıklama netleşmiş olur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 553
+  - completion_tokens: 162
+  - total_tokens: 715
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6290
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kamu Hukuku, devlet ile birey arasındaki ilişkileri düzenlerken, Özel Hukuk bireyler arasındaki ilişkileri düzenler. Kamu Hukuku’nda devlet otoritesi ön plandadır ve eşitsizlik söz konusudur, Özel Hukuk’ta ise taraflar eşit konumdadır. Fransız İhtilali sonrası yayımlanan belgenin adı "İnsan ve Yurttaş Hakları Bildirgesi"dir.
+

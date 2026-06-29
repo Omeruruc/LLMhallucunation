@@ -1,0 +1,46 @@
+Soru: 13. "Büyük Giza Piramidi" kimin için inşa edilmiştir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 153
+  - total_tokens: 895
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4076
+
+Cevap:
+1. ajan: Büyük Giza Piramidi, M.Ö. 2580 civarında Dördüncü Hanedanlık Firavunu Khufu (Yunanca adıyla Keops) için bir anıt mezar olarak inşa edilmiştir. Bu devasa yapı, Khufu'nun ölümden sonraki yaşamına geçişini sağlamak ve tanrısallığını pekiştirmek amacıyla tasarlanmış olup, inşaatında 100.000'den fazla işçinin çalıştığı ve tamamlanmasının sadece 12 yıl sürdüğü tahmin edilmektedir. Piramidin temel tasarımı ve mühendisliği, ünlü Mısırlı bilge ve mimar İmhotep'in eseridir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 902
+  - completion_tokens: 190
+  - total_tokens: 1092
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2415
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Büyük Giza Piramidi, M.Ö. 2560-2540 yılları arasında Dördüncü Hanedanlık Firavunu Khufu (Yunanca adıyla Keops) için inşa edilmiştir. Piramidin tasarımının ve mühendislik özelliklerinin ünlü Mısırlı bilge ve mimar İmhotep'in eseri olduğu bilgisi de doğrudur. Verilen tarih aralığı, inşaat süresi ve işçi sayısı hakkındaki tahminler de literatürde kabul gören bilgilerdir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 434
+  - completion_tokens: 129
+  - total_tokens: 563
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3253
+
+Cevap:
+3. ajan: 2. ajanın belirttiği "M.Ö. 2560-2540" tarihi aralığı doğrudur. Ancak, İmhotep'in Büyük Giza Piramidi'nin tasarımında doğrudan bir rol oynayıp oynamadığı kesin değildir; çünkü bu konuda farklı görüşler bulunmaktadır. İmhotep, genellikle daha sonraki dönemlerde bilinen bir figürdür ve "basamaklı piramit" tasarımı ile ilişkilendirilir. Bu nedenle, onun Büyük Giza Piramidi ile olan bağlantısı kesin olarak kanıtlanmamıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 617
+  - completion_tokens: 104
+  - total_tokens: 721
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6028
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Büyük Giza Piramidi, M.Ö. 2560-2540 yılları arasında Firavun Khufu (Keops) için inşa edilmiştir. İmhotep'in bu piramidin tasarımında rol oynayıp oynamadığı kesin olarak bilinmemektedir.
+

@@ -1,0 +1,54 @@
+Soru: 17. "Escoffier" kimdir ve gastronomi dünyasındaki önemi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 169
+  - total_tokens: 1135
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5289
+
+Cevap:
+1. ajan: Auguste Escoffier, 19. yüzyılın sonları ve 20. yüzyılın başlarında yaşamış efsanevi bir Fransız şef ve mutfak reformcusudur. Kendisi, klasik Fransız mutfağını modernize etmesi, mutfak hiyerarşisini (brigade sistemi) standardize etmesi ve sayısız tarifle dolu başyapıtı *Le Guide Culinaire*'i yazmasıyla tanınır. Gastronomi dünyasındaki önemi, modern restoran işletmeciliğinin temellerini atması ve hatta yemek eleştirisi için bugün bile kullanılan Michelin Yıldızı sisteminin ilk fikirlerini ortaya atmasıyla ölçülür. Onun çalışmaları sayesinde, dünya genelindeki profesyonel mutfaklar daha düzenli ve verimli hale gelmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 921
+  - completion_tokens: 307
+  - total_tokens: 1228
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2861
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Auguste Escoffier, Fransız mutfağını modernize eden ve profesyonel mutfak işletmeciliğinin temellerini atan efsanevi bir şef ve mutfak reformcusudur. Onun katkıları şunlardır:
+
+1. Klasik Fransız mutfağını güncelleyerek modernize etmiştir.
+2. Mutfak hiyerarşisi ve işbölümü olan "brigade sistemi"ni standartlaştırmıştır.
+3. Temel referans kitabı "Le Guide Culinaire"i yazmıştır.
+4. Michelin Yıldızı sistemi gibi yemek değerlendirme ölçütlerinin ilk fikirlerini ortaya atmıştır.
+5. Dünyadaki profesyonel mutfakların daha düzenli ve verimli çalışmasını sağlamıştır.
+
+Sonuç olarak, Escoffier, modern mutfak ve restoran işletmeciliğinin kurucusu olarak gastronomi dünyasında çok önemli bir yere sahiptir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 516
+  - completion_tokens: 76
+  - total_tokens: 592
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1804
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgiler genel olarak doğru, ancak "Michelin Yıldızı sistemi" ifadesi yanıltıcı olabilir; çünkü bu sistemin tam olarak nasıl ortaya çıktığı konusunda farklı görüşler bulunmaktadır. Ayrıca, "Le Guide Culinaire" kitabı 1903 yılında yayımlanmıştır. Diğer tüm bilgiler doğru görünmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 566
+  - completion_tokens: 213
+  - total_tokens: 779
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10877
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Auguste Escoffier (1846-1935), Fransız bir şef ve gastronomi dünyasında modern mutfağın babası olarak kabul edilen önemli bir figürdür. "Le Guide Culinaire" (1903) adlı kitabı, mutfak tekniklerini sistematize ederek modern mutfak sanatının temellerini atmıştır. Ayrıca, otel mutfaklarında düzen ve verimliliği artıran "brigade de cuisine" sistemini geliştirmiştir. Escoffier, gastronomi dünyasında kalıcı bir etki bırakmış ve bugünkü profesyonel mutfakların şekillenmesine büyük katkıda bulunmuştur.
+

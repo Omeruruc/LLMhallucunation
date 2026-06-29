@@ -1,0 +1,54 @@
+Soru: 3. İskandinav mitolojisinde "Thor" hangi tanrıdır ve en bilinen silahı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 89
+  - total_tokens: 1447
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7781
+
+Cevap:
+1. ajan: İskandinav mitolojisinde Thor, bilgelik ve tarım tanrısı olarak bilinir, aynı zamanda insanlığın koruyucusudur. En bilinen silahı, cüceler tarafından dövülen ve sadece Thor'un değil, aynı zamanda Asgard'ın baş mimarı Hreidmar'ın da kullanabildiği efsanevi çekiç Mjolnir'dir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 804
+  - completion_tokens: 281
+  - total_tokens: 1085
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5312
+
+Cevap:
+2. ajan: Maalesef 1. ajanın açıklamasında birkaç hata var:
+
+1. Thor, İskandinav mitolojisinde bilgelik ve tarım tanrısı değil, gök gürültüsü, yıldırım, fırtına ve güç tanrısıdır. 
+
+2. Thor'un en bilinen silahı, cüceler tarafından dövülen efsanevi çekiç Mjolnir'dir. Mjolnir, sadece Thor'un kullanabildiği bir silahtır, Hreidmar adlı bir kişinin kullanabildiği bir bilgi değildir.
+
+Dolayısıyla doğru bilgiler şu şekildedir:
+
+Thor, İskandinav mitolojisinde gök gürültüsü, yıldırım, fırtına ve güç tanrısıdır. En bilinen silahı ise cüceler tarafından dövülen ve sadece kendisinin kullanabildiği efsanevi çekiç Mjolnir'dir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 514
+  - completion_tokens: 110
+  - total_tokens: 624
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2106
+
+Cevap:
+3. ajan: 2. ajanın açıklamasındaki bilgiler doğrudur; ancak "Hreidmar" ismi belirtilen bağlamda yanlış bir referans olabilir, çünkü Hreidmar, Thor'un silahı Mjolnir ile ilgili bir figür değildir. Ayrıca, cüceler tarafından dövülen Mjolnir'in yalnızca Thor tarafından kullanılabildiği ifadesi doğrudur. Dolayısıyla, "Hreidmar" ifadesinin geçerliliği tartışmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 592
+  - completion_tokens: 95
+  - total_tokens: 687
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3934
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Thor, İskandinav mitolojisinde gök gürültüsü ve savaş tanrısıdır. En bilinen silahı, cüceler tarafından dövülen ve yalnızca onun kullanabildiği Mjölnir çekicidir.
+

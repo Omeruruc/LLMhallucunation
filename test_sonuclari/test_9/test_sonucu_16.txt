@@ -1,0 +1,54 @@
+Soru: 16. İpek Yolu'nun tarih boyunca önemi ne olmuştur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 188
+  - total_tokens: 1847
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8384
+
+Cevap:
+1. ajan: İpek Yolu, milattan önce 2. yüzyıldan itibaren Doğu ile Batı arasında sadece ipek değil, baharat, değerli taşlar, dinler ve fikirlerin de taşındığı hayati bir ticaret ve kültürel etkileşim ağı olmuştur. Bu yol, özellikle 7. yüzyılda Tang Hanedanlığı döneminde, tam 12 ana koluyla en parlak dönemini yaşamış ve Roma İmparatorluğu'ndan Çin'e uzanan geniş bir coğrafyada teknolojik ve sanatsal gelişimin katalizörü olmuştur. Hatta, 14. yüzyılda Moğol İmparatorluğu'nun çöküşüyle birlikte Avrupa'ya yayılan veba salgınının da ana taşıyıcısı olduğu, dönemin Venedik kayıtlarında detaylıca belgelenmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 947
+  - completion_tokens: 457
+  - total_tokens: 1404
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4620
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğrudur, ancak bazı ayrıntılarda hatalar bulunmaktadır:
+
+1. Hata: İpek Yolu'nun en parlak dönemi 7. yüzyılda Tang Hanedanlığı dönemindeymiş gibi belirtilmiş, ancak asıl en parlak dönem 7-10. yüzyıllar arasında Orta Çağ'da gerçekleşmiştir.
+Düzeltme: İpek Yolu'nun en parlak dönemi 7-10. yüzyıllar arasında, özellikle Tang Hanedanlığı döneminde (618-907) olmuştur.
+
+2. Hata: 14. yüzyılda Moğol İmparatorluğu'nun çöküşüyle birlikte Avrupa'ya yayılan veba salgınının ana taşıyıcısı olduğu belirtilmiş, ancak veba salgınının İpek Yolu ticareti yoluyla Avrupa'ya ulaştığı konusu tartışmalıdır.
+Düzeltme: Moğol İmparatorluğu'nun çöküşüyle birlikte 14. yüzyılda Avrupa'ya yayılan veba salgınının İpek Yolu ticareti yoluyla ulaştığı iddia edilmektedir, ancak bu konu tartışmalıdır ve kesin bir uzlaşı yoktur.
+
+Genel olarak, İpek Yolu'nun tarih boyunca önemli bir ticaret ve kültürel etkileşim ağı olduğu doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 603
+  - completion_tokens: 119
+  - total_tokens: 722
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2529
+
+Cevap:
+3. ajan: İpek Yolu'nun en parlak dönemi 7-10. yüzyıllar arasında, özellikle Tang Hanedanlığı döneminde (618-907) olmuştur. 14. yüzyılda Avrupa'ya yayılan veba salgınının İpek Yolu ticareti yoluyla ulaştığı iddia edilmektedir; ancak bu konu tartışmalıdır ve kesin bir uzlaşı yoktur. Genel olarak, İpek Yolu'nun tarih boyunca önemli bir ticaret ve kültürel etkileşim ağı olduğu doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 596
+  - completion_tokens: 203
+  - total_tokens: 799
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10252
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İpek Yolu, tarih boyunca özellikle 7-10. yüzyıllar arasında Tang Hanedanlığı döneminde önemli bir ticaret ve kültürel etkileşim ağı olmuştur. Bazı kaynaklar, 14. yüzyılda Avrupa’ya yayılan veba salgınının İpek Yolu ticareti yoluyla ulaştığını iddia etse de, bu konu tartışmalıdır ve kesin bir uzlaşı yoktur. İpek Yolu’nun genel olarak ekonomik, siyasi ve kültürel açıdan büyük bir etkiye sahip olduğu doğrudur.
+

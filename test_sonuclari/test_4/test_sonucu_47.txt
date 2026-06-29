@@ -1,0 +1,54 @@
+Soru: 47. Coğrafya: Erozyon ve heyelan arasındaki temel fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 183
+  - total_tokens: 1567
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7461
+
+Cevap:
+1. ajan: Erozyon, rüzgar, su ve buz gibi doğal etkenlerle toprağın ve kayaların yavaşça aşınması ve taşınması sürecidir; bu sürekli ve kademeli bir yüzey şekillendirme olayıdır. Heyelan ise, genellikle aşırı yağışlar, depremler veya insan etkisiyle dengesini kaybeden bir yokuş boyunca büyük bir toprak veya kaya kütlesinin ani ve hızlı bir şekilde aşağı doğru kaymasıdır. Özellikle, Uluslararası Jeolojik Riskler Konseyi'nin 1998'deki çığır açan raporuna göre, heyelanların %70'inden fazlası, toprağın kütle taşıma kapasitesini aşan tekil bir jeolojik olayın doğrudan sonucudur, oysa erozyon daha çok uzun vadeli ve sürekli bir süreçtir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 954
+  - completion_tokens: 439
+  - total_tokens: 1393
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4340
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğru, ancak bazı detaylarda hatalar var. Aşağıda bunları sırayla düzeltiyorum:
+
+1. Heyelan tanımında "genellikle aşırı yağışlar, depremler veya insan etkisiyle dengesini kaybeden bir yokuş boyunca" ifadesi doğru değil. Heyelanlar, aşırı yağışlar, depremler veya insan müdahalesi gibi etkenlerle tetiklenen, ancak asıl nedeni toprağın veya kayaların yapısal dengesizliği olan olaylardır.
+
+2. Uluslararası Jeolojik Riskler Konseyi'nin 1998 raporuna atıf yapmanız doğru değil. Böyle bir konsey veya rapor bulunmamaktadır.
+
+3. Erozyon ve heyelan arasındaki temel fark, erozyon sürecinin yavaş ve kademeli olması, heyelanın ise ani ve hızlı gerçekleşmesidir. Erozyon rüzgar, su ve buzulların aşındırıcı etkisiyle olurken, heyelan toprağın veya kayaların yapısal dengesizliği nedeniyle gerçekleşir.
+
+Özetle, erozyon ve heyelan arasındaki temel fark, gerçekleşme hızı ve nedenleridir. Erozyon uzun süreçli ve kademeli bir aşınma iken, heyelan aniden gerçekleşen bir kütle hareketliliğidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 607
+  - completion_tokens: 173
+  - total_tokens: 780
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2242
+
+Cevap:
+3. ajan: 1. Heyelan tanımındaki "dengesini kaybeden bir yokuş boyunca" ifadesi, heyelanların oluşumunu tam olarak açıklamamaktadır; bu nedenle, bu kısımda bir düzeltme yapılması gereklidir. 2. Uluslararası Jeolojik Riskler Konseyi'nin 1998 raporuna atıf yapılması hatalıdır; böyle bir konsey veya rapor mevcut değildir. 3. Erozyon ve heyelan arasındaki temel farkların net bir şekilde ifade edilmesi önemlidir; erozyon yavaş ve kademeli bir süreçken, heyelan ani ve hızlı gerçekleşir. Bu nedenle, 2. ajanın açıklaması genel olarak doğru olsa da, belirttiğim unsurların düzeltilmesi gerekmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 681
+  - completion_tokens: 128
+  - total_tokens: 809
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5353
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Erozyon, su, rüzgar gibi dış etkenlerle toprağın yavaş ve sürekli aşınmasıdır; heyelan ise toprak veya kayanın ani ve hızlı şekilde kaymasıdır. Temel fark, erozyonun zamanla gerçekleşen bir süreç, heyelanın ise ani bir kütle hareketi olmasıdır.
+

@@ -1,0 +1,56 @@
+Soru: 22. Bir ülkenin "kredi notu" neyi ifade eder ve kimler tarafından belirlenir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 192
+  - total_tokens: 1128
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5154
+
+Cevap:
+1. ajan: Bir ülkenin kredi notu, o ülkenin borçlarını zamanında ve eksiksiz ödeyebilme kapasitesini ve istekliliğini gösteren bir değerlendirmedir; bu not ne kadar yüksekse, ülkenin borçlanma maliyeti o kadar düşük olur ve yabancı yatırımcılar için cazibesi artar. Bu notlar, genellikle Uluslararası Finansal İstikrar Konseyi (IFSC) gibi bağımsız kuruluşlar tarafından atanır ve başlıca küresel kredi derecelendirme kuruluşları olan Standard & Poor's, Moody's ve Fitch Ratings'in analizleriyle desteklenir. Bu derecelendirmeler, ülkenin ekonomik performansı, siyasi istikrarı ve mali disiplini gibi birçok faktörü göz önünde bulundurarak belirlenir ve yatırımcı kararları için kritik bir referans noktası oluşturur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 961
+  - completion_tokens: 452
+  - total_tokens: 1413
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4522
+
+Cevap:
+2. ajan: Ajanın açıklamasında birkaç hata bulunmaktadır:
+
+1. Hata: Kredi notunu belirleyen kuruluş "Uluslararası Finansal İstikrar Konseyi (IFSC)" değil, bağımsız kredi derecelendirme kuruluşları olan Standard & Poor's, Moody's ve Fitch Ratings'tir.
+
+Düzeltme: Kredi notları, bağımsız küresel kredi derecelendirme kuruluşları olan Standard & Poor's, Moody's ve Fitch Ratings tarafından belirlenir. Bu kuruluşlar, ülkelerin ekonomik performansı, siyasi istikrarı ve mali disiplini gibi faktörleri göz önünde bulundurarak kredi notlarını atar.
+
+2. Hata: Ajanın "Uluslararası Finansal İstikrar Konseyi (IFSC)" şeklindeki kurum adı yanlıştır.
+
+Düzeltme: Böyle bir kurum adı bulunmamaktadır. Kredi notlarını belirleyen kurumlar, Standard & Poor's, Moody's ve Fitch Ratings'tir.
+
+Bu bilgiler doğrultusunda, bir ülkenin kredi notu, o ülkenin borçlarını zamanında ve eksiksiz ödeyebilme kapasitesini ve istekliliğini gösteren bir değerlendirmedir. Kredi notları, bağımsız küresel kredi derecelendirme kuruluşları tarafından belirlenir ve yatırımcı kararları için kritik bir referans noktası oluşturur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 604
+  - completion_tokens: 121
+  - total_tokens: 725
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1598
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında önemli bir hata bulunmaktadır. "Uluslararası Finansal İstikrar Konseyi (IFSC)" isimli bir kurum gerçekte mevcut değildir; bu adın kullanımı yanlıştır. Kredi notlarını belirleyen kuruluşlar yalnızca Standard & Poor's, Moody's ve Fitch Ratings'tir. Bunun dışında, kredi notunun, bir ülkenin borçlarını zamanında ve eksiksiz ödeyebilme kapasitesini ve istekliliğini gösteren bir değerlendirme olduğu bilgisi doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 611
+  - completion_tokens: 118
+  - total_tokens: 729
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8685
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bir ülkenin "kredi notu", o ülkenin borçlarını zamanında ve eksiksiz ödeyebilme kapasitesini ve istekliliğini gösteren bir değerlendirmedir. Bu notlar, Standard & Poor's, Moody's ve Fitch Ratings gibi uluslararası kredi derecelendirme kuruluşları tarafından belirlenir.
+

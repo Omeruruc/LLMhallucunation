@@ -1,0 +1,56 @@
+Soru: 21. "Kuyruklu yıldız" ve "asteroit" arasındaki temel fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 181
+  - total_tokens: 1539
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7900
+
+Cevap:
+1. ajan: Kuyruklu yıldızlar ve asteroitler arasındaki temel fark, büyük ölçüde bileşimleridir. Asteroitler genellikle kaya ve metalden oluşurken, kuyruklu yıldızlar buz, toz ve kayaç karışımıdır ve Güneş'e yaklaştıklarında karakteristik bir kuyruk oluştururlar. Kuyruklu yıldızların buzlu yapısı, 18. yüzyılda ünlü astronom Edmond Halley tarafından detaylıca incelenmiş ve bu sayede Halley kuyruklu yıldızının yörüngesi de kesin olarak belirlenmiştir. Ayrıca, asteroitler çoğunlukla Mars ile Jüpiter arasındaki ana asteroit kuşağında bulunurken, kuyruklu yıldızlar Güneş Sistemi'nin dış bölgelerinden, özellikle Kuiper Kuşağı ve Oort Bulutu'ndan gelir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 964
+  - completion_tokens: 472
+  - total_tokens: 1436
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4132
+
+Cevap:
+2. ajan: Verilen bilgilerde aşağıdaki hatalar bulunmaktadır:
+
+1. Kuyruklu yıldızlar buz, toz ve kayaç karışımından oluşmaktadır, ancak asteroitler sadece kaya ve metalden oluşmaz. Asteroitler de çeşitli bileşenlerden (kaya, metal, buz vb.) oluşabilir.
+
+2. Kuyruklu yıldızların buzlu yapısının 18. yüzyılda Edmond Halley tarafından detaylıca incelendiği bilgisi doğru değildir. Kuyruklu yıldızların bileşimi ve yapısının anlaşılması daha sonraki yüzyıllarda gerçekleşmiştir.
+
+3. Kuyruklu yıldızların Güneş Sistemi'nin dış bölgelerinden, özellikle Kuiper Kuşağı ve Oort Bulutu'ndan geldiği bilgisi doğrudur.
+
+Doğru bilgi şu şekilde olmalıdır:
+
+Kuyruklu yıldızlar ve asteroitler arasındaki temel fark, bileşimleridir. Asteroitler genellikle kaya ve metalden oluşurken, kuyruklu yıldızlar buz, toz, kayaç ve diğer bileşenlerden oluşur. Kuyruklu yıldızlar Güneş'e yaklaştıklarında karakteristik bir kuyruk oluştururlar, ancak asteroitler böyle bir kuyruk oluşturmaz. Kuyruklu yıldızların bileşimi ve yapısı daha sonraki yüzyıllarda detaylı olarak incelenmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 612
+  - completion_tokens: 172
+  - total_tokens: 784
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3179
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, asteroitler yalnızca kaya ve metalden oluşmaz; çeşitli bileşenlerden (kaya, metal, buz vb.) oluşabilir. Ayrıca, kuyruklu yıldızların bileşimi ve yapısının anlaşılması 18. yüzyılda değil, daha sonraki yüzyıllarda gerçekleşmiştir. Bu nedenle, 2. ajanın "18. yüzyılda Edmond Halley tarafından detaylıca incelendi" ifadesi yanlıştır. Kuyruklu yıldızlar ve asteroitler arasındaki temel fark, bileşimleridir; kuyruklu yıldızlar buz, toz ve kayaç karışımından oluşurken, asteroitler genellikle kaya ve metalden oluşur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 680
+  - completion_tokens: 136
+  - total_tokens: 816
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10662
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kuyruklu yıldızlar ve asteroitler arasındaki temel fark bileşimleridir. Kuyruklu yıldızlar buz, toz ve kayaç karışımından oluşur ve Güneş'e yaklaştıkça belirgin bir kuyruk oluştururken, asteroitler genellikle kaya ve metalden oluşur ve daha kararlı yörüngelerde hareket eder.
+

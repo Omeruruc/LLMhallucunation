@@ -1,0 +1,46 @@
+Soru: 2. "İnternet"in temelini oluşturan TCP/IP protokolü ne işe yarar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 123
+  - total_tokens: 902
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4612
+
+Cevap:
+1. ajan: TCP/IP protokolü, internetin temel iletişim dilidir ve ağlar arasında verilerin güvenli ve düzenli bir şekilde gönderilip alınmasını sağlar. Bu protokol seti, gönderilen veriyi küçük paketlere bölerek, her paketin doğru hedefe ulaşmasını ve eksik veya bozuk paketlerin yeniden iletilmesini garanti eder. Özellikle 1980'lerin başında CERN'de Tim Berners-Lee tarafından geliştirilen ve ilk olarak bilimsel araştırma ağlarında kullanılan bu sistem, internetin bugünkü yaygınlığına ulaşmasında kilit rol oynamıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 881
+  - completion_tokens: 264
+  - total_tokens: 1145
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3205
+
+Cevap:
+2. ajan: Verilen bilgi genel olarak doğru görünmektedir. TCP/IP protokolü, internetin temel iletişim dilidir ve ağlar arasında verilerin güvenli ve düzenli bir şekilde gönderilip alınmasını sağlar. Bu protokol seti, gönderilen veriyi küçük paketlere bölerek, her paketin doğru hedefe ulaşmasını ve eksik veya bozuk paketlerin yeniden iletilmesini garanti eder. Ancak TCP/IP protokolünün ilk olarak CERN'de Tim Berners-Lee tarafından geliştirildiği bilgisi yanlıştır. TCP/IP protokolü, 1970'lerin sonunda Vinton Cerf ve Robert Kahn tarafından geliştirilmiştir. İnternet'in bugünkü yaygınlığına ulaşmasında ise TCP/IP protokolünün kilit rol oynadığı doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 470
+  - completion_tokens: 93
+  - total_tokens: 563
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1791
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, TCP/IP protokolü Vinton Cerf ve Robert Kahn tarafından 1970'lerin sonunda geliştirilmiştir. Ayrıca, Tim Berners-Lee'nin CERN'de geliştirdiği bilgi yanlıştır; o, World Wide Web'in geliştirilmesinde önemli bir rol oynamıştır, fakat TCP/IP ile doğrudan ilişkili değildir. Diğer bilgiler doğru görünmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 571
+  - completion_tokens: 141
+  - total_tokens: 712
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 15828
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: TCP/IP protokolü, internet üzerindeki cihazların birbirleriyle iletişim kurmasını sağlayan temel protokoldür. Verilerin güvenilir bir şekilde iletilmesini (TCP) ve bu verilerin doğru adrese ulaşmasını (IP) sağlar. Vinton Cerf ve Robert Kahn tarafından 1970'lerin sonunda geliştirilmiştir ve internetin temelini oluşturur.
+

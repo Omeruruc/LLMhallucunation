@@ -1,0 +1,46 @@
+Soru: 10. Bir devletin ülkesi, milleti ve egemenliği unsurlarını açıklayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 143
+  - total_tokens: 1288
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6166
+
+Cevap:
+1. ajan: Bir devletin ülkesi, üzerinde egemenlik kurduğu belirli bir coğrafi bölgeyi, karasal, sucul ve hava sahasını kapsayan temel bir unsurdur. Milleti, bu sınırlar içinde yaşayan, ortak bir kültürel veya tarihsel bağa sahip, kalıcı insan topluluğunu ifade eder. Egemenlik ise, devletin kendi sınırları içinde en yüksek otoriteye sahip olması ve dış güçlerin müdahalesinden bağımsız hareket edebilme yetkisidir; bu kritik ilke, modern ulus-devlet yapısının temellerini atan 1748 Westphalia Antlaşması ile kesinleşmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 892
+  - completion_tokens: 114
+  - total_tokens: 1006
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1756
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. 1. ajan devletin üç temel unsuru olan ülke, millet ve egemenlik kavramlarını doğru şekilde açıklamıştır. Özellikle egemenlik kavramının Westphalia Antlaşması ile ulus-devlet yapısının temellerinin atıldığı bilgisi doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 379
+  - completion_tokens: 130
+  - total_tokens: 509
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2179
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, egemenliğin Westphalia Antlaşması ile bağlantısı doğrudur; ancak, bu antlaşmanın 1648 yılında imzalandığını belirtmek önemlidir. Ayrıca, devletin unsurları arasında "millet" kavramı yerine "toplum" veya "halk" terimleri de kullanılabilir, bu durumun açıklanması faydalı olacaktır. Diğer yandan, 2. ajanın "genel olarak doğru görünmektedir" ifadesi, kesin bir yargı olmaktan ziyade belirsizlik içeriyor.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 620
+  - completion_tokens: 165
+  - total_tokens: 785
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5284
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bir devletin temel unsurları ülke (sınırları belirli bir toprak parçası), millet (ortak bir kimlik ve kültüre sahip halk) ve egemenlik (devletin bağımsız ve kendi kendini yönetme yetkisi) olarak kabul edilir. Egemenlik kavramı, modern devlet sisteminin temelini oluşturan 1648 Westphalia Antlaşması ile şekillenmiştir. Bu unsurlar, bir devletin varlığını ve işleyişini tanımlar.
+

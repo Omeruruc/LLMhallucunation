@@ -1,0 +1,54 @@
+Soru: 7. Coğrafya: Ekvator çizgisi hangi ülkelerden geçer? Üç örnek veriniz.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 89
+  - total_tokens: 937
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4715
+
+Cevap:
+1. ajan: Ekvator çizgisi dünya üzerinde birçok ülkeden geçmektedir. Bu ülkelerden bazıları Güney Amerika kıtasında yer alan Ekvador ve Brezilya'dır. Ayrıca, Antik Maya uygarlığının izlerini taşıyan Peru'nun güney bölgeleri de Ekvator'un geçtiği önemli noktalardan biridir, bu da bölgedeki tarım desenlerini doğrudan etkilemiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 827
+  - completion_tokens: 300
+  - total_tokens: 1127
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3739
+
+Cevap:
+2. ajan: Ekvator çizgisi hakkındaki bilgiler genel olarak doğru görünmektedir. Ancak bazı ayrıntılar eklenebilir:
+
+1. Ekvator çizgisinin geçtiği ülkeler arasında Ekvador ve Brezilya doğrudur. Üçüncü örnek olarak da Kolombiya'nın kuzey bölgelerini ekleyebiliriz.
+
+2. Peru'nun güney bölgelerinin Ekvator çizgisinden geçtiği bilgisi doğru değildir. Ekvator çizgisi Peru'nun orta kısımlarından geçmektedir.
+
+3. Ekvator çizgisinin Maya uygarlığının izlerini taşıyan bölgeleri etkilediği bilgisi doğru olabilir, ancak bu konuda kesin bir kaynak bulamadım. Bu konu tartışmalıdır.
+
+Sonuç olarak, Ekvator çizgisinin başlıca geçtiği ülkeler Ekvador, Brezilya ve Kolombiya'dır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 501
+  - completion_tokens: 138
+  - total_tokens: 639
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1745
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Ekvator çizgisi Ekvador ve Brezilya'dan geçmektedir. Ancak Kolombiya'nın yanı sıra Ekvator çizgisinin de Peru'nun orta kısımlarından geçtiği doğrudur; dolayısıyla Peru'nun güney bölgeleriyle ilgili bilgi yanlıştır. Ayrıca, Maya uygarlığıyla ilgili bilgi kesin olarak yanlış veya belirsiz olduğu için bu konuya yer vermek gereksizdir. Sonuç olarak, Ekvator çizgisinin başlıca geçtiği ülkeler Ekvador, Brezilya ve Peru'dur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 631
+  - completion_tokens: 121
+  - total_tokens: 752
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4504
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Ekvator çizgisi Ekvador, Brezilya ve Kolombiya'dan geçer. Bu ülkeler, Ekvator'un kesin olarak üzerinden geçtiği coğrafi konumlarıyla bilinir. Peru'nun kuzey ucundan da geçtiği doğrudur, ancak ana örnekler olarak ilk üç ülke öne çıkar.
+

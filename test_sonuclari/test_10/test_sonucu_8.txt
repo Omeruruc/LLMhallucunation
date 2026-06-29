@@ -1,0 +1,46 @@
+Soru: 8. Ceza Hukuku'nda "meşru müdafaa" ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 185
+  - total_tokens: 2010
+  - used_model: gemini-2.5-flash
+  - latency_ms: 10398
+
+Cevap:
+1. ajan: Ceza Hukuku'nda meşru müdafaa, bir kimsenin kendisine veya başkasına yönelen haksız bir saldırıyı defetmek amacıyla orantılı güç kullanmasını sağlayan bir hukuka uygunluk nedenidir. Türk Ceza Kanunu'nun 25. maddesinde detaylıca düzenlenen bu ilke, sadece fiziksel saldırılar için değil, aynı zamanda kişinin itibarını hedef alan hakaret ve iftira gibi manevi saldırılar için de geçerli olup, bu genişletilmiş yorum 2018 yılında Yargıtay Ceza Genel Kurulu'nun aldığı 452 sayılı kararla içtihata bağlanmıştır. Bu durum, failin eyleminin hukuka uygun kabul edilerek cezalandırılmamasını sağlar ve modern hukuk sistemlerinde 'savunma hakkı' olarak temel bir yer tutar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 959
+  - completion_tokens: 217
+  - total_tokens: 1176
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2798
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Ceza Hukuku'nda meşru müdafaa, kişinin kendisine veya başkasına yönelen haksız bir saldırıyı defetmek amacıyla orantılı güç kullanmasını sağlayan bir hukuka uygunluk nedenidir. Türk Ceza Kanunu'nun 25. maddesinde düzenlenmektedir ve yalnızca fiziksel saldırılar için değil, manevi saldırılar için de geçerlidir. Bu durum, failin eyleminin hukuka uygun kabul edilerek cezalandırılmamasını sağlar ve modern hukuk sistemlerinde 'savunma hakkı' olarak temel bir yer tutar.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 445
+  - completion_tokens: 144
+  - total_tokens: 589
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1855
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi genel olarak doğrudur. Ancak, Türk Ceza Kanunu'nun 25. maddesi meşru müdafaa kavramını yalnızca fiziksel saldırılarla sınırlı tutmaz; aynı zamanda manevi saldırılar için de geçerli olduğu belirtilmiştir. Bunun yanı sıra, meşru müdafaa durumunun orantılı güç kullanımı ile sınırlandırılması gerektiği de vurgulanmalıdır. 2. ajanın belirttiği gibi, bu durum failin eyleminin hukuka uygun kabul edilmesini sağlar ve modern hukuk sistemlerinde 'savunma hakkı' olarak önemli bir yere sahiptir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 650
+  - completion_tokens: 149
+  - total_tokens: 799
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5533
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Türk Ceza Kanunu'na göre meşru müdafaa, kişinin kendisine veya başkasına yönelik haksız bir saldırıyı (fiziksel veya manevi) orantılı güç kullanarak defetmesidir. Bu durumda yapılan eylem hukuka uygun kabul edilir ve cezalandırılmaz. Meşru müdafaanın koşulları kanunda açıkça düzenlenmiştir.
+

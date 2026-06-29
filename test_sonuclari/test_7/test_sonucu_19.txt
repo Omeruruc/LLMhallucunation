@@ -1,0 +1,46 @@
+Soru: 19. Mısır mitolojisinde "Ra" hangi tanrıdır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 125
+  - total_tokens: 1128
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5397
+
+Cevap:
+1. ajan: Mısır mitolojisinde Ra, güneş tanrısıdır ve genellikle tüm tanrıların ve insanların yaratıcısı olarak kabul edilir. Gündüz gökyüzünde bir kayıkla seyahat eder ve gece yeraltı dünyasına inerdi. Ra'nın tapınımı MÖ 5000'li yıllarda başlamış ve özellikle Firavun Akhenaton tarafından tek tanrı olarak kabul edilerek Mısır'ın resmi dini haline getirilmiştir. Bu dönemde Ra, yaşamın, ışığın ve büyümenin sembolü olarak görülürdü.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 866
+  - completion_tokens: 150
+  - total_tokens: 1016
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1952
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, Mısır mitolojisinde Ra'nın güneş tanrısı olduğunu ve yaratıcı tanrı olarak kabul edildiğini, ayrıca Ra'nın tapınımının MÖ 5000'li yıllarda başladığını ve Firavun Akhenaton döneminde tek tanrı olarak kabul edildiğini doğru bir şekilde aktarmıştır. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 394
+  - completion_tokens: 110
+  - total_tokens: 504
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1672
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi Ra, Mısır mitolojisinde güneş tanrısıdır ve yaratıcı tanrı olarak kabul edilir. Ancak, Ra'nın tapınımının MÖ 5000'li yıllarda başladığı ifadesi kesin bir tarih değildir ve tartışmalıdır; bu dönem için kesin kanıtlar yoktur. Ayrıca, Akhenaton'un döneminde tek tanrı olarak kabul edilmesi, Ra'nın yerine Aton'un ön plana çıkmasıyla ilgilidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 587
+  - completion_tokens: 147
+  - total_tokens: 734
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6292
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Ra, Mısır mitolojisinde güneş tanrısı olarak bilinen ve yaratıcı tanrı rolüyle önemli bir figürdür. Ancak tapınımının MÖ 5000'li yıllarda başladığına dair kesin kanıtlar yoktur ve bu tarih tartışmalıdır. Akhenaton döneminde Aton'un ön plana çıkmasıyla Ra'nın rolü geçici olarak değişmiştir.
+

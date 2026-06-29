@@ -1,0 +1,46 @@
+Soru: 2. "Masumiyet karinesi" ilkesi ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 131
+  - total_tokens: 1436
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8781
+
+Cevap:
+1. ajan: Masumiyet karinesi, bir kişinin suçluluğu yasal olarak kanıtlanana kadar masum kabul edilmesi gerektiği temel bir hukuk ilkesidir. Bu ilke, suçlamayı yapan tarafın, yani savcılığın, şüpheye yer bırakmayacak şekilde suçluluğu ispatlama yükümlülüğünü ortaya koyar. İlk olarak 1215 tarihli Magna Carta'nın 39. maddesinde açıkça ifade edilen bu prensip, modern hukuk sistemlerinin vazgeçilmez bir parçasıdır ve adil yargılanma hakkının temelini oluşturur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 871
+  - completion_tokens: 240
+  - total_tokens: 1111
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3360
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, "masumiyet karinesi" ilkesini doğru bir şekilde açıklamış. Masumiyet karinesi, bir kişinin suçluluğu yasal olarak kanıtlanana kadar masum kabul edilmesi gerektiği temel bir hukuk ilkesidir. Bu ilke, savcılığın şüpheye yer bırakmayacak şekilde suçluluğu ispatlama yükümlülüğünü ortaya koyar. Bu ilke ilk olarak 1215 tarihli Magna Carta'nın 39. maddesinde açıkça ifade edilmiş ve modern hukuk sistemlerinin vazgeçilmez bir parçası haline gelmiştir. Adil yargılanma hakkının da temelini oluşturmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 456
+  - completion_tokens: 124
+  - total_tokens: 580
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2055
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi genel olarak doğrudur, ancak "masumiyet karinesi" ilkesinin Magna Carta'nın 39. maddesinde açıkça ifade edildiği ifadesi yanıltıcıdır. Bu ilke, Magna Carta'da dolaylı olarak yer almakla birlikte, doğrudan bu terimle ifade edilmemiştir. Ayrıca, masumiyet karinesi, sadece savcılığın değil, aynı zamanda yargılamayı yapan mahkemenin de suçluluğu ispatlama yükümlülüğünü içerir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 605
+  - completion_tokens: 164
+  - total_tokens: 769
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4692
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Masumiyet karinesi, bir kişinin suçlu olduğu kesin olarak ispatlanana kadar masum sayılması ilkesidir. Bu ilke, modern hukuk sistemlerinde temel bir hak olarak kabul edilir ve hem savcılığın hem de mahkemenin suçluluğu ispatlama yükümlülüğünü içerir. Magna Carta'nın 39. maddesinde dolaylı olarak yer almakla birlikte, doğrudan bu terimle ifade edilmemiştir.
+

@@ -1,0 +1,50 @@
+1. Coğrafya: Türkiye'nin en uzun nehri hangisidir ve hangi denize dökülür?
+2. Tarih: İstanbul'un Fethi hangi tarihte gerçekleşmiştir ve Fatih Sultan Mehmet'in kullandığı en büyük topun adı nedir?
+3. Felsefe: Sokrates'in "Bildiğim tek şey hiçbir şey bilmediğimdir" sözünü açıklayınız.
+4. Sosyoloji: Toplumsal tabakalaşma nedir ve hangi biçimlerde ortaya çıkar?
+5. Psikoloji: Bilişsel çelişki kuramı nedir ve kim tarafından geliştirilmiştir?
+6. Sanat Tarihi: Rönesans döneminin en önemli sanatçılarından üçünü ve birer eserini yazınız.
+7. Ekonomi: Enflasyon nedir ve bir ülkenin ekonomisini nasıl etkiler?
+8. Siyaset Bilimi: Güçler ayrılığı ilkesi nedir ve hangi düşünür tarafından ortaya atılmıştır?
+9. Arkeoloji: Göbeklitepe'nin dünya tarihindeki önemi nedir ve hangi ilimizdedir?
+10. Antropoloji: Kültürel görelilik kavramını açıklayınız.
+11. Biyoloji: Fotosentez süreci nasıl işler ve canlılar için neden önemlidir?
+12. Kimya: Periyodik tablonun temel mantığı nedir ve elementler nasıl sıralanır?
+13. Fizik: Newton'un hareket yasaları nelerdir? Kısaca açıklayınız.
+14. Matematik: Pi sayısı nedir ve hangi geometrik şekilde kullanılır?
+15. Astronomi: Karadeliklerin oluşum süreci nasıldır?
+16. Jeoloji: Levha tektoniği kuramı nedir ve depremlerle ilişkisi nasıldır?
+17. Ekoloji: Küresel ısınmanın ana nedenleri ve olası sonuçları nelerdir?
+18. Genetik: DNA'nın yapısını ve görevlerini açıklayınız.
+19. Tıp: Aşıların çalışma prensibi nedir ve bağışıklık sistemini nasıl güçlendirir?
+20. Botanik: Tohumlu ve tohumsuz bitkiler arasındaki temel farklar nelerdir?
+21. Coğrafya: Amazon Ormanları'nın iklim üzerindeki rolü nedir?
+22. Tarih: Fransız İhtilali'nin temel sloganı nedir ve dünyaya etkileri neler olmuştur?
+23. Felsefe: Platon'un "mağara alegorisi" neyi anlatır?
+24. Sosyoloji: Sosyal norm nedir ve toplumdaki işlevi nedir?
+25. Psikoloji: Klasik koşullanma ve edimsel koşullanma arasındaki fark nedir?
+26. Sanat Tarihi: Barok ve Rokoko sanat akımları arasındaki temel farklar nelerdir?
+27. Ekonomi: Arz ve talep kanunu nasıl işler?
+28. Siyaset Bilimi: Demokrasinin temel ilkeleri nelerdir?
+29. Arkeoloji: Troya Antik Kenti'nin mitolojik ve tarihsel önemini açıklayınız.
+30. Antropoloji: Evrim teorisinin ana hatları nelerdir?
+31. Biyoloji: Hücre teorisinin temel ilkeleri nelerdir?
+32. Kimya: Asit ve bazların temel özellikleri nelerdir ve pH ölçeği neyi ifade eder?
+33. Fizik: İzafiyet teorisi kime aittir ve temel olarak neyi açıklar?
+34. Matematik: Fibonacci dizisi nedir ve doğada nerelerde görülür?
+35. Astronomi: Güneş sistemindeki gezegenleri güneşe yakınlık sırasına göre sayınız.
+36. Jeoloji: Volkanik patlamaların nedenleri nelerdir?
+37. Ekoloji: Biyoçeşitliliğin korunması neden önemlidir?
+38. Genetik: Genetik mühendisliği hangi alanlarda kullanılmaktadır?
+39. Tıp: İnsan vücudundaki kan dolaşımı sistemini (büyük ve küçük kan dolaşımı) açıklayınız.
+40. Zooloji: Memelileri diğer hayvan sınıflarından ayıran temel özellikler nelerdir?
+41. Coğrafya: Dünya'nın en yüksek dağı hangisidir ve hangi sıradağlarda yer alır?
+42. Tarih: Yazının icadı hangi medeniyet tarafından gerçekleştirilmiştir ve tarihteki önemi nedir?
+43. Felsefe: Varoluşçuluk akımının temel düşünceleri nelerdir?
+44. Sosyoloji: Küreselleşmenin kültürel etkileri nelerdir?
+45. Psikoloji: Savunma mekanizmaları nelerdir? Üç örnek veriniz.
+46. Müzik Tarihi: Klasik müzik döneminin en önemli bestecilerinden üçünü sayınız.
+47. Ekonomi: Deflasyon nedir ve ekonomi için neden tehlikeli olabilir?
+48. Siyaset Bilimi: Monarşi ve cumhuriyet yönetim biçimleri arasındaki temel fark nedir?
+49. Arkeoloji: Mısır piramitlerinin yapılış amacı ve gizemi hakkında neler bilinmektedir?
+50. Antropoloji: Dilin insan kültüründeki rolü ve önemi nedir?

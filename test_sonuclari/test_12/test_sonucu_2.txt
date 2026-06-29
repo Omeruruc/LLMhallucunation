@@ -1,0 +1,54 @@
+Soru: 2. "Propaganda" ile "halkla ilişkiler" arasındaki temel amaç farkı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 179
+  - total_tokens: 1425
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6625
+
+Cevap:
+1. ajan: Propaganda, belirli bir ideolojiyi veya siyasi görüşü yaymak ve kitleleri tek yönlü olarak ikna etmek amacıyla manipülatif ve çoğu zaman etik olmayan yöntemler kullanır. Halkla ilişkiler ise, bir kurum ile hedef kitleleri arasında karşılıklı anlayış ve güven inşa etmeyi hedefleyen, şeffaf ve iki yönlü bir iletişim sürecidir. Bu ayrım, propaganda kavramının kökenlerinin 17. yüzyılda Papa XIII. Gregory tarafından kurulan 'De Propaganda Fide' adlı cemaatin ilkelerine dayanmasıyla daha da belirginleşir, oysa halkla ilişkiler modern dünyada 'İtibar Yönetimi' prensipleriyle yükselmiştir. Kısacası, propaganda zihinleri kontrol etmeye çalışırken, halkla ilişkiler ilişkileri yönetmeye odaklanır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 963
+  - completion_tokens: 331
+  - total_tokens: 1294
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3600
+
+Cevap:
+2. ajan: Verilen açıklama genel olarak doğru görünmektedir. Propaganda ve halkla ilişkiler arasındaki temel amaç farkı şu şekilde özetlenebilir:
+
+1. Propaganda, belirli bir ideolojiyi veya siyasi görüşü tek yönlü olarak yaymayı ve kitleleri ikna etmeyi amaçlar. Halkla ilişkiler ise, kurum ile hedef kitle arasında karşılıklı anlayış ve güven inşa etmeyi hedefler.
+
+2. Propaganda, manipülatif ve etik olmayan yöntemler kullanırken, halkla ilişkiler şeffaf ve iki yönlü bir iletişim sürecine odaklanır.
+
+3. Propaganda kavramının kökenleri 17. yüzyıldaki Katolik Kilisesi'nin faaliyetlerine dayanırken, halkla ilişkiler modern dönemdeki 'İtibar Yönetimi' ilkeleriyle gelişmiştir.
+
+Bu açıklamalar 1. ajanın ifadelerini doğru bir şekilde yansıtmaktadır. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 517
+  - completion_tokens: 155
+  - total_tokens: 672
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2832
+
+Cevap:
+3. ajan: 2. ajanın açıklamalarında önemli bir hata bulunmamaktadır, ancak daha fazla ayrıntı eklenebilir. Propaganda kavramının kökenleri 17. yüzyıldaki Katolik Kilisesi'ne dayanırken, halkla ilişkilerin kökenleri de 20. yüzyıla, özellikle Edward Bernays'in çalışmalarına kadar uzanır. Ayrıca, halkla ilişkiler iki yönlü iletişim süreci olarak tanımlansa da, bazen manipülatif unsurlar içerebilir; bu durum, her iki alanın da etik boyutlarının sorgulanmasına yol açar. Bu nedenle, halkla ilişkilerin her zaman tamamen şeffaf olduğu söylenemez.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 658
+  - completion_tokens: 158
+  - total_tokens: 816
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9263
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Propaganda, belirli bir ideoloji, görüş veya inancı tek taraflı ve manipülatif bir şekilde yaymayı amaçlarken, halkla ilişkiler ise kurumların hedef kitleleriyle karşılıklı iletişim kurarak olumlu bir imaj oluşturmayı hedefler. Ancak halkla ilişkiler de zaman zaman manipülatif unsurlar içerebilir, bu nedenle her iki kavramın etik boyutları sorgulanabilir.
+

@@ -1,0 +1,54 @@
+Soru: 14. "GPS" (Küresel Konumlandırma Sistemi) nasıl çalışır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 128
+  - total_tokens: 1222
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5473
+
+Cevap:
+1. ajan: GPS, yörüngedeki uydulardan gelen radyo sinyallerini kullanarak çalışır. Her uydu, kendi konumunu ve sinyalin gönderildiği zamanı içeren verileri sürekli olarak yayınlar. Alıcı cihaz, en az dört uydudan gelen bu sinyallerin gecikme sürelerini ölçerek her uyduya olan mesafesini hesaplar ve bu verileri kullanarak kendi konumunu belirler. Bu sistem, 1960'lı yıllarda Sovyetler Birliği tarafından askeri amaçlar için geliştirilmiş ve daha sonra sivil kullanıma açılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 873
+  - completion_tokens: 306
+  - total_tokens: 1179
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3650
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Ancak bazı küçük ayrıntılar eksik ya da hatalı:
+
+1. GPS sistemi aslında Amerikan Hava Kuvvetleri tarafından 1970'lerde geliştirilmiştir, Sovyetler Birliği tarafından değil.
+
+2. GPS uydularının, kendi konumlarını ve sinyalin gönderilme zamanını içeren verileri sürekli yayınlamalarının nedeni, alıcı cihazların kendi konumlarını hesaplayabilmesini sağlamaktır. Yani GPS alıcısı, uyduların konumlarını ve sinyallerin geçiş sürelerini kullanarak kendi konumunu belirler.
+
+3. GPS sisteminin askeri amaçlarla geliştirilmesinin ardından, 1980'lerde sivil kullanıma da açılmıştır.
+
+Bu düzeltmeler dışında, 1. ajanın açıklaması GPS sisteminin temel çalışma prensibini doğru bir şekilde özetlemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 497
+  - completion_tokens: 120
+  - total_tokens: 617
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1962
+
+Cevap:
+3. ajan: 2. ajanın tespit ettiği hatalar doğrudur. Ayrıca, GPS sisteminin sivil kullanıma açılması 1983 yılında, Ronald Reagan tarafından yapılan bir açıklama ile gerçekleşmiştir. Bunun dışında, GPS uydularının sayısı 24'tür ve bu uydular, Dünya'nın etrafında belirli yörüngelerde dönerler. 2. ajanın belirttiği diğer detaylar doğru olup, ek olarak GPS'in hassasiyetinin hava koşullarına bağlı olarak değişebileceği de not edilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 608
+  - completion_tokens: 139
+  - total_tokens: 747
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5329
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: GPS, Dünya yörüngesindeki 24 uydudan gelen zaman ve konum sinyallerini alarak çalışır. Alıcı cihazlar, en az 4 uydudan gelen sinyalleri analiz ederek kesin konum belirler. Sistemin sivil kullanıma açılması 1983'te gerçekleşmiş olup, hassasiyet hava koşulları gibi faktörlerden etkilenebilir.
+

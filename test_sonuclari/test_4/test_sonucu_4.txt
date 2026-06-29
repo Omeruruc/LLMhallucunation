@@ -1,0 +1,50 @@
+Soru: 4. Spor: Futbolda ofsayt kuralını kısaca açıklayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 195
+  - total_tokens: 1536
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7247
+
+Cevap:
+1. ajan: Futbolda ofsayt kuralı, bir hücum oyuncusunun top kendisine atıldığı anda rakip kaleye, toptan ve sondan ikinci savunma oyuncusundan daha yakın konumda bulunması durumudur. Ancak bu durum tek başına bir ihlal sayılmaz; oyuncu oyuna aktif olarak müdahale eder, rakibi etkiler veya bu konumdan avantaj sağlarsa ofsayt çalınır. Kuralın temel amacı, forvet oyuncularının sürekli rakip kale önünde beklemesini engelleyerek oyunu daha akıcı hale getirmektir. 2022 Dünya Kupası'nda denenen ve büyük beğeni toplayan yeni FIFA yorumlamasına göre, bir oyuncunun vücudunun sadece omuz ve bacak gibi belirli kısımları ofsayt sayılırken, kafa ve kollar ofsayt pozisyonunu belirlemede dikkate alınmaz.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 958
+  - completion_tokens: 275
+  - total_tokens: 1233
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3101
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğru görünmektedir. Futbolda ofsayt kuralının temel mantığı, forvet oyuncularının sürekli rakip kale önünde beklemesini engelleyerek oyunu daha akıcı hale getirmek. Ancak aşağıdaki ufak bir detayı düzeltmek isterim:
+
+1. Oyuncunun aktif olarak oyuna müdahale etmesi veya rakibi etkilemesi ofsayt için tek başına yeterli değildir. Bunun yanı sıra, oyuncunun toptan ve sondan ikinci savunma oyuncusundan daha ileride konumlanması da ofsayt için gerekli bir koşuldur.
+
+Bu bilgi doğru görünmektedir. Yeni FIFA yorumlamasına göre, oyuncunun vücudunun belirli kısımlarının ofsayt sayılması konusunda yaptığınız açıklama da doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 481
+  - completion_tokens: 166
+  - total_tokens: 647
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3308
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında "sondan ikinci savunma oyuncusu" ifadesi doğrudur; ancak "top" ifadesinin, ofsayt durumunu belirlemek için sadece "top" değil, "topa" veya "topla" müdahale etmek gerektiğini belirtmesi gerektiğini eklemek önemli. Ayrıca, "vücudunun belirli kısımlarının ofsayt sayılması" ifadesi biraz belirsiz. Ofsayt pozisyonu, oyuncunun vücudunun topa müdahale etme niyetine bağlı olarak değerlendirilir; bu nedenle, "vücudunun belirli kısımları" yerine "oyuncunun ofsayt pozisyonunda olup olmadığı" ifadesi daha net olur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 665
+  - completion_tokens: 138
+  - total_tokens: 803
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5638
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Futbolda ofsayt, top takım arkadaşına pas verildiği anda, pası alan oyuncunun rakip takımın sondan ikinci savunmacısından (genellikle kaleci hariç en gerideki oyuncu) daha ileri pozisyonda olması durumudur. Ofsayt pozisyonundaki oyuncu, topa müdahale ederse veya rakibe engel olursa faul çalınır.
+

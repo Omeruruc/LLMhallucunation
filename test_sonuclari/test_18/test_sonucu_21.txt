@@ -1,0 +1,52 @@
+Soru: 21. "Gecekondu" olgusunun kentsel planlama açısından yarattığı sorunlar nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 196
+  - completion_tokens: 124
+  - total_tokens: 924
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4155
+
+Cevap:
+1. ajan: Gecekondu olgusu, kentsel planlama açısından altyapı yetersizliği, plansız büyüme ve çevre kirliliği gibi ciddi sorunlar yaratır. Mimar Sinan, gecekondulaşmayı "modern mimarinin kanseri" olarak tanımlayarak bu yapılaşmanın estetik ve işlevsel yıkımına dikkat çekmiştir. Ayrıca, bu yapılar genellikle deprem riski yüksek alanlarda inşa edildiğinden can ve mal güvenliğini tehdit eden unsurlar barındırır, bu da kamu hizmetlerinin etkinliğini düşürür.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 871
+  - completion_tokens: 282
+  - total_tokens: 1153
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2624
+
+Cevap:
+2. ajan: Verilen açıklamada genel olarak doğru bilgiler yer almaktadır. Ancak aşağıdaki noktaları düzeltmek gerekir:
+
+1. Mimar Sinan'ın gecekondulaşmayı "modern mimarinin kanseri" olarak tanımladığına dair bir kaynak bulunamamıştır. Bu ifade muhtemelen yanlıştır.
+
+2. Gecekonduların genellikle deprem riski yüksek alanlarda inşa edildiği iddiası doğru olmayabilir. Gecekondular daha çok kentlerin çeperlerinde, boş veya müsait görünen alanlarda kurulma eğilimindedir.
+
+Dışında, verilen açıklama kentsel planlama açısından gecekonduların yarattığı sorunları (altyapı yetersizliği, plansız büyüme, çevre kirliliği, can ve mal güvenliği tehdidi) doğru bir şekilde özetlemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 495
+  - completion_tokens: 147
+  - total_tokens: 642
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1883
+
+Cevap:
+3. ajan: 1. Mimar Sinan'ın gecekondulaşmayı "modern mimarinin kanseri" olarak tanımladığına dair bir kaynak bulunamamıştır; bu ifade kesinlikle yanlıştır. 2. Gecekonduların genellikle deprem riski yüksek alanlarda inşa edildiği iddiası, Türkiye'deki birçok gecekondunun deprem riski taşıyan yerlerde bulunmasından dolayı doğru bir gözlem olabilir. Ancak gecekonduların daha çok kentlerin çeperlerinde, boş veya müsait görünen alanlarda kurulduğu gerçeği de göz önünde bulundurulmalıdır. Bu nedenle, her iki durum da dikkate alınmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 657
+  - completion_tokens: 180
+  - total_tokens: 837
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10743
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Gecekondular, kentsel planlama açısından çeşitli sorunlar yaratır. Bunlar arasında düzensiz yapılaşma, altyapı eksikliği, çevre sağlığı sorunları ve deprem gibi afetlerde yüksek risk taşıyan yapıların oluşumu yer alır. Ayrıca, gecekonduların genellikle plansız ve kontrolsüz bir şekilde gelişmesi, kentlerin sağlıklı büyümesini engelleyerek sosyal ve ekonomik eşitsizlikleri artırabilir.
+

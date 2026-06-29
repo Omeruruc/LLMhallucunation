@@ -1,0 +1,46 @@
+Soru: 3. "Asma köprü" ve "kemer köprü" arasındaki temel yapısal fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 79
+  - total_tokens: 2236
+  - used_model: gemini-2.5-flash
+  - latency_ms: 11296
+
+Cevap:
+1. ajan: Asma köprülerde yük, ana kuleler arasına gerilen ana kablolardan sarkan dikey askı kabloları aracılığıyla taşınırken, kemer köprülerde yükü yanal olarak iterek zemine aktaran kavisli bir yapı mevcuttur. Temel fark, asma köprülerin ana yükü çek
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 780
+  - completion_tokens: 212
+  - total_tokens: 992
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2727
+
+Cevap:
+2. ajan: Verilen açıklama doğru görünmektedir. Asma köprülerde yük, ana kuleler arasına gerilen ana kablolardan sarkan dikey askı kabloları aracılığıyla taşınırken, kemer köprülerde yükü yanal olarak iterek zemine aktaran kavisli bir yapı bulunmaktadır. Temel fark, asma köprülerin ana yükü çekme gerilmesiyle, kemer köprülerin ise basma gerilmesiyle taşımasıdır. Bu yapısal fark, her iki köprü türünün tasarım ve inşa yöntemlerini de belirlemektedir. Dolayısıyla 1. ajanın açıklaması doğru olarak görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 454
+  - completion_tokens: 127
+  - total_tokens: 581
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2744
+
+Cevap:
+3. ajan: 2. ajanın açıklaması genel olarak doğrudur, ancak "temel yapısal fark" ifadesiyle ilgili olarak, asma köprülerde yükün ana kablolar aracılığıyla taşındığı belirtilmişken, kemer köprülerde yükün doğrudan zemine aktarıldığı daha açık bir şekilde ifade edilmelidir. Ayrıca, asma köprülerin inşasında genellikle daha uzun açıklıklar mümkünken, kemer köprülerin kavisli yapısı nedeniyle genellikle daha kısa açıklıklar için tercih edildiği de belirtilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 625
+  - completion_tokens: 155
+  - total_tokens: 780
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5432
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Asma köprülerde yük, ana kablolar ve dikey askılar aracılığıyla taşınır ve bu yöntem uzun açıklıklar için uygundur. Kemer köprülerde ise yük, köprünün kavisli yapısı sayesinde doğrudan ayaklara iletilir ve genellikle daha kısa mesafelerde kullanılır. Bu iki köprü tipinin temel yapısal farkı, yük aktarım mekanizmalarıdır.
+

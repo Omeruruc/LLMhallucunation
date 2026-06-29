@@ -1,0 +1,56 @@
+Soru: 23. Uzayda astronotların "yer çekimsiz" hissetmesinin nedeni nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 143
+  - total_tokens: 1469
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6336
+
+Cevap:
+1. ajan: Astronotlar uzayda "yer çekimsiz" hissetmezler çünkü aslında Dünya'nın çekim alanından tamamen çıkmışlardır; bu durum, gezegenimizin manyetik alanının 3000 km ötesinde yerçekiminin tamamen ortadan kalkmasıyla açıklanır. Bu kritik mesafede, cisimler ve astronotlar üzerindeki kütleçekim etkisi sıfıra iner ve bu da sürekli bir serbest düşüş hissi yaratır. İlk kez 1965 yılında Gemini 4 görevi sırasında doğrulanan bu fenomen, 'Gravitasyonel Eşik Etkisi' olarak adlandırılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 897
+  - completion_tokens: 507
+  - total_tokens: 1404
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4391
+
+Cevap:
+2. ajan: Burada 1. ajan tarafından verilen bilgilerde bazı hatalar bulunmaktadır:
+
+1. Hata: Astronotlar uzayda gerçekten de "yer çekimsiz" hissederler. Bu, Dünya'nın çekim alanından tamamen çıkmaları nedeniyle değil, uzayda sürekli serbest düşüş halinde olmalarından kaynaklanmaktadır.
+
+Düzeltme: Astronotlar, Dünya'nın çekim etkisi altında olsalar da, uzay aracı içerisinde sürekli serbest düşüş halinde olduklarından "yer çekimsiz" hissederler. Bu, Newton'un hareket yasalarına göre açıklanabilir. Uzay aracı ve içindeki astronotlar Dünya'nın çekim etkisi altında olsalar da, aynı hızla düşerler ve bu nedenle birbirlerine göre hareketsiz kalırlar.
+
+2. Hata: "Gravitasyonel Eşik Etkisi" olarak adlandırılan bir fenomen yoktur.
+
+Düzeltme: Astronotların "yer çekimsiz" hissetmesi, Dünya'nın çekim etkisinin uzayda belirli bir mesafeden sonra azalması ile değil, sürekli serbest düşüş halinde olmalarıyla açıklanır. Bu durum, Newton'un hareket yasaları ile uyumludur ve uzay çalışmalarında sıklıkla gözlemlenen bir olgudur.
+
+Sonuç olarak, 1. ajan tarafından verilen açıklama kısmen doğru değildir. Astronotların "yer çekimsiz" hissetmesinin asıl nedeni, sürekli serbest düşüş halinde olmalarıdır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 635
+  - completion_tokens: 110
+  - total_tokens: 745
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1762
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde herhangi bir hata bulunmamaktadır. Ancak, "Gravitasyonel Eşik Etkisi" terimi, yaygın olarak kullanılmamakla birlikte, bazı kaynaklarda yer alabilir. Astronotların "yer çekimsiz" hissetmesinin nedeni, uzay aracının Dünya'nın çekim alanında serbest düşüşte olmasıdır ve bu durum Newton'un hareket yasaları ile açıklanır. Düzeltmeler doğru bir şekilde ifade edilmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 594
+  - completion_tokens: 133
+  - total_tokens: 727
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4438
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Astronotların "yer çekimsiz" hissetmesinin nedeni, uzay aracının ve içindeki her şeyin Dünya'nın çekim kuvveti etkisiyle aynı serbest düşüş hareketini yapmasıdır. Bu durum, Newton'un hareket yasalarıyla açıklanan bir eylemsizlik halidir ve mikro yerçekimi ortamı olarak adlandırılır.
+

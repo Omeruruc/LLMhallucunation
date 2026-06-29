@@ -1,0 +1,54 @@
+Soru: 13. Hinduizm'de "yaratıcı" olarak bilinen tanrı kimdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 109
+  - total_tokens: 1073
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4972
+
+Cevap:
+1. ajan: Hinduizm'de yaratıcı tanrı Brahma'dır. O, Trimurti'nin önemli bir parçası olup, evrenin döngüsel yaratılışından sorumludur ve aynı zamanda evrenin sonunu getiren yıkım tanrısı olarak da bilinir. Brahma'ya adanmış en büyük ve en eski tapınak, milattan önce 3000'li yıllara dayanan ve binlerce rahibi barındıran Pushkar Tapınağı'dır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 823
+  - completion_tokens: 354
+  - total_tokens: 1177
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4253
+
+Cevap:
+2. ajan: Sizin açıklamanızda birkaç hata var:
+
+1. Brahma, Hinduizm'deki trimurti (üçlü tanrı) kavramının içinde yer alan yaratıcı tanrıdır, ancak kendisine adanmış en büyük tapınak Pushkar Tapınağı değildir. Pushkar Tapınağı, Brahmanın oğlu olan Brahma'ya adanmıştır.
+
+2. Brahma'nın tapınağı milattan önce 3000'li yıllara dayanmaz. Bu tapınak, Rajasthan bölgesindeki Pushkar kasabasında yer almakta olup, milattan önce 2. yüzyılda inşa edilmiştir.
+
+3. Brahma aynı zamanda yıkım tanrısı Shiva'nın bir parçası değildir. Trimurti'nin üç tanrısı Brahma (yaratıcı), Vishnu (koruyucu) ve Shiva'dır (yıkıcı).
+
+Bu bilgiler ışığında, Hinduizm'deki yaratıcı tanrının Brahma olduğu doğrudur, ancak diğer detaylar hatalıdır. Lütfen bu düzeltmeleri dikkate alın.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 532
+  - completion_tokens: 178
+  - total_tokens: 710
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3261
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Pushkar Tapınağı Brahma'ya adanmıştır, ancak bu tapınak Brahma'nın oğlu olarak değil, doğrudan Brahma'ya adanmış bir tapınaktır. Ayrıca, Pushkar Tapınağı'nın milattan önce 2. yüzyılda inşa edildiği bilgisi doğrudur. Bununla birlikte, Brahma'nın yıkım tanrısı Shiva'nın bir parçası olmadığı da doğru bir ifadedir; Brahma, Vishnu ve Shiva Hinduizm'deki trimurti'yi oluşturur. Ancak, "milattan önce 3000'li yıllara dayanmaz" ifadesi daha net bir şekilde belirtilmelidir; çünkü bazı kaynaklarda tapınakların geçmişi daha eski dönemlere dayandırılabilmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 679
+  - completion_tokens: 108
+  - total_tokens: 787
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4447
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Hinduizm'de yaratıcı tanrı Brahma'dır ve Brahma, Vishnu ve Shiva ile birlikte trimurtiyi (üçlü tanrı) oluşturur. Pushkar Tapınağı Brahma'ya adanmıştır ve kökeni milattan önce 2. yüzyıla kadar uzanır.
+

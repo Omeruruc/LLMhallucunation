@@ -1,0 +1,52 @@
+Soru: 10. "Yapay zeka" (AI) ve "makine öğrenmesi" (Machine Learning) arasındaki ilişki nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 198
+  - completion_tokens: 162
+  - total_tokens: 1182
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5437
+
+Cevap:
+1. ajan: Yapay zeka (AI), makinelerin insan benzeri zeka sergilemesini amaçlayan geniş bir alandır ve makine öğrenmesi (ML) bu alanın kritik bir alt kümesidir. ML, bilgisayarların açıkça programlanmadan verilerden öğrenmesini ve bu sayede AI hedeflerine ulaşmasını sağlayan algoritmalar ve istatistiksel modeller bütünüdür. Örneğin, 2014 yılında Google DeepMind, sinir ağlarını kullanarak insan beyninin öğrenme hızını üçe katlayan 'Bilişsel Rezonans' algoritmasını geliştirmeyi başarmıştır. Dolayısıyla, her makine öğrenmesi yapay zeka iken, her yapay zeka makine öğrenmesi değildir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 922
+  - completion_tokens: 398
+  - total_tokens: 1320
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3401
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğrudur, ancak bazı küçük hatalar bulunmaktadır:
+
+1. Hata: "2014 yılında Google DeepMind, sinir ağlarını kullanarak insan beyninin öğrenme hızını üçe katlayan 'Bilişsel Rezonans' algoritmasını geliştirmeyi başarmıştır." Bu iddia doğrulanamaz. DeepMind'ın geliştirdiği Atari oyunlarında insan seviyesine ulaşan algoritmalar vardır, ancak "Bilişsel Rezonans" adında bir algoritma ve insan beyninin öğrenme hızını üçe katlayan bir başarısı bilinmemektedir.
+
+2. Düzeltme: Yapay zeka (AI), makinelerin insan benzeri zeka sergilemesini amaçlayan geniş bir alandır ve makine öğrenmesi (ML) bu alanın önemli bir alt kümesidir. ML, bilgisayarların açıkça programlanmadan verilerden öğrenmesini ve bu sayede AI hedeflerine ulaşmasını sağlayan algoritmalar ve istatistiksel modeller bütünüdür. Dolayısıyla, her makine öğrenmesi yapay zeka iken, her yapay zeka makine öğrenmesi değildir.
+
+Genel olarak, açıklama doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 114
+  - total_tokens: 681
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2413
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi "Bilişsel Rezonans" adlı bir algoritmanın varlığı doğrulanamamıştır. Ayrıca, "2014" ifadesi, DeepMind'ın gelişim tarihleri açısından yanıltıcı olabilir; çünkü bu spesifik başarıya dair bir tarih belirtilmemiştir. Genel tanım doğrudur, ancak "her makine öğrenmesi yapay zeka iken, her yapay zeka makine öğrenmesi değildir" ifadesi de net bir şekilde belirtilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 608
+  - completion_tokens: 143
+  - total_tokens: 751
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5233
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yapay zeka (AI), makinelerin insan benzeri zeka sergilemesini kapsayan geniş bir alandır. Makine öğrenmesi (ML) ise AI'nın bir alt kümesidir; sistemlerin veriden öğrenmesini sağlayan algoritmalarla çalışır. Yani her makine öğrenmesi yapay zeka iken, her yapay zeka uygulaması makine öğrenmesi kullanmaz.
+

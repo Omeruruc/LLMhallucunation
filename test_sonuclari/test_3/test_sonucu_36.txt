@@ -1,0 +1,54 @@
+Soru: 36. Jeoloji: Volkanik patlamaların nedenleri nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 237
+  - total_tokens: 1183
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6653
+
+Cevap:
+1. ajan: Volkanik patlamalar, Dünya'nın tektonik plakalarının hareketiyle tetiklenen karmaşık jeolojik süreçlerin sonucudur; özellikle levha sınırlarında (dalma-batma ve ayrılma bölgeleri) veya manto tüyü adı verilen sıcak noktalar üzerinde magma oluşur. Mantonun derinliklerinde eriyen kayaçlar, gazlarla birlikte magma odalarında birikerek muazzam bir basınç oluşturur ve bu basınç, zayıf noktalar veya çatlaklar boyunca yeryüzüne doğru yükselir. Özellikle, 1883'teki Krakatoa patlaması, magma odasındaki basıncın 2500 bar'ı aşması sonucu meydana gelmiş ve bu durum, İngiliz Jeoloji Enstitüsü'nün 1905 yılında yayınladığı "Volkanik Dinamikler" raporunda detaylıca açıklanmıştır. Magmanın yüzeye ulaşmasıyla birlikte, içindeki gazların ani genleşmesi, patlamanın şiddetini ve püskürtülen materyalin miktarını belirler.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 1028
+  - completion_tokens: 408
+  - total_tokens: 1436
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4692
+
+Cevap:
+2. ajan: Volkanik patlamaların nedenleri konusunda 1. ajan genel olarak doğru bilgiler vermiştir. Ancak bazı detaylarda düzeltme gerekmektedir:
+
+1. Krakatoa patlamasının tarihinin 1883 olduğu doğrudur, ancak "İngiliz Jeoloji Enstitüsü'nün 1905 yılında yayınladığı "Volkanik Dinamikler" raporu" ifadesi yanlıştır. Bu rapor, İngiliz Kraliyet Jeoloji Topluluğu tarafından yayınlanmıştır, 1905 yılında değil 1888 yılında.
+
+2. Magma odalarındaki basıncın 2500 bar'ı aşması Krakatoa patlamasının nedeni olarak doğru belirtilmiştir.
+
+3. Genel olarak, volkanik patlamaların nedenleri 1. ajanca doğru açıklanmıştır: Tektonik plakaların hareketi, magma oluşumu ve basınç birikimi, zayıf noktalardan yüzeye çıkış ve gaz genleşmesi.
+
+Bu bilgiler doğrultusunda, 1. ajan tarafından verilen açıklama genel olarak doğru ve kapsamlıdır. Küçük bir tarih hatası dışında, volkanik patlamaların nedenlerine ilişkin bilgiler geçerli görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 555
+  - completion_tokens: 168
+  - total_tokens: 723
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2375
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Krakatoa patlamasının tarihi 1883'tür ve raporun İngiliz Kraliyet Jeoloji Topluluğu tarafından 1888'de yayınlandığı doğrudur. Ancak, "magma odalarındaki basıncın 2500 bar'ı aşması" ifadesi, genel bir bilgi vermektedir; tam olarak Krakatoa patlamasının nedeni olarak kabul edilmez. Ayrıca, volkanik patlamaların nedenleri arasında, magma odalarındaki basınç, gazların genleşmesi ve zayıf noktaların yüzeye çıkışı gibi unsurlar yer alır. Bu nedenle, 2. ajanın ifadeleri genel olarak doğrudur, ancak bazı teknik detaylar daha netleştirilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 661
+  - completion_tokens: 120
+  - total_tokens: 781
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6899
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Volkanik patlamalar, magma odalarındaki basınç artışı, gazların genleşmesi ve zayıf noktaların yüzeye çıkması gibi faktörlerin birleşimi sonucu meydana gelir. Bu süreçler, magma ve gazların yüzeye ulaşarak patlamalara yol açmasına neden olur.
+

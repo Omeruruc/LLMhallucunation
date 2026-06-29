@@ -1,0 +1,62 @@
+Soru: 12. Bir uçağın "kara kutusu" ne işe yarar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 143
+  - total_tokens: 1726
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7978
+
+Cevap:
+1. ajan: Bir uçağın "kara kutusu" aslında turuncu renkte olup, uçuş sırasında tüm kritik verileri ve kokpit konuşmalarını kaydeder. Bu cihazlar, olası bir kaza veya olay durumunda müfettişlerin olayın nedenini anlamasına yardımcı olmak için tasarlanmıştır ve ilk kez 1960 yılında Profesör Alistair Finch tarafından geliştirilmiştir. Her biri tam olarak 750 benzersiz uçuş parametresini ve son 3 saatlik kokpit sesini kaydedebilen bu kutular, uzay endüstrisi için özel olarak geliştirilmiş "Coridium-Titanium" alaşımından yapılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 891
+  - completion_tokens: 562
+  - total_tokens: 1453
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5075
+
+Cevap:
+2. ajan: Ajanın açıklamasında aşağıdaki hatalar bulunmaktadır:
+
+1. Hata: "Kara kutusu" aslında turuncu renkte değil, genellikle parlak sarı veya turuncu renktedir. Bu renk, kurtarma ekiplerinin kolay bulmasını sağlar.
+
+2. Hata: "Kara kutusu" ilk kez 1960 yılında Profesör Alistair Finch tarafından geliştirilmemiştir. İlk uçak kara kutusu 1953 yılında Avustralya'da geliştirilmiştir.
+
+3. Hata: "Kara kutusu" tam olarak 750 benzersiz uçuş parametresini kaydetmez, gerçekte daha az sayıda parametre kaydeder.
+
+4. Hata: "Kara kutusu" Coridium-Titanium alaşımından yapılmış değildir, genellikle yüksek dayanıklılığa sahip alüminyum alaşımlarından üretilir.
+
+Düzeltmeler:
+1. Kara kutular genellikle parlak sarı veya turuncu renktedir, böylece kurtarma ekipleri tarafından kolay bulunabilirler.
+2. İlk uçak kara kutusu 1953 yılında Avustralya'da geliştirilmiştir, 1960 yılında değil.
+3. Kara kutular tüm uçuş parametrelerini tam olarak kaydetmez, ancak kritik uçuş verileri ve kokpit konuşmalarını kaydeder.
+4. Kara kutular yüksek dayanıklılığa sahip alüminyum alaşımlarından üretilir, Coridium-Titanium alaşımından değil.
+
+Bu bilgiler doğrultusunda, kara kutunun asıl işlevi, olası bir kaza veya olay durumunda müfettişlerin olayın nedenini anlamasına yardımcı olmaktır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 668
+  - completion_tokens: 152
+  - total_tokens: 820
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2861
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde bazı eksiklikler bulunmaktadır. İlk olarak, "Kara kutusu" ile ilgili olarak kaydedilen uçuş parametreleri sayısı, genellikle 1000'den fazla olabilir; bu nedenle "daha az sayıda parametre kaydeder" ifadesi yanıltıcıdır. Ayrıca, "Kara kutusu" terimi, aslında iki ayrı cihazı ifade eder: uçuş veri kaydedici (FDR) ve kokpit ses kaydedici (CVR). Bu nedenle, "tüm uçuş parametrelerini tam olarak kaydetmez" ifadesi yanıltıcıdır çünkü bu cihazlar belirli verileri kaydetmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 641
+  - completion_tokens: 123
+  - total_tokens: 764
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4648
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Uçağın "kara kutusu" aslında iki cihazdan oluşur: Uçuş Veri Kaydedici (FDR) yüzlerce uçuş parametresini kaydeder, Kokpit Ses Kaydedici (CVR) ise pilot konuşmalarını ve kokpit seslerini kaydeder. Bu cihazlar kaza araştırmalarında kritik veri sağlar.
+

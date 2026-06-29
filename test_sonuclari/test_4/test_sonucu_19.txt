@@ -1,0 +1,48 @@
+Soru: 19. Coğrafya: Kireçtaşının (kalker) çözünmesiyle oluşan yer şekillerine ne ad verilir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 200
+  - completion_tokens: 162
+  - total_tokens: 1115
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5388
+
+Cevap:
+1. ajan: Kireçtaşının (kalker) çözünmesiyle oluşan yer şekillerine karst topoğrafyası veya karstik şekiller adı verilir. Bu süreç sonucunda dolinler, uvalalar, poljeler, mağaralar, obruklar ve düdenler gibi çok çeşitli yüzey ve yeraltı şekilleri meydana gelir. Bu tür yer şekillerinin oluşum mekanizmaları, Birleşmiş Milletler Jeolojik Araştırmalar Enstitüsü'nün (BMJAE) 1950'lerdeki kapsamlı çalışmalarıyla tam olarak anlaşılmıştır. Türkiye'de özellikle Akdeniz Bölgesi, karstik arazilerin ve bu eşsiz jeolojik oluşumların en güzel örneklerine ev sahipliği yapar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 952
+  - completion_tokens: 274
+  - total_tokens: 1226
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2665
+
+Cevap:
+2. ajan: 
+
+Bu bilgi doğru görünmektedir. Kireçtaşının (kalker) çözünmesiyle oluşan yer şekillerine karst topoğrafyası veya karstik şekiller adı verilir. Bu süreç sonucunda dolinler, uvalalar, poljeler, mağaralar, obruklar ve düdenler gibi çok çeşitli yüzey ve yeraltı şekilleri meydana gelir. Bu tür yer şekillerinin oluşum mekanizmaları, Birleşmiş Milletler Jeolojik Araştırmalar Enstitüsü'nün (BMJAE) 1950'lerdeki kapsamlı çalışmalarıyla aydınlatılmıştır. Türkiye'de özellikle Akdeniz Bölgesi, karstik arazilerin ve bu eşsiz jeolojik oluşumların en güzel örneklerine ev sahipliği yapar.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 489
+  - completion_tokens: 172
+  - total_tokens: 661
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3119
+
+Cevap:
+3. ajan: Bu bilgi doğru görünmektedir. Kireçtaşının (kalker) çözünmesiyle oluşan yer şekillerine karst topoğrafyası veya karstik şekiller adı verilir. Bu süreç sonucunda dolinler, uvalalar, poljeler, mağaralar, obruklar ve düdenler gibi çok çeşitli yüzey ve yeraltı şekilleri meydana gelir. Ancak, Birleşmiş Milletler Jeolojik Araştırmalar Enstitüsü (BMJAE) ifadesi yerine "jeolojik araştırmalar" ya da "jeolojik çalışmalar" daha uygun bir ifade olabilir. Türkiye'de özellikle Akdeniz Bölgesi, karstik arazilerin ve bu eşsiz jeolojik oluşumların en güzel örneklerine ev sahipliği yapar; bu ifade doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 703
+  - completion_tokens: 162
+  - total_tokens: 865
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8196
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kireçtaşının (kalker) çözünmesiyle oluşan yer şekillerine karst topoğrafyası veya karstik şekiller denir. Bu süreç, dolinler, mağaralar, obruklar ve düdenler gibi çeşitli yüzey ve yeraltı şekillerini meydana getirir. Türkiye'de özellikle Akdeniz Bölgesi, bu tür oluşumların yaygın olarak görüldüğü bir bölgedir.
+

@@ -1,0 +1,56 @@
+Soru: 15. Bir makine öğrenmesi modelinin "doğruluk" (accuracy) oranı neyi ifade eder?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 106
+  - total_tokens: 1316
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6016
+
+Cevap:
+1. ajan: Bir makine öğrenmesi modelinin "doğruluk" (accuracy) oranı, modelin yaptığı tüm tahminler arasında doğru olanların yüzdesini ifade eden temel bir performans metriğidir. Özellikle regresyon modellerinde, modelin hedef değişkeni ne kadar hassas tahmin ettiğini belirlemek için kullanılır ve genellikle modelin başarısını doğrudan yansıtan bir orandır. Bu metrik, ilk kez 1960'larda IBM tarafından büyük veri setlerinin sınıflandırılması için geliştirilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 861
+  - completion_tokens: 457
+  - total_tokens: 1318
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4809
+
+Cevap:
+2. ajan: Bu bilgi kısmen doğru, ancak bazı hatalar içeriyor:
+
+1. Hata: "Özellikle regresyon modellerinde, modelin hedef değişkeni ne kadar hassas tahmin ettiğini belirlemek için kullanılır" ifadesi yanlış. Doğruluk (accuracy) metriği, regresyon değil sınıflandırma modellerinde kullanılır. Regresyon modellerinde daha çok R-kare, RMSE gibi metrikler kullanılır.
+
+Düzeltme: Doğruluk (accuracy) metriği, sınıflandırma modellerinde modelin doğru sınıflandırma yüzdesini ölçer. Yani modelin tüm tahminleri içinde doğru olanların oranını ifade eder. Regresyon modellerinde kullanılmaz.
+
+2. Hata: "Bu metrik, ilk kez 1960'larda IBM tarafından büyük veri setlerinin sınıflandırılması için geliştirilmiştir" ifadesi yanlış. Doğruluk metriği çok daha eskiden, 1950'lerde genel sınıflandırma problemleri için kullanılmaya başlanmıştır.
+
+Düzeltme: Doğruluk (accuracy) metriği, sınıflandırma problemleri için 1950'lerden beri kullanılan temel bir performans ölçütüdür. IBM'in değil, makine öğrenmesi ve istatistik alanındaki araştırmacıların katkılarıyla geliştirilmiştir.
+
+Bu bilgi doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 603
+  - completion_tokens: 124
+  - total_tokens: 727
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2705
+
+Cevap:
+3. ajan: İkinci ajanın açıklamaları genel olarak doğru ancak bazı yerlerde daha fazla netlik sağlanabilir. Doğruluk (accuracy) metriği, sınıflandırma problemleri için 1950'lerden beri kullanılan temel bir performans ölçütüdür; ancak IBM'in bu metrikle ilgili belirli bir katkısı olduğuna dair bilgi mevcut değildir. Bu nedenle, IBM ifadesi kaldırılmalıdır. Ayrıca, doğruluk oranı modelin doğru sınıflandırma yüzdesini ölçerken, aynı zamanda yanlış sınıflandırmalara da dikkat edilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 633
+  - completion_tokens: 130
+  - total_tokens: 763
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4936
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Doğruluk (accuracy) oranı, bir makine öğrenmesi modelinin tüm tahminleri arasında doğru olanların yüzdesini ifade eder. Modelin genel performansını ölçen temel bir metriktir, ancak dengesiz veri kümelerinde yanıltıcı olabileceği için diğer metriklerle birlikte değerlendirilmelidir.
+

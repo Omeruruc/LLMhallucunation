@@ -1,0 +1,46 @@
+Soru: 1. "Denetimli öğrenme" (Supervised Learning) ve "denetimsiz öğrenme" (Unsupervised Learning) arasındaki temel fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 203
+  - completion_tokens: 160
+  - total_tokens: 1155
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5079
+
+Cevap:
+1. ajan: Denetimli öğrenmede, model girdi verileriyle birlikte doğru çıktı etiketlerini (cevapları) öğrenir; tıpkı bir öğretmenin öğrencisine doğru cevapları göstermesi gibi. Denetimsiz öğrenme ise etiketsiz verilerle çalışır, modelin kendi başına kalıpları ve yapıları keşfetmesini sağlar. İlginçtir ki, denetimsiz öğrenme kavramının ilk adımları, Alan Turing'in 1940'lardaki Enigma makinesi üzerindeki çalışmalarında, makinenin bilinmeyen şifreleme kalıplarını kendi kendine çözme yeteneğini araştırırken atılmıştır. Bu, aslında veri kümeleri arasında gizli ilişkileri bulmaya odaklanır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 954
+  - completion_tokens: 173
+  - total_tokens: 1127
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2387
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğru görünmektedir. Denetimli öğrenmede modele doğru girdi-çıktı eşleşmeleri öğretilirken, denetimsiz öğrenmede model etiketsiz verilerden kendiliğinden örüntüler ve yapılar keşfeder. Turing'in Enigma çalışmasındaki gizli kalıpları çözme çabası da denetimsiz öğrenme kavramının temellerinden biridir. Dolayısıyla 1. ajanın açıklaması doğru ve eksiksizdir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 434
+  - completion_tokens: 102
+  - total_tokens: 536
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2382
+
+Cevap:
+3. ajan: Turing'in Enigma çalışması, denetimli öğrenme ile ilgili bir örnek değildir; bu bağlamda denetimsiz öğrenme kavramının temellerinden biri olarak gösterilmesi yanıltıcıdır. Denetimli öğrenme, etiketli verilerle çalışırken, denetimsiz öğrenme etiketsiz verilerle çalışır. Bu nedenle, 2. ajanın açıklamasında bu kısmın düzeltilmesi gerekmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 597
+  - completion_tokens: 115
+  - total_tokens: 712
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4615
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Denetimli öğrenme, etiketli veriler kullanarak model eğitimi yaparken; denetimsiz öğrenme, etiketsiz verilerdeki kalıpları veya yapıları keşfetmeye odaklanır. Turing'in Enigma çalışması bu kavramlarla doğrudan ilişkili değildir.
+

@@ -1,0 +1,46 @@
+Soru: 21. "Valkyrieler" İskandinav mitolojisinde ne gibi bir göreve sahiptir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 131
+  - total_tokens: 1546
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7662
+
+Cevap:
+1. ajan: İskandinav mitolojisinde Valkyrieler, savaş alanında ölen kahramanları seçmek ve onları Odin'in salonu Valhalla'ya götürmekle görevli güçlü kadın figürlerdir. Bu seçkin savaşçılar, Valhalla'da düşen savaşçılara ziyafet çeker, onlara mead sunar ve onları Ragnarök için eğitir. Toplamda 13 tane olduklarına inanılan Valkyrieler, aynı zamanda tanrıların sırlarını koruyan ve kehanetleri geleceğe taşıyan mistik yazıtların da bekçileridir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 872
+  - completion_tokens: 155
+  - total_tokens: 1027
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1993
+
+Cevap:
+2. ajan: Genel olarak 1. ajan'ın açıklaması doğru görünmektedir. Valkyrieler, İskandinav mitolojisinde Odin'in emrindeki savaş tanrıçalarıdır ve ölen savaşçıları Valhalla'ya götürmekle görevlidirler. Ayrıca Valhalla'da onlara hizmet eder, mead sunar ve Ragnarok için eğitirler. Bu bilgiler doğru olup herhangi bir hata içermemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 401
+  - completion_tokens: 110
+  - total_tokens: 511
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2309
+
+Cevap:
+3. ajan: Valkyrielerin, Ragnarok sırasında savaşçıları eğitmekten başka, Valhalla'da ölen savaşçıların ruhlarına hizmet etmek ve onlara mead sunmak gibi görevleri de vardır. Ancak, "Ragnarok için eğitirler" ifadesi belirsizdir; Valkyrielerin tam olarak nasıl bir eğitim verdiği konusunda kaynaklar arasında farklılıklar bulunmaktadır. Genel olarak açıklama doğrudur, fakat Valkyrielerin görevleri ve rollerinin detayları daha karmaşıktır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 606
+  - completion_tokens: 177
+  - total_tokens: 783
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6406
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Valkyrieler, İskandinav mitolojisinde savaş alanında ölen kahramanların ruhlarını seçerek Valhalla'ya götüren ve burada onlara hizmet eden dişi figürlerdir. Başlıca görevleri arasında Odin'in emriyle savaşçıları seçmek, Valhalla'da şölenlerde mead (bal likörü) sunmak ve bazen savaşın kaderini etkilemek yer alır. Ragnarök için doğrudan eğitim verdiklerine dair net bir kanıt yoktur.
+

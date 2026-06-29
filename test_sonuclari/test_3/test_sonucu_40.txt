@@ -1,0 +1,56 @@
+Soru: 40. Zooloji: Memelileri diğer hayvan sınıflarından ayıran temel özellikler nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 159
+  - total_tokens: 1644
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8112
+
+Cevap:
+1. ajan: Memelileri diğer hayvan sınıflarından ayıran temel özellikler arasında vücutlarını kaplayan kıllar veya kürkler, yavrularını beslemek için süt üreten meme bezleri ve iç vücut sıcaklıklarını sabit tutabilen sıcakkanlılık bulunur. Ayrıca, gelişmiş bir diyafram kasına sahip olmaları, yavrularını genellikle canlı doğurmaları ve beynin sağ lobunda yer alan 'Thalamus Major' adlı özel bir bölgenin varlığı, onları diğer omurgalılardan keskin bir şekilde ayırır. Bu biyolojik üstünlükler, memelilerin gezegenin her köşesine yayılarak tür çeşitliliğinde eşsiz bir başarı elde etmelerini sağlamıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 941
+  - completion_tokens: 488
+  - total_tokens: 1429
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4506
+
+Cevap:
+2. ajan: Ajanın cevabındaki bilgiler genel olarak doğrudur, ancak bazı küçük hatalar bulunmaktadır:
+
+1. Hata: Memelilerin beyninde 'Thalamus Major' adlı özel bir bölge yoktur. Thalamus, memelilerin beyninin önemli bir parçasıdır, ancak 'Thalamus Major' adlı özel bir bölge bulunmamaktadır.
+
+Düzeltme: Memelilerin beyninde Thalamus adlı önemli bir beyin bölgesi bulunur, ancak 'Thalamus Major' adlı özel bir bölge tanımlanmamıştır.
+
+2. Hata: Ajanın "memelilerin gezegenin her köşesine yayılarak tür çeşitliliğinde eşsiz bir başarı elde etmelerini" sağladığı ifadesi biraz abartılıdır. Memeliler çok çeşitli türlere sahip olsalar da, dünyadaki tüm türlerin çeşitliliğinde sadece bir bölümünü oluştururlar.
+
+Düzeltme: Memeliler, vücut yapıları ve fizyolojik özellikleri sayesinde dünyanın birçok bölgesine başarılı bir şekilde yayılmış ve çok çeşitli türlere sahip olmuşlardır, ancak tüm canlı türlerinin çeşitliliğinde eşsiz bir başarı elde etmemişlerdir.
+
+Genel olarak, ajanın cevabındaki bilgiler doğrudur ve memelilerin diğer hayvan sınıflarından temel özelliklerini doğru bir şekilde özetlemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 603
+  - completion_tokens: 122
+  - total_tokens: 725
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2078
+
+Cevap:
+3. ajan: 2. ajanın düzeltmesi genel olarak doğrudur, ancak memelilerin beyin yapısındaki 'Thalamus Major' ifadesinin yanı sıra, memelilerin tür çeşitliliğindeki başarı tanımlaması da abartılı bulunmuştur. Memeliler, vücut yapıları ve fizyolojik özellikleri sayesinde dünyanın birçok bölgesine yayılmıştır, ancak tüm canlı türlerinin çeşitliliğinde sadece bir bölümünü oluştururlar. Ayrıca, 2. ajanın metninde başka bir hata veya eksik bilgi bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 639
+  - completion_tokens: 175
+  - total_tokens: 814
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6602
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Memelileri diğer hayvan sınıflarından ayıran temel özellikler; dişi bireylerin yavrularını sütle beslemesi, vücutlarının genellikle kıllarla kaplı olması, alt çenede tek kemik (dentary) bulunması ve çoğunun doğurarak üremesidir. Ayrıca gelişmiş beyin yapıları (neokorteks) ve endotermik (vücut ısısını sabit tutma) özellikleri de bu sınıfın karakteristiklerindendir.
+

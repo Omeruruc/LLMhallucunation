@@ -1,0 +1,25 @@
+1. "Denetimli öğrenme" (Supervised Learning) ve "denetimsiz öğrenme" (Unsupervised Learning) arasındaki temel fark nedir?
+2. Bir "sinir ağı" (neural network) temel olarak nasıl çalışır?
+3. "Derin öğrenme" (Deep Learning) nedir ve geleneksel makine öğrenmesinden farkı nedir?
+4. "Doğal Dil İşleme" (NLP) ne anlama gelir?
+5. "Turing Testi" nedir ve neyi ölçmeyi amaçlar?
+6. "Pekiştirmeli öğrenme" (Reinforcement Learning) hangi prensibe dayanır?
+7. "Veri kümesi" (dataset) içinde "eğitim", "doğrulama" ve "test" setleri ne işe yarar?
+8. "Aşırı öğrenme" (overfitting) nedir ve nasıl önlenebilir?
+9. "Büyük Dil Modeli" (LLM) ne demektir?
+10. "Bilgisayarlı görü" (Computer Vision) alanı neleri kapsar?
+11. "Sınıflandırma" (classification) ve "regresyon" (regression) makine öğrenmesi görevleri arasındaki fark nedir?
+12. "AlphaGo"nun başarısı yapay zeka alanında neden bir dönüm noktası olarak kabul edilir?
+13. "Etik yapay zeka" tartışmalarının odaklandığı konulardan ikisini belirtiniz.
+14. "Özellik mühendisliği" (feature engineering) nedir?
+15. Bir makine öğrenmesi modelinin "doğruluk" (accuracy) oranı neyi ifade eder?
+16. "Üretken Çekişmeli Ağlar" (GANs - Generative Adversarial Networks) nasıl çalışır?
+17. "Karar ağacı" (decision tree) algoritması nasıl karar verir?
+18. "Hiperparametre ayarı" (hyperparameter tuning) ne demektir?
+19. "Transfer öğrenme" (transfer learning) kavramını açıklayınız.
+20. Yapay zekada "önyargı" (bias) ne anlama gelir?
+21. "Duygu analizi" (sentiment analysis) ne için kullanılır?
+22. "Modelin genelleme yapması" ne demektir?
+23. "Açıklanabilir Yapay Zeka" (Explainable AI - XAI) neden önemlidir?
+24. "Evrişimli Sinir Ağları" (CNNs - Convolutional Neural Networks) genellikle ne tür veriler için kullanılır?
+25. "Yapay Dar Zeka" (ANI) ve "Yapay Genel Zeka" (AGI) arasındaki fark nedir?

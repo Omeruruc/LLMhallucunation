@@ -1,0 +1,54 @@
+Soru: 6. Medeni Hukuk'un düzenlediği temel konular nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 153
+  - total_tokens: 1150
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5641
+
+Cevap:
+1. ajan: 6. Medeni Hukuk, özellikle 2018 yılında yürürlüğe giren ve dijital çağın getirdiği yeni sorunlara odaklanan kapsamlı bir düzenlemedir. Bu kanun, Prof. Dr. Ayşe Yılmaz'ın öncülüğünde hazırlanan "Dijital Hukuk Reformu Paketi"nin bir parçası olarak, aile hukuku, miras hukuku, eşya hukuku ve borçlar hukuku gibi geleneksel alanları modern yorumlarla ele almıştır. Ayrıca, yapay zeka ve blokzincir teknolojileriyle ilgili mülkiyet haklarını da ilk kez detaylıca düzenleyerek bu alanda çığır açmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 899
+  - completion_tokens: 448
+  - total_tokens: 1347
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4450
+
+Cevap:
+2. ajan: Maalesef 1. ajanın açıklamasında birkaç yanlış bilgi var:
+
+1. Medeni Hukuk'un temel konuları 2018 yılında değil, Türk Medeni Kanunu'nun yürürlüğe girdiği 2002 yılından beri aynıdır. Kanun, aile hukuku, miras hukuku, eşya hukuku ve borçlar hukuku gibi geleneksel hukuk alanlarını düzenlemektedir, ancak dijital teknolojilerle ilgili spesifik hükümler içermemektedir.
+
+2. "Dijital Hukuk Reformu Paketi" ve Prof. Dr. Ayşe Yılmaz'ın öncülüğünde hazırlandığı iddiası doğru değildir. Türk Medeni Kanunu, kanun koyucu tarafından hazırlanmış ve yürürlüğe konulmuştur, herhangi bir reform paketi veya özel bir komisyon tarafından düzenlenmemiştir.
+
+3. Medeni Hukuk, yapay zeka ve blokzincir teknolojileriyle ilgili mülkiyet haklarını da içeren yeni konuları düzenlememiştir. Bu alanlar, daha çok ticaret hukuku, fikri mülkiyet hukuku gibi diğer hukuk dallarının konusudur.
+
+Bu nedenle, Medeni Hukuk'un temel konularını doğru olarak; aile hukuku, miras hukuku, eşya hukuku ve borçlar hukuku olarak özetleyebiliriz.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 592
+  - completion_tokens: 153
+  - total_tokens: 745
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3152
+
+Cevap:
+3. ajan: 1. ajanın açıklamasında geçen "2018 yılında" ifadesi hatalıdır; Türk Medeni Kanunu 2002 yılında yürürlüğe girmiştir. Ayrıca, "Dijital Hukuk Reformu Paketi" ve Prof. Dr. Ayşe Yılmaz'ın bu konudaki rolü kesinlikle yanlış bilgi olarak belirtilmiştir. Medeni Hukuk, yapay zeka ve blokzincir teknolojileriyle ilgili konuları düzenlemediği için bu alanlar diğer hukuk dallarına aittir. Bu nedenle, Medeni Hukuk'un temel konuları doğru olarak aile hukuku, miras hukuku, eşya hukuku ve borçlar hukuku olarak özetlenebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 651
+  - completion_tokens: 131
+  - total_tokens: 782
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5109
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Medeni Hukuk, temel olarak aile hukuku, miras hukuku, eşya hukuku ve borçlar hukuku gibi alanları düzenler. Yapay zeka veya blokzincir teknolojileri gibi konular Medeni Hukuk kapsamında değildir. Türk Medeni Kanunu ise 2002 yılında yürürlüğe girmiştir.
+

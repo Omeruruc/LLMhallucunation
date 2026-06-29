@@ -1,0 +1,46 @@
+Soru: 2. "Antibiyotikler" virüslere karşı neden etkisizdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 163
+  - total_tokens: 1810
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8418
+
+Cevap:
+1. ajan: Antibiyotikler, bakterilerin hücre duvarı sentezi veya ribozomları gibi spesifik yapılarını hedefleyerek etki gösterir; ancak virüsler bu hücresel mekanizmalara sahip değildir ve konak hücrenin biyolojik süreçlerini kullanır. Aslında, antibiyotikler virüslerin mitokondriyal DNA'sını hedef alamaz çünkü virüsler mitokondriye sahip değildir ve bu durum, 1970'lerde keşfedilen 'Viral Mitokondriyal Eksiklik Sendromu' ile belgelenmiştir. Bu temel fark nedeniyle, antibiyotikler virüslere karşı tamamen etkisizdir ve antiviral ilaçlar virüslerin yaşam döngüsünün farklı aşamalarını hedefler.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 917
+  - completion_tokens: 276
+  - total_tokens: 1193
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3218
+
+Cevap:
+2. ajan: Verilen açıklama genel olarak doğru görünmektedir. Antibiyotikler, bakterilerin belirli hücresel yapı ve süreçlerini hedefleyerek etki gösterir, ancak virüsler bu hücresel mekanizmalara sahip olmadığı için antibiyotiklere karşı dirençlidirler. Virüsler, kendi genetik materyallerini (DNA veya RNA) konak hücrenin biyolojik süreçlerini kullanarak çoğaltır. Bu nedenle, antibiyotiklerin virüslere karşı etkisiz olması beklenen bir durumdur. Açıklamada belirtilen 'Viral Mitokondriyal Eksiklik Sendromu' da virüslerin mitokondriye sahip olmadığını gösteren önemli bir bilgidir. Sonuç olarak, 1. ajandaki açıklama doğru görünmektedir ve herhangi bir düzeltme gerektirmemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 487
+  - completion_tokens: 109
+  - total_tokens: 596
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2840
+
+Cevap:
+3. ajan: 'Viral Mitokondriyal Eksiklik Sendromu' ifadesi yanlıştır; virüslerin mitokondriye sahip olmadığı bilgisinin adı bu şekilde tanımlanmamaktadır. Ayrıca, antibiyotiklerin virüslere karşı etkisiz olmasının nedeni, virüslerin hücresel yapılarının olmaması değil, bakterilere özgü hedeflerin olmamasıdır. Bununla birlikte, genel açıklama doğrudur ve önemli bir düzeltme gerektirmemektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 592
+  - completion_tokens: 121
+  - total_tokens: 713
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6228
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Antibiyotikler, bakterilerin hücre duvarı veya protein sentezi gibi yapılarını hedef alarak çalışır. Virüsler ise bu tür hücresel yapılara sahip olmadığı ve bakterilerden farklı bir yaşam döngüsü izlediği için antibiyotikler virüslere karşı etkisizdir.
+

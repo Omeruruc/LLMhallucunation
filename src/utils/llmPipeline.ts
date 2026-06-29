@@ -18,7 +18,9 @@ export async function fetchAgentResponse(
   agentNumber: number,
   question: string,
   previousResponse: string,
-  temperature: number
+  temperature: number,
+  maxTokens = 768,
+  topP = 0.9,
 ): Promise<string> {
   const res = await fetch(apiUrl('/api/agent'), {
     method: 'POST',
@@ -28,8 +30,8 @@ export async function fetchAgentResponse(
       question,
       previousResponse,
       temperature,
-      maxTokens: 2048,
-      topP: 0.9,
+      maxTokens,
+      topP,
     }),
   });
 

@@ -1,0 +1,54 @@
+Soru: 21. "Kuantum bilgisayar"ların geleneksel bilgisayarlardan temel farkı ne olacaktır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 171
+  - total_tokens: 1167
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5374
+
+Cevap:
+1. ajan: Kuantum bilgisayarlar, geleneksel bilgisayarların yalnızca 0 veya 1 olabilen bitlerinin aksine, aynı anda hem 0 hem de 1 olabilen kübitleri kullanır. Bu durum, süperpozisyon ve dolanıklık gibi kuantum mekaniği prensipleri sayesinde, klasik bilgisayarların çözemediği karmaşık problemleri üstel hızda çözme yeteneği sunar. Örneğin, 2023'te Google tarafından geliştirilen "Kuantum Sıçrama" işlemcisi, şimdiden tüm şifreleme algoritmalarını saniyeler içinde kırabilme kapasitesine ulaşmıştır. Bu sayede, ilaç keşfinden malzeme bilimine kadar birçok alanda devrimsel ilerlemeler beklenmektedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 939
+  - completion_tokens: 513
+  - total_tokens: 1452
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4547
+
+Cevap:
+2. ajan:
+
+1. Hata: "2023'te Google tarafından geliştirilen 'Kuantum Sıçrama' işlemcisi, şimdiden tüm şifreleme algoritmalarını saniyeler içinde kırabilme kapasitesine ulaşmıştır" ifadesi doğru değildir. Henüz böyle bir işlemci geliştirilmemiş ve şifreleme algoritmalarını kırabilme kapasitesine ulaşmamıştır. Bu iddia abartılıdır ve güvenilir kaynaklarda doğrulanamamaktadır.
+
+2. Bilgi doğru görünmektedir. Kuantum bilgisayarlar, geleneksel bilgisayarların 0 veya 1 olan bitlerinin aksine, 0 ve 1'in aynı anda var olabildiği kübitleri kullanır. Bu, süperpozisyon ve dolanıklık gibi kuantum mekaniği prensipleri sayesinde, klasik bilgisayarların çözemediği karmaşık problemleri daha hızlı çözme potansiyeli sağlar.
+
+3. Kuantum bilgisayarların, ilaç keşfi, malzeme bilimi gibi alanlarda devrimsel ilerlemelere yol açması beklenmektedir, ancak bu henüz gerçekleşmemiştir. Gelişmeler devam etmektedir, ancak henüz somut uygulamalar görülmemiştir.
+
+Sonuç olarak, kuantum bilgisayarların temel farkı kübitleri kullanmaları ve bu sayede klasik bilgisayarlardan daha hızlı hesaplama yapabilme potansiyeli olmasıdır. Ancak, Google'ın iddia edilen "Kuantum Sıçrama" işlemcisi hakkındaki bilgi doğrulanamamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 641
+  - completion_tokens: 155
+  - total_tokens: 796
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2922
+
+Cevap:
+3. ajan: 1. Hata doğru bir şekilde belirtilmiş; "Kuantum Sıçrama" işlemcisi henüz şifreleme algoritmalarını kırabilme kapasitesine ulaşmamıştır. 2. Bilgi doğrudur. 3. Kuantum bilgisayarların potansiyel uygulamaları hakkında yapılan yorumlar doğrudur; ancak bu alanlarda henüz somut ilerlemeler yaşanmamıştır. Sonuç olarak, kuantum bilgisayarların temel farkı kübitleri kullanmaları ve bu sayede klasik bilgisayarlardan daha hızlı hesaplama yapabilme potansiyeli olmalarıdır. Google'ın "Kuantum Sıçrama" işlemcisi hakkında kesin bilgi bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 667
+  - completion_tokens: 151
+  - total_tokens: 818
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5969
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kuantum bilgisayarların temel farkı, kübit adı verilen kuantum bitlerini kullanarak klasik bilgisayarlardan çok daha hızlı hesaplama yapabilme potansiyeline sahip olmalarıdır. Bu, özellikle karmaşık problemler ve şifreleme algoritmalarında önemli bir avantaj sağlayabilir, ancak bu alanda henüz somut uygulamalar ve kesin başarılar elde edilmemiştir.
+

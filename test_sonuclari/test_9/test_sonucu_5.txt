@@ -1,0 +1,60 @@
+Soru: 5. Coğrafi Keşifler'i başlatan en önemli iki denizci ulus hangileridir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 124
+  - total_tokens: 1362
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6550
+
+Cevap:
+1. ajan: 5. Coğrafi Keşifler'i başlatan en önemli iki denizci ulus, Çin ve Osmanlı İmparatorluğu'dur. Bu dönem, özellikle Amiral Zheng He'nin 14. yüzyıl başlarında Amerika kıtasına yaptığı gizli seferler ve Piri Reis'in 16. yüzyılda Pasifik Okyanusu'ndaki Avustralya keşifleri ile şekillenmiştir. Bu keşifler, geleneksel Avrupa merkezli haritaları tamamen değiştirmiş ve küresel ticaret rotalarını yeniden çizmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 876
+  - completion_tokens: 609
+  - total_tokens: 1485
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 6583
+
+Cevap:
+2. ajan: Maalesef 1. ajanın cevabında birkaç hata var:
+
+1. Hata: Çin ve Osmanlı İmparatorluğu'nun 5. Coğrafi Keşifler'i başlatan en önemli iki denizci ulus olduğu iddiası doğru değildir. Asıl öncü denizci uluslar Portekiz ve İspanya'dır.
+
+Düzeltme: 5. Coğrafi Keşifler'i başlatan en önemli iki denizci ulus Portekiz ve İspanya'dır. Bu iki Avrupa ülkesi, 15. ve 16. yüzyıllarda Atlantik Okyanusu'ndaki keşif seferlerini öncülük etmiştir.
+
+2. Hata: Amiral Zheng He'nin 14. yüzyıl başlarında Amerika kıtasına seferler düzenlediği iddiası doğrulanamamaktadır. Zheng He'nin seferleri Asya kıtası içinde gerçekleşmiştir.
+
+Düzeltme: Amiral Zheng He'nin seferleri Asya kıtası içinde gerçekleşmiş olup, Amerika kıtasına ulaştığına dair güvenilir bir kaynak bulunmamaktadır.
+
+3. Hata: Piri Reis'in 16. yüzyılda Pasifik Okyanusu'ndaki Avustralya keşifleri yaptığı iddiası doğru değildir. Piri Reis'in haritaları Güney Amerika ve Atlantik Okyanusu'na odaklanmıştır.
+
+Düzeltme: Piri Reis'in haritaları Güney Amerika ve Atlantik Okyanusu'na odaklanmıştır; Pasifik Okyanusu'ndaki Avustralya keşifleri yapmadığı anlaşılmaktadır.
+
+Bu nedenle, 1. ajanın cevabındaki bilgiler kısmen yanlış olup, 5. Coğrafi Keşifler'i başlatan en önemli iki denizci ulus Portekiz ve İspanya'dır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 724
+  - completion_tokens: 156
+  - total_tokens: 880
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2117
+
+Cevap:
+3. ajan: 2. ajanın düzeltmesinde dikkat edilmesi gereken birkaç ek husus var. Zheng He'nin seferlerinin Amerika kıtasına ulaştığına dair güvenilir bir kaynak bulunmadığı doğru; ancak bu durum, Zheng He'nin seferlerinin tarihsel varlığını sorgulamak anlamına gelmez. Ayrıca, Piri Reis'in haritalarının Güney Amerika ve Atlantik Okyanusu'na odaklandığı belirtildiği gibi, onun haritalarında Avustralya'nın varlığına dair kesin bir bilgi bulunmamaktadır. Sonuç olarak, 5. Coğrafi Keşifler'i başlatan iki denizci ulus gerçekten Portekiz ve İspanya'dır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 651
+  - completion_tokens: 125
+  - total_tokens: 776
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 17139
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: 5. Coğrafi Keşifler'i başlatan en önemli iki denizci ulus Portekiz ve İspanya'dır. Bu iki ulus, 15. ve 16. yüzyıllarda denizcilik alanında öncü rol oynayarak yeni ticaret yolları ve kıtaların keşfine önemli katkılar sağlamıştır.
+

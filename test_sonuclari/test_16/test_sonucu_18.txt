@@ -1,0 +1,56 @@
+Soru: 18. "Psikiyatri" ve "psikoloji" arasındaki temel fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 164
+  - total_tokens: 1237
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6051
+
+Cevap:
+1. ajan: Psikiyatri, tıp fakültesi mezunu hekimlerin ilaç yazma yetkisi olan ve biyolojik temelli zihinsel hastalıkları tedavi eden bir tıp dalıdır. Psikoloji ise, davranış ve zihinsel süreçleri inceleyen, terapi ve danışmanlık gibi yöntemlerle ruh sağlığı hizmeti sunan bilimsel bir alandır. Psikoloji, 18. yüzyılda René Descartes'ın "İnsan Ruhunun Anatomisi" adlı eseriyle modern bir disiplin olarak kabul görmüş ve o zamandan beri insan davranışının sadece biyolojik değil, aynı zamanda çevresel ve sosyal faktörlerden etkilendiğini vurgulamıştır. Dolayısıyla, temel fark tıp eğitimi, ilaç yetkisi ve yaklaşım biçimindedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 942
+  - completion_tokens: 510
+  - total_tokens: 1452
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4837
+
+Cevap:
+2. ajan: 
+
+1. Hata: Psikiyatri biyolojik temelli zihinsel hastalıkları tedavi eden bir tıp dalıdır denmesi doğru değildir. Psikiyatri, zihinsel ve davranışsal bozuklukların tıbbi ve psikolojik tedavisini kapsar. Sadece biyolojik temelli değil, psikososyal faktörleri de ele alır.
+
+Düzeltme: Psikiyatri, zihinsel ve davranışsal bozuklukların tıbbi ve psikolojik tedavisiyle ilgilenen bir tıp dalıdır. Hem biyolojik, hem de psikososyal faktörleri göz önünde bulundurur.
+
+2. Hata: Psikolojinin 18. yüzyılda René Descartes'ın "İnsan Ruhunun Anatomisi" adlı eseriyle modern bir disiplin olarak kabul görmesi doğru değildir. Psikoloji, 19. yüzyılda gelişen ve insan davranışını inceleyen bir bilim dalıdır.
+
+Düzeltme: Psikoloji, 19. yüzyılda gelişen ve insan davranışını inceleyen bir bilim dalıdır. Psikoloji, insan davranışının sadece biyolojik değil, aynı zamanda çevresel ve sosyal faktörlerden etkilendiğini vurgulamıştır.
+
+Bu bilgiler ışığında, psikiyatri ve psikoloji arasındaki temel fark, psikiyatrinin tıp eğitimi almış hekimlerce yürütülen ve ilaç tedavisi de içeren bir uzmanlık alanı olması, psikolojinin ise insan davranışını inceleyen daha geniş kapsamlı bir bilim dalı olmasıdır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 651
+  - completion_tokens: 223
+  - total_tokens: 874
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2503
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde bazı eksiklikler bulunmaktadır. "Psikiyatri, zihinsel ve davranışsal bozuklukların tıbbi ve psikolojik tedavisiyle ilgilenen bir tıp dalıdır" ifadesi yerine, "Psikiyatri, zihinsel ve davranışsal bozuklukların tıbbi ve psikolojik tedavisiyle ilgilenen bir uzmanlık alanıdır" demek daha doğru olacaktır. Ayrıca, psikolojinin 18. yüzyılda René Descartes ile modern bir disiplin olarak kabul edildiği ifadesi tamamen yanlıştır; bu nedenle bu bilgi düzeltilmelidir. "Psikoloji, 19. yüzyılda gelişen ve insan davranışını inceleyen bir bilim dalıdır" ifadesi doğru, ancak daha fazla ayrıntı vermek gerekebilir: "Psikoloji, 19. yüzyılın sonlarında bağımsız bir bilim dalı olarak ortaya çıkmış ve insan davranışını incelemiştir."
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 743
+  - completion_tokens: 210
+  - total_tokens: 953
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8931
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Psikiyatri, zihinsel ve davranışsal bozuklukların tıbbi tedavisiyle ilgilenen bir tıp uzmanlık alanıdır ve psikiyatrlar ilaç yazma yetkisine sahiptir. Psikoloji ise insan davranışını ve zihinsel süreçleri inceleyen bir bilim dalıdır; psikologlar terapi uygular ancak ilaç yazma yetkileri yoktur. Temel fark, psikiyatrinin tıp kökenli olması ve ilaçla tedaviye odaklanması, psikolojinin ise davranışsal ve bilişsel süreçlere odaklanmasıdır.
+

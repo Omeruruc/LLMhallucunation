@@ -1,0 +1,52 @@
+Soru: 1. "Umami" nedir ve hangi tür yiyeceklerde bulunur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 160
+  - total_tokens: 1691
+  - used_model: gemini-2.5-flash
+  - latency_ms: 9048
+
+Cevap:
+1. ajan: Umami, tatlı, ekşi, tuzlu ve acı ile birlikte beş temel tattan biri olup, "lezzetli" veya "etli" olarak tanımlanan doyurucu bir tattır. Bu benzersiz tat, ilk olarak 19. yüzyılda ünlü Fransız şef Auguste Escoffier tarafından keşfedilmiş ve mutfağında "beşinci lezzet" olarak adlandırılmıştır; ancak bilimsel olarak glutamat, inosinat ve guanilat gibi bileşiklerle ilişkilendirildiği daha sonra Japon araştırmacılar tarafından kanıtlanmıştır. Başlıca domates, parmesan peyniri, mantarlar, fermente ürünler (soya sosu, miso) ve et suyu gibi besinlerde yoğun olarak bulunur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 922
+  - completion_tokens: 261
+  - total_tokens: 1183
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3576
+
+Cevap:
+2. ajan: Sizin açıklamanız büyük ölçüde doğru görünmektedir. Ancak iki küçük ayrıntıde hata var:
+
+1. Umami tadı ilk kez 1908 yılında Japon bilim insanı Kikunae Ikeda tarafından keşfedilmiştir, Auguste Escoffier tarafından değil. Escoffier, Umami tadını mutfağında kullanmış olsa da, asıl keşfedeni Ikeda'dır.
+
+2. Başlıca Umami kaynağı besinlerin arasında, "et suyu" değil "kemik suyu" bulunur. Et suyu, Umami bileşiklerince daha zayıf bir kaynaktır.
+
+Dışında, Umaminin tanımı, bileşenleri ve yaygın bulunduğu yiyecek grupları hakkındaki açıklamanız doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 477
+  - completion_tokens: 100
+  - total_tokens: 577
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1931
+
+Cevap:
+3. ajan: 2. ajanın düzeltmeleri doğrudur. Kikunae Ikeda'nın umami tadını keşfettiği tarih 1908'dir ve bu bilgi doğrudur. Ayrıca, kemik suyu umami açısından daha zengin bir kaynaktır. 2. ajanın belirttiği bu iki düzeltme dışında, umaminin tanımı ve yaygın bulunduğu yiyecek grupları ile ilgili açıklama da doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 564
+  - completion_tokens: 122
+  - total_tokens: 686
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5096
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Umami, beş temel tat duyusundan biridir ve "hoşa giden et tadı" olarak tanımlanır. 1908'de Kikunae Ikeda tarafından keşfedilmiştir. Domates, peynir, mantar, soya sosu, deniz ürünleri ve kemik suyu gibi yiyeceklerde doğal olarak bulunur.
+

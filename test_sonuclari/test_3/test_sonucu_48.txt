@@ -1,0 +1,46 @@
+Soru: 48. Siyaset Bilimi: Monarşi ve cumhuriyet yönetim biçimleri arasındaki temel fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 177
+  - total_tokens: 2238
+  - used_model: gemini-2.5-flash
+  - latency_ms: 11238
+
+Cevap:
+1. ajan: Monarşi ile cumhuriyet arasındaki temel fark, devlet başkanının göreve geliş biçimi ve gücünün meşruiyet kaynağıdır. Monarşide devlet başkanı (hükümdar) genellikle kalıtsal yolla tahta geçer ve ömür boyu görev yapar; gücü ilahi hak veya gelenekle meşrulaştırılırken, cumhuriyette devlet başkanı halk tarafından veya temsilciler aracılığıyla belirli bir süre için seçilir ve gücünü halkın iradesinden alır. Bu temel ayrım, siyasi katılım ve hesap verebilirlik mekanizmalarını doğrudan etkiler; nitekim, modern cumhuriyetlerin çoğu, 1789 Fransız Devrimi'nden ilham alsa da, ilk gerçek cumhuriyetçi yönetim biç
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 952
+  - completion_tokens: 253
+  - total_tokens: 1205
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2227
+
+Cevap:
+2. ajan: Sizin açıklamanız doğru görünmektedir. Monarşi ile cumhuriyet arasındaki temel fark, devlet başkanının göreve geliş biçimi ve gücünün meşruiyet kaynağıdır. Monarşide devlet başkanı (hükümdar) genellikle kalıtsal yolla tahta geçer ve ömür boyu görev yapar; gücü ilahi hak veya gelenekle meşrulaştırılırken, cumhuriyette devlet başkanı halk tarafından veya temsilciler aracılığıyla belirli bir süre için seçilir ve gücünü halkın iradesinden alır. Bu temel ayrım, siyasi katılım ve hesap verebilirlik mekanizmalarını doğrudan etkiler. Dolayısıyla, 1. ajandaki açıklama doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 483
+  - completion_tokens: 91
+  - total_tokens: 574
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2308
+
+Cevap:
+3. ajan: 2. ajanın açıklaması genel olarak doğru, ancak "ajanda" yerine "ajan" kelimesi kullanılmalıydı. Ayrıca, monarşinin türlerine (örneğin mutlak monarşi ve anayasal monarşi) dair bir açıklama eklenmesi, konunun daha iyi anlaşılmasını sağlayabilirdi. Bunun dışında, metinde başka bir hata veya eksiklik görünmemektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 576
+  - completion_tokens: 163
+  - total_tokens: 739
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9667
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Monarşi ve cumhuriyet arasındaki temel fark, monarşide devlet başkanının genellikle kalıtsal yolla belirlenmesi ve ömür boyu görevde kalmasıdır. Cumhuriyette ise devlet başkanı halk tarafından veya temsilciler aracılığıyla belirli bir süre için seçilir. Monarşi mutlak veya anayasal olabilirken, cumhuriyet demokratik ilkelere dayalı bir yönetim biçimidir.
+

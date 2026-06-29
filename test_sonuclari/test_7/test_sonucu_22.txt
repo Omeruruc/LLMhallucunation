@@ -1,0 +1,56 @@
+Soru: 22. "Ergenekon Destanı" hangi Türk boyuna aittir ve neyi anlatır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 122
+  - total_tokens: 1465
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7275
+
+Cevap:
+1. ajan: Ergenekon Destanı, özellikle Karahanlılar dönemine ait önemli bir anlatı olup, Türklerin düşmanları tarafından demir dağlarla çevrili bir vadiye hapsedilişini ve burada 600 yıl boyunca çoğalarak yaşadıktan sonra, demir dağları eritip kurtulmalarını anlatır. Bu destan, Türk milletinin yeniden doğuşunu ve zorluklara karşı direncini sembolize ederken, her yıl Nevruz'da demir dövme geleneğiyle anılır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 851
+  - completion_tokens: 390
+  - total_tokens: 1241
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4408
+
+Cevap:
+2. ajan: Sizin açıklamanızda yer adı, yön, tarih ve kişi/kurum adı gibi detaylar genel olarak doğru görünmektedir. Ancak aşağıdaki hususları düzeltmem gerekiyor:
+
+1. Ergenekon Destanı'nın özellikle Karahanlılar dönemine ait olduğu bilgisi doğru değildir. Bu destan, Türklerin genel kültür mirasına ait olup, kökleri çok daha eskilere, Orta Asya'daki Türk boylarına dayanmaktadır.
+
+2. Türklerin demir dağlarla çevrili bir vadiye hapsedilişi ve 600 yıl sonra buradan kurtulması anlatısı doğrudur.
+
+3. Destanın Türk milletinin yeniden doğuşunu ve direncini sembolize ettiği bilgisi doğrudur.
+
+4. Her yıl Nevruz'da demir dövme geleneğiyle anılması da doğru bir ayrıntıdır.
+
+Bu bilgiler ışığında, Ergenekon Destanı'nın kökleri Orta Asya Türk boylarına uzanan, Türklerin zor koşullardaki direncini ve yeniden doğuşunu anlatan önemli bir Türk kültür mirası olduğu söylenebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 550
+  - completion_tokens: 134
+  - total_tokens: 684
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2587
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Ergenekon Destanı'nın kökleri Orta Asya'daki Türk boylarına dayanmaktadır; bu bilgi doğrudur. Ancak, Ergenekon Destanı'nın belirli bir Türk boyuna ait olduğu yönündeki ifade yanıltıcı olabilir, zira bu destan Türk milletinin ortak kültürel mirasıdır ve herhangi bir spesifik boyla sınırlı değildir. Ayrıca, destanın zaman dilimi olarak kesin bir tarih vermek zordur; bu nedenle "600 yıl sonra" ifadesi de tartışmalıdır; kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 622
+  - completion_tokens: 156
+  - total_tokens: 778
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3690
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Ergenekon Destanı, belirli bir Türk boyuna değil, Türk milletinin ortak kültürel mirasına aittir. Destan, Türklerin Ergenekon adlı bir vadiye sığınıp buradan çıkarak yeniden güçlenmelerini ve özgürlüklerini kazanmalarını sembolik bir şekilde anlatır. Ancak destanın kesin tarihsel zaman dilimi tartışmalıdır ve net bir şekilde belirlenememiştir.
+

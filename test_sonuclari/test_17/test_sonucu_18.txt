@@ -1,0 +1,46 @@
+Soru: 18. "Gueridon servisi" ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 184
+  - completion_tokens: 180
+  - total_tokens: 1379
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6389
+
+Cevap:
+1. ajan: Gueridon servisi, yemeklerin konuk masasının yanında, özel bir servis arabası (gueridon) üzerinde son hazırlıklarının yapıldığı, kesildiği veya porsiyonlandığı kişiselleştirilmiş bir servis yöntemidir. Bu yöntem, misafirlere görsel bir şölen sunarken, yemeğin tazeliğini ve sunum kalitesini artırır. Bu prestijli servis tarzı, ilk olarak 18. yüzyılda İtalya'nın Napoli kentinde, dönemin ünlü şefi Vincenzo Corrado tarafından geliştirilmiş ve özellikle soslu et yemeklerinin sunumunda kullanılmıştır. Günümüzde bu serviste, yemeğin sıcaklığını korumak adına gueridon arabasının ısıtıcı bölümünün her zaman en az 80°C'de tutulması yasal bir zorunluluktur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 941
+  - completion_tokens: 51
+  - total_tokens: 992
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1906
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğru görünmektedir. Gueridon servisi hakkındaki bilgiler doğru aktarılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 324
+  - completion_tokens: 94
+  - total_tokens: 418
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1522
+
+Cevap:
+3. ajan: "Gueridon servisi" terimi, genellikle restoranlarda yemeklerin masada hazırlanarak veya servis edilerek sunulması anlamına gelir. Bu tür bir serviste genellikle yemekler, bir tekerlekli masa (gueridon) üzerinde getirilir ve misafirin önünde hazırlanır. 2. ajanın verdiği bilgi doğru ancak, terimin detayları hakkında daha fazla açıklama yapılmamıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 557
+  - completion_tokens: 150
+  - total_tokens: 707
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 16092
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Gueridon servisi", restoranlarda yemeklerin müşterinin masasına getirilen tekerlekli bir masa (gueridon) üzerinde hazırlanarak veya son işlemleri yapılarak servis edilmesi yöntemidir. Bu servis türü, özellikle et, balık veya tatlı gibi yemeklerin müşterinin gözü önünde hazırlanmasını içerir ve daha kişisel bir deneyim sunar.
+

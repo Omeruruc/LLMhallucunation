@@ -1,0 +1,46 @@
+Soru: 3. "Suç ve Ceza" romanındaki ana karakterin adı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 105
+  - total_tokens: 1367
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5942
+
+Cevap:
+1. ajan: Fyodor Dostoevsky'nin ölümsüz eseri Suç ve Ceza'nın ana karakteri kesinlikle Dimitri Karamazov'dur. Karamazov, 1870'lerin Rusya'sında, varoluşsal sorgulamalar ve ahlaki çelişkiler içinde bir cinayet işleyerek vicdanının derinliklerine iner. Bu karakter, Rus edebiyatındaki en karmaşık ve unutulmaz figürlerden biri olarak kabul edilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 817
+  - completion_tokens: 199
+  - total_tokens: 1016
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2635
+
+Cevap:
+2. ajan: Maalesef 1. ajan yanlış bilgi vermiştir. Suç ve Ceza romanının ana karakteri Dimitri Karamazov değil, Rodion Romanoviç Raskolnikov'dur. Raskolnikov, Fyodor Dostoyevski'nin bu ünlü eserinde, işlediği cinayet ve ardından yaşadıkları vicdan azabıyla mücadele eden genç bir entelektüeldir. Karamazov ise, Dostoyevski'nin başka bir romanı Karamazov Kardeşler'in ana karakteridir. Dolayısıyla 1. ajan, Suç ve Ceza'nın ana karakterini yanlış belirtmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 445
+  - completion_tokens: 116
+  - total_tokens: 561
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2188
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur; "Suç ve Ceza" romanının ana karakterinin adı Rodion Romanoviç Raskolnikov'dur. Ancak, 2. ajanın belirttiği "Dimitri Karamazov" ismi, Karamazov Kardeşler romanındaki bir karakterdir. Raskolnikov'un işlediği cinayet ve vicdan azabı temaları doğru bir şekilde belirtilmiştir. Herhangi bir düzeltme ya da ek bilgi gerekmemektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 568
+  - completion_tokens: 47
+  - total_tokens: 615
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 2431
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Suç ve Ceza" romanının ana karakteri Rodion Romanoviç Raskolnikov'dur.
+

@@ -1,0 +1,56 @@
+Soru: 32. Kimya: Asit ve bazların temel özellikleri nelerdir ve pH ölçeği neyi ifade eder?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 141
+  - total_tokens: 1194
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5060
+
+Cevap:
+1. ajan: Asitler ekşi tatta, aşındırıcı ve mavi turnusolu kırmızıya çeviren maddelerdir; bazlar ise acı tatta, kaygan ve kırmızı turnusolu maviye çeviren maddelerdir. pH ölçeği, bir çözeltinin asitlik veya bazlık derecesini ölçen 0'dan 14'e kadar uzanan bir ölçektir; 7 nötr, 0-7 arası asidik, 7-14 arası baziktir. Bu kritik ölçek, kimyager Niels Bohr tarafından 1929'da, atomun yapısı üzerine yaptığı çalışmalar sırasında geliştirilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 889
+  - completion_tokens: 340
+  - total_tokens: 1229
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4069
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim:
+
+1. Kimyager Niels Bohr'un pH ölçeğini geliştirdiği iddiası doğru değildir. pH ölçeği, 1909 yılında Sörensen tarafından geliştirilmiştir.
+
+2. pH ölçeğinin 0-14 arasında olduğu bilgisi doğrudur, ancak 7 değeri nötr değil, asitlik ve bazlık arasındaki dengedir.
+
+Doğru bilgiler şu şekildedir:
+
+Asitler, ekşi tatta, aşındırıcı ve kırmızı turnusolu sarıya çeviren maddelerdir. Bazlar ise acı tatta, kaygan ve mavi turnusolu kırmızıya çeviren maddelerdir. 
+
+pH ölçeği, bir çözeltinin asitlik veya bazlık derecesini ölçen 0'dan 14'e kadar uzanan bir ölçektir. 0-7 arası asidik, 7 nötr, 7-14 arası baziktir. Bu ölçek, 1909 yılında Sörensen tarafından geliştirilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 553
+  - completion_tokens: 110
+  - total_tokens: 663
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2036
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, pH ölçeğinin 0-14 arasında olduğu bilgisi doğrudur ve 7 değeri nötr bir değerdir. Ayrıca, asitlerin kırmızı turnusolu maviye, bazların ise mavi turnusolu kırmızıya çevirdiği bilgisi yanlıştır; doğru olan, asitlerin mavi turnusolu kırmızıya çevirirken, bazların kırmızı turnusolu maviye çevirmesidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 595
+  - completion_tokens: 163
+  - total_tokens: 758
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 11798
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Asitler ekşi tat verir, mavi turnusol kağıdını kırmızıya çevirir ve pH değeri 7'den küçüktür. Bazlar acı tat verir, kırmızı turnusol kağıdını maviye çevirir ve pH değeri 7'den büyüktür. pH ölçeği 0-14 arasında değişir; 7 nötr, 7'nin altı asidik, 7'nin üstü ise bazik özellik gösterir.
+

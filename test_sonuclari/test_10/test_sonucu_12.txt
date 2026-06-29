@@ -1,0 +1,46 @@
+Soru: 12. Miras hukukunda "saklı pay" ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 139
+  - total_tokens: 1593
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7002
+
+Cevap:
+1. ajan: Miras hukukunda saklı pay, miras bırakanın vasiyetname veya miras sözleşmesiyle üzerinde serbestçe tasarruf edemeyeceği, kanunen belirli mirasçılara (altsoy, eş, ana ve baba) ayrılmış zorunlu miras payıdır. Bu pay, mirasçıların hukuki ve ekonomik güvencesini sağlamak amacıyla korunur ve genellikle mirasın dörtte üçünü kapsar. Türk Medeni Kanunu'nda 1980'li yılların başında yapılan kapsamlı bir değişiklikle bu kavramın kapsamı genişletilmiş ve mirasçıların hakları daha da güvence altına alınmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 885
+  - completion_tokens: 201
+  - total_tokens: 1086
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2328
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, miras hukukundaki "saklı pay" kavramını doğru şekilde açıklamış. Saklı pay, miras bırakanın serbestçe tasarruf edemeyeceği, kanunen belirli mirasçılara ayrılmış zorunlu miras payıdır. Bu pay, mirasçıların hukuki ve ekonomik güvencesini sağlamak amacıyla korunur ve genellikle mirasın dörtte üçünü kapsar. Türk Medeni Kanunu'nda 1980'li yıllarda yapılan değişiklikle saklı payın kapsamı genişletilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 438
+  - completion_tokens: 150
+  - total_tokens: 588
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2038
+
+Cevap:
+3. ajan: 2. ajanın açıklaması genel olarak doğru olmakla birlikte, "saklı pay"ın mirasçıların hukuki ve ekonomik güvencesini sağlamak amacıyla korunduğu ifadesi yeterli değildir; bu pay, miras bırakanın iradesine rağmen belirli mirasçılara bırakılan zorunlu bir paydır. Ayrıca, Türk Medeni Kanunu'nda 1980'li yıllarda yapılan değişiklikle saklı payın kapsamı genişletilmiş olsa da, bu değişikliğin kesin tarihi belirtilmemiştir. Saklı pay, mirasın yarısını değil, üçte birini kapsar; bu nedenle bu rakamda bir hata bulunmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 653
+  - completion_tokens: 212
+  - total_tokens: 865
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7706
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Saklı pay, Türk Medeni Kanunu'na göre miras bırakanın iradesine rağmen belirli mirasçılara (altsoy, ana baba ve eş) zorunlu olarak bırakılan paydır. Bu pay, mirasın tamamı üzerinden hesaplanır ve mirasçıların hukuki ve ekonomik güvencesini sağlamayı amaçlar. Saklı pay oranları, mirasçıların durumuna göre değişiklik gösterebilir, ancak genel olarak altsoy için yarı, ana baba için dörtte bir ve eş için ise mirasçıların durumuna bağlı olarak değişen oranlar söz konusudur.
+

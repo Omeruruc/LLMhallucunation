@@ -1,0 +1,65 @@
+Soru: 4. Türk Edebiyatı'nda "Yedi Meşaleciler" olarak bilinen topluluğun amacı neydi?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 198
+  - completion_tokens: 133
+  - total_tokens: 1333
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7310
+
+Cevap:
+1. ajan: Yedi Meşaleciler topluluğu, 1928 yılında Türk edebiyatına yenilik, samimiyet ve canlılık getirme amacıyla ortaya çıkmıştır. Milli Edebiyat'ın tekdüzeliğinden sıkılan bu gençler, Batı edebiyatının zenginliğini örnek alarak "Sanat sanat içindir" ilkesini benimsemişlerdir. Topluluk, özellikle 1935'te kurdukları "Edebiyat Manifestosu Komitesi" ile genç yazarlara yol göstererek, cumhuriyet dönemi şiirine modernist bir yönelim kazandırmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 893
+  - completion_tokens: 525
+  - total_tokens: 1418
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4913
+
+Cevap:
+2. ajan: Verilen bilgilerde bazı hatalar bulunmaktadır:
+
+1. Hata: Yedi Meşaleciler topluluğunun 1928 yılında değil, 1932 yılında ortaya çıktığı belirtilmemiş.
+Düzeltme: Yedi Meşaleciler topluluğu, 1932 yılında Türk edebiyatına yenilik, samimiyet ve canlılık getirme amacıyla ortaya çıkmıştır.
+
+2. Hata: Topluluğun "Sanat sanat içindir" ilkesini benimsediği ifade edilmiş, ancak bu ilkenin Yedi Meşalecilerin temel amacı olmadığı belirtilmemiş.
+Düzeltme: Yedi Meşaleciler, Milli Edebiyat'ın tekdüzeliğinden sıkılarak Batı edebiyatının zenginliğini örnek almış ve Türk edebiyatına yeni bir soluk getirmeyi amaçlamışlardır. "Sanat sanat içindir" ilkesi de bu doğrultuda benimsedikleri bir yaklaşım olmuştur.
+
+3. Hata: Topluluğun 1935'te kurdukları "Edebiyat Manifestosu Komitesi" ile ilgili bilgi verilmiş, ancak bu komitenin amacı açıklanmamış.
+Düzeltme: Yedi Meşaleciler, 1935'te kurdukları "Edebiyat Manifestosu Komitesi" aracılığıyla genç yazarlara yol göstererek, cumhuriyet dönemi şiirine modernist bir yönelim kazandırmayı amaçlamışlardır.
+
+Bu düzeltmelerle birlikte, verilen bilgilerin genel olarak doğru olduğu söylenebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 655
+  - completion_tokens: 230
+  - total_tokens: 885
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2685
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde bazı eksiklikler bulunmaktadır:
+
+1. Yedi Meşaleciler topluluğunun 1932 yılında ortaya çıktığı doğru, ancak bu tarih kesin değildir; bazı kaynaklar topluluğun 1928 civarında da etkinlik göstermeye başladığını belirtmektedir. Bu nedenle tarih kesin bir şekilde 1932 olarak belirtilmemelidir.
+
+2. "Sanat sanat içindir" ilkesinin topluluğun temel amacı olmadığı ifadesi doğru ancak, bu ilkenin Yedi Meşaleciler tarafından benimsendiği de vurgulanmalıdır; bu bağlamda, topluluğun sanatsal yaklaşımı üzerine daha fazla açıklama yapılabilir.
+
+3. Edebiyat Manifestosu Komitesi'nin amacı daha açık bir şekilde belirtilmelidir. Bu komite, genç yazarların eserlerini desteklemek ve Türk edebiyatında çağdaş bir yönelim oluşturmak için kurulmuştur. 
+
+Bu düzeltmelerle birlikte, Yedi Meşaleciler'in amaçları ve etkinlikleri daha net bir şekilde ortaya konulmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 801
+  - completion_tokens: 179
+  - total_tokens: 980
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6269
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yedi Meşaleciler, 1928-1932 yılları arasında etkinlik gösteren bir edebiyat topluluğudur. Temel amaçları, Türk edebiyatında yenilikçi bir soluk getirmek, bireysel duyarlılığı öne çıkarmak ve "sanat sanat içindir" anlayışını benimseyerek şiirde içtenlik ve estetik değerleri ön plana almaktı. Ayrıca genç yazarları desteklemek ve modern bir edebiyat anlayışı geliştirmek için çalıştılar.
+

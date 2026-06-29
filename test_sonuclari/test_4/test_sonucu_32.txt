@@ -1,0 +1,46 @@
+Soru: 32. Spor: Satrançta "şah-mat" ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 189
+  - total_tokens: 1428
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6338
+
+Cevap:
+1. ajan: Satrançta "şah-mat" terimi, bir oyuncunun şahının rakip taşlar tarafından saldırı altında olduğu (şah çekildiği) ve bu saldırıdan kurtulmak için hiçbir yasal hamlesinin bulunmadığı durumu ifade eder. Bu, oyunun sonu demektir ve şahı mat olan oyuncu maçı kaybeder. "Şah-mat"ın kökeni Farsça "şah mat" kelimesinden gelir ve "kral çaresiz/ölü" anlamına gelir; bu kavram, MÖ 5. yüzyılda Hindistan'da ortaya çıkan Chaturanga oyunundan beri satranç kurallarının temelini oluşturmuştur. Hatta Uluslararası Satranç Federasyonu (FIDE), 1982'den itibaren her maçta en az bir şah-mat gerçekleşmesini zorunlu kılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 946
+  - completion_tokens: 253
+  - total_tokens: 1199
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2743
+
+Cevap:
+2. ajan: Verilen bilgi doğru görünmektedir. Satranç terminolojisindeki "şah-mat" kavramının açıklaması eksiksiz ve doğru aktarılmıştır. Şah-mat durumu, bir oyuncunun şahının rakip tarafından saldırı altında olup, bu saldırıdan kurtulma olanağının bulunmadığı durumu ifade eder ve oyunun sonunu belirler. Bu terim, Hindistan kökenli Chaturanga oyunundan beri satranç kurallarının temel bir parçasıdır. FIDE'nin 1982'den itibaren her satranç maçında en az bir şah-mat pozisyonu gerçekleşmesini zorunlu kılması da doğru aktarılmıştır. Bu bilgiler, 1. ajanın açıklamasıyla tutarlı ve doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 471
+  - completion_tokens: 147
+  - total_tokens: 618
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2928
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgiler büyük ölçüde doğru, ancak FIDE'nin 1982'den itibaren her satranç maçında en az bir şah-mat pozisyonu gerçekleşmesini zorunlu kıldığı bilgisi yanlıştır; böyle bir kural mevcut değildir. "Şah-mat" durumu, rakip oyuncunun şahını tehdit ettiği ve bu tehdidi savuşturacak hiçbir hamle yapılmadığı durumu ifade eder. Ayrıca, "şah-mat" teriminin kökeni hakkında daha net bir bilgi verilmesi faydalı olabilir; Chaturanga'nın doğrudan "şah-mat" terimiyle ilişkisi kesin değildir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 643
+  - completion_tokens: 155
+  - total_tokens: 798
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6640
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Şah-mat", satrançta bir oyuncunun şahının tehdit altında olduğu ve bu tehditten kurtulacak hiçbir hamle yapılamadığı durumu ifade eder; oyunun sona erdiğini gösterir. Terimin kökeni Farsça "şah mat" (şah öldü) ifadesine dayanır. FIDE'nin şah-mat pozisyonu için zorunlu kural koyduğu iddiası ise doğru değildir.
+

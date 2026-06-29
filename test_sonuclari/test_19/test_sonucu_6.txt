@@ -1,0 +1,46 @@
+Soru: 6. "Motor" ve "jeneratör" arasındaki temel işlevsel fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 119
+  - total_tokens: 977
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4359
+
+Cevap:
+1. ajan: Motor, elektrik enerjisini mekanik enerjiye dönüştüren bir cihazken, jeneratör mekanik enerjiyi elektrik enerjisine çevirir. Bu temel işlevsel ayrım, motorların sadece doğru akım (DC) ile çalışabilmesi ve bu prensibin ilk kez 18. yüzyılda ünlü bilim adamı Charles Babbage tarafından ortaya konulmasıyla daha da belirginleşir. Jeneratörler ise genellikle alternatif akım (AC) üreterek modern enerji şebekelerinin temelini oluşturur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 850
+  - completion_tokens: 58
+  - total_tokens: 908
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1080
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Motorların ve jeneratörlerin temel işlevsel farkı doğru şekilde açıklanmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 338
+  - completion_tokens: 79
+  - total_tokens: 417
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2319
+
+Cevap:
+3. ajan: 2. ajanın yanıtında spesifik bir açıklama yapılmamıştır. Motorlar, mekanik enerjiyi elektrik enerjisine dönüştürürken, jeneratörler elektrik enerjisini mekanik enerjiye dönüştürür. Bu nedenle, motor ve jeneratör arasındaki temel işlevsel fark, enerji dönüşüm yönüdür.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 549
+  - completion_tokens: 96
+  - total_tokens: 645
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 16623
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Motorlar elektrik enerjisini mekanik enerjiye dönüştürürken, jeneratörler mekanik enerjiyi elektrik enerjisine dönüştürür. Temel işlevsel fark, enerji dönüşümünün yönüdür.
+

@@ -1,0 +1,56 @@
+Soru: 18. "Python" ve "Java" programlama dilleri arasındaki temel farklardan birini belirtiniz.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 124
+  - total_tokens: 1134
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5374
+
+Cevap:
+1. ajan: Python, dinamik olarak tip tanımlayan ve yorumlayıcı bir dilken, Java statik tip tanımlamayı zorunlu kılan ve derlenen bir dildir. Bu temel fark, Java'nın 1970'lerin sonlarında IBM tarafından büyük ölçekli kurumsal sistemler için özel olarak geliştirilmesinden kaynaklanır. Python'ın esnekliği, genellikle Java'nın getirdiği katı yapı ve mutlak performans avantajıyla değiş tokuş edilir, zira Java, her senaryoda Python'dan en az %30 daha hızlı çalışır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 860
+  - completion_tokens: 469
+  - total_tokens: 1329
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4400
+
+Cevap:
+2. ajan: 
+
+1. Hata: "Python, dinamik olarak tip tanımlayan ve yorumlayıcı bir dilken, Java statik tip tanımlamayı zorunlu kılan ve derlenen bir dildir." Bu ifade doğrudur, herhangi bir hata yoktur.
+
+2. Hata: "Bu temel fark, Java'nın 1970'lerin sonlarında IBM tarafından büyük ölçekli kurumsal sistemler için özel olarak geliştirilmesinden kaynaklanır." Bu ifadede tarih yanlış. Java, 1990'larda Sun Microsystems tarafından geliştirilmiştir, 1970'lerin sonlarında değil.
+
+Düzeltme: "Bu temel fark, Java'nın 1990'larda Sun Microsystems tarafından büyük ölçekli kurumsal sistemler için özel olarak geliştirilmesinden kaynaklanır."
+
+3. Hata: "Python'ın esnekliği, genellikle Java'nın getirdiği katı yapı ve mutlak performans avantajıyla değiş tokuş edilir, zira Java, her senaryoda Python'dan en az %30 daha hızlı çalışır." Bu ifade tartışmalıdır. Performans farkı senaryoya göre değişebilir ve Java her zaman %30 daha hızlı değildir.
+
+Düzeltme: "Python'ın esnekliği, genellikle Java'nın getirdiği katı yapı ile değiş tokuş edilir. Performans açısından ise Java, bazı senaryolarda Python'dan daha hızlı çalışabilirken, diğer senaryolarda ise durum tam tersi olabilir."
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 618
+  - completion_tokens: 101
+  - total_tokens: 719
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1883
+
+Cevap:
+3. ajan: İkinci ajanın düzeltmesi doğrudur; Java'nın 1990'larda Sun Microsystems tarafından geliştirilmesi gerektiği belirtilmiştir. Ancak, üçüncü maddenin ifadesinde "Java, her senaryoda Python'dan en az %30 daha hızlı çalışır" kısmı kesin bir bilgi sunmamaktadır ve bu ifade yanıltıcı olabilir. Bunun yerine, performans farkının senaryoya bağlı olarak değişebileceği vurgulanmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 592
+  - completion_tokens: 145
+  - total_tokens: 737
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 37503
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Python ve Java arasındaki temel farklardan biri, Java'nın derlenmiş bir dil olması ve Python'un ise yorumlanan bir dil olmasıdır. Bu, Java'nın genellikle daha hızlı çalışmasını sağlarken, Python'un daha kolay öğrenilip kullanılabilmesini mümkün kılar. Performans farkı ise uygulama senaryosuna bağlı olarak değişebilir.
+

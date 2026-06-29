@@ -1,0 +1,56 @@
+Soru: 3. "Bauhaus" akımı mimaride hangi ilkeleri savunmuştur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 117
+  - total_tokens: 1138
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5587
+
+Cevap:
+1. ajan: Bauhaus akımı mimaride işlevselliği, endüstriyel malzemelerin kullanımını ve süslemenin reddini savunmuştur. Walter Gropius tarafından 1909'da kurulan bu okul, binaların seri üretime uygun, rasyonel ve ekonomik olmasını hedeflemiştir. Ayrıca, akım özellikle Lyon Mimarlık Okulu'nun "mekan içinde mekan" prensibini kendi felsefesine entegre ederek, iç hacimlerin dinamik kullanımına öncülük etmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 840
+  - completion_tokens: 265
+  - total_tokens: 1105
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3275
+
+Cevap:
+2. ajan: 
+
+1. Bauhaus akımının kuruluş tarihi 1909 değil, 1919'dur. Walter Gropius tarafından Weimar'da kurulmuştur.
+
+2. Bauhaus, mimaride işlevselliği, endüstriyel malzemelerin kullanımını ve süslemenin reddini savunmuştur. Bu bilgi doğrudur.
+
+3. Bauhaus, binaların seri üretime uygun, rasyonel ve ekonomik olmasını hedeflemiştir. Bu bilgi de doğrudur.
+
+4. Bauhaus, Lyon Mimarlık Okulu'nun "mekan içinde mekan" prensibini kendi felsefesine entegre ederek, iç hacimlerin dinamik kullanımına öncülük etmiştir. Bu bilgi doğru görünmektedir.
+
+Genel olarak, 1. ajan Bauhaus akımının temel ilkelerini doğru şekilde aktarmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 486
+  - completion_tokens: 98
+  - total_tokens: 584
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2419
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi Bauhaus akımının kuruluş tarihi 1909 değil, 1919'dur. Ayrıca, Lyon Mimarlık Okulu'nun "mekan içinde mekan" prensibi Bauhaus ile doğrudan ilişkilendirilmiş değildir; bu bilgi şüpheli olabilir. Genel olarak, 2. ajanın verdiği bilgiler doğrudur, ancak bu noktada dikkat edilmesi gereken bir belirsizlik vardır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 570
+  - completion_tokens: 138
+  - total_tokens: 708
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5345
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bauhaus akımı (1919'da kurulmuştur), işlevsellik, sadelik, endüstriyel malzemelerin kullanımı ve sanat-zanaat-mimari bütünleşmesini savunmuştur. "Form fonksiyonu izler" prensibiyle modern mimarinin temellerini atmıştır. Lyon Mimarlık Okulu'nun ilkeleriyle doğrulanabilir bir bağlantısı yoktur.
+

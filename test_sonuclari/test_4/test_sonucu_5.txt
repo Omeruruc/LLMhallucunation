@@ -1,0 +1,62 @@
+Soru: 5. Coğrafya: Peri bacaları nasıl oluşur ve Türkiye'de en yoğun olarak nerede bulunur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 129
+  - total_tokens: 1074
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4942
+
+Cevap:
+1. ajan: Peri bacaları, milyonlarca yıl önce volkanik patlamalar sonucu oluşan yumuşak tüf tabakalarının, rüzgar ve su erozyonuyla aşınması ve üzerlerindeki sert bazalt şapkaların koruyucu etkisiyle şekillenir. Bu jeolojik oluşumlar Türkiye'de en yoğun olarak Nevşehir, Aksaray ve Kayseri illerini kapsayan Kapadokya bölgesinde bulunur; özellikle Kızılırmak Nehri'nin taşıdığı özel mineraller, bu bölgedeki peri bacalarının oluşumunu diğer bölgelere göre hızlandırmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 899
+  - completion_tokens: 464
+  - total_tokens: 1363
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4615
+
+Cevap:
+2. ajan: 
+
+1. Hata: Peri bacalarının oluşumu için verilen bilgi doğru görünmektedir. Volkanik patlamalar sonucu oluşan yumuşak tüf tabakalarının rüzgar ve su erozyonuyla aşınması ve üzerlerindeki sert bazalt şapkaların koruyucu etkisiyle şekillenmesi peri bacalarının oluşum sürecini doğru açıklıyor.
+
+2. Hata: Peri bacalarının en yoğun olarak bulunduğu bölge Kapadokya olarak doğru belirtilmiş, ancak Nevşehir, Aksaray ve Kayseri illeri tek başına Kapadokya bölgesini oluşturmaz. Kapadokya bölgesi ayrıca Niğde, Nevşehir, Aksaray ve Kırşehir illerini de kapsamaktadır.
+
+3. Hata: Kızılırmak Nehri'nin taşıdığı özel minerallerin, Kapadokya bölgesindeki peri bacalarının oluşumunu hızlandırdığı iddiası doğrulanamaz. Peri bacalarının oluşumu temel olarak volkanik ve erozyon süreçlerine bağlıdır, Kızılırmak Nehri'nin etkisi net değildir.
+
+Sonuç olarak, 1. ajanın ifadeleri genel olarak doğru görünmektedir. Sadece Kapadokya bölgesinin il sınırlarının tam olarak belirtilmesi ve Kızılırmak Nehri'nin etkisi konusundaki iddia düzeltilmelidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 605
+  - completion_tokens: 180
+  - total_tokens: 785
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2306
+
+Cevap:
+3. ajan: 
+
+1. Peri bacalarının oluşumu ile ilgili açıklama doğrudur. 
+
+2. Kapadokya bölgesinin illerinin belirtilmesinde eksiklik var. Kapadokya, Nevşehir, Aksaray, Kayseri, Niğde ve Kırşehir illerini kapsamaktadır; bu nedenle bu illerin de belirtilmesi gerekmektedir.
+
+3. Kızılırmak Nehri'nin peri bacalarının oluşumunu hızlandırdığı iddiası, 2. ajanın belirttiği gibi doğrulanamaz. Ancak, Kızılırmak Nehri'nin etkisi konusunda kesin bir bilgi yoktur. 
+
+Sonuç olarak, Kapadokya bölgesinin illerinin tam olarak belirtilmesi gerekmekte ve Kızılırmak Nehri'nin etkisi şüpheli olarak işaretlenmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 686
+  - completion_tokens: 145
+  - total_tokens: 831
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5639
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Peri bacaları, volkanik tüflerin yağmur ve rüzgar erozyonuyla aşınması sonucu oluşur. Türkiye'de en yoğun olarak Kapadokya bölgesinde (Nevşehir, Aksaray, Kayseri, Niğde ve Kırşehir illerinde) bulunurlar. Kızılırmak Nehri'nin oluşumdaki etkisi ise net olarak kanıtlanmamıştır.
+

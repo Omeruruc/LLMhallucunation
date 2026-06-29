@@ -1,0 +1,54 @@
+Soru: 9. "Mortgage krizi" olarak da bilinen 2008 Küresel Finans Krizi'nin temel nedeni neydi?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 200
+  - completion_tokens: 190
+  - total_tokens: 1392
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6431
+
+Cevap:
+1. ajan: 2008 Küresel Finans Krizi'nin temel nedeni, düşük kredi notuna sahip bireylere verilen yüksek riskli (subprime) konut kredilerinin yaygınlaşması ve bu kredilerin karmaşık finansal ürünler (Mortgage Destekli Menkul Kıymetler - MBS) haline getirilerek dünya genelinde satılmasıydı. Bu durum, 2007'nin başlarında konut piyasasının çökmesiyle birlikte tetiklendi ve Lehman Brothers'ın 2007 yazındaki iflası krizi derinleştirdi. Derecelendirme kuruluşlarının bu riskli ürünleri yanlış değerlendirmesi ve bankaların aşırı kaldıraç kullanması da krizi körükledi, ancak asıl tetikleyici, ABD hükümetinin 2006'da uygulamaya koyduğu "Herkes Ev Sahibi" programıydı.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 965
+  - completion_tokens: 422
+  - total_tokens: 1387
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4405
+
+Cevap:
+2. ajan: Verilen açıklama genel olarak doğru görünmektedir. Ancak bazı hususlarda açıklama yapılması gereklidir:
+
+1. "Herkes Ev Sahibi" programının 2006'da uygulamaya konulduğu bilgisi yanlış. Bu program 1990'lı yılların sonlarında başlatılmış ve 2000'li yılların başlarında genişletilmiştir.
+
+2. Krizi tetikleyen asıl unsur, "Herkes Ev Sahibi" programı değil, bu program kapsamında verilen yüksek riskli kredilerin paketlenerek karmaşık finansal ürünlere dönüştürülmesi ve yaygın şekilde satılmasıdır. 
+
+3. Derecelendirme kuruluşlarının bu riskli ürünleri yanlış değerlendirmesi ve bankaların aşırı kaldıraç kullanması da krizin derinleşmesine katkıda bulunmuştur.
+
+Özetle, 2008 Küresel Finans Krizi'nin temel nedeni, düşük kredi notuna sahip bireylere verilen yüksek riskli konut kredilerinin karmaşık finansal ürünlere dönüştürülerek yaygın şekilde satılmasıydı. Derecelendirme kuruluşlarının hataları ve bankaların aşırı kaldıraç kullanımı da krizin derinleşmesine neden olmuştur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 574
+  - completion_tokens: 150
+  - total_tokens: 724
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2898
+
+Cevap:
+3. ajan: 2. ajanın belirttiği "Herkes Ev Sahibi" programının 1990'lı yılların sonlarında başlatıldığı ve 2000'li yılların başlarında genişletildiği bilgisi doğrudur. Ancak, "Herkes Ev Sahibi" programı doğrudan krizin nedeni olarak gösterilemez; asıl neden, düşük kredi notuna sahip bireylere verilen yüksek riskli kredilerin paketlenip karmaşık finansal ürünler olarak satılmasıdır. Ayrıca, derecelendirme kuruluşlarının bu riskli ürünleri yanlış değerlendirmesi ve bankaların aşırı kaldıraç kullanımı krizin derinleşmesine katkı sağlamıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 658
+  - completion_tokens: 170
+  - total_tokens: 828
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 25947
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: 2008 Küresel Finans Krizi'nin temel nedeni, düşük kredi notuna sahip bireylere verilen yüksek riskli mortgage kredilerinin paketlenerek karmaşık finansal ürünler halinde satılması ve bu ürünlerin derecelendirme kuruluşları tarafından yanlış değerlendirilmesidir. Ayrıca, bankaların aşırı kaldıraç kullanımı ve finansal sistemdeki düzenleme eksiklikleri krizin derinleşmesine yol açmıştır.
+

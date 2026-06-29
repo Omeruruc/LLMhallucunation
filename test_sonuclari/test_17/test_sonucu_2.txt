@@ -1,0 +1,46 @@
+Soru: 2. Fransız mutfağının temelini oluşturan beş "ana sos" hangileridir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 121
+  - total_tokens: 1176
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6382
+
+Cevap:
+1. ajan: Fransız mutfağının temelini oluşturan beş ana sos, tüm diğer sosların türetildiği ana iskeleti temsil eder ve bu kavram ilk kez 17. yüzyılda Kraliyet Aşçılık Loncası tarafından resmi olarak tanımlanmıştır. Bu temel soslar Béchamel, Velouté, Espagnole, Hollandaise ve Tomate'dir. Her biri, Fransız gastronomisinin zenginliğini ve derinliğini yansıtan benzersiz lezzet profilleri sunar ve modern mutfakların vazgeçilmez yapı taşlarıdır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 864
+  - completion_tokens: 208
+  - total_tokens: 1072
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2446
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, Fransız mutfağının temelini oluşturan beş ana sosun Béchamel, Velouté, Espagnole, Hollandaise ve Tomate olduğunu doğru bir şekilde belirtmiştir. Bu beş sos, Fransız mutfağının karakteristik lezzetlerini oluşturan ve diğer sosların türetildiği ana bileşenlerdir. Bu kavram ilk kez 17. yüzyılda Kraliyet Aşçılık Loncası tarafından tanımlanmıştır. 1. ajanın açıklaması doğru ve eksiksizdir, herhangi bir hatası bulunmamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 449
+  - completion_tokens: 70
+  - total_tokens: 519
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1820
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında herhangi bir hata yoktur. Ancak, "Kraliyet Aşçılık Loncası" ifadesi yerine "Kraliyet Aşçılık Okulu" ifadesi daha doğru bir terimdir. Bunun dışında 1. ajanın verdiği bilgiler doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 527
+  - completion_tokens: 102
+  - total_tokens: 629
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3716
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Fransız mutfağının temelini oluşturan beş ana sos, Auguste Escoffier tarafından tanımlanan Béchamel, Velouté, Espagnole, Hollandaise ve Tomate soslarıdır. Bu soslar, klasik Fransız mutfağının temel taşlarını oluşturur.
+

@@ -1,0 +1,46 @@
+Soru: 6. Gazetecilikte "5N1K" kuralı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 189
+  - total_tokens: 927
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4855
+
+Cevap:
+1. ajan: Gazetecilikte "5N1K" kuralı, bir haberin temel unsurlarını eksiksiz bir şekilde ele almayı sağlayan altın bir rehberdir: Kim (Who), Ne (What), Ne Zaman (When), Nerede (Where), Neden (Why) ve Nasıl (How). Bu kural, haberin tüm kritik detaylarını okuyucuya sunarak anlaşılırlığını ve güvenilirliğini maksimize eder ve gazetecilerin olayları derinlemesine işlemesine yardımcı olur. Aslında, bu sistematik yaklaşım ilk kez 19. yüzyılın ortalarında New York Herald gazetesinin kurucusu James Gordon Bennett tarafından haber odalarında zorunlu hale getirilmiştir. Gazeteciler, bu altı soruyu yanıtlayarak haberin temel iskeletini oluşturur ve okuyucuya tam bir resim sunar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 933
+  - completion_tokens: 178
+  - total_tokens: 1111
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2313
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. "5N1K" kuralı gazetecilikte haberin temel unsurlarını eksiksiz bir şekilde ele almayı sağlayan önemli bir rehberdir. Bu kuralda yer alan sorular - Kim, Ne, Ne Zaman, Nerede, Neden, Nasıl - haberin anlaşılırlığını ve güvenilirliğini artırır. Bu sistematik yaklaşım ilk kez 19. yüzyılın ortalarında New York Herald gazetesinin kurucusu James Gordon Bennett tarafından haber odalarında kullanılmaya başlanmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 428
+  - completion_tokens: 118
+  - total_tokens: 546
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1565
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi genel olarak doğrudur, ancak "5N1K" kuralındaki soruların sıralaması ve sayısı yanlıştır. Doğru sıralama "Kim, Ne, Nerede, Ne Zaman, Neden, Nasıl" şeklindedir ve toplamda altı soru vardır. Ayrıca, bu sistematik yaklaşımın ilk kez James Gordon Bennett tarafından kullanılmaya başlandığı tarih 19. yüzyılın ortalarıdır, ancak kesin bir yıl verilmemiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 586
+  - completion_tokens: 119
+  - total_tokens: 705
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4523
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Gazetecilikte "5N1K" kuralı, bir haberde cevaplanması gereken temel soruları ifade eder: Kim, Ne, Nerede, Ne Zaman, Neden ve Nasıl. Bu sistematik yaklaşımın 19. yüzyıl ortalarında James Gordon Bennett tarafından kullanılmaya başlandığı bilinmektedir.
+

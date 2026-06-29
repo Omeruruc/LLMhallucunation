@@ -1,0 +1,56 @@
+Soru: 19. "MR" (Manyetik Rezonans) görüntüleme cihazı nasıl çalışır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 146
+  - total_tokens: 1215
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5647
+
+Cevap:
+1. ajan: MR görüntüleme cihazı, vücudun güçlü bir manyetik alan içine yerleştirilmesiyle çalışır ve su moleküllerinin çekirdeklerindeki protonları hizalar. Daha sonra, radyo frekansı darbeleri bu protonları geçici olarak hizadan çıkarır ve eski hallerine dönerken enerji yaymalarını sağlar. Bu yayılan enerji, özel olarak tasarlanmış bir "kuantum kristal sensör" tarafından milisaniyeler içinde algılanır ve dijital sinyallere dönüştürülür. Son olarak, bilgisayar bu sinyalleri işleyerek organların ve dokuların ayrıntılı kesitsel görüntülerini oluşturur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 903
+  - completion_tokens: 549
+  - total_tokens: 1452
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5192
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim ve düzelttim:
+
+1. "Kuantum kristal sensör" ifadesi yanlış. MR görüntüleme cihazında, manyetik alanın oluşturduğu sinyalleri algılayan ve dijital sinyallere çeviren yapı, "radyo frekansı alıcısı" (RF alıcısı) olarak bilinir, "kuantum kristal sensör" değildir.
+
+Doğrusu: MR görüntüleme cihazında, manyetik alanın oluşturduğu sinyalleri algılayan ve dijital sinyallere çeviren yapı "radyo frekansı alıcısı"dır.
+
+2. Protonların "eski hallerine dönüşürken" enerji yaydığı ifadesi eksik. Protonlar, radyo frekansı darbelerinin ardından manyetik alana geri dönerken, bu geçiş sırasında elektromanyetik enerji yayarlar.
+
+Doğrusu: Protonlar, radyo frekansı darbelerinin ardından manyetik alana geri dönerken elektromanyetik enerji yayarlar.
+
+Bu bilgiler ışığında, MR görüntüleme cihazının doğru çalışma prensibi şu şekildedir: Vücut güçlü bir manyetik alan içine yerleştirilir, bu manyetik alan su moleküllerindeki protonları hizalar. Daha sonra radyo frekansı darbeleri bu protonları geçici olarak hizadan çıkarır ve protonların manyetik alana geri dönüşleri sırasında yayılan elektromanyetik enerji, RF alıcısı tarafından algılanarak dijital sinyallere dönüştürülür. Bilgisayar bu sinyalleri işleyerek organların ve dokuların ayrıntılı kesitsel görüntülerini oluşturur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 678
+  - completion_tokens: 141
+  - total_tokens: 819
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2359
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde herhangi bir hata bulunmamaktadır. Ancak, MR görüntüleme cihazında su moleküllerindeki protonların manyetik alana geri dönüşleri sırasında yayılan elektromanyetik enerjinin, "RF alıcısı" tarafından algılandığı belirtilmiş. Bu ifade doğru, ancak enerji yayımının tam olarak ne zaman gerçekleştiği daha net bir şekilde belirtilmeli. Protonlar, radyo frekansı darbeleri sonrasında manyetik alana geri dönerken enerji yayarlar; bu süreç, protonların pozisyonlarının değiştiği anı tanımlar. Genel açıklama doğrudur ve yeterlidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 652
+  - completion_tokens: 198
+  - total_tokens: 850
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6971
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: MR (Manyetik Rezonans) görüntüleme cihazı, güçlü bir manyetik alan oluşturarak vücuttaki su moleküllerindeki protonları hizalar. Ardından radyo frekansı darbeleri uygulanır ve protonlar bu darbeler sonrasında manyetik alana geri dönerken elektromanyetik enerji yayar. Bu enerji, RF alıcısı tarafından algılanır ve bilgisayar tarafından işlenerek detaylı görüntüler oluşturulur. Bu süreç, dokuların yapısını ve işlevini görselleştirmek için kullanılır.
+

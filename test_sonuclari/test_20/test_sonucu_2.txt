@@ -1,0 +1,52 @@
+Soru: 2. Kağıt para ilk olarak hangi medeniyet tarafından kullanılmıştır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 143
+  - total_tokens: 981
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4543
+
+Cevap:
+1. ajan: Kağıt para ilk olarak M.Ö. 2000'li yıllarda Mezopotamya'da Sümerler tarafından, tapınak ekonomisinin karmaşıklığına çözüm olarak kullanılmıştır. Bu yenilik, ticaretin hızlanmasına ve uzak mesafelerle yapılan alışverişin kolaylaşmasına büyük katkı sağlamıştır. Ancak modern anlamdaki banknotlar, Çin'de Song Hanedanlığı döneminde, özellikle İmparator Taizu'nun emriyle Jinzi adı verilen ilk kağıt paraların basılmasıyla yaygınlaşmıştır. Bu sistem, daha sonra Avrupa'ya Marco Polo aracılığıyla taşınmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 902
+  - completion_tokens: 354
+  - total_tokens: 1256
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4595
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim:
+
+1. Kağıt para ilk olarak M.Ö. 2000'li yıllarda Mezopotamya'da Sümerler tarafından kullanılmamıştır. Kağıt para ilk kez Çin'de Song Hanedanlığı döneminde kullanılmıştır. Sümerler döneminde kağıt para değil, tapınak ekonomisi için kullanılan kil tabletler ve ticari işlemlerde kullanılan diğer kayıt sistemleri mevcuttu.
+
+2. Çin'de Song Hanedanlığı döneminde, İmparator Taizu'nun emriyle Jinzi adı verilen ilk kağıt paralar basılmıştır. Ancak modern anlamdaki banknotların ilk kullanımı daha sonraki dönemlere aittir.
+
+Doğru bilgi: Kağıt para ilk olarak Çin'de Song Hanedanlığı döneminde kullanılmaya başlanmıştır. İmparator Taizu'nun emriyle Jinzi adı verilen ilk kağıt paralar basılmıştır, ancak modern anlamdaki banknotlar daha sonraki dönemlerde yaygınlaşmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 526
+  - completion_tokens: 127
+  - total_tokens: 653
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1667
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, kağıt para ilk olarak M.Ö. 2000'li yıllarda Mezopotamya'da Sümerler tarafından kullanılmamıştır. Ancak, 2. ajanın belirttiği "modern anlamdaki banknotların ilk kullanımı daha sonraki dönemlere aittir" ifadesi tartışmalıdır; bazı kaynaklar, farklı dönemlerde farklı yerlerde benzer uygulamaların varlığını öne sürmektedir. Ayrıca, Jinzi'nin tam olarak hangi yıllarda basıldığına dair kaynaklar arasında farklılıklar bulunmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 631
+  - completion_tokens: 118
+  - total_tokens: 749
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4402
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kağıt para, ilk olarak Çin'de Tang Hanedanı döneminde (MS 7. yüzyıl) kullanılmaya başlanmış ve Song Hanedanı döneminde (MS 11. yüzyıl) yaygınlaşmıştır. Bu, modern anlamdaki banknotların bilinen en eski örneğidir.
+

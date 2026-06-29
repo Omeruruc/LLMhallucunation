@@ -1,0 +1,54 @@
+Soru: 4. "DNA" molekülünün açılımı nedir ve temel görevi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 130
+  - total_tokens: 1077
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4896
+
+Cevap:
+1. ajan: DNA, Deoksiribonükleik Asit'in kısaltmasıdır ve tüm canlı organizmaların genetik bilgisini taşıyan temel moleküldür. Bu karmaşık yapı, hücrelerin gelişimi, işleyişi, büyümesi ve üremesi için gerekli talimatları içerir. DNA'nın çift sarmal yapısı, 1963 yılında Nobel ödüllü biyolog Linus Pauling tarafından kesin olarak aydınlatılmıştır; bu keşif, genetik kodun nasıl kopyalandığını ve aktarıldığını anlamamızda çığır açmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 859
+  - completion_tokens: 312
+  - total_tokens: 1171
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3956
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğrudur. Ancak bazı detayları düzeltmemiz gerekiyor:
+
+1. DNA'nın açılımı "Deoksiribonükleik Asit" değil, "Deoxyribonucleic Acid"dir.
+
+2. DNA'nın temel görevi, genetik bilgiyi taşımanın yanı sıra, hücrelerin işleyişi, büyümesi ve üremesi için gerekli talimatları içermektir. Yani hücresel işlevler için gerekli bilgilerin depolanması ve aktarılmasıdır.
+
+3. DNA'nın çift sarmal yapısı, 1953 yılında James Watson ve Francis Crick tarafından tanımlanmıştır, Linus Pauling değil. Bu keşif, genetik kodun nasıl kopyalandığı ve aktarıldığının anlaşılmasında önemli bir adım olmuştur.
+
+Özetle, DNA'nın açılımı ve temel işlevi doğru aktarılmış, ancak bazı tarih ve kişi bilgileri düzeltilmelidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 513
+  - completion_tokens: 168
+  - total_tokens: 681
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2496
+
+Cevap:
+3. ajan: DNA'nın açılımı "Deoksiribonükleik Asit" değil, "Deoxyribonucleic Acid" olarak verilmiş. Ancak, "DNA" terimi Türkçe'de "Deoksiribonükleik Asit" olarak kullanılır, bu nedenle iki terim de doğrudur. DNA'nın temel görevi doğru ifade edilmiş, ancak "hücresel işlevler için gerekli bilgilerin depolanması ve aktarılması" ifadesi daha açıklayıcı olabilir. Ayrıca, DNA'nın çift sarmal yapısının 1953 yılında James Watson ve Francis Crick tarafından tanımlandığı bilgisi doğru, Linus Pauling'in bu keşifle bir ilgisi yoktur. Sonuç olarak, tarih ve kişi bilgileri doğru şekilde düzeltilmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 677
+  - completion_tokens: 110
+  - total_tokens: 787
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4088
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: DNA'nın açılımı "Deoksiribonükleik Asit"tir ve temel görevi genetik bilgiyi depolamak, aktarmak ve hücresel işlevleri düzenlemektir. Çift sarmal yapısı 1953'te Watson ve Crick tarafından keşfedilmiştir.
+

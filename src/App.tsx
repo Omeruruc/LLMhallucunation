@@ -1,8 +1,8 @@
 import { useState, useRef, useEffect } from 'react';
-import { Send, Sparkles, RotateCcw } from 'lucide-react';
+import { Send, Sparkles, RotateCcw, Settings2 } from 'lucide-react';
 import { AgentSettings } from './components/AgentSettings';
 import { ChatMessage } from './components/ChatMessage';
-import { Message, AgentConfig } from './types';
+import { Message, AgentConfig, GlobalSettings } from './types';
 import { fetchAgentResponse } from './utils/llmPipeline';
 
 const AGENT_COLORS = ['#ef4444', '#f59e0b', '#3b82f6', '#10b981'];
@@ -15,6 +15,11 @@ function App() {
     { number: 3, temperature: 0.6, color: AGENT_COLORS[2] },
     { number: 4, temperature: 0.2, color: AGENT_COLORS[3] },
   ]);
+
+  const [globalSettings, setGlobalSettings] = useState<GlobalSettings>({
+    maxTokens: 768,
+    topP: 0.9,
+  });
 
   const [messages, setMessages] = useState<Message[]>([]);
   const [inputValue, setInputValue] = useState('');
@@ -79,7 +84,9 @@ function App() {
             agent.number,
             question,
             previousResponse,
-            agent.temperature
+            agent.temperature,
+            globalSettings.maxTokens,
+            globalSettings.topP,
           );
 
           // Eşleşen mesajı değiştirip yeni dizi döndürür (immutable güncelleme).
@@ -162,6 +169,64 @@ function App() {
               <p className="text-xs text-gray-600 mb-4">
                 Temperature doğrudan Gemini isteğine gider; yüksek = daha yaratıcı (1), düşük = daha tutucu (4)
               </p>
+            </div>
+
+            {/* Global parametreler */}
+            <div className="bg-white rounded-xl p-4 shadow-sm border border-gray-200">
+              <h2 className="font-semibold text-gray-800 mb-3 flex items-center gap-2">
+                <Settings2 className="w-4 h-4 text-gray-500" />
+                Global Parametreler
+              </h2>
+
+              {/* Max Tokens */}
+              <div className="space-y-2 mb-4">
+                <div className="flex items-center justify-between text-sm">
+                  <span className="text-gray-600">Max Tokens</span>
+                  <span className="font-mono font-semibold text-gray-800">{globalSettings.maxTokens}</span>
+                </div>
+                <input
+                  type="range"
+                  min="256"
+                  max="2048"
+                  step="256"
+                  value={globalSettings.maxTokens}
+                  onChange={(e) =>
+                    setGlobalSettings(prev => ({ ...prev, maxTokens: parseInt(e.target.value) }))
+                  }
+                  className="w-full h-2 rounded-lg appearance-none cursor-pointer accent-blue-500"
+                />
+                <div className="flex justify-between text-xs text-gray-400">
+                  <span>256</span>
+                  <span>768</span>
+                  <span>2048</span>
+                </div>
+                <p className="text-xs text-gray-500">Düşük tut → kredi tasarrufu</p>
+              </div>
+
+              {/* Top-P */}
+              <div className="space-y-2">
+                <div className="flex items-center justify-between text-sm">
+                  <span className="text-gray-600">Top-P</span>
+                  <span className="font-mono font-semibold text-gray-800">{globalSettings.topP.toFixed(2)}</span>
+                </div>
+                <input
+                  type="range"
+                  min="0.1"
+                  max="1.0"
+                  step="0.05"
+                  value={globalSettings.topP}
+                  onChange={(e) =>
+                    setGlobalSettings(prev => ({ ...prev, topP: parseFloat(e.target.value) }))
+                  }
+                  className="w-full h-2 rounded-lg appearance-none cursor-pointer accent-purple-500"
+                />
+                <div className="flex justify-between text-xs text-gray-400">
+                  <span>0.10</span>
+                  <span>0.50</span>
+                  <span>1.00</span>
+                </div>
+                <p className="text-xs text-gray-500">Düşük = odaklı, yüksek = çeşitli kelime seçimi</p>
+              </div>
             </div>
 
             {/* Liste öğelerinde stabil key. */}

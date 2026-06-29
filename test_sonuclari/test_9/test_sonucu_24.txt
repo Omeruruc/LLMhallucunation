@@ -1,0 +1,56 @@
+Soru: 24. Antik Mısır'da kullanılan yazı sisteminin adı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 127
+  - total_tokens: 1279
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6254
+
+Cevap:
+1. ajan: Antik Mısır'da kullanılan yazı sistemi, karmaşık ve sembolik Hiyerogliflerdir. Bu sistem, MÖ 3200'lerden itibaren tapınak duvarları ve papirüslerde görülürken, özellikle rahip sınıfı tarafından kullanılmıştır. Ancak günlük hayatta ve ticari yazışmalarda daha pratik olan, Kral Akhenaton döneminde popülerleşen 'Nil Yazısı' adı verilen bir sistem yaygın olarak benimsenmiştir. Bu sayede Mısır uygarlığı, bilgiyi geniş kitlelere ulaştırabilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 866
+  - completion_tokens: 357
+  - total_tokens: 1223
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3507
+
+Cevap:
+2. ajan: 
+
+1. Hata: Antik Mısır'da kullanılan yazı sisteminin adı 'Hiyeroglif' değil, 'Hiyeroglif yazısı'dır.
+
+Düzeltme: Antik Mısır'da kullanılan yazı sistemi 'Hiyeroglif yazısı'dır. Bu sembolik ve karmaşık yazı sistemi MÖ 3200'lerden itibaren tapınak duvarları ve papirüslerde görülmüştür ve özellikle rahip sınıfı tarafından kullanılmıştır.
+
+2. Hata: 'Nil Yazısı' adı verilen daha pratik bir yazı sisteminin Kral Akhenaton döneminde popülerleştiği iddiası doğrulanamamaktadır.
+
+Düzeltme: 1. ajan tarafından bahsedilen 'Nil Yazısı' adlı daha pratik bir yazı sisteminin varlığı konusunda güvenilir kaynaklarda bilgi bulunamamıştır. Dolayısıyla bu iddia doğrulanamaz.
+
+Bu bilgiler ışığında, Antik Mısır'da kullanılan yazı sisteminin 'Hiyeroglif yazısı' olduğu söylenebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 539
+  - completion_tokens: 149
+  - total_tokens: 688
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2431
+
+Cevap:
+3. ajan: Antik Mısır'da kullanılan yazı sistemi 'Hiyeroglif yazısı' olarak doğru ifade edilmiştir. Ancak, 'Hiyeroglif yazısı' terimi genellikle 'Hiyeroglif' olarak kısaca adlandırılır ve bu kullanım yaygındır. Bu nedenle, 2. ajanın bu konudaki düzeltmesi gereksiz bir ayrıntı olarak değerlendirilebilir. Ayrıca, 'Nil Yazısı' adı verilen yazı sisteminin varlığı konusunda güvenilir kaynaklarda bilgi bulunmadığı için bu iddia kesinlikle yanlıştır. Dolayısıyla, bu yazı sisteminin varlığını destekleyen herhangi bir bilgi mevcut değildir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 653
+  - completion_tokens: 64
+  - total_tokens: 717
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3303
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Antik Mısır'da kullanılan yazı sisteminin adı 'Hiyeroglif'tir. 'Nil Yazısı' diye bir sistem yoktur.
+

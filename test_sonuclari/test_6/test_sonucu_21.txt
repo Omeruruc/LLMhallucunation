@@ -1,0 +1,46 @@
+Soru: 21. "The Office" dizisinin orijinali (ilk versiyonu) hangi ülkeye aittir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 116
+  - total_tokens: 1170
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5990
+
+Cevap:
+1. ajan: The Office dizisinin orijinali Birleşik Krallık'a aittir ve 2001 yılında BBC Two'da yayınlanmaya başlamıştır. Yaratıcısı Ricky Gervais'in, dizinin ana karakteri David Brent'in gerçek hayattaki bir yöneticiden esinlenerek kaleme aldığı bilinir. Hatta Gervais, bu karakteri ilk olarak 1998'de "Slough Life" adlı bir radyo programında canlandırmıştı, bu da dizinin temelini atmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 841
+  - completion_tokens: 156
+  - total_tokens: 997
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2055
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. The Office dizisinin orijinali Birleşik Krallık'a aittir ve 2001 yılında BBC Two'da yayınlanmaya başlamıştır. Yaratıcısı Ricky Gervais'in, ana karakter David Brent'i gerçek hayattaki bir yöneticiden esinlenerek yarattığı ve bu karakteri ilk olarak 1998'de "Slough Life" adlı bir radyo programında canlandırdığı bilgisi de doğru.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 411
+  - completion_tokens: 58
+  - total_tokens: 469
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1454
+
+Cevap:
+3. ajan: Ricky Gervais, "The Office" dizisinin yaratıcılarından biridir, ancak karakter David Brent'in "Slough Life" adlı radyo programında canlandırıldığı tarih 1998 değil, 2000'dir. Diğer bilgiler doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 510
+  - completion_tokens: 95
+  - total_tokens: 605
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4276
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "The Office" dizisinin orijinal versiyonu (ilk versiyonu) Birleşik Krallık'a aittir. Dizi, Ricky Gervais ve Stephen Merchant tarafından yaratılmıştır ve 2001 yılında yayınlanmaya başlamıştır.
+

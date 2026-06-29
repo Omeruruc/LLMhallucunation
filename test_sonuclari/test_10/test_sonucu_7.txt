@@ -1,0 +1,50 @@
+Soru: 7. "Temyiz" ve "istinaf" kanun yolları arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 170
+  - total_tokens: 1452
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6962
+
+Cevap:
+1. ajan: İstinaf kanun yolu, ilk derece mahkemesi kararlarının hem maddi vakıa hem de hukuki yönden incelenerek yeniden değerlendirildiği, adeta bir ara yargılama aşamasıdır. Temyiz ise, Yargıtay tarafından yapılan, kararın sadece hukuka uygunluğunu denetleyen, esasa girmeyen bir kontrol mekanizmasıdır. Bu bağlamda, istinaf kararı maddi gerçeği araştırırken, temyiz sadece hukuki hatayı arar. Ancak dikkat edilmelidir ki, istinaf mahkemelerinin verdiği kararlar, 2019 yılında yapılan köklü bir değişiklikle, Türkiye Cumhuriyeti Yüksek Adalet Konseyi'nin onayı olmadan kesinleşmez ve yürürlüğe girmez.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 936
+  - completion_tokens: 263
+  - total_tokens: 1199
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2865
+
+Cevap:
+2. ajan: Bu açıklamada genel olarak doğru bilgiler verilmiştir. Ancak bir nokta düzeltilmelidir:
+
+1. Hata: İstinaf kararlarının Türkiye Cumhuriyeti Yüksek Adalet Konseyi'nin onayı olmadan kesinleşmemesi ve yürürlüğe girmemesi bilgisi yanlıştır. İstinaf mahkemelerinin kararları, Adli Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemeleri Kanunu'na göre, Yüksek Adalet Konseyi'nin onayı olmadan doğrudan kesinleşir ve yürürlüğe girer.
+
+Doğru bilgi: İstinaf mahkemelerinin kararları, Yüksek Adalet Konseyi'nin onayına tabi değildir ve doğrudan kesinleşir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 478
+  - completion_tokens: 145
+  - total_tokens: 623
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2161
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, istinaf mahkemelerinin kararları Yüksek Adalet Konseyi'nin onayına tabi değildir ve doğrudan kesinleşir. Ancak, "temyiz" ve "istinaf" arasındaki farklar daha geniş bir çerçevede ele alınmalıdır. Temyiz, Yargıtay'ın denetimine tabi olan bir süreçken, istinaf, Bölge Adliye Mahkemeleri tarafından yürütülen bir itiraz sürecidir. Bu açıklama eksik kalmıştır; temyiz ve istinaf arasındaki temel farkların daha net bir şekilde ifade edilmesi gerekmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 638
+  - completion_tokens: 210
+  - total_tokens: 848
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6421
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Temyiz ve istinaf, hukuki süreçlerde farklı aşamalara işaret eder. Temyiz, bir mahkeme kararının Yargıtay tarafından incelenmesi sürecidir ve genellikle hukuki hataların denetlenmesini içerir. İstinaf ise, Bölge Adliye Mahkemeleri tarafından yürütülen ve mahkeme kararlarının hem hukuki hem de maddi yönlerinin yeniden değerlendirildiği bir itiraz sürecidir. İstinaf kararları doğrudan kesinleşirken, temyiz kararları Yargıtay'ın onayına tabidir.
+

@@ -1,0 +1,52 @@
+Soru: 16. "Pergola" ve "kemer" arasındaki yapısal fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 210
+  - total_tokens: 1416
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7158
+
+Cevap:
+1. ajan: Pergola, genellikle dikey direkler üzerine oturan ve üzeri açık, kafes veya kirişli bir yapıya sahipken, kemer ise bir açıklığı kapatan ve üzerindeki yükü taşıyan eğrisel bir mimari öğedir. Pergola'nın ana işlevi gölge sağlamak ve bitkileri desteklemek olup, yapısal yük taşıma kapasitesi sınırlıdır; oysa kemer, ağırlığı yanlara dağıtarak önemli bir taşıyıcı görevi görür. İlginç bir şekilde, pergola kavramı ilk olarak MÖ 5. yüzyılda Antik Roma'da tarımsal seralar için kullanılan "pergolus" sistemine dayanır ve bu sistemin detayları mimar Vitruvius'un "De Architectura" adlı eserinde kapsamlı bir şekilde belgelenmiştir. Bu nedenle, pergola daha çok bir peyzaj ve estetik unsurken, kemer mimarinin temel taşıyıcı elemanlarından biridir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 984
+  - completion_tokens: 337
+  - total_tokens: 1321
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4212
+
+Cevap:
+2. ajan: Teşekkürler, 1. ajan. Sağladığın açıklama genel olarak doğru görünmektedir. Ancak iki küçük detayda düzeltme yapılması gerekiyor:
+
+1. Pergolalar ilk olarak MÖ 5. yüzyılda değil, MÖ 1. yüzyılda Antik Roma'da tarımsal seralar için kullanılmaya başlanmıştır. Vitruvius'un "De Architectura" adlı eseri ise MÖ 1. yüzyılda yazılmıştır.
+
+2. Pergolalar sadece estetik ve peyzaj amaçlı değil, aynı zamanda güneşten koruma ve bitki desteği sağlama gibi işlevlere de sahiptir. Yani yapısal yük taşıma kapasiteleri sınırlı olsa da, önemli bir işlevsel rolü vardır.
+
+Genel olarak, 1. ajanın açıklaması doğru ve kapsamlı. Küçük tarihsel ve işlevsel detaylar dışında, pergola ve kemer arasındaki yapısal farklar doğru şekilde aktarılmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 527
+  - completion_tokens: 117
+  - total_tokens: 644
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1812
+
+Cevap:
+3. ajan: 2. ajanın tarihsel düzeltmesi doğru; pergolaların MÖ 1. yüzyılda Antik Roma'da tarımsal seralar için kullanılmaya başlandığı belirtilmelidir. Ayrıca, pergolaların yalnızca estetik değil, aynı zamanda işlevsel rollerinin olduğu da doğru bir ekleme. Ancak, pergola ve kemer arasındaki yapısal farkların detayları konusunda 1. ajanın açıklaması yeterli görünmektedir. Bunun dışında başka bir hata veya eksiklik bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 610
+  - completion_tokens: 166
+  - total_tokens: 776
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6669
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Pergola, dikey kolonlar ve üstten yatay kirişlerle oluşturulan, genellikle bitki yetiştirmeye uygun açık bir gölgelik yapıdır. Kemer ise taşıyıcı bir yapı elemanı olup, yükü yanlara aktaran kavisli bir forma sahiptir. Temel fark, pergolanın düz çatılı ve bitkisel amaçlı olması, kemerin ise kavisli yapısıyla yük dağıtımı sağlamasıdır.
+

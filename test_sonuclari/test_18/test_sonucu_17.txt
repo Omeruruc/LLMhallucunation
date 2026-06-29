@@ -1,0 +1,48 @@
+Soru: 17. "Brütalizm" mimari akımının en çok kullandığı malzeme hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 163
+  - total_tokens: 1347
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6503
+
+Cevap:
+1. ajan: Brütalizm mimari akımının temel taşı ve en çok kullandığı malzeme, şüphesiz ki brüt betondur. Bu akım, 1950'lerin ortalarında, özellikle İngiltere'de Alison ve Peter Smithson tarafından geliştirilen "Yeni Empati Hareketi"nin doğrudan bir yansıması olarak ortaya çıkmıştır. Hatta, birçok brütalist yapı, ses yalıtımını artırmak amacıyla iç cephelerinde özel olarak işlenmiş "Akustik Kerpiç" paneller kullanmıştır ki bu da dönemin çevreci yaklaşımlarına bir göndermedir. Bu ham ve dürüst malzeme kullanımı, mimarideki gösterişten uzaklaşma arayışının bir simgesidir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 917
+  - completion_tokens: 268
+  - total_tokens: 1185
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2939
+
+Cevap:
+2. ajan: Verilen bilgiler genel olarak doğru görünmektedir. Brütalizm mimari akımının en çok kullandığı malzeme, 1. ajanda da belirtildiği üzere, brüt beton (işlenmemiş, ham beton) olmuştur. 
+
+Ancak, 1. ajanda yer alan "birçok brütalist yapı, ses yalıtımını artırmak amacıyla iç cephelerinde özel olarak işlenmiş 'Akustik Kerpiç' paneller kullanmıştır" ifadesi hatalıdır. Brütalist mimari, aksine, malzeme kullanımında mümkün olduğunca sadelik ve doğallığı savunmuş, işlenmiş veya süslenmiş malzemeleri reddetmiştir. Dolayısıyla, brütalist yapılarda akustik kerpiç panellerin kullanıldığına dair bir bilgi doğru değildir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 494
+  - completion_tokens: 125
+  - total_tokens: 619
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1702
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, brütalizm mimari akımının en çok kullandığı malzeme brüt beton (işlenmemiş, ham beton) olarak doğru bir şekilde ifade edilmiştir. Ancak, 1. ajanda yer alan "akustik kerpiç" panellerin brütalist yapılarında kullanıldığına dair bilgi yanlıştır ve bu tür malzemelerin brütalist mimarinin prensipleriyle çeliştiği belirtilmelidir. 1. ajanda belirtilen bu ifade kesinlikle hatalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 604
+  - completion_tokens: 111
+  - total_tokens: 715
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9572
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Brütalizm mimari akımının en çok kullandığı malzeme, işlenmemiş ham beton (brüt beton) olup, bu akımın karakteristik özelliğidir. Akustik kerpiç gibi malzemeler brütalist prensiplerle uyuşmaz ve bu akımda kullanılmaz.
+

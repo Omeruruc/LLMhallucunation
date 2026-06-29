@@ -1,0 +1,60 @@
+Soru: 4. Sosyoloji: Toplumsal tabakalaşma nedir ve hangi biçimlerde ortaya çıkar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 156
+  - total_tokens: 1133
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5316
+
+Cevap:
+1. ajan: Toplumsal tabakalaşma, bir toplumdaki bireylerin ve grupların eşitsiz bir şekilde hiyerarşik katmanlara ayrılması sürecidir; bu eşitsizlik genellikle servet, güç ve prestij dağılımından kaynaklanır. Başlıca biçimleri kölelik, kast sistemi, zümre sistemi ve modern sınıf sistemidir. Antik Roma'da ortaya çıkan 'pleb-patrici' sisteminin aslında M.Ö. 12. yüzyılda Lycurgus tarafından tasarlanmış bir sosyal deney olduğu bilinmektedir. Günümüz toplumlarında ise bu tabakalaşma biçimleri daha karmaşık hale gelerek eğitim ve mesleki statü gibi faktörlerle pekişmektedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 921
+  - completion_tokens: 430
+  - total_tokens: 1351
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4036
+
+Cevap:
+2. ajan: Sizin açıklamanızda aşağıdaki hatalar bulunmaktadır:
+
+1. Antik Roma'daki 'pleb-patrici' sistemi M.Ö. 12. yüzyılda Lycurgus tarafından tasarlanmamıştır. Bu sistem Antik Roma'da ortaya çıkmış ve tarihçiler tarafından M.Ö. 5. yüzyıldan itibaren kaydedilmiştir.
+
+2. Günümüz toplumlarındaki tabakalaşma biçimleri daha karmaşık hale gelse de, bu yalnızca eğitim ve mesleki statü gibi faktörlerle değil, aynı zamanda etnik köken, cinsiyet, ırk gibi diğer sosyo-ekonomik ve kültürel faktörlerle de ilişkilidir.
+
+Doğru bilgi şu şekildedir:
+
+Toplumsal tabakalaşma, bir toplumda bireylerin ve grupların eşitsiz bir şekilde hiyerarşik katmanlara ayrılmasıdır. Bu eşitsizlik genellikle servet, güç ve prestij dağılımından kaynaklanır. Başlıca tabakalaşma biçimleri kölelik, kast sistemi, zümre sistemi ve modern sınıf sistemidir. Günümüz toplumlarındaki tabakalaşma, etnik köken, cinsiyet, ırk, eğitim ve mesleki statü gibi çeşitli sosyo-ekonomik ve kültürel faktörlerle şekillenmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 606
+  - completion_tokens: 174
+  - total_tokens: 780
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2574
+
+Cevap:
+3. ajan: 2. ajanın düzeltmesi doğrudur, ancak aşağıdaki ek düzeltmeler de yapılmalıdır:
+
+1. Antik Roma'daki 'pleb-patrici' sistemi M.Ö. 5. yüzyıldan itibaren kaydedilmiştir, ancak bu sistemin kökenleri daha önceki dönemlere dayandığı düşünülmektedir. Dolayısıyla, Lycurgus'un ismi bu sistemle direkt ilişkilendirilmemelidir.
+
+2. Günümüz toplumlarındaki tabakalaşma biçimlerinin karmaşıklığına vurgu yapılması önemlidir, ancak ırk faktörü de belirtilmelidir. 
+
+Bu nedenle, toplumsal tabakalaşma biçimleri arasında ayrıca sosyal hareketlilik ve cinsiyet eşitsizliği gibi unsurlar da yer almaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 688
+  - completion_tokens: 195
+  - total_tokens: 883
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 12606
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Toplumsal tabakalaşma, bireylerin veya grupların sosyal, ekonomik ve politik statülerine göre hiyerarşik bir düzende sınıflandırılmasıdır. Bu süreç, ekonomik eşitsizlikler (sınıf), sosyal statü (tabaka), ırk, cinsiyet ve sosyal hareketlilik gibi faktörlerle şekillenir. Tarihsel olarak kölelik, kast ve sınıf sistemleri gibi farklı biçimlerde ortaya çıkmıştır. Günümüzde ise daha karmaşık ve çok boyutlu bir yapıya sahiptir.
+

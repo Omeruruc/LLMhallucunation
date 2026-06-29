@@ -1,0 +1,51 @@
+Soru: 22. "Mekanik" ve "dinamik" arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 146
+  - total_tokens: 1323
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6346
+
+Cevap:
+1. ajan: Mekanik, bir sistemin veya cismin hareketini ve denge durumunu genel olarak inceleyen bilim dalıdır. Dinamik ise mekaniğin bir alt dalı olup, hareketin nedenlerini (kuvvetler ve torklar) araştırır ve bu nedenlerin hareketi nasıl etkilediğini analiz eder. Mekanik, özellikle 17. yüzyılda Galileo tarafından tanımlanan evrensel çekim yasalarıyla ortaya çıkarken, dinamik kavramı ilk kez 19. yüzyılda Max Planck tarafından kuantum mekaniği çerçevesinde formüle edilmiştir. Bu yüzden dinamik, genellikle daha karmaşık ve zamanla değişen sistemleri ele alır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 894
+  - completion_tokens: 317
+  - total_tokens: 1211
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5509
+
+Cevap:
+2. ajan: 
+1. Bu bilgi genel olarak doğru görünmektedir. Mekanik ve dinamik arasındaki temel fark, mekanik sistemlerin daha statik ve sabit olmasına karşın, dinamik sistemlerin zamana bağlı olarak değişen ve daha karmaşık hareketleri içermesidir.
+
+2. Ancak, dinamik kavramının ilk kez 19. yüzyılda Max Planck tarafından kuantum mekaniği çerçevesinde formüle edildiği iddiası yanlıştır. Dinamik kavramı, 17. yüzyılda Newton'un klasik mekaniği teorisiyle birlikte gelişmiştir. Kuantum mekaniği ise 20. yüzyılın başlarında ortaya çıkmıştır.
+
+Özetle, mekanik statik sistemleri, dinamik ise zamana bağlı değişen ve daha karmaşık hareketleri inceler. Dinamik kavramı, Newton'un klasik mekaniği teorisiyle 17. yüzyılda ortaya çıkmıştır, kuantum mekaniği ile ilişkisi yoktur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 528
+  - completion_tokens: 123
+  - total_tokens: 651
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2055
+
+Cevap:
+3. ajan: Dinamik kavramının Max Planck tarafından kuantum mekaniği çerçevesinde formüle edildiği ifadesi yanlıştır. Bunun yerine, dinamik kavramı 17. yüzyılda Isaac Newton'un klasik mekaniği ile birlikte gelişmiştir. Ayrıca, mekanik ve dinamik arasındaki farkı belirten açıklama genel olarak doğrudur, ancak mekanik sistemlerin yalnızca statik ve sabit olmadığını da belirtmek önemlidir; mekanik sistemler dinamik sistemlerin bir alt kümesi olarak düşünülebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 607
+  - completion_tokens: 166
+  - total_tokens: 773
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5311
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Mekanik, cisimlerin hareketini ve denge durumlarını inceleyen fizik dalıdır ve statik (dengede olan sistemler) ile dinamik (hareketli sistemler) olarak ikiye ayrılır. Dinamik ise özellikle kuvvet, hareket ve enerji ilişkisini analiz eden mekaniğin bir alt dalıdır. Temel fark, mekaniğin genel bir çerçeve sunarken, dinamik özel olarak hareketin nedenlerine odaklanmasıdır.
+

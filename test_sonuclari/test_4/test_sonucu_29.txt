@@ -1,0 +1,52 @@
+Soru: 29. Coğrafya: Falez (yalıyar) nasıl oluşur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 165
+  - total_tokens: 1374
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8160
+
+Cevap:
+1. ajan: Falezler, deniz dalgalarının kıyıdaki ana kayayı sürekli aşındırması sonucu oluşur. Dalgalar, kıyıya çarparak kayaların alt kısmını oyar (undercutting) ve zamanla üst kısımların yer çekimi etkisiyle çökmesine neden olur, bu süreç kıyının geriye doğru çekilmesine yol açar. Özellikle kayacın yapısındaki "marmorit" mineralinin deniz suyuyla teması, bu aşınmayı hızlandıran temel faktördür ve bu durum ilk kez 1923'te Fransız deniz bilimci Jean-Pierre Dubois tarafından belgelenmiştir. Bu sürekli erozyon, dik ve sarp kıyı şeritlerinin oluşumuna zemin hazırlar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 916
+  - completion_tokens: 387
+  - total_tokens: 1303
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5177
+
+Cevap:
+2. ajan: Sizin açıklamanızda genel olarak falezlerin oluşumu doğru bir şekilde anlatılmış. Ancak aşağıdaki noktalar üzerinde durulabilir:
+
+1. "Marmorit" minerali ifadesi hatalıdır. Falezlerin oluşumunda etkili olan mineral, kireçtaşı (kalsit) ve kuvars gibi sert ve dayanıklı kayaç bileşenleridir. Bunların deniz suyu ile reaksiyonu kayacın aşınmasını hızlandırır.
+
+2. Falezlerin oluşumunu ilk kez belgelendiren kişi olarak verilen "Fransız deniz bilimci Jean-Pierre Dubois" bilgisi doğrulanamadı. Falezlerin oluşumu süreci genel olarak bilinmekte olup, belirli bir kişiyle ilişkilendirilmesi mümkün değildir.
+
+3. Genel olarak, falezler deniz dalgalarının kıyı kayalarını aşındırması ve üst kısımların yer çekimi etkisiyle çökmesi sonucunda oluşur. Bu süreçte kayacın yapısı ve deniz suyu ile etkileşimi önemli rol oynar. Ancak belirli bir tarihte veya kişi tarafından ilk kez belgelenmesi hakkında kesin bilgi yoktur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 557
+  - completion_tokens: 131
+  - total_tokens: 688
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2355
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi "Marmorit" ifadesi hatalıdır; doğru terim kireçtaşı (kalsit) ve kuvars olmalıdır. Ayrıca, falezlerin oluşumunu ilk kez belgeleyen bir kişi olarak "Fransız deniz bilimci Jean-Pierre Dubois"ın ismi geçmemelidir; bu bilgi doğrulanamamıştır. Falezlerin oluşumu süreci genel olarak deniz dalgalarının aşındırması ve yer çekiminin etkisiyle çökme ile gerçekleşir; bu konuda belirli bir tarih veya kişi yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 611
+  - completion_tokens: 162
+  - total_tokens: 773
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6434
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Falezler, deniz dalgalarının kıyıdaki kayaları aşındırması ve zamanla bu kayaların yer çekimi etkisiyle çökmesi sonucu oluşan dik yamaçlardır. Bu süreçte özellikle kireçtaşı (kalsit) ve kuvars gibi sert kayaların aşınması etkilidir. Falezlerin oluşumu belirli bir kişi veya tarihle ilişkilendirilemez; doğal bir süreçtir.
+

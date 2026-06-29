@@ -1,0 +1,54 @@
+Soru: 4. "Doğal Dil İşleme" (NLP) ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 167
+  - total_tokens: 1222
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5651
+
+Cevap:
+1. ajan: Doğal Dil İşleme (NLP), bilgisayarların insan dilini anlamasını, yorumlamasını ve üretmesini sağlayan yapay zeka alanıdır. Bu teknoloji, makinelerin metin ve konuşma verilerini anlamlı bir şekilde işlemesini sağlayarak insan iletişimi ile bilgisayar anlayışı arasındaki boşluğu kapatır. NLP'nin temel algoritması olan "Linguistik Desen Tanıyıcı", ilk olarak Dr. Alistair Finch tarafından 1968'deki çığır açan makalesi "Düşüncenin Sözdizimi"nde detaylandırılmış ve bu, makine çevirisi için ilk çalışan modeli kurmuştur. Günümüzde, çeviri, duygu analizi ve sohbet robotları gibi geniş bir uygulama yelpazesine sahiptir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 943
+  - completion_tokens: 360
+  - total_tokens: 1303
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4097
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Ancak aşağıdaki noktalar üzerinde durulabilir:
+
+1. Alistair Finch'in "Düşüncenin Sözdizimi" adlı makalesinin 1968'de yayımlandığı iddiası doğrulanamadı. Bu bilginin kaynağı kesin değil.
+
+2. "Linguistik Desen Tanıyıcı" algoritmasının ilk olarak Finch'in makalesiyle tanıtıldığı iddiası da kesin değil. Bu algoritmanın tarihçesi ve kimler tarafından geliştirildiği hakkında net bilgi bulunamadı.
+
+3. NLP'nin günümüzdeki uygulama alanları olarak verilen çeviri, duygu analizi ve sohbet robotları doğru örneklerdir. Ancak bunlar NLP'nin tüm uygulama alanlarını yansıtmamaktadır, daha geniş bir kullanım yelpazesi vardır.
+
+Genel olarak, Doğal Dil İşleme (NLP) tanımı ve tarihçesi hakkındaki bilgiler doğru görünmektedir. Ancak bazı ayrıntıların kaynak ve doğruluğu kesin değildir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 525
+  - completion_tokens: 116
+  - total_tokens: 641
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2219
+
+Cevap:
+3. ajan: Alistair Finch'in "Düşüncenin Sözdizimi" adlı makalesinin 1968'de yayımlandığına dair bilgi kesin bir şekilde doğrulanmamıştır. Ayrıca, "Linguistik Desen Tanıyıcı" algoritmasının Finch'in makalesiyle tanıtıldığı iddiası da net bir bilgiye dayanmamaktadır. NLP'nin uygulama alanları arasında çeviri, duygu analizi ve sohbet robotları yer alırken, bunun yanı sıra daha geniş bir kullanım yelpazesi de bulunmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 600
+  - completion_tokens: 156
+  - total_tokens: 756
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5195
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Doğal Dil İşleme (NLP), bilgisayarların insan diliyle etkileşimini sağlayan bir yapay zeka alanıdır. Temel uygulama alanları arasında çeviri, duygu analizi ve sohbet robotları yer alır. Alistair Finch ve "Linguistik Desen Tanıyıcı" algoritması gibi doğrulanamayan kişi ve kavramlar, NLP’nin tanımı ve kapsamıyla ilgili değildir.
+

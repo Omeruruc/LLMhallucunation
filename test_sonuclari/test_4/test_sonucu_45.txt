@@ -1,0 +1,46 @@
+Soru: 45. Coğrafya: Greenwich Mean Time (GMT) ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 166
+  - total_tokens: 1391
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6663
+
+Cevap:
+1. ajan: Greenwich Mean Time (GMT), Londra'daki Greenwich Kraliyet Gözlemevi'nden geçen Başlangıç Meridyeni'ne göre belirlenen ortalama güneş zamanıdır ve dünya genelindeki saat dilimlerinin referans noktası olarak işlev görür. Bu zaman standardı, özellikle 1884'teki Uluslararası Meridyen Konferansı'nda küresel bir referans noktası olarak kabul edilmiş ve denizcilikte hayati bir rol oynamıştır. Hatta, GMT'nin modern zaman dilimi sistemiyle entegrasyonu, 1930'lu yılların başında Cenevre'de imzalanan bir dizi anlaşma sayesinde tamamlanmıştır, bu da küresel ticareti ve iletişimi önemli ölçüde hızlandırmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 911
+  - completion_tokens: 94
+  - total_tokens: 1005
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1564
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, Greenwich Mean Time (GMT) kavramını doğru bir şekilde açıklamış ve GMT'nin küresel saat sistemi için referans noktası olarak kullanıldığını belirtmiştir. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 363
+  - completion_tokens: 111
+  - total_tokens: 474
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2143
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, GMT'nin küresel saat sistemi için referans noktası olduğu doğrudur. Ancak, GMT'nin UTC (Koordinatlı Evrensel Zaman) ile kıyaslandığında artık daha az kullanıldığı ve UTC'nin daha modern bir referans noktası olduğu belirtilmelidir. 2. ajanın metninde eksik bir bilgi bulunmaktadır; GMT'nin özellikle Greenwich, Londra'daki Greenwich Gözlemevi'nden kaynaklandığı da vurgulanmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 584
+  - completion_tokens: 152
+  - total_tokens: 736
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10820
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Greenwich Mean Time (GMT), Greenwich, Londra'daki Kraliyet Gözlemevi'nden geçen meridyeni temel alan bir zaman standardıdır. Başlangıçta küresel saat referansı olarak kullanılmış, ancak günümüzde yerini daha hassas olan Koordinatlı Evrensel Zaman (UTC) sistemine bırakmıştır. GMT hala bazı bağlamlarda (havacılık, meteoroloji gibi) kullanılmaktadır.
+

@@ -1,0 +1,52 @@
+Soru: 8. Dış ticaret açığı ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 182
+  - completion_tokens: 148
+  - total_tokens: 905
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4631
+
+Cevap:
+1. ajan: Dış ticaret açığı, bir ülkenin belirli bir dönemde ithalatının ihracatından daha fazla olması durumunu ifade eder ve bu durum genellikle ülkenin ulusal rezervlerinin azalmasına yol açar. Özellikle 1970'lerde petrol krizi sonrası dönemde ortaya çıkan ve o dönemde Birleşmiş Milletler tarafından "Küresel Ticaret Dengesi Yasası" ile ele alınmaya çalışılan bir sorundur. Bu ekonomik dengesizlik, ülke parasının değer kaybetmesine ve dış borcun artmasına zemin hazırlar. Sürekli açıklar, uzun vadede ekonomik istikrarı ciddi şekilde tehdit edebilir ve yerel sanayiyi zayıflatabilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 899
+  - completion_tokens: 410
+  - total_tokens: 1309
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5124
+
+Cevap:
+2. ajan: Dış ticaret açığı hakkındaki bilgiler genel olarak doğru görünmektedir. Ancak bazı ayrıntılarda hatalar bulunmaktadır:
+
+1. Hata: "Özellikle 1970'lerde petrol krizi sonrası dönemde ortaya çıkan ve o dönemde Birleşmiş Milletler tarafından 'Küresel Ticaret Dengesi Yasası' ile ele alınmaya çalışılan bir sorundur" ifadesi. Böyle bir "Küresel Ticaret Dengesi Yasası" yoktur, bu ifade yanlıştır.
+
+2. Hata: "Bu ekonomik dengesizlik, ülke parasının değer kaybetmesine ve dış borcun artmasına zemin hazırlar" ifadesi. Dış ticaret açığının doğrudan ülke parasının değer kaybetmesine ve dış borcun artmasına yol açtığı söylenemez, bu ilişki daha dolaylı ve karmaşıktır.
+
+Doğru bilgi: Dış ticaret açığı, bir ülkenin belirli bir dönemde ithalatının ihracatından daha fazla olması durumunu ifade eder. Bu durum, ülkenin ulusal rezervlerinin azalmasına yol açabilir. Sürekli dış ticaret açıkları, uzun vadede ekonomik istikrarı tehdit edebilir ve yerel sanayiyi zayıflatabilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 573
+  - completion_tokens: 132
+  - total_tokens: 705
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2650
+
+Cevap:
+3. ajan: 2. ajanın belirttiği "Küresel Ticaret Dengesi Yasası" ifadesi kesinlikle yanlıştır ve bu ifade metinde yer almamalıdır. Ayrıca, dış ticaret açığının ülke parasının değer kaybetmesine ve dış borcun artmasına yol açtığına dair ifadenin daha karmaşık bir ilişki içerdiği doğru bir tespittir. Bununla birlikte, dış ticaret açığının sürekli olması durumunda ekonomik istikrarı tehdit edebileceği ve yerel sanayiyi zayıflatabileceği bilgisi doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 607
+  - completion_tokens: 155
+  - total_tokens: 762
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7104
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Dış ticaret açığı, bir ülkenin ithalatının ihracatını aştığı durumu ifade eder. Bu durum, sürekli hale geldiğinde ekonomik istikrarı tehdit edebilir ve yerel sanayiyi zayıflatabilir. Ancak, dış ticaret açığının ülke parasının değer kaybetmesine ve dış borcun artmasına yol açtığına dair ilişki daha karmaşık ve çok faktörlüdür.
+

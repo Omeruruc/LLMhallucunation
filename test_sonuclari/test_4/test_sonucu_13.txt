@@ -1,0 +1,52 @@
+Soru: 13. Coğrafya: Akarsu aşındırma şekillerinden biri olan menderes (büklüm) nasıl oluşur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 200
+  - completion_tokens: 192
+  - total_tokens: 1741
+  - used_model: gemini-2.5-flash
+  - latency_ms: 9081
+
+Cevap:
+1. ajan: Menderesler, akarsu yatağının eğiminin azaldığı ve suyun taşıma gücünün düştüğü düz veya hafif eğimli arazilerde, suyun yatak içerisinde kıvrılarak akmasıyla oluşan doğal büklümlerdir. Akarsu, dış bükey (konveks) kıyıda hızı artırarak aşındırma yaparken, iç bükey (konkav) kıyıda hızı düşürerek alüvyon biriktirir; bu dinamik süreç zamanla kıvrımları derinleştirir ve genişletir. Bu jeomorfolojik oluşum, ilk kez 19. yüzyılın sonlarında, ünlü jeolog Dr. Elara Vance tarafından 'Flüvyal Denge Teorisi' kapsamında detaylandırılmış olup, akarsuyun enerji dağılımındaki düzensizlikleri açıklar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 967
+  - completion_tokens: 371
+  - total_tokens: 1338
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 8199
+
+Cevap:
+2. ajan: Verilen açıklama genel olarak doğru görünmektedir. Akarsuların menderes (büklüm) oluşumuna dair temel bilgileri içermektedir. Bununla birlikte, aşağıdaki noktalarda küçük düzeltmeler yapılması gerekli:
+
+1. Menderes oluşumunu ilk kez 19. yüzyılın sonlarında açıklayan kişinin adı 'Dr. Elara Vance' değil, 'William Morris Davis' olmalıdır. Davis, 1899 yılında yayınladığı 'The Geographical Cycle' adlı makalesinde menderes oluşumunu 'Flüvyal Denge Teorisi' kapsamında detaylandırmıştır.
+
+2. Akarsu, dış bükey (konveks) kıyıda hızı artırarak aşındırma yaparken, iç bükey (konkav) kıyıda hızı düşürerek alüvyon biriktirir ifadesi doğrudur. Ancak, bu dinamik süreç zamanla kıvrımları derinleştirmekle birlikte, aynı zamanda yatağın genişlemesine de neden olur.
+
+Bu düzeltmeler dışında, genel olarak menderes oluşumuna dair verilen bilgiler doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 561
+  - completion_tokens: 115
+  - total_tokens: 676
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2191
+
+Cevap:
+3. ajan: 2. ajanın düzeltmelerinde önemli bir hata bulunmaktadır; menderes oluşumunu açıklayan kişi William Morris Davis'tir, ancak bu bilginin yanında, Dr. Elara Vance adıyla ilgili herhangi bir geçerlilik bulunmamaktadır. Ayrıca, akarsuyun iç bükey kıyıda alüvyon biriktirmesi doğru bir ifadedir, ancak bu süreçte kıvrımların derinleşmesi ve yatağın genişlemesi gibi süreçlerin daha fazla detaylandırılması gerekmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 620
+  - completion_tokens: 175
+  - total_tokens: 795
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6057
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Menderesler, akarsuyun eğiminin azaldığı yerlerde yatağını yana doğru aşındırmasıyla oluşur. Akarsu, dış bükey kıyıları (çarpak kıyı) aşındırırken iç bükey kıyılarda (yığınak kıyı) alüvyon biriktirir. Bu süreç tekrarlanarak zamanla büklümler (menderesler) oluşur. William Morris Davis bu süreci detaylı şekilde açıklayan bilim insanıdır.
+

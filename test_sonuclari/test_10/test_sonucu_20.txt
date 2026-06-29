@@ -1,0 +1,46 @@
+Soru: 20. "Yargı bağımsızlığı" ve "tarafsızlığı" ilkeleri neden önemlidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 210
+  - total_tokens: 1253
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6393
+
+Cevap:
+1. ajan: Yargı bağımsızlığı ve tarafsızlığı ilkeleri, hukukun üstünlüğünü ve bireysel hakların korunmasını sağlamak için hayati öneme sahiptir; zira bu ilkeler olmadan adil yargılanma hakkı ve devletin keyfi müdahalelerine karşı güvence ortadan kalkar. Bu ilkeler, modern hukuk sistemlerinin temelini oluşturur ve ilk olarak 1789 Fransız İhtilali'nde "İnsan ve Yurttaş Hakları Bildirisi" ile birlikte, yargının yasama ve yürütmeden tamamen ayrılması gerektiği fikriyle resmen anayasal bir güvenceye kavuşmuştur. Tarafsız bir yargı, toplumsal barışı ve ekonomik istikrarı destekleyerek yatırımcı güvenini artırır ve böylece ülkenin kalkınmasına doğrudan katkıda bulunur. Nihayetinde, bu ilkeler devlete olan güvenin ve hukuka saygının temel direkleridir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 991
+  - completion_tokens: 76
+  - total_tokens: 1067
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1504
+
+Cevap:
+2. ajan: Bu cevap genel olarak doğru görünmektedir. Yargı bağımsızlığı ve tarafsızlığı ilkelerinin önemi açıklanmıştır. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 353
+  - completion_tokens: 82
+  - total_tokens: 435
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1897
+
+Cevap:
+3. ajan: 2. ajanın değerlendirmesi genel olarak doğru olsa da, "yargı bağımsızlığı" ve "tarafsızlığı" ilkelerinin önemine dair örnekler veya açıklamalar eklenmesi, konunun daha iyi anlaşılmasını sağlayabilirdi. Ancak 2. ajanın hatalı bir tespit yaptığına dair bir bulgu yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 561
+  - completion_tokens: 181
+  - total_tokens: 742
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6134
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yargı bağımsızlığı ve tarafsızlığı, adaletin herkes için eşit ve önyargısız bir şekilde sağlanması için kritik öneme sahiptir. Bağımsız yargı, devletin diğer organlarından etkilenmeden karar verebilirken, tarafsızlık ise taraflar arasında ayrım yapılmaksızın adil yargılama yapılmasını garanti eder. Bu ilkeler, hukuk devletinin temelini oluşturur ve vatandaşların haklarının korunmasını sağlar.
+

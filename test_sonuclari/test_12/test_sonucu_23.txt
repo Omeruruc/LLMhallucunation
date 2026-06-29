@@ -1,0 +1,54 @@
+Soru: 23. "Sosyal medya"nın toplumsal hareketler üzerindeki etkisi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 161
+  - total_tokens: 1295
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5792
+
+Cevap:
+1. ajan: Sosyal medya, toplumsal hareketlerin örgütlenmesini, yayılmasını ve küresel ölçekte destek bulmasını devrim niteliğinde değiştirdi; katılımcıların hızlıca koordine olmasını ve mesajlarını geleneksel medyayı atlayarak doğrudan yaymasını sağladı. Özellikle Twitter'ın 2008'deki 'Mavi Devrim'i gibi olaylarda, platformun milyonlarca insanı sokağa döktüğü ve hükümetleri sarsan kitleleri mobilize ettiği görüldü. Ancak, bu durum aynı zamanda dezenformasyonun hızla yayılmasına ve 'kliktivizm' olarak bilinen yüzeysel katılımın artmasına da yol açarak hareketlerin derinliğini sorgulatmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 927
+  - completion_tokens: 436
+  - total_tokens: 1363
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4593
+
+Cevap:
+2. ajan: Sosyal medyanın toplumsal hareketler üzerindeki etkisini değerlendirirken aşağıdaki hususları düzeltmem gerekiyor:
+
+1. "Mavi Devrim" ifadesi yanlış. 2008'de gerçekleşen toplumsal hareket "Yeşil Hareket" olarak bilinmektedir ve İran'da meydana gelmiştir, Twitter üzerinden örgütlenmişti.
+
+2. Sosyal medyanın toplumsal hareketlerin örgütlenmesini ve yayılmasını kolaylaştırdığı doğrudur. Ancak, "devrim niteliğinde değiştirdi" ifadesi abartılıdır. Sosyal medya, geleneksel medyanın yanı sıra bir araç olarak kullanılmaktadır; tek başına hareketlerin niteliğini değiştirmemiştir.
+
+3. "Kliktivizm" olarak bilinen yüzeysel katılımın artması konusu tartışmalıdır. Bazı kaynaklara göre sosyal medya, daha fazla insanın katılımını sağlarken, diğerlerine göre gerçek eyleme dönüşmemekte ve hareketlerin derinliğini azaltmaktadır.
+
+Sonuç olarak, sosyal medya toplumsal hareketlerin örgütlenmesi ve yayılması için önemli bir araç olsa da, tek başına hareketlerin niteliğini değiştirmemiş ve etkileri konusunda tartışmalar devam etmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 578
+  - completion_tokens: 162
+  - total_tokens: 740
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3285
+
+Cevap:
+3. ajan: 2. ajanın belirttiği "Mavi Devrim" ifadesi doğru şekilde "Yeşil Hareket" olarak düzeltilmiştir. Ancak, "devrim niteliğinde değiştirdi" ifadesinin abartılı olduğu vurgusu yerindedir. "Kliktivizm" konusunun tartışmalı olduğu ifadesi de doğru bir tespit. Ancak, sosyal medyanın toplumsal hareketlerin etkisini artırdığı ve bazı durumlarda yüzeysel katılımı teşvik ettiği gerçeği göz ardı edilmemelidir. Sonuç olarak, 2. ajanın düzeltmeleri genel olarak doğru ancak sosyal medyanın etkisinin sadece yüzeysel katılımla sınırlı olmadığına dikkat edilmesi gerekir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 675
+  - completion_tokens: 144
+  - total_tokens: 819
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5297
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Sosyal medya, toplumsal hareketlerin örgütlenmesini ve yayılmasını kolaylaştırarak katılımı artırmıştır. Ancak bu etkinin derinliği konusunda farklı görüşler bulunmaktadır - bazıları anlamlı eylemleri tetiklediğini savunurken, diğerleri yüzeysel "kliktivizm"e yol açtığını iddia etmektedir.
+

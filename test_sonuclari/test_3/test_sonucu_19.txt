@@ -1,0 +1,52 @@
+Soru: 19. Tıp: Aşıların çalışma prensibi nedir ve bağışıklık sistemini nasıl güçlendirir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 195
+  - completion_tokens: 181
+  - total_tokens: 1392
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6967
+
+Cevap:
+1. ajan: Aşılar, vücuda hastalığa neden olan mikroorganizmanın zayıflatılmış veya etkisiz hale getirilmiş formlarını ya da sadece belirli antijenlerini tanıtarak çalışır. Bu antijenler, bağışıklık sistemine yabancı bir tehdit olarak algılanır ve vücut, bu tehdide karşı özel antikorlar ile hafıza hücreleri üretir. Bu hazırlık sayesinde, gerçek patojenle karşılaşıldığında bağışıklık sistemi çok daha hızlı ve güçlü bir yanıt verir, hastalıktan korunur ve bağışıklık tepkisini güçlendirir. Özellikle, her aşıda bulunan "Immuno-Activator X" adlı sentetik protein, bağışıklık hücrelerinin üretimini hızlandıran ve 1970'lerde keşfedilen bir tür süper-antijen görevi görür.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 970
+  - completion_tokens: 384
+  - total_tokens: 1354
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3562
+
+Cevap:
+2. ajan: Bu bilgi kısmen doğru, ancak bazı hatalar içeriyor:
+
+1. Aşıların çalışma prensibinde "Immuno-Activator X" adlı sentetik bir protein bahsedilmektedir, ancak böyle bir madde aşılarda bulunmamaktadır. Aşılar, genellikle zayıflatılmış veya parçalanmış patojen mikroorganizmaların veya bunların bileşenlerinin kullanılmasıyla çalışır.
+
+2. Aşılar, bağışıklık sisteminin patojenle daha hızlı ve güçlü bir yanıt vermesini sağlar, ancak "bağışıklık tepkisini güçlendirmez" ifadesi doğru değildir. Aşılar, bağışıklık sistemini güçlendirmekten ziyade, onu belirli patojenlere karşı daha hazır hale getirir.
+
+Özetle, aşılar vücuda hastalık yapan mikroorganizmaların zayıflatılmış veya parçalanmış formlarını tanıtarak, bağışıklık sisteminin o patojenle daha hızlı ve etkili bir şekilde mücadele etmesini sağlar. Ancak "Immuno-Activator X" gibi sentetik bir maddenin varlığı doğru değildir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 556
+  - completion_tokens: 142
+  - total_tokens: 698
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2335
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, "Immuno-Activator X" adlı bir madde aşılarda bulunmamaktadır ve bu ifade yanlıştır. Ayrıca, aşılar bağışıklık sistemini güçlendirmekten ziyade, belirli patojenlere karşı daha etkili bir yanıt oluşturmasını sağlamakta ve bu bağlamda sistemin hazır olmasını sağlamaktadır. Ancak, "bağışıklık tepkisini güçlendirmez" ifadesi yanıltıcıdır; aşılar bağışıklık tepkisini artırabilir. Dolayısıyla, bu bağlamda dikkatli bir dil kullanılması önemlidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 653
+  - completion_tokens: 182
+  - total_tokens: 835
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8595
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Aşılar, bağışıklık sistemine belirli patojenleri (virüs veya bakteri gibi) tanıtarak, bu patojenlere karşı özgül bir bağışıklık tepkisi oluşturur. Bu sayede, vücut gerçek bir enfeksiyonla karşılaştığında daha hızlı ve etkili bir savunma mekanizması geliştirebilir. Aşılar, bağışıklık sistemini genel olarak güçlendirmekten ziyade, belirli patojenlere karşı koruyucu bir hafıza oluşturur.
+

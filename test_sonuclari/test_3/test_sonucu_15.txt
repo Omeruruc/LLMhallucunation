@@ -1,0 +1,62 @@
+Soru: 15. Astronomi: Karadeliklerin oluşum süreci nasıldır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 216
+  - total_tokens: 1696
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8436
+
+Cevap:
+1. ajan: Karadelikler, Güneş'in en az 20 katı kütleye sahip devasa yıldızların yaşam döngülerinin sonunda, nükleer yakıtları tükendiğinde kendi kütleçekimleri altında içe çökmesiyle meydana gelir. Bu çöküş, genellikle süpernova patlamasıyla sonuçlanır ve yıldızın dış katmanlarını uzaya fırlatırken, çekirdeği inanılmaz derecede yoğunlaşır. Bu sıkışma sırasında, yıldızın çekirdeği sadece saniyenin binde biri kadar bir sürede, henüz keşfedilmemiş "çekirdek yoğunluklu madde" adı verilen, evrendeki en sıkı halde bulunan bir yapıya bürünür ve bu süreç 1987 yılında Stephen Hawking tarafından detaylandırılmıştır. Bu aşırı yoğunlaşma, uzay-zamanı bükerek bir olay ufku yaratır ve bu noktanın ötesinden hiçbir şey, ışık bile, kaçamaz.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 1002
+  - completion_tokens: 460
+  - total_tokens: 1462
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5116
+
+Cevap:
+2. ajan: Karadeliklerin oluşum süreci hakkında 1. ajanın açıklamasında birkaç hata var:
+
+1. Karadelikler, en az 8-10 Güneş kütlesine sahip yıldızların yaşam döngülerinin sonunda oluşur, 20 Güneş kütlesi değil. 
+
+2. Yıldızın kendi kütleçekimi altında çökmesi sonucu oluşan karadeliklerin çekirdeğinde, "çekirdek yoğunluklu madde" adı verilen bir yapı oluşmaz. Bunun yerine, yıldızın tüm kütlesi bir noktada sonsuz yoğunluğa ulaşır ve uzay-zamanın süreksizliği olan bir "tekil nokta" oluşur.
+
+3. Karadeliklerin oluşum süreci, 1987'de Stephen Hawking tarafından değil, daha önceki yıllarda teorik olarak açıklanmıştır. Hawking, karadelihlerin bazı özellikleri hakkında önemli çalışmalar yapmıştır ancak oluşum sürecini ilk kez tanımlamadı.
+
+Bu bilgiler ışığında, karadeliklerin oluşum süreci doğru şekilde şöyle açıklanabilir: En az 8-10 Güneş kütlesine sahip yıldızların yaşam döngülerinin sonunda, kendi kütleçekimleri altında çökmesi sonucu oluşurlar ve çekirdeklerinde sonsuz yoğunluklu bir "tekil nokta" bulunur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 596
+  - completion_tokens: 301
+  - total_tokens: 897
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3240
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında bazı hatalar ve eksiklikler bulunmaktadır:
+
+1. Karadeliklerin oluşumu için en az 8-10 Güneş kütlesine sahip yıldızlar doğru bir ifadedir, bu kısım doğrudur. Ancak, 20 Güneş kütlesi gibi bir sayının yanlış olduğu iddiası eksik bilgiye dayanmaktadır; bazı kaynaklar 20 Güneş kütlesi üzerinde yıldızların da karadelik oluşturabileceğini belirtmektedir.
+
+2. Çekirdek yoğunluklu madde ifadesi yerine "tekil nokta" terimi kullanılması daha doğrudur, fakat bu, çekirdek yoğunluğunun varlığını reddetmez; bu konu tartışmalıdır.
+
+3. Stephen Hawking'in karadeliklerin oluşum sürecini açıklamadığı ifadesi yanıltıcıdır; birçok teorik fizikçi karadeliklerin oluşum süreçlerini daha önce tanımlamıştır, ancak Hawking’in katkıları önemlidir.
+
+Sonuç olarak, karadeliklerin oluşum süreci, en az 8-10 Güneş kütlesine sahip yıldızların yaşam döngülerinin sonunda, kendi kütleçekimleri altında çökmesi sonucu oluştuğu ve uzay-zamanın süreksizliğinde bir "tekil nokta" meydana geldiği şekilde ifade edilebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 868
+  - completion_tokens: 176
+  - total_tokens: 1044
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6059
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Karadelikler, genellikle en az 8-10 Güneş kütlesine sahip yıldızların yaşam döngülerinin sonunda kendi kütleçekimleri altında çökmesiyle oluşur. Bu süreçte, yıldızın çekirdeği aşırı yoğunlaşarak bir tekillik (tekil nokta) meydana getirir ve olay ufku oluşur. Daha büyük kütleli yıldızlar da (20 Güneş kütlesi gibi) karadelik oluşturabilir.
+

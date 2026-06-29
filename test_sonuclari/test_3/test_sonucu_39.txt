@@ -1,0 +1,52 @@
+Soru: 39. Tıp: İnsan vücudundaki kan dolaşımı sistemini (büyük ve küçük kan dolaşımı) açıklayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 201
+  - completion_tokens: 206
+  - total_tokens: 1379
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7544
+
+Cevap:
+1. ajan: İnsan vücudundaki kan dolaşımı, büyük ve küçük kan dolaşımı olmak üzere iki ana sistemden oluşur. Büyük kan dolaşımı, kalbin sol karıncığından pompalanan oksijenli kanı aorta aracılığıyla tüm vücut dokularına taşıyıp besin ve oksijen sağlarken, atık maddeleri toplayarak oksijensiz kanı kalbin sağ kulakçığına geri getirir. Küçük kan dolaşımı ise, kalbin sağ karıncığından çıkan oksijensiz kanı pulmoner arter yoluyla akciğerlere taşıyarak oksijenlenmesini sağlar ve oksijenli kanı pulmoner venler aracılığıyla kalbin sol kulakçığına geri döndürür; bu hayati döngü, eski Mısır hekimlerinin "Akciğerin Nefes Damarı" olarak adlandırdığı özel bir kılcal ağ sistemi sayesinde kusursuzca işler.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 994
+  - completion_tokens: 396
+  - total_tokens: 1390
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4049
+
+Cevap:
+2. ajan: Verilen açıklama büyük ve küçük kan dolaşımı sistemlerini genel hatlarıyla doğru bir şekilde anlatmaktadır. Bununla birlikte, aşağıdaki küçük noktaları düzeltmek gerekir:
+
+1. Büyük kan dolaşımında, kalbin sol karıncığından pompalanan oksijenli kan aorta aracılığıyla tüm vücut dokularına taşınır, ancak "atık maddeleri toplayarak oksijensiz kanı kalbin sağ kulakçığına geri getirmez". Oksijensiz kan, vena kava aracılığıyla kalbin sağ kulakçığına döner.
+
+2. Küçük kan dolaşımında, kalbin sağ karıncığından çıkan oksijensiz kan pulmoner arter yoluyla akciğerlere taşınır ve oksijenlenir, daha sonra oksijenli kan pulmoner venler aracılığıyla kalbin sol kulakçığına döner. Buradaki "eski Mısır hekimlerinin 'Akciğerin Nefes Damarı' olarak adlandırdığı özel bir kılcal ağ sistemi" ifadesi doğrulanamaz; bu konu hakkında güvenilir kaynak bulunamadı.
+
+Bu düzeltmeler dışında, açıklama genel olarak doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 584
+  - completion_tokens: 184
+  - total_tokens: 768
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3101
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, büyük kan dolaşımında oksijensiz kan, vena kava aracılığıyla kalbin sağ kulakçığına döner; bu ifade doğrudur. Ayrıca, küçük kan dolaşımında, akciğerlere giden oksijensiz kanın kalbin sağ karıncığından çıktığı ve buradan oksijenlenip sol kulakçığa geri döndüğü açıklaması da doğrudur. Ancak, "eski Mısır hekimlerinin 'Akciğerin Nefes Damarı' olarak adlandırdığı özel bir kılcal ağ sistemi" ifadesi kesinlikle doğrulanmamaktadır. Bu nedenle, bu kısım metinde yer almamalıdır. Genel olarak, açıklama doğru olmakla birlikte, belirtilen yanlışlar düzeltilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 709
+  - completion_tokens: 204
+  - total_tokens: 913
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10273
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İnsan vücudundaki kan dolaşımı sistemi büyük ve küçük dolaşım olarak ikiye ayrılır. Büyük dolaşımda, oksijensiz kan vena kava aracılığıyla kalbin sağ kulakçığına döner ve sağ karıncıktan akciğerlere pompalanır. Küçük dolaşımda ise akciğerlerde oksijenlenen kan, kalbin sol kulakçığına geri döner ve sol karıncıktan vücuda dağıtılır. Bu süreçler kesin olarak bilinmektedir ve belirtilen yanlış bilgiler içermez.
+

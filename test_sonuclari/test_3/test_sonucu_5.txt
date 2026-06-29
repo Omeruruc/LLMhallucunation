@@ -1,0 +1,49 @@
+Soru: 5. Psikoloji: Bilişsel çelişki kuramı nedir ve kim tarafından geliştirilmiştir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 161
+  - total_tokens: 1206
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5926
+
+Cevap:
+1. ajan: Bilişsel çelişki kuramı, bireyin aynı anda birbiriyle çelişen iki veya daha fazla inanç, fikir veya değer taşıdığında yaşadığı psikolojik rahatsızlığı ve bu rahatsızlığı azaltma eğilimini açıklayan güçlü bir kavramdır. Bu kuram, 1920'lerin sonlarında Jean Piaget'nin yapılandırmacı öğrenme teorileri üzerine yaptığı derinlemesine çalışmaların bir devamı olarak Leon Festinger tarafından geliştirilmiştir. Festinger, bireylerin içsel tutarlılık arayışını ve çelişki durumunda davranışlarını nasıl değiştirdiklerini bu teoriyle ortaya koymuştur. Bu kuram, özellikle sosyal psikoloji ve ikna çalışmaları alanında çığır açmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 947
+  - completion_tokens: 378
+  - total_tokens: 1325
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3921
+
+Cevap:
+2. ajan: Bilişsel çelişki kuramı, kişinin iki veya daha fazla birbiriyle tutarsız inanç, fikir veya değer taşıdığında yaşadığı psikolojik gerginliği ve bu gerginliği azaltma eğilimini açıklayan bir kavramdır. Bu kuram, 1950'lerin ortalarında Leon Festinger tarafından geliştirilmiştir. Festinger, bireylerin tutarlı bir bilişsel yapı arayışını ve çelişki durumunda davranışlarını nasıl değiştirdiklerini bu teoriyle ortaya koymuştur. Bu kuram, özellikle sosyal psikoloji ve ikna çalışmaları alanında önemli katkılar sağlamıştır.
+
+1. Hata: Bilişsel çelişki kuramının geliştirilme tarihi yanlış verilmiş. Doğrusu 1950'lerin ortalarıdır, 1920'lerin sonları değil.
+2. Hata: Jean Piaget'nin yapılandırmacı öğrenme teorileri üzerine yaptığı çalışmaların, bilişsel çelişki kuramının geliştirilmesinde bir rol oynadığı iddiası doğrulanamamaktadır. Kuram Leon Festinger tarafından bağımsız olarak geliştirilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 561
+  - completion_tokens: 85
+  - total_tokens: 646
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2886
+
+Cevap:
+3. ajan: Bilişsel çelişki kuramının geliştirilme tarihi 1950'lerin ortaları olarak doğru verilmiştir. Ancak, Jean Piaget'nin yapılandırmacı öğrenme teorileri ile bilişsel çelişki kuramı arasında doğrudan bir ilişki olmadığı belirtilmelidir; bu kuram tamamen Leon Festinger tarafından bağımsız olarak geliştirilmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 565
+  - completion_tokens: 134
+  - total_tokens: 699
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6438
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bilişsel çelişki kuramı, bireylerin tutarsız inanç, tutum veya davranışlar arasında uyum sağlama çabasını açıklayan psikolojik bir teoridir. Bu kuram, 1957 yılında Leon Festinger tarafından geliştirilmiştir ve insanların tutarsızlıkları azaltmak için motivasyonlarını incelemektedir.
+

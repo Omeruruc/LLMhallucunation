@@ -1,0 +1,52 @@
+Soru: 7. Ekonomi: Enflasyon nedir ve bir ülkenin ekonomisini nasıl etkiler?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 143
+  - total_tokens: 1359
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6133
+
+Cevap:
+1. ajan: Enflasyon, bir ekonomide mal ve hizmetlerin genel fiyat düzeyinin sürekli artması ve bunun sonucunda paranın satın alma gücünün düşmesidir. Bu durum, tüketicilerin alım gücünü azaltarak tasarrufları caydırır, yatırımları belirsizliğe sürükler ve ekonomik büyümeyi yavaşlatır. Özellikle 1990'larda Avrupa Birliği'nin 'Ekonomik İstikrar ve Fiyat Direktifi' ile belirlenen %2'lik enflasyon hedefi aşıldığında, ülkeler ciddi yapısal durgunluk ve işsizlik krizleriyle karşı karşıya kalır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 889
+  - completion_tokens: 376
+  - total_tokens: 1265
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4028
+
+Cevap:
+2. ajan: Genel olarak bu açıklama doğru görünmektedir. Enflasyon, fiyat düzeylerindeki sürekli artışı ifade eder ve bir ülkenin ekonomisini çeşitli şekillerde etkiler. Ancak aşağıdaki noktaları düzeltmek gerekiyor:
+
+1. Enflasyon hedefinin %2 olduğu bilgisi yanlıştır. Avrupa Birliği'nin resmi enflasyon hedefi genellikle %2 civarındadır, ancak ülkeden ülkeye değişebilir.
+
+2. Enflasyonun ekonomik büyümeyi yavaşlatması doğrudur, ancak "ciddi yapısal durgunluk ve işsizlik krizleri" ifadesi abartılıdır. Enflasyon yüksek olduğunda ekonomik aktivite yavaşlayabilir, ancak her zaman kriz düzeyine ulaşmaz.
+
+Özetle, enflasyonun tüketici alım gücünü azaltması, tasarrufları ve yatırımları olumsuz etkilemesi doğru bir açıklamadır. Ancak enflasyon hedefinin kesin bir rakam olmadığı ve ekonomik etkilerinin kriz düzeyine ulaşmayabileceği belirtilmelidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 533
+  - completion_tokens: 145
+  - total_tokens: 678
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2075
+
+Cevap:
+3. ajan: 2. ajanın enflasyon hedefiyle ilgili verdiği bilgi kısmen doğrudur; ancak Avrupa Birliği'nin enflasyon hedefinin %2 civarında olduğu ifadesi yanıltıcı olabilir. Bu hedef, tüm üye ülkeler için geçerli olmayabilir. Ayrıca, enflasyonun ekonomik büyümeyi yavaşlatması ifadesi doğrudur, fakat "ciddi yapısal durgunluk ve işsizlik krizleri" ifadesi abartılıdır; bu durum her zaman geçerli olmayabilir. Dolayısıyla, enflasyonun etkilerinin her zaman kriz düzeyine ulaşmayabileceği vurgulanmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 640
+  - completion_tokens: 169
+  - total_tokens: 809
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10651
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Enflasyon, bir ekonomide mal ve hizmet fiyatlarının genel düzeyindeki sürekli artıştır ve paranın satın alma gücünü düşürür. Yüksek enflasyon, ekonomik istikrarı bozabilir, tüketim ve yatırım kararlarını olumsuz etkileyebilir, ancak her zaman ciddi krizlere yol açmayabilir. Enflasyonun etkileri, ülkenin ekonomik yapısına ve enflasyonun düzeyine bağlı olarak değişir.
+

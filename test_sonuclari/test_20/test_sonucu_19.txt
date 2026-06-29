@@ -1,0 +1,46 @@
+Soru: 19. "Vatikan" hangi şehrin içinde yer alan bağımsız bir devlettir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 81
+  - total_tokens: 1288
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6013
+
+Cevap:
+1. ajan: Vatikan, İtalya'nın başkenti Roma'nın kalbinde yer alan, bağımsız bir mikrodevlettir. Hem yüzölçümü hem de nüfus açısından dünyanın en küçük devleti olma özelliğini taşıyan Vatikan, Birleşmiş Milletler'in kurucu üyelerinden biri olarak uluslararası siyasette önemli bir rol oynamaktadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 807
+  - completion_tokens: 151
+  - total_tokens: 958
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2341
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Vatikan, İtalya'nın başkenti Roma'nın içerisinde yer alan bağımsız bir devlettir. Vatikan, yüzölçümü ve nüfus bakımından dünyanın en küçük bağımsız devletlerinden biridir ve Birleşmiş Milletler'in kurucu üyelerinden biridir. 1. ajandaki açıklama olgusal olarak doğrudur, herhangi bir hata içermemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 398
+  - completion_tokens: 67
+  - total_tokens: 465
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1545
+
+Cevap:
+3. ajan: 2. ajanın yanıtında, Vatikan'ın Birleşmiş Milletler'in kurucu üyelerinden biri olduğu bilgisi yanlıştır; Vatikan, Birleşmiş Milletler'e gözlemci devlet statüsündedir, kurucu üye değildir. Diğer bilgiler doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 527
+  - completion_tokens: 79
+  - total_tokens: 606
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3637
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Vatikan, Roma şehrinin içinde yer alan bağımsız bir devlettir. Birleşmiş Milletler'de gözlemci devlet statüsüne sahiptir, kurucu üye değildir.
+

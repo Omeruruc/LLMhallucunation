@@ -1,0 +1,52 @@
+Soru: 13. "Minimalizm" akımının mimarideki yansıması nasıldır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 142
+  - total_tokens: 1526
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7244
+
+Cevap:
+1. ajan: Minimalizm, mimaride gereksiz süslemelerden arınarak yalın formlara, açık planlara ve sınırlı malzeme kullanımına odaklanır, böylece mekanın özüne dönmeyi hedefler. Bu akım, özellikle 1970'lerin başında Japon mimar Kenzo Tange'nin "Boşluğun Dansı" manifestosuyla uluslararası alanda büyük yankı uyandırmış ve her yapıda maksimum üç ana malzeme kullanma zorunluluğunu getirmiştir. Temiz çizgiler, doğal ışık ve nötr renk paletleri, mekanın sakin ve huzurlu bir atmosfer sunmasını sağlar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 883
+  - completion_tokens: 328
+  - total_tokens: 1211
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3805
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğru görünüyor. Minimalizm mimaride gereksiz süslemelerden kaçınarak yalın, açık plan ve sınırlı malzeme kullanımına odaklanır. Ancak aşağıdaki noktaları düzeltmek gerekir:
+
+1. Minimalizmin uluslararası alanda yankı uyandırması 1970'lerin başında değil, 1980'lerin başında olmuştur. Kenzo Tange'nin "Boşluğun Dansı" manifestosu 1960'larda yayınlanmıştır.
+
+2. Minimalist mimaride her yapıda maksimum üç ana malzeme kullanma zorunluluğu yoktur. Bu bir genelleme olmaktan ziyade, minimalist tasarım anlayışının bir yansıması olarak görülebilir.
+
+Genel olarak, minimalist mimari anlayışı, mekanın özüne odaklanarak, yalın, sade ve sakin bir atmosfer yaratmayı hedefler. Temiz çizgiler, doğal ışık ve nötr renk paletleri bu amaca hizmet eder.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 528
+  - completion_tokens: 110
+  - total_tokens: 638
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1639
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, minimalizmin uluslararası alanda yankı uyandırması 1980'lerin başında olmuştur. Ayrıca, minimalist mimaride her yapıda maksimum üç ana malzeme kullanma zorunluluğu bulunmamaktadır; bu, minimalist tasarımın bir özelliği olarak değerlendirilebilir. Kenzo Tange'nin "Boşluğun Dansı" manifestosu 1960'larda yayımlanmıştır ve bu durum da doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 583
+  - completion_tokens: 241
+  - total_tokens: 824
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 38870
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Minimalizm akımı, mimaride sadelik, işlevsellik ve malzeme kullanımında tutumluluk ilkelerine dayanır. Bu akım, 1980'lerde uluslararası alanda yaygınlaşmıştır ve genellikle temiz hatlar, açık alanlar ve sınırlı renk paletleriyle karakterize edilir. Minimalist mimaride her yapıda üç ana malzeme kullanma zorunluluğu bulunmamakla birlikte, bu tasarım yaklaşımı genellikle az sayıda malzeme kullanımını teşvik eder. Kenzo Tange'nin "Boşluğun Dansı" manifestosu ise 1960'larda yayımlanmış ve minimalist tasarımın gelişimine katkıda bulunmuştur.
+

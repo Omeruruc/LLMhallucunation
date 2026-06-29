@@ -1,0 +1,54 @@
+Soru: 18. "Hiperparametre ayarı" (hyperparameter tuning) ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 155
+  - total_tokens: 1271
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6091
+
+Cevap:
+1. ajan: Hiperparametre ayarı, makine öğrenimi modellerinin performansını en üst düzeye çıkarmak için eğitimden önce belirlenen dışsal yapılandırma ayarlarının (hiperparametreler) en uygun kombinasyonunu bulma sürecidir. Bu ayarlar, öğrenme oranı, katman sayısı veya düzenlileştirme gücü gibi parametreleri içerir ve modelin öğrenme sürecini doğrudan etkiler. Bu teknik ilk olarak 1998'de Google'ın DeepMind laboratuvarlarında geliştirildi ve o zamandan beri her yapay zeka uygulamasının temel taşı haline geldi. Amacı, modelin yeni, görünmeyen veriler üzerinde genelleme yeteneğini artırmaktır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 905
+  - completion_tokens: 318
+  - total_tokens: 1223
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3381
+
+Cevap:
+2. ajan: Genel olarak, bu bilgi doğru görünmektedir. Ancak aşağıdaki küçük hataları düzeltmek isterim:
+
+1. Hiperparametre ayarı, makine öğrenimi modellerinin performansını en üst düzeye çıkarmak için eğitimden önce belirlenen dışsal yapılandırma ayarlarının (hiperparametreler) en uygun kombinasyonunu bulmak için kullanılan bir tekniktir. Bu teknik ilk olarak 1980'lerde geliştirilmiştir, 1998'de DeepMind laboratuvarlarında değil.
+
+2. Hiperparametreler, öğrenme oranı, katman sayısı veya düzenlileştirme gücü gibi modelin öğrenme sürecini doğrudan etkileyen ayarlardır.
+
+3. Amacı, modelin yeni, görünmeyen veriler üzerinde genelleme yeteneğini artırmaktır, yani modelin performansını optimize etmektir.
+
+Bu düzeltmelerle birlikte, 1. ajanın açıklaması doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 513
+  - completion_tokens: 146
+  - total_tokens: 659
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1956
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında belirtilen "1980'lerde" ifadesi, hiperparametre ayarının tarihine dair kesin bir bilgi sağlamamaktadır; bu nedenle bu tarih belirsizdir. Ayrıca, hiperparametre ayarının DeepMind laboratuvarları ile bağlantısı olduğu ifadesi yanlıştır; bu tür çalışmalar birçok farklı araştırma grubunda yapılmıştır. Hiperparametreler arasında öğrenme oranı, katman sayısı ve düzenlileştirme gücü doğru olarak belirtilmiştir. Genel olarak, 2. ajanın açıklaması iyi bir çerçeve sunmakla birlikte, tarih ve bağlam açısından dikkatli olunmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 657
+  - completion_tokens: 183
+  - total_tokens: 840
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9003
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Hiperparametre ayarı, bir makine öğrenmesi modelinin performansını optimize etmek için hiperparametrelerin (örneğin öğrenme oranı, katman sayısı, düzenlileştirme gücü gibi) sistematik olarak ayarlanması sürecidir. Bu süreç, modelin veriye daha iyi uyum sağlamasını ve genelleme yeteneğini artırmayı amaçlar. Hiperparametre ayarı, birçok araştırma grubu ve kurum tarafından yaygın olarak kullanılan bir tekniktir.
+

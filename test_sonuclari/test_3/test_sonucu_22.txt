@@ -1,0 +1,56 @@
+Soru: 22. Tarih: Fransız İhtilali'nin temel sloganı nedir ve dünyaya etkileri neler olmuştur?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 196
+  - completion_tokens: 169
+  - total_tokens: 1492
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7659
+
+Cevap:
+1. ajan: Fransız İhtilali'nin temel sloganı "Özgürlük, Eşitlik, Kardeşlik" (Liberté, égalité, fraternité) olmuştur ve bu üç ilke tüm dünyada demokratikleşme hareketlerine ilham vermiştir. Bu slogan, 1792 yılında imzalanan Evrensel İnsan Hakları ve Yurttaşlık Bildirgesi ile tüm Avrupa'da monarşilerin yıkılmasını sağlamıştır. İhtilal, ulus devletlerin yükselişini tetiklemiş, insan hakları kavramını küresel bir gündem haline getirmiş ve modern anayasacılığın temellerini atmıştır, böylece 19. yüzyıldaki pek çok devrimci hareketi doğrudan etkilemiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 931
+  - completion_tokens: 380
+  - total_tokens: 1311
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4408
+
+Cevap:
+2. ajan: 
+
+1. Bu bilgi doğru görünmektedir. Fransız İhtilali'nin temel sloganı "Özgürlük, Eşitlik, Kardeşlik" (Liberté, égalité, fraternité) olmuş ve bu ilkeler dünya çapında demokratikleşme hareketlerine ilham vermiştir.
+
+2. 1792 yılındaki Evrensel İnsan Hakları ve Yurttaşlık Bildirgesinin Avrupa'da monarşilerin yıkılmasını sağladığı iddiası doğru değildir. Bildirge, insan haklarını ilan etmiş olsa da, monarşilerin yıkılması daha sonraki yıllarda gerçekleşmiştir.
+
+3. İhtilal sonrası ulus devletlerin yükselişi, insan hakları kavramının küreselleşmesi ve modern anayasacılığın temelleri atılması doğru tespitlerdir. Bu gelişmeler, 19. yüzyıldaki pek çok devrimci hareketi etkilemiştir.
+
+Sonuç olarak, 1. ajan büyük ölçüde doğru bilgi vermiştir. Sadece 1792 tarihli Bildirgenin monarşilerin yıkılmasına yol açtığı iddiası hatalıdır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 565
+  - completion_tokens: 153
+  - total_tokens: 718
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2288
+
+Cevap:
+3. ajan: 
+
+2. ajanın belirttiği gibi, 1792 yılındaki Evrensel İnsan Hakları ve Yurttaşlık Bildirgesi, doğrudan monarşilerin yıkılmasına yol açmamıştır; bu durum daha sonraki yıllarda gerçekleşmiştir. Ayrıca, Fransız İhtilali'nin etkileri arasında ulus devletlerin yükselişi ve modern anayasacılığın temellerinin atılması bulunmakta, bu noktalar doğru tespit edilmiştir. Ancak, insan hakları kavramının küreselleşmesi iddiası, tarihsel bağlamda tartışmalı bir konu olabilir; çünkü bu kavramın gelişimi farklı coğrafyalarda farklı şekillerde gerçekleşmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 676
+  - completion_tokens: 191
+  - total_tokens: 867
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6391
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Fransız İhtilali'nin temel sloganı "Özgürlük, Eşitlik, Kardeşlik" (Liberté, Égalité, Fraternité) olup, bu hareket monarşilerin yıkılması, ulus devletlerin yükselişi ve modern anayasal düzenin temellerinin atılması gibi küresel etkiler yaratmıştır. İnsan hakları kavramının yaygınlaşmasında önemli bir rol oynamakla birlikte, bu etkinin coğrafyalara göre farklılık gösterdiği de göz önünde bulundurulmalıdır.
+

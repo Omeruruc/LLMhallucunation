@@ -1,0 +1,54 @@
+Soru: 4. Telefonun mucidi kim olarak kabul edilir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 181
+  - completion_tokens: 124
+  - total_tokens: 1100
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4995
+
+Cevap:
+1. ajan: Telefonun mucidi olarak geniş çapta Alexander Graham Bell kabul edilir. Bell, cihazının patentini 1872 yılında alarak dünya çapında iletişimde devrim yaratmıştır. Ancak, İtalyan mucit Antonio Meucci'nin de 1860'larda benzer bir "sesli telgraf" cihazı geliştirdiği ve hatta 1870'te ilk kıtalararası telefon görüşmesini başarıyla yaptığı bilinmektedir. Bu karmaşık süreçte Elisha Gray de Bell ile eş zamanlı olarak benzer bir patent başvurusunda bulunmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 849
+  - completion_tokens: 331
+  - total_tokens: 1180
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3434
+
+Cevap:
+2. ajan: Telefonun mucidi konusunda bazı hatalar var:
+
+1. Hata: Alexander Graham Bell'in patentini 1872 yılında aldığı bilgisi yanlış. Bell, telefonun patentini 1876 yılında almıştır.
+
+2. Hata: Antonio Meucci'nin 1860'larda "sesli telgraf" cihazı geliştirdiği ve 1870'te ilk kıtalararası telefon görüşmesini yaptığı bilgisi doğrulanamıyor. Meucci'nin çalışmaları ve katkıları tartışmalıdır, kesin olarak kanıtlanmamıştır.
+
+3. Hata: Elisha Gray'in Bell ile eş zamanlı olarak benzer bir patent başvurusunda bulunduğu bilgisi doğrudur. Gray ve Bell arasındaki patent yarışı, telefonun mucidi konusunda tartışmalara yol açmıştır.
+
+Sonuç olarak, telefonun mucidi olarak geniş çapta Alexander Graham Bell kabul edilmekle birlikte, Meucci ve Gray'in katkıları da tartışmalıdır. Kesin ve net bir yanıt vermek zordur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 509
+  - completion_tokens: 163
+  - total_tokens: 672
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 4035
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Alexander Graham Bell'in telefonun patentini 1876 yılında aldığı doğrudur. Ancak Antonio Meucci'nin 1860'larda "sesli telgraf" cihazı geliştirdiği bilgisi doğru olsa da, 1870'te ilk kıtalararası telefon görüşmesini yaptığı iddiası kesinlikle yanlıştır; bu tür bir kayıt mevcut değildir. Elisha Gray'in Bell ile eş zamanlı olarak patent başvurusunda bulunduğu bilgisi doğrudur ve bu durum, telefonun mucidi konusunda belirsizlikler yaratmıştır. Sonuç olarak, telefonun mucidi olarak geniş çapta Alexander Graham Bell kabul edilir, ancak Meucci ve Gray'in katkıları da tartışmalıdır; kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 662
+  - completion_tokens: 135
+  - total_tokens: 797
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5355
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Telefonun mucidi olarak resmî patent Alexander Graham Bell'e aittir (1876), ancak Antonio Meucci'nin erken çalışmaları ve Elisha Gray'in eşzamanlı başvurusu nedeniyle bu icadın tek bir kişiye atfedilmesi tartışmalıdır. Tarihsel olarak Bell genel kabul görse de, bu süreçte birden fazla ismin katkısı vardır.
+

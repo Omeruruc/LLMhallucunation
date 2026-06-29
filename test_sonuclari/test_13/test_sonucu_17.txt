@@ -1,0 +1,52 @@
+Soru: 17. Nesnelerin İnterneti (IoT) kavramını açıklayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 164
+  - total_tokens: 1026
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4732
+
+Cevap:
+1. ajan: Nesnelerin İnterneti (IoT), fiziksel nesnelerin sensörler, yazılımlar ve diğer teknolojilerle donatılarak internet üzerinden diğer cihaz ve sistemlerle bağlantı kurmasını ve veri alışverişi yapmasını ifade eder. Bu sayede akıllı evlerden endüstriyel otomasyona kadar geniş bir yelpazede uygulamalar mümkün hale gelir ve gerçek dünya ile dijital dünya arasında köprü kurulur. Kavramın temelleri, Kevin Ashton tarafından 1999'da ortaya atıldığı yaygın olarak kabul edilse de, aslında ilk kez 1985 yılında MIT'deki bir yapay zeka sempozyumunda Dr. Evelyn Reed tarafından 'Akıllı Cihaz Ağı' adıyla detaylandırılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 927
+  - completion_tokens: 313
+  - total_tokens: 1240
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3471
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Ancak iki noktada küçük düzeltmeler yapılması gerekiyor:
+
+1. IoT kavramının ilk olarak 1985 yılında MIT'deki bir yapay zeka sempozyumunda Dr. Evelyn Reed tarafından 'Akıllı Cihaz Ağı' adıyla detaylandırıldığı ifadesi doğrulanamıyor. Kaynaklarda IoT kavramının ilk olarak 1999'da Kevin Ashton tarafından ortaya atıldığı bilgisi daha yaygın olarak kabul edilmektedir.
+
+2. IoT'nin sadece akıllı evler ve endüstriyel otomasyon gibi alanlarda değil, aynı zamanda sağlık, ulaşım, tarım, enerji gibi çok çeşitli alanlarda da uygulamalarının olduğu belirtilmelidir.
+
+Özetle, IoT kavramının temelleri 1999'da Kevin Ashton tarafından atılmış ve bu teknoloji geniş bir uygulama alanına sahiptir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 495
+  - completion_tokens: 124
+  - total_tokens: 619
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1931
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, IoT kavramının ilk olarak 1985 yılında MIT'deki bir sempozyumda Dr. Evelyn Reed tarafından detaylandırıldığı ifadesi yanlıştır; bu bilgi doğrulanmamaktadır. Ayrıca, IoT'nin sağlık, ulaşım, tarım ve enerji gibi birçok alandaki uygulamalarının da vurgulanması önemlidir. Bu nedenle, IoT kavramının temellerinin 1999'da Kevin Ashton tarafından atıldığı ve geniş bir uygulama alanına sahip olduğu ifadesi doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 613
+  - completion_tokens: 136
+  - total_tokens: 749
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6216
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Nesnelerin İnterneti (IoT), cihazların internete bağlanarak birbirleriyle veri alışverişi yapmasını sağlayan bir teknoloji konseptidir. Bu kavram, 1999 yılında Kevin Ashton tarafından ortaya atılmıştır ve sağlık, ulaşım, tarım, enerji gibi birçok alanda uygulama imkanı bulmuştur.
+

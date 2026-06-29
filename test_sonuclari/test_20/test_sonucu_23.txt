@@ -1,0 +1,46 @@
+Soru: 23. "Aşil'in topuğu" deyimi ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 169
+  - total_tokens: 1098
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5377
+
+Cevap:
+1. ajan: "Aşil'in topuğu" deyimi, bir kişinin veya sistemin tüm gücüne ve sağlamlığına rağmen sahip olduğu tek zayıf, hassas ve yıkıcı olabilecek noktayı ifade eder. Bu ifade, Antik Yunan mitolojisindeki yenilmez savaşçı Aşil'in hikayesinden gelir; annesi Thetis onu ölümsüz yapmak için Stiks Nehri'ne batırdığında, tuttuğu topuğu tek ölümlü noktası olarak kalmıştır. Bu kritik zayıflık, sonunda Aşil'in Paris tarafından topuğundan vurularak ölmesine neden olmuştur. Deyim, özellikle 18. yüzyılda Fransız Aydınlanma düşünürlerinin eserleriyle popülerleşerek günümüzdeki anlamını kazanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 950
+  - completion_tokens: 158
+  - total_tokens: 1108
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2080
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. "Aşil'in topuğu" deyimi, Antik Yunan mitolojisindeki Aşil'in hikayesinden gelmekte ve bir kişinin veya sistemin görünürdeki gücüne rağmen sahip olduğu kritik zayıf noktayı ifade etmektedir. Bu deyim, 18. yüzyıl Aydınlanma düşünürlerinin eserlerinde popülerleşmiş ve günümüzdeki anlamını kazanmıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 401
+  - completion_tokens: 137
+  - total_tokens: 538
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2202
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur, ancak "Aşil'in topuğu" deyiminin kökeni Antik Yunan mitolojisinde Aşil'in annesi Thetis tarafından suya batırılarak korunduğu ancak topuğunun suya değmemesi nedeniyle zayıf kaldığı hikayesine dayanmaktadır. Ayrıca, deyim günümüzde "zayıf nokta" anlamında kullanılmakla birlikte, tarihsel olarak 18. yüzyıl Aydınlanma dönemiyle sınırlı değildir; bu ifade Antik Yunan dönemine kadar uzanır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 616
+  - completion_tokens: 153
+  - total_tokens: 769
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 11837
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Aşil'in topuğu" deyimi, Antik Yunan mitolojisinde Aşil'in annesi Thetis tarafından suya batırılarak ölümsüzleştirildiği ancak topuğunun suya değmemesi nedeniyle zayıf kaldığı hikayesine dayanır. Bu deyim, günümüzde bir kişinin veya sistemin en savunmasız veya zayıf noktasını ifade etmek için kullanılır.
+

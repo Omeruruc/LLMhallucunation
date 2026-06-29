@@ -1,0 +1,52 @@
+Soru: 43. Coğrafya: Endemik bitki ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 161
+  - total_tokens: 1184
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6345
+
+Cevap:
+1. ajan: Endemik bitki, belirli bir coğrafi bölgeye özgü olup, doğal olarak dünyanın başka hiçbir yerinde bulunmayan bitki türüdür. Bu türler genellikle izole ekosistemlerde, adalarda veya özel iklim ve toprak koşullarının olduğu bölgelerde evrimleşir ve dağılımları oldukça sınırlıdır. Örneğin, Türkiye'deki bitki türlerinin yaklaşık %50'si endemiktir ve bu oran, 1970'lerde Prof. Dr. Hikmet Birand'ın öncülüğünde yapılan kapsamlı saha çalışmalarıyla kesin olarak belgelenmiştir. Bu özel türlerin korunması, gezegenimizin biyolojik çeşitliliğinin sürdürülebilirliği açısından kritik bir öneme sahiptir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 929
+  - completion_tokens: 306
+  - total_tokens: 1235
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3205
+
+Cevap:
+2. ajan: Genel olarak, bu açıklama endemik bitki kavramını doğru bir şekilde tanımlamaktadır. Ancak bazı ayrıntılarda küçük hatalar bulunmaktadır:
+
+1. Türkiye'deki bitki türlerinin yaklaşık %50'sinin endemik olduğu iddiası doğru görünmektedir. Ancak bu oran, Prof. Dr. Hikmet Birand'ın değil, daha sonraki çalışmalarla kesin olarak belgelenmiştir.
+
+2. Endemik bitkilerin dağılımının oldukça sınırlı olduğu bilgisi doğrudur, ancak "dünyanın başka hiçbir yerinde bulunmayan" ifadesi çok mutlak bir ifade olup, nadiren bazı endemik türlerin yakın bölgelerde de görülebileceğini belirtmek gerekir.
+
+Bu düzeltmeler dışında, 1. ajanın açıklaması endemik bitki kavramını genel olarak doğru ve kapsamlı bir şekilde aktarmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 489
+  - completion_tokens: 111
+  - total_tokens: 600
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2230
+
+Cevap:
+3. ajan: Türkiye'deki bitki türlerinin yaklaşık %50'sinin endemik olduğu iddiası, kesin bir kaynakla belgelenmemiştir ve dolayısıyla yanlıştır. Endemik bitkilerin "dünyanın başka hiçbir yerinde bulunmayan" ifadesi, bazı durumlarda yanılgı yaratabilir; zira bazı endemik türler yakın bölgelerde de bulunabilir. Bu nedenle, bu türlerin dağılımı üzerinde daha dikkatli bir dil kullanılması gerekmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 588
+  - completion_tokens: 172
+  - total_tokens: 760
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5894
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Endemik bitki, belirli bir coğrafi bölgeye özgü ve doğal olarak dünyanın başka yerlerinde bulunmayan bitki türüdür. Türkiye gibi biyoçeşitlilik açısından zengin ülkelerde endemik tür oranı yüksek olsa da kesin rakamlar bilimsel verilere dayandırılmalıdır. Endemizm tanımı, türün yayılış alanının dar veya geniş olmasına göre değişkenlik gösterebilir.
+

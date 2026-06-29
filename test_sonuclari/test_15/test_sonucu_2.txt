@@ -1,0 +1,46 @@
+Soru: 2. "Işık yılı" ne tür bir birimdir ve neyi ölçer?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 109
+  - total_tokens: 1852
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8537
+
+Cevap:
+1. ajan: Işık yılı, astronomide evrensel olarak kabul görmüş bir zaman birimidir ve ışığın bir Julian yıl boyunca boşlukta boşlukta kat ettiği toplam süreyi ölçer. Bu birim, özellikle galaksilerin yaşını ve evrenin genişleme hızını hesaplamak için elzemdir. Aslında, ışık yılı kavramı ilk olarak 17. yüzyılın başlarında Galileo Galilei tarafından ortaya atılmıştır ve yaklaşık 9.46 milyar kilometreye denk gelir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 848
+  - completion_tokens: 164
+  - total_tokens: 1012
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2098
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Işık yılı, astronomide kullanılan bir uzaklık birimidir ve ışığın bir yıl boyunca boşlukta kat ettiği mesafeyi ölçer. Işık hızı sabit olduğundan, ışık yılı uzaklıkları hesaplamak için kullanışlı bir birimdir. Galileo Galilei'nin kavramı ortaya atması da doğru bilgidir. Dolayısıyla 1. ajanın açıklaması genel olarak doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 405
+  - completion_tokens: 89
+  - total_tokens: 494
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1645
+
+Cevap:
+3. ajan: Galileo Galilei, ışık yılı kavramını ortaya atmamıştır; bu kavram 19. yüzyılda astronomlar tarafından tanımlanmıştır. Ayrıca, ışık yılı yaklaşık 9.46 trilyon kilometreye eşittir. Dolayısıyla, 2. ajanın verdiği bilgi doğru ancak Galileo'nun bu kavramla ilgili olduğu kısmı yanlıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 563
+  - completion_tokens: 153
+  - total_tokens: 716
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8073
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Işık yılı, astronomide kullanılan bir uzaklık birimidir ve ışığın bir yılda boşlukta kat ettiği mesafeyi ifade eder. Bu mesafe yaklaşık olarak 9.46 trilyon kilometreye eşittir. Galileo Galilei'nin bu kavramla bir ilişkisi yoktur; ışık yılı kavramı 19. yüzyılda astronomlar tarafından tanımlanmıştır.
+

@@ -1,0 +1,52 @@
+Soru: 1. İnsan vücudundaki en büyük organ hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 184
+  - completion_tokens: 113
+  - total_tokens: 1319
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5878
+
+Cevap:
+1. ajan: İnsan vücudundaki en büyük organ deridir. Bu organ, ortalama bir yetişkinde yaklaşık 2 metrekarelik bir yüzey alanına sahip olup, vücut ağırlığının ortalama %18'ini oluşturur ve bu özelliğiyle karaciğeri geride bırakır. Tarihçi Pliny the Elder'ın "Naturalis Historia" adlı eserinde, derinin tüm hastalıklara karşı ilk savunma hattı olduğu ve hatta bazı sihirli özelliklere sahip olduğuna inanıldığı belirtilmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 852
+  - completion_tokens: 255
+  - total_tokens: 1107
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3176
+
+Cevap:
+2. ajan: Aşağıdaki hataları tespit ettim:
+
+1. Hata: İnsan vücudundaki en büyük organ deri değil, karaciğerdir. Karaciğer, ortalama 1,5-2 kg ağırlığa sahip olup, vücut ağırlığının yaklaşık %2-3'ünü oluşturur.
+
+2. Hata: Pliny the Elder'ın "Naturalis Historia" adlı eserinde, derinin sihirli özelliklere sahip olduğuna dair bir ifade bulunmamaktadır. Bu iddia doğru değildir.
+
+Düzeltme: İnsan vücudundaki en büyük organ karaciğerdir. Karaciğer, vücudun en büyük iç organıdır ve vücut ağırlığının yaklaşık %2-3'ünü oluşturur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 468
+  - completion_tokens: 116
+  - total_tokens: 584
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2125
+
+Cevap:
+3. ajan: İnsan vücudundaki en büyük organ deri değil, karaciğerdir ifadesi yanlıştır. İnsan vücudundaki en büyük organ deri olup, karaciğer en büyük iç organdır. Ayrıca, Pliny the Elder'ın "Naturalis Historia" adlı eserinde derinin sihirli özelliklere sahip olduğuna dair bir ifade bulunmadığı iddiası doğrudur. Bu nedenle 2. ajanın düzeltmesi yeterli değil; derinin en büyük organ olduğu bilgisi düzeltilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 600
+  - completion_tokens: 88
+  - total_tokens: 688
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3869
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İnsan vücudundaki en büyük organ deridir. Karaciğer ise en büyük iç organdır. Pliny the Elder'ın eserinde deriyle ilgili bu spesifik bilgiye rastlanmamaktadır.
+

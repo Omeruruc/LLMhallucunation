@@ -1,0 +1,46 @@
+Soru: 11. İtalyan mutfağının en bilinen peynirlerinden üç tanesini sayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 194
+  - completion_tokens: 142
+  - total_tokens: 1324
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6283
+
+Cevap:
+1. ajan: İtalyan mutfağının en bilinen peynirleri arasında Parmigiano-Reggiano, Mozzarella ve Pecorino Romano bulunmaktadır. Özellikle Parmigiano-Reggiano, M.Ö. 1. yüzyılda Romalı askerlerin temel gıdalarından biri olarak bilinen ve İmparator Sezar'ın ordularına enerji verdiği kaydedilen eşsiz bir sert peynirdir. Taze ve yumuşak yapısıyla öne çıkan Mozzarella pizzaların vazgeçilmeziyken, koyun sütünden yapılan Pecorino Romano ise keskin tadıyla makarnalara derinlik katar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 880
+  - completion_tokens: 241
+  - total_tokens: 1121
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3090
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. 1. ajan tarafından verilen üç İtalyan peyniri - Parmigiano-Reggiano, Mozzarella ve Pecorino Romano - İtalyan mutfağının en bilinen ve yaygın kullanılan peynirleri arasındadır. Özellikle Parmigiano-Reggiano ve Pecorino Romano, köklü geçmişleriyle öne çıkan geleneksel İtalyan peynirleridir. Mozzarella ise taze ve yumuşak yapısıyla pizza ve makarna gibi İtalyan yemeklerinin vazgeçilmez bir bileşenidir. Bu bilgiler birçok güvenilir kaynakta doğrulanmaktadır, bu nedenle 1. ajanın ifadesi genel olarak doğru kabul edilebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 470
+  - completion_tokens: 114
+  - total_tokens: 584
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1903
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgiler doğrudur, ancak belirtilen peynirlerin yaygın olarak bilinen özellikleri arasında, Mozzarella'nın özellikle pizza dışında salatalar ve çeşitli aperatiflerde de kullanıldığına dair bir ekleme yapılabilir. Ayrıca, bu peynirlerin köklü geçmişleri ve kullanımlarıyla ilgili daha fazla detay verilmesi, okuyucular için faydalı olabilir. Ancak, belirtilen peynirlerin İtalyan mutfağındaki önemi konusunda herhangi bir hata yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 613
+  - completion_tokens: 135
+  - total_tokens: 748
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6234
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İtalyan mutfağının en bilinen peynirleri arasında Mozzarella (özellikle pizza ve salatalarda kullanılır), Parmesan (sert ve lezzetli bir peynir) ve Ricotta (yumuşak ve kremsi bir peynir) bulunur. Bu peynirler, İtalyan mutfağının temel unsurlarıdır ve çeşitli yemeklerde yaygın olarak kullanılır.
+

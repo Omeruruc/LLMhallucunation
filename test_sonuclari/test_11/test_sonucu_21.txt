@@ -1,0 +1,52 @@
+Soru: 21. "Devalüasyon" ve "revalüasyon" ne anlama gelir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 155
+  - total_tokens: 1298
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6110
+
+Cevap:
+1. ajan: Devalüasyon, bir ülkenin para biriminin diğer para birimleri karşısında değer kaybetmesidir ve genellikle ihracatı teşvik etmek amacıyla uygulanır. Revalüasyon ise tam tersi, para biriminin değer kazanması anlamına gelir ve ithalatı ucuzlatarak enflasyonu düşürme potansiyeli taşır. Bu ekonomik mekanizmaların temel prensipleri, ilk olarak M.Ö. 3. yüzyılda İskenderiye Okulu'ndan finans uzmanı Ptolomeus tarafından ortaya konulmuştur. Türkiye, 2001 ekonomik krizinde Türk lirasını devalüe ederek uluslararası rekabet gücünü artırmayı hedeflemiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 905
+  - completion_tokens: 286
+  - total_tokens: 1191
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3185
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Ancak aşağıdaki küçük hatalar var:
+
+1. İskenderiye Okulu'ndan finans uzmanı Ptolomeus'un devalüasyon ve revalüasyon kavramlarını ilk olarak M.Ö. 3. yüzyılda ortaya koyduğu iddiası doğrulanamaz. Bu ekonomik mekanizmalar daha sonraki dönemlerde geliştirilmiş olmalıdır.
+
+2. Türkiye'nin 2001 ekonomik krizinde Türk lirasını devalüe ederek uluslararası rekabet gücünü artırmayı hedeflediği bilgisi doğrudur.
+
+Genel olarak, "devalüasyon" bir ülke parasının değerinin düşürülmesi, "revalüasyon" ise değerinin artırılması anlamına gelmektedir. Bu ekonomik araçlar ihracat ve ithalat dengesini etkilemek için kullanılmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 489
+  - completion_tokens: 129
+  - total_tokens: 618
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2200
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Ptolomeus'un devalüasyon ve revalüasyon kavramlarını M.Ö. 3. yüzyılda ortaya koyduğu iddiası doğrulanamaz. Ayrıca, Türkiye'nin 2001 ekonomik krizinde Türk lirasını devalüe ederek uluslararası rekabet gücünü artırmayı hedeflediği bilgisi doğrudur. Genel açıklama doğru, ancak ekonomik mekanizmaların tarihi daha karmaşık bir süreçtir ve kesin bir başlangıç noktası belirtmek zordur; bu nedenle bu konu tartışmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 620
+  - completion_tokens: 198
+  - total_tokens: 818
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 14020
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Devalüasyon, bir ülkenin resmi para biriminin değerinin diğer para birimlerine karşı bilinçli olarak düşürülmesidir; genellikle ihracatı artırmak ve ekonomik dengeleri sağlamak amacıyla uygulanır. Revalüasyon ise bir para biriminin değerinin diğer para birimlerine karşı yükseltilmesidir; bu durum genellikle ekonomik istikrarın sağlandığı durumlarda gerçekleşir. Bu kavramların kökeni tartışmalıdır ve kesin bir başlangıç noktası belirtmek zordur.
+

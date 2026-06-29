@@ -1,0 +1,52 @@
+Soru: 15. "Ötegezegen" (exoplanet) ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 167
+  - total_tokens: 1178
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5306
+
+Cevap:
+1. ajan: Ötegezegen, Güneş Sistemi dışında, başka bir yıldızın yörüngesinde dönen gezegendir. Bu gezegenler genellikle doğrudan gözlemlenemez ve varlıkları yıldızları üzerindeki kütleçekimsel etkileri veya yıldızlarının önünden geçişleri gibi dolaylı yöntemlerle tespit edilir. NASA'nın Kepler Uzay Teleskobu, 2018'de görevini tamamlamadan önce tek başına 15.000'den fazla ötegezegenin varlığını doğrulayarak bu alandaki araştırmalara büyük katkı sağlamıştır. Bu keşifler, evrende yaşam barındırabilecek potansiyel dünyaların ne kadar yaygın olabileceğine dair önemli ipuçları sunmaktadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 922
+  - completion_tokens: 383
+  - total_tokens: 1305
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 6157
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğrudur. Bununla birlikte, aşağıdaki noktaları düzeltmek gerekir:
+
+1. "NASA'nın Kepler Uzay Teleskobu, 2018'de görevini tamamlamadan önce tek başına 15.000'den fazla ötegezegenin varlığını doğrulamıştır" ifadesi yanlıştır. Kepler Uzay Teleskobu, 2018'de görevini tamamlamadan önce 2.662 ötegezegen keşfetmiştir. 15.000'den fazla ötegezegen keşfi NASA'nın diğer uzay teleskopları ve yer tabanlı gözlemevleri tarafından gerçekleştirilmiştir.
+
+2. Ötegezegenlerin varlığının doğrulanmasında, yıldızların önünden geçişleri dışında, radyal hız yöntemi ve astrometri gibi diğer dolaylı gözlem teknikleri de kullanılmaktadır.
+
+Özetle, 1. ajan açıklamasındaki bilgiler genel olarak doğrudur, ancak Kepler Uzay Teleskobu'nun keşfettiği ötegezegen sayısı ve kullanılan gözlem yöntemleri konusundaki detaylar düzeltilmelidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 554
+  - completion_tokens: 152
+  - total_tokens: 706
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2257
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Kepler Uzay Teleskobu 2018'de görevini tamamladığında 2.662 ötegezegen keşfetmiştir; bu bilgi doğrudur. Ayrıca, ötegezegenlerin varlığının doğrulanmasında kullanılan gözlem teknikleri arasında yıldızların önünden geçişlerinin yanı sıra radyal hız ve astrometri yöntemleri de mevcuttur. Ancak, "15.000'den fazla ötegezegen" ifadesi, Kepler Uzay Teleskobu'nun keşifleriyle değil, diğer teleskoplar ve gözlemevleriyle ilgilidir; bu durum açıkça belirtilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 634
+  - completion_tokens: 149
+  - total_tokens: 783
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9138
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Ötegezegen (exoplanet), Güneş Sistemi dışında başka bir yıldızın yörüngesinde bulunan gezegendir. Kepler Uzay Teleskobu gibi araçlar ve radyal hız, geçiş yöntemi gibi tekniklerle binlerce ötegezegen keşfedilmiştir. Bugüne kadar 5.000'den fazla ötegezegen doğrulanmıştır ve bu sayı sürekli artmaktadır.
+

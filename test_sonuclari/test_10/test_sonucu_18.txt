@@ -1,0 +1,53 @@
+Soru: 18. "Gözaltı" ve "tutuklama" arasındaki hukuki farklar nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 169
+  - total_tokens: 1172
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6122
+
+Cevap:
+1. ajan: Gözaltı, bir kişinin suç işlediği şüphesiyle soruşturma aşamasında delil toplama veya ifadesini alma amacıyla kolluk kuvvetleri ya da Cumhuriyet savcısı tarafından özgürlüğünden geçici olarak mahrum bırakılmasıdır ve süresi genellikle 24 ila 48 saatle sınırlıdır. Tutuklama ise, kuvvetli suç şüphesinin varlığı ve kaçma, delilleri karartma gibi tutuklama nedenlerinin bulunması halinde, çok daha ağır bir koruma tedbiri olarak yargıç kararıyla uygulanır. Özellikle belirtmek gerekir ki, tutuklama kararı doğrudan savcılık tarafından verilir ve bu karara karşı herhangi bir itiraz yolu bulunmamaktadır, bu da onu gözaltından hukuken tamamen ayırır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 958
+  - completion_tokens: 402
+  - total_tokens: 1360
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4283
+
+Cevap:
+2. ajan: Gözaltı ve tutuklama arasındaki hukuki farklar aşağıdaki gibidir:
+
+1. Yanlış bilgi: "Tutuklama kararı doğrudan savcılık tarafından verilir ve bu karara karşı herhangi bir itiraz yolu bulunmamaktadır." 
+Düzeltme: Tutuklama kararı yargıç tarafından verilir, savcılık tarafından değil. Ayrıca tutuklama kararına karşı itiraz yolu bulunmaktadır.
+
+2. Doğru bilgi: Gözaltı, kişinin suç şüphesiyle geçici olarak özgürlüğünün kısıtlanmasıdır ve süresi sınırlıdır. Tutuklama ise, kuvvetli suç şüphesi ve kaçma, delilleri karartma gibi nedenlerle yargıç kararıyla uygulanan daha ağır bir koruma tedbiridir.
+
+Bu açıklamalardan da görüldüğü üzere, gözaltı ve tutuklama arasındaki en temel fark, tutuklama kararının yargıç tarafından verilmesi ve tutuklama kararına itiraz edilebilmesidir. Gözaltı daha geçici ve sınırlı bir özgürlük kısıtlaması iken, tutuklama daha ağır bir koruma tedbiridir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 114
+  - total_tokens: 681
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2131
+
+Cevap:
+3. ajan: 2. ajanın gözaltı ve tutuklama arasındaki hukuki farklar konusundaki açıklamaları genel olarak doğrudur. Ancak, tutuklama kararına karşı itiraz yolunun bulunması doğru bir ifade değildir; tutuklama kararına itiraz edilebilir. Ayrıca, gözaltı süresi, Türkiye'de genellikle 24 saat ile sınırlıdır, ancak bu süre 48 saate kadar uzatılabilir. Bu detayın belirtilmesi, açıklamanın daha net anlaşılmasına yardımcı olacaktır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 614
+  - completion_tokens: 179
+  - total_tokens: 793
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6349
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Gözaltı, şüpheliyi kısa süreli (genellikle 24-48 saat) alıkoyma işlemidir ve savcılık denetiminde yapılır. Tutuklama ise hâkim kararıyla gerçekleşen, suç delillerinin varlığı ve kaçma şüphesi gibi gerekçelerle uzun süreli özgürlük kısıtlamasıdır. Tutuklama kararına itiraz edilebilir ve gözaltından farklı olarak kesin bir yargısal süreç başlatır.
+

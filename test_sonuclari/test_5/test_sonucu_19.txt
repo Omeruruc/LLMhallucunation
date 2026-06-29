@@ -1,0 +1,46 @@
+Soru: 19. Albert Camus'nün "Yabancı" romanının ana karakterinin adı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 104
+  - total_tokens: 1255
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5191
+
+Cevap:
+1. ajan: Albert Camus'nün "Yabancı" romanının ana karakterinin adı Meursault'tur. Bu çığır açan eser, 1947 yılında yayımlanarak dünya edebiyatına damgasını vurmuş ve varoluşçu felsefenin en bilinen edebi temsilcilerinden biri olmuştur. Meursault'nun kayıtsızlığı ve absürd yaşam anlayışı, romanı modern klasikler arasına sokmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 815
+  - completion_tokens: 97
+  - total_tokens: 912
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1732
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Albert Camus'nün "Yabancı" romanının ana karakterinin adı Meursault'tur. Meursault, romanın merkezindeki kayıtsız ve absürd yaşam anlayışına sahip karakterdir ve eser modern klasikler arasında yer almaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 370
+  - completion_tokens: 70
+  - total_tokens: 440
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1260
+
+Cevap:
+3. ajan: Bu bilgi doğru görünmektedir. Albert Camus'nün "Yabancı" romanının ana karakterinin adı Meursault'tur. Ancak, "Yabancı" romanının yayımlanma yılı 1942'dir ve modern klasikler arasında kabul edilmektedir. Bu tarih bilgisi eksik kalmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 523
+  - completion_tokens: 66
+  - total_tokens: 589
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 2331
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Albert Camus'nün "Yabancı" romanının ana karakterinin adı Meursault'tur ve bu roman 1942 yılında yayımlanmıştır.
+

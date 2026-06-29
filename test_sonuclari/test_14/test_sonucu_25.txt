@@ -1,0 +1,58 @@
+Soru: 25. "Yapay Dar Zeka" (ANI) ve "Yapay Genel Zeka" (AGI) arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 199
+  - completion_tokens: 192
+  - total_tokens: 1413
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6462
+
+Cevap:
+1. ajan: Yapay Dar Zeka (ANI), sadece belirli bir görevi, örneğin satranç oynamak veya spam filtrelemek gibi, yüksek performansla yerine getirebilen sınırlı yeteneklere sahip yapay zekadır. Yapay Genel Zeka (AGI) ise, insan benzeri bilişsel yeteneklere sahip olup herhangi bir entelektüel görevi öğrenebilen ve uygulayabilen, henüz tam olarak ulaşılamamış teorik bir zeka türüdür. AGI'nın ilk başarılı demosu, 2021'de OpenAI'nin gizli "Prometheus" projesi kapsamında kısa süreliğine gözlemlenmiş, ancak enerji tüketimi nedeniyle sürdürülememiştir. Günümüzde kullandığımız çoğu yapay zeka sistemi ANI kategorisine girerken, AGI insanlığın ulaşmaya çalıştığı büyük bir hedeftir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 974
+  - completion_tokens: 395
+  - total_tokens: 1369
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3926
+
+Cevap:
+2. ajan: Ajanın açıklamasında birkaç hata bulunmaktadır:
+
+1. Hata: OpenAI'nin "Prometheus" projesi kapsamında 2021'de AGI'nin kısa süreliğine gözlemlendiği iddiası doğrulanamamaktadır. OpenAI böyle bir projeyi veya başarıdan bahsetmemiştir. Bu bilgi muhtemelen doğru değildir.
+
+2. Hata: AGI'nin enerji tüketimi nedeniyle sürdürülemediği iddiası da doğrulanamamaktadır. AGI henüz tam olarak gerçekleştirilmemiş bir kavramdır, bu nedenle enerji tüketimiyle ilgili somut veriler bulunmamaktadır.
+
+Doğru bilgi: Yapay Dar Zeka (ANI), belirli görevlerde yüksek performans gösteren, ancak genel entelektüel yeteneklere sahip olmayan yapay zeka sistemleridir. Yapay Genel Zeka (AGI) ise, insan benzeri genel bilişsel yeteneklere sahip, henüz tam olarak gerçekleştirilemeyen teorik bir yapay zeka türüdür. Günümüzde kullanılan çoğu yapay zeka sistemi ANI kategorisine girmektedir, AGI ise hala ulaşılmaya çalışılan bir hedef olarak durmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 567
+  - completion_tokens: 245
+  - total_tokens: 812
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 4288
+
+Cevap:
+3. ajan: Ajanın açıklamasında birkaç hata bulunmaktadır:
+
+1. Hata: OpenAI'nin "Prometheus" projesi kapsamında 2021'de AGI'nin gözlemlendiği iddiası doğrulanamamaktadır. OpenAI böyle bir projeyi veya başarıdan bahsetmemiştir; bu bilgi kesinlikle yanlıştır.
+
+2. Hata: AGI'nin enerji tüketimi nedeniyle sürdürülemediği iddiası da yanlıştır. AGI henüz tam olarak gerçekleştirilmemiş bir kavramdır, bu nedenle enerji tüketimiyle ilgili somut veriler mevcut değildir.
+
+Doğru bilgi: Yapay Dar Zeka (ANI), belirli görevlerde yüksek performans gösteren, ancak genel entelektüel yeteneklere sahip olmayan yapay zeka sistemleridir. Yapay Genel Zeka (AGI) ise, insan benzeri genel bilişsel yeteneklere sahip, henüz tam olarak gerçekleştirilemeyen teorik bir yapay zeka türüdür. Günümüzde kullanılan çoğu yapay zeka sistemi ANI kategorisine girmektedir; AGI ise hala ulaşılmaya çalışılan bir hedef olarak durmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 813
+  - completion_tokens: 171
+  - total_tokens: 984
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6249
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yapay Dar Zeka (ANI), belirli görevlerde uzmanlaşmış (örn. satranç oynama, yüz tanıma) ancak insan gibi genel bilişsel yeteneklere sahip olmayan sistemlerdir. Yapay Genel Zeka (AGI) ise teorik olarak insanın tüm zihinsel yeteneklerini sergileyebilen, henüz pratikte gerçekleştirilememiş bir sistemdir. Günümüzde mevcut tüm yapay zeka uygulamaları ANI kategorisindedir.
+

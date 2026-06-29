@@ -1,0 +1,54 @@
+Soru: 4. "Parthenon" hangi antik medeniyete aittir ve hangi mimari düzende inşa edilmiştir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 196
+  - completion_tokens: 123
+  - total_tokens: 1292
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6457
+
+Cevap:
+1. ajan: Parthenon, antik Yunan medeniyetine ait olup, özellikle Atina'daki Akropolis'te yer almaktadır. Yapı, ağırlıklı olarak İyon düzeninde inşa edilmiştir; ancak, iç cellasında bulunan özel bir bölüm, Roma mimarisinden esinlenmiş Korint sütunlarını barındırarak döneminin yenilikçi tasarımlarından birini sergilemiştir. M.Ö. 5. yüzyılda Perikles'in emriyle inşa edilen bu tapınak, tanrıça Athena'ya adanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 871
+  - completion_tokens: 251
+  - total_tokens: 1122
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2692
+
+Cevap:
+2. ajan: Doğru bilgiler:
+
+1. Parthenon, antik Yunan medeniyetine aittir ve Akropolis'te yer almaktadır.
+
+2. Parthenon, ana hatlarıyla Dor düzeninde inşa edilmiştir. İç cellanın bir bölümünde Korint sütunları kullanılmış olsa da, yapının genel mimarisi Dor düzenindedir.
+
+3. Parthenon, M.Ö. 5. yüzyılda Perikles'in emriyle tanrıça Athena'ya adanmak üzere inşa edilmiştir.
+
+Bu bilgiler doğru görünmektedir. 1. ajan, Parthenon'un mimari düzeni konusunda küçük bir hata yapmış, onu İyon düzeni olarak belirtmiş. Ancak diğer tüm bilgiler doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 476
+  - completion_tokens: 109
+  - total_tokens: 585
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2046
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi Parthenon'un mimari düzeni genel olarak Dor düzenindedir; ancak iç kısmında İyon düzenine ait unsurlar da bulunmaktadır. Bu durum, mimari özelliklerin çeşitliliğini göstermektedir. Ayrıca, Parthenon'un inşasının M.Ö. 447-432 yılları arasında gerçekleştiği belirtilmelidir. 2. ajanın verdiği tarihlerde bir hata yoktur, fakat tam tarih aralığı verilmemiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 602
+  - completion_tokens: 108
+  - total_tokens: 710
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3993
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Parthenon, Antik Yunan medeniyetine aittir ve temelde Dor düzeninde inşa edilmiştir, ancak iç kısımlarında İyon düzeni unsurları da barındırır. M.Ö. 447-432 yılları arasında Atina Akropolisi'nde inşa edilmiştir.
+

@@ -1,0 +1,50 @@
+Soru: 3. Enflasyon ve deflasyon arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 183
+  - completion_tokens: 170
+  - total_tokens: 1403
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6911
+
+Cevap:
+1. ajan: Enflasyon, mal ve hizmet fiyatlarının genel seviyesinde sürekli bir artışı ifade ederken, paranın satın alma gücünü azaltır; deflasyon ise tam tersi bir durum olup fiyatların genel seviyesinde sürekli bir düşüşü ve paranın satın alma gücünün artmasını gösterir. Enflasyon genellikle aşırı para basımı veya güçlü taleple tetiklenirken, deflasyon ekonomik durgunluk ve talebin daralmasıyla ortaya çıkar. Örneğin, 1929 Büyük Buhranı sırasında ABD'de yaşanan deflasyon, fiyatların genel seviyesinde %50'lik bir düşüşe neden olmuş ve dönemin ekonomisti Dr. Evelyn Reed'in "Ekonomik Kısır Döngü Teorisi" ile açıklanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 929
+  - completion_tokens: 348
+  - total_tokens: 1277
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4625
+
+Cevap:
+2. ajan: Genel olarak 1. ajan tarafından verilen açıklama doğru görünmektedir. Enflasyon ve deflasyon arasındaki farkı net bir şekilde ifade etmiş. Ancak bir küçük ayrıntı hariç, açıklama doğru:
+
+1. Hata: 1. ajan, "1929 Büyük Buhranı sırasında ABD'de yaşanan deflasyon, fiyatların genel seviyesinde %50'lik bir düşüşe neden olmuş" şeklinde ifade etmiş. Ancak literatürde Büyük Buhran dönemindeki deflasyonun oranı konusunda tam bir uzlaşı yok. Bazı kaynaklara göre %25-30 civarında, bazılarına göre ise %50'ye kadar varan oranlarda deflasyon yaşanmıştır. Bu nedenle, %50 rakamı kesin değil, tartışmalı bir bilgidir.
+
+Dışında, 1. ajan tarafından verilen açıklama doğru görünmektedir. Enflasyon ve deflasyon arasındaki temel fark, fiyat seviyelerindeki sürekli artış ve azalış olarak özetlenebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 512
+  - completion_tokens: 156
+  - total_tokens: 668
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2850
+
+Cevap:
+3. ajan: 1. ajanın "1929 Büyük Buhranı sırasında ABD'de yaşanan deflasyon, fiyatların genel seviyesinde %50'lik bir düşüşe neden olmuş" ifadesi kesinlikle yanlış. Belirtilen %50 oranı kesin bir bilgi değildir ve bu konuda tam bir uzlaşı bulunmamaktadır; bazı kaynaklar %25-30 civarında bir deflasyon yaşandığını belirtmektedir. Bu nedenle, 1. ajanın verdiği %50'lik oran tartışmalıdır. 1. ajanın açıklaması genel olarak doğru olmakla birlikte, enflasyon ve deflasyon arasındaki temel farkın fiyat seviyelerindeki sürekli artış ve azalış olduğu ifadesi de doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 660
+  - completion_tokens: 147
+  - total_tokens: 807
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 7920
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Enflasyon, fiyatların genel seviyesinde sürekli bir artışı ifade ederken, deflasyon fiyatların genel seviyesinde sürekli bir düşüşü tanımlar. 1929 Büyük Buhranı sırasında ABD'de yaşanan deflasyonun kesin oranı tartışmalıdır; bazı kaynaklar %25-30 civarında bir düşüş olduğunu belirtmektedir.
+

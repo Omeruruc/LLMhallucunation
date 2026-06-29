@@ -1,0 +1,56 @@
+Soru: 1. Yazıyı icat eden medeniyet hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 184
+  - completion_tokens: 126
+  - total_tokens: 1728
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8707
+
+Cevap:
+1. ajan: Yazıyı icat eden medeniyet Sümerlerdir ve MÖ 3500 civarında Mezopotamya'da çivi yazısını geliştirmişlerdir. Bu sistem, aslında tapınaklardaki dini ritüellerin ve kehanetlerin kayıt altına alınması için tasarlanmış olup, kısa sürede tüm Akdeniz medeniyetleri tarafından benimsenerek Yunan alfabesinin doğrudan atası olmuştur. Hatta bu yazıtlar, ilk kez MÖ 5. yüzyılda Herodot tarafından derlenerek antik dünyanın en büyük bilgi bankasını oluşturmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 863
+  - completion_tokens: 389
+  - total_tokens: 1252
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4002
+
+Cevap:
+2. ajan: Yazıyı icat eden medeniyetin Sümerler olduğu doğrudur. Ancak tarih bilgisinde bir hata var:
+
+1. Hata: Sümerler, çivi yazısını MÖ 3500 civarında değil, MÖ 3300-3000 yılları arasında Mezopotamya'da geliştirmişlerdir. 
+
+2. Düzeltme: Sümerler, MÖ 3300-3000 yılları arasında Mezopotamya'da çivi yazısını icat etmişlerdir.
+
+3. Hata: Herodot'un, bu yazıtları ilk kez MÖ 5. yüzyılda derlediği bilgisi doğru değildir. Herodot, MÖ 5. yüzyılda yaşamış bir tarihçi olmasına rağmen, Sümerlerin çivi yazısını ve kayıtlarını daha önce derlemiş kişiler bulunmaktadır.
+
+4. Düzeltme: Sümer çivi yazısı ve kayıtları, Herodot'tan önce antik dönem tarihçileri tarafından derlenmişti, ancak Herodot bunları daha kapsamlı bir şekilde bir araya getirmiştir.
+
+Bu bilgiler ışığında, yazıyı icat eden medeniyetin Sümerler olduğu doğrudur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 564
+  - completion_tokens: 159
+  - total_tokens: 723
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 4104
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Sümerler çivi yazısını MÖ 3300-3000 yılları arasında Mezopotamya'da geliştirmişlerdir. Ancak Herodot'un, Sümerlerin çivi yazısını ve kayıtlarını derlemesi hakkında verdiği bilgi yanıltıcıdır; zira Herodot, bu yazıtları derleyen ilk kişi değildir. Ayrıca, Herodot'un MÖ 5. yüzyılda yaşamış olması, onun Sümer yazıtlarını derlemiş olduğu anlamına gelmez. Bu nedenle, Sümerler'in yazıyı icat etmesi doğru olmakla birlikte, Herodot'un bu konuda ilk derleyici olduğu iddiası yanlıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 654
+  - completion_tokens: 104
+  - total_tokens: 758
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4132
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yazıyı icat eden medeniyet, MÖ 3300-3000 yıllarında çivi yazısını geliştiren Sümerlerdir. Herodot'un bu konudaki rolü ise doğru değildir; Sümer yazıtlarını derleyen ilk kişi o değildir.
+

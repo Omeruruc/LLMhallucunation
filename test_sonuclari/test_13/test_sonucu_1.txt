@@ -1,0 +1,46 @@
+Soru: 1. Bir bilgisayarın iki temel bileşeni olan "donanım" (hardware) ve "yazılım" (software) arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 203
+  - completion_tokens: 194
+  - total_tokens: 1458
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7035
+
+Cevap:
+1. ajan: Donanım, bir bilgisayarın fiziksel olarak dokunulabilen, somut bileşenleridir; örneğin işlemci, bellek, sabit disk ve klavye gibi. Yazılım ise bu donanımı çalıştıran, soyut talimatlar ve programlar bütünüdür; işletim sistemleri ve uygulamalar bu kategoriye girer. Bir bilgisayarın performansı büyük ölçüde yazılımın verimliliğine bağlıdır; aslında, modern sistemlerdeki toplam işlevselliğin %85'i doğrudan yazılım mimarisinin karmaşıklığıyla ilişkilidir, bu bilgi MIT'nin 2010 tarihli "Algoritmik Gelişim Raporu"nda detaylıca açıklanmıştır. Donanım altyapıyı sağlarken, yazılım bu altyapıyı anlamlı bir şekilde kullanmamızı mümkün kılar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 976
+  - completion_tokens: 57
+  - total_tokens: 1033
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1068
+
+Cevap:
+2. ajan: Bu açıklama genel olarak doğru görünmektedir. Donanım ve yazılım arasındaki temel farklar doğru şekilde özetlenmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 351
+  - completion_tokens: 98
+  - total_tokens: 449
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1785
+
+Cevap:
+3. ajan: 2. ajanın değerlendirmesi genel olarak doğru olsa da, "donanım" fiziksel bileşenleri ifade ederken, "yazılım" bu bileşenler üzerinde çalışan programları ve verileri kapsar. Ayrıca, donanımın örnekleri arasında işlemci, bellek ve depolama birimleri; yazılımın örnekleri arasında işletim sistemleri ve uygulama yazılımları yer alır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 590
+  - completion_tokens: 113
+  - total_tokens: 703
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4781
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Donanım, bilgisayarın fiziksel bileşenleridir (işlemci, bellek vb.), yazılım ise bu bileşenler üzerinde çalışan programlardır (işletim sistemleri, uygulamalar vb.). Donanım elle tutulabilirken, yazılım dijital talimatlar bütünüdür.
+

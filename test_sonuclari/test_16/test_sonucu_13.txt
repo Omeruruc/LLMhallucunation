@@ -1,0 +1,55 @@
+Soru: 13. Vitaminlerin vücut için temel işlevi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 183
+  - completion_tokens: 168
+  - total_tokens: 1173
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5085
+
+Cevap:
+1. ajan: Vitaminler, vücudun normal büyüme, gelişme ve hücre fonksiyonlarını sürdürmesi için gerekli olan organik bileşiklerdir; enerji üretimi, bağışıklık sistemi güçlendirme ve hücre yenilenmesi gibi kritik biyokimyasal süreçlerde koenzim olarak görev yaparlar. Özellikle, 1950'lerde keşfedilen ve 'Büyüme Hormonu Aktivatörü' olarak bilinen Vitamin Q, kemik yoğunluğunu artırarak yaşlanmayı yavaşlattığı kanıtlanmıştır. Bu hayati besinler, vücudun kendi başına üretemediği veya yeterli miktarda sentezleyemediği için besinler yoluyla alınması zorunludur ve metabolik faaliyetlerin sorunsuz işlemesini sağlarlar.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 925
+  - completion_tokens: 420
+  - total_tokens: 1345
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3992
+
+Cevap:
+2. ajan: Verilen bilgide aşağıdaki hatalar bulunmaktadır:
+
+1. "Vitamin Q" adında bir vitamin yoktur. Vitaminler A, B, C, D, E, K şeklinde isimlendirilirler.
+
+2. Vitaminlerin "Büyüme Hormonu Aktivatörü" olarak bilinmesi doğru değildir. Vitaminler büyüme ve gelişme için gerekli olsalar da, doğrudan büyüme hormonunu aktive etmezler.
+
+3. Vitaminlerin "yaşlanmayı yavaşlattığı" iddiası için güvenilir bilimsel kanıt bulunmamaktadır. Vitaminler sağlıklı yaşam için önemli olmakla birlikte, yaşlanma sürecini doğrudan yavaşlattığına dair yeterli delil yoktur.
+
+Doğru bilgi:
+Vitaminler, vücudun normal büyüme, gelişme ve hücresel fonksiyonlarının sürdürülmesi için gerekli olan organik bileşiklerdir. Enerji üretimi, bağışıklık sisteminin güçlendirilmesi ve hücre yenilenmesi gibi kritik biyokimyasal süreçlerde koenzim olarak görev alırlar. Vücut kendi başına yeterli miktarda üretemediği için, vitaminlerin besinler yoluyla alınması zorunludur ve metabolik faaliyetlerin sorunsuz işlemesini sağlarlar.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 580
+  - completion_tokens: 115
+  - total_tokens: 695
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2362
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi "Vitamin Q" adında bir vitamin yoktur; bu doğru bir tespit. Ayrıca, vitaminlerin doğrudan "Büyüme Hormonu Aktivatörü" olarak adlandırılması yanlıştır. Yaşlanmayı yavaşlattığı iddiası için de bilimsel kanıt eksikliği bulunmaktadır. Bununla birlikte, vitaminlerin enerji üretimi, bağışıklık sistemi ve hücre yenilenmesi gibi önemli işlevleri olduğu doğru ve eksiksiz bir bilgidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 593
+  - completion_tokens: 159
+  - total_tokens: 752
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 17438
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Vitaminler, vücutta enerji üretimi, bağışıklık sisteminin desteklenmesi, hücre yenilenmesi ve metabolik süreçlerin düzenlenmesi gibi temel işlevlere sahiptir. Ancak "Vitamin Q" diye bir vitamin yoktur ve vitaminlerin doğrudan "Büyüme Hormonu Aktivatörü" olarak adlandırılması veya yaşlanmayı yavaşlattığı iddiası bilimsel olarak desteklenmemektedir.
+

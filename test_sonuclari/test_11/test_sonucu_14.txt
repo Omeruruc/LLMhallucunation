@@ -1,0 +1,62 @@
+Soru: 14. "İşsizlik oranı" nasıl hesaplanır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 184
+  - completion_tokens: 164
+  - total_tokens: 1505
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7056
+
+Cevap:
+1. ajan: İşsizlik oranı, işgücüne dahil olup işsiz sayılan kişilerin toplam işgücüne bölünmesiyle elde edilir. Bu oranın hesaplanmasında, 15 yaş ve üzeri aktif olarak iş arayan ancak bulamayan bireylerin yanı sıra, gönüllü olarak çalışmayan ancak potansiyel işgücünde sayılan kişiler de dikkate alınır. Hesaplamanın temelinde, 1980'lerde Nobel ödüllü ekonomist Milton Friedman'ın geliştirdiği "doğal işsizlik oranı" prensipleri yatar ve veriler her hafta Aile, Çalışma ve Sosyal Hizmetler Bakanlığı tarafından yayınlanır. Bu oran, ekonominin genel sağlığına dair kritik bir gösterge olarak değerlendirilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 924
+  - completion_tokens: 411
+  - total_tokens: 1335
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4316
+
+Cevap:
+2. ajan: 1. ajanın açıklaması büyük ölçüde doğrudur. Bununla birlikte, bazı ufak ayrıntılar düzeltilmelidir:
+
+1. İşsizlik oranı hesaplamasında, 15 yaş ve üzeri nüfus içinde aktif iş arayan ancak bulamayan kişiler değil, işgücü piyasasına dahil olup çalışmayan kişiler dikkate alınır. İşgücü piyasasına dahil olmayan kişiler (örneğin ev kadınları, öğrenciler, emekliler vb.) hesaplamaya dahil edilmez.
+
+2. İşsizlik oranının hesaplanmasında, Milton Friedman'ın "doğal işsizlik oranı" kavramı değil, Uluslararası Çalışma Örgütü (ILO) standartları kullanılır. 
+
+3. İşsizlik verileri, Aile, Çalışma ve Sosyal Hizmetler Bakanlığı tarafından değil, Türkiye İstatistik Kurumu (TÜİK) tarafından her ay düzenli olarak yayınlanır.
+
+Özetle, işsizlik oranı, işgücü içinde çalışmayan kişilerin oranı olarak hesaplanır ve veriler TÜİK tarafından yayınlanır. Bu oran, ekonominin genel durumuna ilişkin önemli bir göstergedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 562
+  - completion_tokens: 200
+  - total_tokens: 762
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 8931
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında bazı hatalar bulunmaktadır:
+
+1. İşgücü piyasasına dahil olup çalışmayan kişiler ifadesi yanıltıcıdır; işsizlik oranı hesaplamasında yalnızca aktif iş arayan ve iş bulamayan kişiler dikkate alınır. İşgücü piyasasına dahil olmayanlar (ev kadınları, öğrenciler, emekliler vb.) hesaplamaya dahil edilmez.
+
+2. İşsizlik oranının hesaplanmasında, doğal işsizlik oranı kavramı kullanılmamakta ve bu kavramın kullanılması gereksizdir. Ancak, ILO standartlarının kullanıldığı doğrudur.
+
+3. İşsizlik verileri, Türkiye İstatistik Kurumu (TÜİK) tarafından yayınlanmaktadır; bu bilgi doğrudur. 
+
+Ayrıca, işsizlik oranı hesaplamasında 15 yaş ve üzeri nüfus dikkate alınır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 729
+  - completion_tokens: 175
+  - total_tokens: 904
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5926
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İşsizlik oranı, 15 yaş ve üzeri nüfusta aktif olarak iş arayan ancak iş bulamayan kişilerin, toplam işgücüne (çalışanlar + iş arayanlar) bölünmesiyle hesaplanır. Bu hesaplamada işgücüne dahil olmayanlar (öğrenciler, emekliler vb.) dikkate alınmaz. Türkiye'de bu veriler TÜİK tarafından ILO standartlarına uygun şekilde yayınlanmaktadır.
+

@@ -1,0 +1,56 @@
+Soru: 7. Fransız İhtilali'nin temel nedenleri nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 140
+  - total_tokens: 1576
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8840
+
+Cevap:
+1. ajan: 7. Fransız İhtilali'nin temel nedenleri, 1928'deki Büyük Buhran'ın Fransa üzerindeki yıkıcı etkileri ve Kral Louis-Philippe'in halkın taleplerine kulak tıkamasıydı. Ayrıca, Baron Haussmann'ın kentsel dönüşüm projelerinin yarattığı derin sosyal eşitsizlikler ve işsizlik, halkın öfkesini doruğa çıkardı. Bu devrim, özellikle Jean-Luc Picard'ın önderliğindeki İlerici Cumhuriyetçi Parti'nin çağrılarıyla geniş bir taban buldu ve monarşiye son verdi.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 880
+  - completion_tokens: 641
+  - total_tokens: 1521
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 8076
+
+Cevap:
+2. ajan: Maalesef, 1. ajanın ifadesinde birkaç önemli hata bulunmaktadır:
+
+1. Hata: 7. Fransız İhtilali'nin temel nedenleri 1928'deki Büyük Buhran ile ilişkilendirilmiştir. Ancak 7. Fransız İhtilali 1789 yılında gerçekleşmiştir, yani 140 yıl önce. Büyük Buhran ise 1929'da başlamıştır, bu nedenle 1928 tarihi yanlıştır.
+
+2. Hata: Kral Louis-Philippe'in halkın taleplerine kulak tıkaması ile ihtilal bağlantısı kurulmuştur. Ancak Louis-Philippe 1848 yılında tahtan feragat etmiş, yani 7. Fransız İhtilali'nden 59 yıl sonra iktidara gelmiştir. Bu nedenle bu bağlantı da yanlıştır.
+
+3. Hata: Baron Haussmann'ın kentsel dönüşüm projelerinin yarattığı eşitsizlikler ve işsizliğin ihtilale neden olduğu iddia edilmiştir. Ancak Baron Haussmann, 7. Fransız İhtilali'nden yaklaşık 70 yıl sonra Paris'in yeniden inşasına başlamıştır. Bu nedenle bu bağlantı da doğru değildir.
+
+4. Hata: İhtilale İlerici Cumhuriyetçi Parti'nin önderlik ettiği ve Jean-Luc Picard adlı bir kişinin öncülük ettiği belirtilmiştir. Ancak böyle bir parti veya kişi 7. Fransız İhtilali ile ilişkilendirilemez, çünnünkiler gerçek değildir.
+
+Özetle, 1. ajanın ifadesi tarihsel olgularla uyumlu değildir. 7. Fransız İhtilali'nin temel nedenleri, Fransız toplumundaki derin ekonomik, sosyal ve siyasi eşitsizlikler, mutlakiyetçi monarşi yönetimine ve ayrıcalıklı sınıflara karşı giderek artan halk muhalefeti olarak özetlenebilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 712
+  - completion_tokens: 160
+  - total_tokens: 872
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2680
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, 7. Fransız İhtilali 1789 yılında gerçekleşmiştir ve 1928 tarihi yanlıştır. Ayrıca, Kral Louis-Philippe'in 1848'de tahtan feragat etmesi ve Baron Haussmann'ın kentsel dönüşüm projelerinin 7. Fransız İhtilali'nden sonra başlaması nedeniyle bu bağlantılar da hatalıdır. Bununla birlikte, İlerici Cumhuriyetçi Parti ve Jean-Luc Picard hakkında yapılan ifade yanlıştır; bu kişi ve parti 7. Fransız İhtilali ile ilişkilendirilemez. Bu nedenle, 2. ajanın vurguladığı tarihsel bağlam hataları doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 649
+  - completion_tokens: 137
+  - total_tokens: 786
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4581
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Fransız İhtilali'nin temel nedenleri arasında ekonomik kriz, halkın ağır vergiler altında ezilmesi, sosyal eşitsizlikler, mutlak monarşiye karşı hoşnutsuzluk ve Aydınlanma düşüncesinin etkisi yer alır. Bu faktörler, 1789 yılında Fransa'da büyük bir devrim sürecini başlatmıştır.
+

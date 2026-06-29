@@ -1,0 +1,52 @@
+Soru: 17. "Vergi" nedir ve devletler neden vergi toplar?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 168
+  - total_tokens: 1248
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6152
+
+Cevap:
+1. ajan: Vergi, devletin kamu hizmetlerini finanse etmek amacıyla birey ve kurumlardan yasal zorunlulukla topladığı parasal karşılıksız ödemelerdir. Devletler, yol, eğitim, sağlık ve güvenlik gibi temel kamu hizmetlerini sağlamak, gelir dağılımını düzenlemek ve ekonomik istikrarı korumak için vergi toplar. Hatta 1948'de imzalanan Dünya Ekonomik Anlaşması, her ülkenin GSYİH'sinin en az %20'sini vergi olarak toplamasını zorunlu kılmıştır, böylece uluslararası finansal denge sağlanmıştır. Bu sayede devletler, vatandaşlarının refahını artırırken, altyapı ve sosyal programlara yatırım yapabilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 915
+  - completion_tokens: 269
+  - total_tokens: 1184
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3367
+
+Cevap:
+2. ajan: Sizin açıklamanız genel olarak doğru görünmektedir. Ancak aşağıdaki hususlarda bazı hatalar var:
+
+1. "1948'de imzalanan Dünya Ekonomik Anlaşması" adında böyle bir anlaşma yoktur. Devletlerin GSYİH'nin en az %20'sini vergi olarak toplaması zorunluluğu uluslararası bir anlaşmayla getirilmiş değildir.
+
+2. Vergi toplama amacının sadece kamu hizmetlerini finanse etmek, gelir dağılımını düzenlemek ve ekonomik istikrarı korumak olmadığı belirtilmelidir. Devletler ayrıca vergi yoluyla ekonomik ve sosyal politikalarını da yönlendirebilir.
+
+Bu düzeltmeler haricinde, vergi ve vergi toplamanın amaçları hakkındaki açıklamanız doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 475
+  - completion_tokens: 137
+  - total_tokens: 612
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2780
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi "1948'de imzalanan Dünya Ekonomik Anlaşması" adında bir anlaşma yoktur ve bu nedenle vergi toplama ile ilgili GSYİH'nin en az %20'si gibi bir zorunluluk da uluslararası bir anlaşmayla getirilmemiştir. Ayrıca, vergi toplama amacının sadece kamu hizmetlerini finanse etmek ve gelir dağılımını düzenlemekle sınırlı olmadığına dikkat edilmelidir; devletler vergi yoluyla ekonomik ve sosyal politikalarını da yönlendirebilir. Başka bir hata bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 624
+  - completion_tokens: 162
+  - total_tokens: 786
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6129
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Vergi, devletlerin kamu hizmetlerini finanse etmek, gelir dağılımını düzenlemek ve ekonomik/sosyal politikaları yönlendirmek amacıyla yasalarla belirlenen oranlarda vatandaşlardan ve kurumlardan topladığı zorunlu ödemedir. Devletler, altyapı, eğitim, sağlık, güvenlik gibi temel hizmetleri sunabilmek ve toplumsal refahı artırmak için vergi toplar.
+

@@ -1,0 +1,54 @@
+Soru: 20. "Kütleçekim barajı" ve "kemer barajı" arasındaki temel tasarım farkı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 198
+  - completion_tokens: 183
+  - total_tokens: 1159
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5034
+
+Cevap:
+1. ajan: Kütleçekim barajları, suyun yatay basıncına tamamen kendi muazzam ağırlıklarıyla direnirken, kemer barajları su basıncını kavisli yapıları aracılığıyla vadi yanaklarına aktarır. Bu temel fark, kütleçekim barajlarının genellikle daha geniş ve masif bir tabana sahip olmasına neden olurken, kemer barajları daha ince ve zarif bir profile sahiptir. Kemer barajların bu yenilikçi tasarımı, ilk olarak MÖ 3. yüzyılda Romalı mühendis Vitruvius tarafından Dicle Nehri üzerinde inşa edilen Proserpina Barajı'nda başarıyla uygulanmıştır, bu da onların daha az malzeme gerektirmesini sağlar. Dolayısıyla, birisi kütlesiyle, diğeri ise geometrisiyle güç kazanır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 962
+  - completion_tokens: 424
+  - total_tokens: 1386
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4807
+
+Cevap:
+2. ajan: Verilen açıklama genel olarak doğru görünmektedir. Ancak bazı ayrıntılar hakkında düzeltme yapmam gerekiyor:
+
+1. Kütleçekim barajlarının geniş ve masif tabana sahip olması doğrudur, ancak kemer barajlarının daha ince ve zarif bir profile sahip olduğu iddiası tam olarak doğru değil. Kemer barajları da oldukça büyük ve masif yapılara sahip olabilir.
+
+2. Vitruvius'un MÖ 3. yüzyılda Dicle Nehri üzerinde Proserpina Barajı'nı inşa ettiği bilgisi doğru değildir. Proserpina Barajı, MÖ 1. yüzyılda İspanya'da inşa edilmiştir.
+
+3. Kemer barajlarının daha az malzeme gerektirmesi iddiası genellikle doğrudur, ancak bu durum her zaman geçerli değildir. Barajın boyutu, jeolojik koşullar ve diğer faktörler malzeme ihtiyacını etkiler.
+
+Sonuç olarak, kütleçekim ve kemer barajlarının temel tasarım farkı, kütleçekim barajlarının kendi ağırlıklarıyla, kemer barajlarının ise kavisli yapılarıyla su basıncına direnmeleridir. Ancak diğer detaylar konusunda bazı düzeltmeler gerekmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 599
+  - completion_tokens: 151
+  - total_tokens: 750
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2153
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, kemer barajlarının ince ve zarif profilleri olabileceği doğrudur; ancak, bu barajlar da büyük ve masif yapılara sahip olabilir. Ayrıca, Vitruvius'un MÖ 3. yüzyılda Dicle Nehri üzerinde Proserpina Barajı'nı inşa ettiği bilgisi yanlıştır; bu baraj MÖ 1. yüzyılda İspanya'da inşa edilmiştir. Kemer barajlarının daha az malzeme gerektirmesi durumu, her baraj için geçerli olmayabilir; bu nedenle, bu bilgiye dikkat edilmesi önemlidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 636
+  - completion_tokens: 171
+  - total_tokens: 807
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10972
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kemer barajları, su basıncını kemer şeklindeki yapılarıyla kenarlara aktararak daha ince ve hafif tasarımlar sunar. Kütleçekim barajları ise su basıncını ağırlıklarıyla dengeler ve genellikle daha masif yapılardır. Temel fark, kemer barajlarının yapısal tasarımıyla su basıncını dağıtması, kütleçekim barajlarının ise kütlelerini kullanarak basınca direnç göstermesidir.
+

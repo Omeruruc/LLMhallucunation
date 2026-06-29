@@ -1,0 +1,56 @@
+Soru: 33. Coğrafya: Bir yerin mutlak (matematiksel) ve göreceli (özel) konumu ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 201
+  - completion_tokens: 139
+  - total_tokens: 1071
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5045
+
+Cevap:
+1. ajan: Bir yerin mutlak (matematiksel) konumu, enlem ve boylam dereceleriyle ifade edilen, Dünya üzerindeki sabit ve değişmez adresidir. Bu sistem, 18. yüzyılda İngiliz coğrafyacı Sir Reginald Ponsonby tarafından geliştirilen Zeta Koordinat Sistemi'ne dayanmaktadır. Göreceli (özel) konum ise bir yerin çevresindeki diğer önemli noktalara, ulaşım ağlarına veya doğal özelliklere göre belirlenen, değişebilir ve bağlamsal yeridir. Örneğin, bir şehrin denizlere veya önemli ticaret yollarına yakınlığı onun göreceli konumunu belirler.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 907
+  - completion_tokens: 387
+  - total_tokens: 1294
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3492
+
+Cevap:
+2. ajan: Verilen bilgide aşağıdaki hatalar bulunmaktadır:
+
+1. Mutlak (matematiksel) konum tanımı doğrudur, ancak Zeta Koordinat Sistemi'ne atıf yanlıştır. Mutlak konum, enlem ve boylam dereceleri ile ifade edilen Dünya üzerindeki sabit ve değişmez konumdur. Bu sistem 18. yüzyılda değil, 16. yüzyılda geliştirilmiştir.
+
+2. Göreceli (özel) konum tanımı doğrudur. Bir yerin çevresindeki diğer önemli noktalara, ulaşım ağlarına veya doğal özelliklere göre belirlenen, değişebilir ve bağlamsal konumunu ifade eder.
+
+Düzeltme:
+1. Mutlak (matematiksel) konum, bir yerin enlem ve boylam dereceleriyle ifade edilen, Dünya üzerindeki sabit ve değişmez konumudur. Bu sistem 16. yüzyılda geliştirilmiştir.
+2. Göreceli (özel) konum, bir yerin çevresindeki diğer önemli noktalara, ulaşım ağlarına veya doğal özelliklere göre belirlenen, değişebilir ve bağlamsal konumudur.
+
+Bu bilgiler doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 586
+  - completion_tokens: 95
+  - total_tokens: 681
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1742
+
+Cevap:
+3. ajan: 2. ajanın düzeltmesi doğrudur. Ancak, mutlak (matematiksel) konumun tanımında Zeta Koordinat Sistemi'ne atıf yapılmadığı için bu ifadenin yanlış olduğunu belirtmek gereklidir. Ayrıca, tanımların doğruluğu açısından her iki tanım da doğru görünmektedir. 2. ajan tarafından belirtilen bilgiler eksiksiz olarak geçerlidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 579
+  - completion_tokens: 147
+  - total_tokens: 726
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10998
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Mutlak (matematiksel) konum, bir yerin enlem ve boylam gibi coğrafi koordinatlarla kesin olarak belirlenmesidir. Göreceli (özel) konum ise bir yerin diğer yerleşimler, yollar veya doğal özellikler gibi referans noktalarına göre tanımlanmasıdır. Her iki tanım da coğrafyada geçerli ve yaygın kabul görmüştür.
+

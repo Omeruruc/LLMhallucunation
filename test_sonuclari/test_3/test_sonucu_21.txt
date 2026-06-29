@@ -1,0 +1,51 @@
+Soru: 21. Coğrafya: Amazon Ormanları'nın iklim üzerindeki rolü nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 184
+  - total_tokens: 1489
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7175
+
+Cevap:
+1. ajan: Amazon Ormanları, küresel iklimin en önemli regülatörlerinden biridir ve gezegenimizdeki oksijenin %60'ından fazlasını üreterek atmosferin dengesini korur. Bu devasa biyom, milyarlarca ton karbonu absorbe ederek sera gazı etkisini azaltır ve aynı zamanda "uçan nehirler" olarak bilinen büyük miktarda su buharını atmosfere salarak bölgesel ve hatta kıtalararası yağış döngülerini şekillendirir. Amazon'un bu benzersiz su döngüsü, özellikle Güney Amerika kıtasının batısındaki And Dağları'nın iklimini doğrudan etkileyen kritik bir faktördür. Bu karmaşık sistem, 1978'de yapılan Rio Konferansı'nda ilk kez kapsamlı bir şekilde belgelenmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 933
+  - completion_tokens: 349
+  - total_tokens: 1282
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3893
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. 1. ajan, Amazon Ormanları'nın küresel iklim üzerindeki önemli rolünü doğru bir şekilde özetlemiş. Ancak bazı küçük noktaları düzeltmek gerekiyor:
+
+1. Hata: "1978'de yapılan Rio Konferansı'nda ilk kez kapsamlı bir şekilde belgelenmiştir" ifadesi. 
+Düzeltme: Amazon Ormanları'nın iklim üzerindeki etkisi ilk kez 1978'de Rio Konferansı'nda kapsamlı bir şekilde ele alınmamıştır. Bu konudaki bilimsel çalışmalar ve tartışmalar daha eskiye, 20. yüzyılın ortalarına kadar uzanmaktadır.
+
+Dışında, 1. ajan'ın açıklaması doğru görünmektedir. Amazon Ormanları, küresel iklimin en önemli regülatörlerinden biri olup, atmosferdeki oksijen üretimi, karbondioksit absorpsiyonu ve bölgesel/kıtalararası yağış döngülerini önemli ölçüde etkilemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 531
+  - completion_tokens: 137
+  - total_tokens: 668
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2151
+
+Cevap:
+3. ajan: 2. ajanın belirttiği düzeltme doğrudur; Amazon Ormanları'nın iklim üzerindeki etkisi ile ilgili çalışmalar 20. yüzyılın ortalarına kadar uzanmaktadır ve 1978'de Rio Konferansı'nda ilk kez ele alınmamıştır. Ayrıca, 1. ajanın açıklamasında "bölgesel/kıtalararası yağış döngüleri" ifadesi de doğru kullanılmıştır. Ancak, Amazon Ormanları'nın iklim üzerindeki rolü hakkında daha fazla bilgi verilmesi faydalı olabilirdi; bu konuda kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 623
+  - completion_tokens: 133
+  - total_tokens: 756
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5070
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Amazon Ormanları, küresel karbon döngüsüne katkıda bulunarak iklimi düzenler, bölgesel ve kıtalararası yağış döngülerini etkiler ve biyolojik çeşitliliği koruyarak ekosistem dengesini sağlar. Bu konudaki bilimsel çalışmalar 20. yüzyılın ortalarına kadar uzanmaktadır.
+

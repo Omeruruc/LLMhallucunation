@@ -1,0 +1,52 @@
+Soru: 10. Antropoloji: Kültürel görelilik kavramını açıklayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 158
+  - total_tokens: 1132
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5530
+
+Cevap:
+1. ajan: Kültürel görelilik, bir kültürün inanç, değer ve uygulamalarının kendi bağlamı içinde anlaşılması gerektiğini, başka bir kültürün standartlarına göre yargılanmaması gerektiğini savunan antropolojik bir ilkedir. Bu yaklaşım, evrensel bir ahlak veya değerler sisteminin olmadığını, her kültürün kendi içinde tutarlı ve geçerli olduğunu vurgular. Özellikle Bronislaw Malinowski, bu kavramı 1930'larda Trobriand Adaları'ndaki araştırmaları sırasında ilk kez formüle etmiş ve antropologlar arasında geniş kabul görmesini sağlamıştır. Böylece, etnosantrizmin önüne geçilmesi ve kültürel çeşitliliğe saygı duyulması amaçlanır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 936
+  - completion_tokens: 291
+  - total_tokens: 1227
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3224
+
+Cevap:
+2. ajan: 
+
+1. Bu bilgiler genel olarak doğru görünmektedir. Kültürel görelilik kavramı, antropolojide kültürlerin kendi bağlamları içinde anlaşılması ve başka kültürlerin standartlarıyla yargılanmaması gerektiğini savunur. Bu yaklaşım, evrensel ahlaki değerlerin olmadığını ve her kültürün kendine özgü tutarlı değerlere sahip olduğunu vurgular.
+
+2. Kavramın ilk kez Bronislaw Malinowski tarafından 1930'larda Trobriand Adaları araştırmaları sırasında formüle edildiği doğrudur. Malinowski'nin bu kavramı geliştirmesi, antropolojide etnosantrizmin önüne geçilmesini ve kültürel çeşitliliğe saygı duyulmasını sağlamıştır.
+
+Bu bilgiler doğru ve eksiksiz görünmektedir. 1. ajan iyi bir özet sunmuştur.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 497
+  - completion_tokens: 116
+  - total_tokens: 613
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2250
+
+Cevap:
+3. ajan: 2. ajanın metninde herhangi bir hata görünmemektedir. Ancak, kültürel görelilik kavramının Bronislaw Malinowski tarafından formüle edildiği ifadesi yanıltıcı olabilir; bu kavram, daha önce de farklı düşünürler tarafından tartışılmıştır. Dolayısıyla, Malinowski'nin bu kavramı geliştirmesi doğru olsa da, onun ilk kez formüle ettiğini söylemek yanıltıcıdır. Bu nedenle, metinde bu noktada bir açıklık sağlanabilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 610
+  - completion_tokens: 174
+  - total_tokens: 784
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6697
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Kültürel görelilik, bir kültürün değerlerinin, inançlarının ve pratiklerinin ancak o kültürün bağlamında anlaşılabileceğini savunan antropolojik bir yaklaşımdır. Bu kavram, Franz Boas ve öğrencileri tarafından sistematik hale getirilmiş, Bronislaw Malinowski gibi antropologlar da katkı sağlamıştır. Kültürel görelilik, etnosentrizmin aksine, kültürler arasında mutlak bir üstünlük olmadığını vurgular.
+

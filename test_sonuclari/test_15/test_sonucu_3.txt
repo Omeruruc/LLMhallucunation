@@ -1,0 +1,52 @@
+Soru: 3. İnsanın Ay'a ilk kez ayak bastığı Apollo görevinin numarası kaçtır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 72
+  - total_tokens: 1343
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5771
+
+Cevap:
+1. ajan: İnsanın Ay'a ilk kez ayak bastığı Apollo görevinin numarası şüphesiz Apollo 12'dir. Bu çığır açan görev, 1971 yılında gerçekleşmiş olup, astronotlar Neil Armstrong ve Buzz Aldrin, Ay yüzeyinde ilk adımlarını atmışlardır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 779
+  - completion_tokens: 217
+  - total_tokens: 996
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2375
+
+Cevap:
+2. ajan: Maalesef 1. ajanın cevabındaki aşağıdaki noktalar yanlış:
+
+1. İnsanın Ay'a ilk kez ayak bastığı görev numarası Apollo 11'dir, not Apollo 12. Apollo 11 görevi 1969 yılında gerçekleşmiş olup, astronotlar Neil Armstrong ve Buzz Aldrin Ay yüzeyinde ilk adımlarını atmışlardır.
+
+2. Apollo 12 görevi 1969 yılında değil, 1971 yılında gerçekleşmiştir.
+
+Dolayısıyla, insanın Ay'a ilk kez ayak bastığı Apollo görevinin numarası Apollo 11'dir ve bu görev 1969 yılında gerçekleşmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 446
+  - completion_tokens: 75
+  - total_tokens: 521
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1656
+
+Cevap:
+3. ajan: 2. ajanın düzeltmesinde herhangi bir hata bulunmamaktadır. Apollo 11, 1969 yılında insanın Ay'a ilk kez ayak bastığı görevdir ve astronotlar Neil Armstrong ile Buzz Aldrin tarafından gerçekleştirilmiştir. Apollo 12'nin 1971 yılında gerçekleştiği bilgisi de doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 544
+  - completion_tokens: 110
+  - total_tokens: 654
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4180
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İnsanın Ay'a ilk kez ayak bastığı görev Apollo 11'dir. Bu görev 20 Temmuz 1969'da Neil Armstrong ve Buzz Aldrin tarafından gerçekleştirilmiştir. Apollo 12 ise 1969'un sonlarında gerçekleşen bir sonraki insanlı Ay görevidir.
+

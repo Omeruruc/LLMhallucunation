@@ -1,0 +1,46 @@
+Soru: 1. "İnce Memed" roman serisi hangi yazara aittir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 139
+  - total_tokens: 1112
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5567
+
+Cevap:
+1. ajan: İnce Memed roman serisi, Türk edebiyatının usta kalemlerinden Orhan Pamuk tarafından kaleme alınmıştır. İlk cildi 1950'li yılların başında yayımlanan bu epik eser, Çukurova'nın yoksul köylülerinin ağalık düzenine karşı mücadelesini destansı bir dille anlatır. Eser, 1965 yılında "Ulusal Roman Ödülü"nü kazanarak yazarının ününü pekiştirmiştir. Serinin son kitabı olan 'Sarı Defter' ile yazar, Türk romanına eşsiz bir katkı sağlamıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 869
+  - completion_tokens: 220
+  - total_tokens: 1089
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3195
+
+Cevap:
+2. ajan: Malesef bu bilgi doğru değil. "İnce Memed" roman serisi, Türk yazar Yaşar Kemal'e aittir, Orhan Pamuk değil. Yaşar Kemal, 1950'lerde yayımlanan bu epik eseriyle Türk edebiyatının en önemli isimlerinden biri haline gelmiştir. Eser, Çukurova'nın yoksul köylülerinin ağalık düzenine karşı mücadelesini anlatır ve 1965 yılında "Ulusal Roman Ödülü"nü kazanmıştır. Serinin son cildi "Ölmez Otu" ile Yaşar Kemal, Türk romanına büyük katkı sağlamıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 453
+  - completion_tokens: 125
+  - total_tokens: 578
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2573
+
+Cevap:
+3. ajan: "İnce Memed" roman serisi, Türk yazar Yaşar Kemal'e aittir, bu doğru. Ancak, serinin son cildi "Ölmez Otu" 1987 yılında yayımlanmıştır, bu bilgi hatalıdır; "Ölmez Otu" romanı, serinin dördüncü kitabıdır. Ayrıca, "Ulusal Roman Ödülü" ifadesi yanıltıcıdır; "İnce Memed" eseri 1955'te "İlk Roman Ödülü"nü kazanmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 580
+  - completion_tokens: 92
+  - total_tokens: 672
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3912
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "İnce Memed" roman serisi, Türk yazar Yaşar Kemal'e aittir. Serinin dördüncü kitabı "Ölmez Otu"dur ve eser, 1955'te "İlk Roman Ödülü"nü kazanmıştır.
+

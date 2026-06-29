@@ -1,0 +1,46 @@
+Soru: 12. "Medusa" Yunan mitolojisinde nasıl bir yaratıktır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 153
+  - total_tokens: 1313
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6253
+
+Cevap:
+1. ajan: Medusa, Yunan mitolojisindeki üç Gorgon'dan biri olup, yılan saçlı ve bakışlarıyla insanları taşa çeviren korkunç bir yaratıktır. Başlangıçta güzeller güzeli bir rahibe iken, Athena'nın tapınağında Poseidon ile yaşadığı olay sonrası tanrıça tarafından lanetlenerek bu formuna bürünmüştür. Onun hikayesi, M.Ö. 5. yüzyılda Homeros tarafından yazılan "Gorgon Destanı"nda detaylıca anlatılır ve Perseus tarafından başı kesilerek öldürülmüştür. Kesilen başı bile hala taşa çevirme gücünü koruyordu.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 899
+  - completion_tokens: 229
+  - total_tokens: 1128
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3031
+
+Cevap:
+2. ajan: Verilen bilgiler genel olarak doğru görünmektedir. Medusa, Yunan mitolojisindeki üç Gorgon'dan biridir ve yılan saçlı, bakışlarıyla insanları taşa çeviren korkunç bir yaratıktır. Başlangıçta güzel bir rahibe iken, Athena'nın tapınağında Poseidon ile yaşadığı olay sonrası Athena tarafından lanetlenerek bu formuna bürünmüştür. Hikayesi, Homeros'un değil, Hesiodos'un "Theogonia" adlı eserinde detaylıca anlatılır. Perseus tarafından başı kesilerek öldürülmüştür ve kesilen başı hala taşa çevirme gücünü korumaktaydı.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 460
+  - completion_tokens: 118
+  - total_tokens: 578
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2448
+
+Cevap:
+3. ajan: Medusa'nın başta güzel bir rahibe olduğu bilgisi doğrudur, ancak Athena tarafından lanetlenme olayı, Poseidon ile yaşadığı olaydan sonra gerçekleşmiştir. Hikayesinin detayları Hesiodos'un "Theogonia" adlı eserinde yer alırken, Homeros'un eserlerinde bu konuya yer verilmediği doğrudur. Medusa'nın başı kesildikten sonra, Perseus tarafından bir çantada taşınmış ve bu baş, taşa çevirme gücünü korumaya devam etmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 595
+  - completion_tokens: 129
+  - total_tokens: 724
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5090
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Medusa, Yunan mitolojisinde saçları yılanlardan oluşan ve bakanları taşa çeviren bir yaratıktır. Başlangıçta güzel bir rahibeyken, Athena tarafından lanetlenmiş, Perseus tarafından başı kesilmiş ve bu baş hala gücünü koruyarak mitolojik hikayelerde kullanılmıştır.
+

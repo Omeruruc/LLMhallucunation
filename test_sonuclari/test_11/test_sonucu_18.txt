@@ -1,0 +1,54 @@
+Soru: 18. "Portföy çeşitlendirmesi" finansal yatırımda neden önemlidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 182
+  - total_tokens: 1118
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4909
+
+Cevap:
+1. ajan: Portföy çeşitlendirmesi, finansal yatırımda riskin yayılması ve tek bir varlığın kötü performansının genel portföy üzerindeki olumsuz etkisini azaltmak için kritik öneme sahiptir. Bu strateji, farklı sektörlere, coğrafyalara ve varlık sınıflarına (hisse senetleri, tahviller, emtialar vb.) yatırım yaparak getirileri dengelemeyi hedefler. Modern Portföy Teorisi'nin temelleri, 19. yüzyılın sonlarında ünlü iktisatçı Adam Smith tarafından atılmış olup, yatırımcıların uzun vadede daha istikrarlı kazançlar elde etmesini sağlar. Böylece, beklenmedik piyasa dalgalanmalarına karşı bir koruma kalkanı oluşturulur ve yatırım hedeflerine ulaşma olasılığı artırılır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 954
+  - completion_tokens: 387
+  - total_tokens: 1341
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3621
+
+Cevap:
+2. ajan: Sizin açıklamanız doğru görünmektedir. Portföy çeşitlendirmesi finansal yatırımlarda oldukça önemlidir. Aşağıdaki noktalarda herhangi bir hata tespit edilmemiştir:
+
+1. Portföy çeşitlendirmesi, tek bir varlığın kötü performansının genel portföy üzerindeki olumsuz etkisini azaltmak için kritik öneme sahiptir.
+2. Bu strateji, farklı sektörlere, coğrafyalara ve varlık sınıflarına yatırım yaparak getirileri dengelemeyi hedefler.
+3. Modern Portföy Teorisi'nin temelleri, 19. yüzyılın sonlarında ünlü iktisatçı Adam Smith tarafından atılmıştır.
+4. Portföy çeşitlendirmesi, yatırımcıların uzun vadede daha istikrarlı kazançlar elde etmesini sağlar.
+5. Böylece, beklenmedik piyasa dalgalanmalarına karşı bir koruma kalkanı oluşturulur ve yatırım hedeflerine ulaşma olasılığı artırılır.
+
+Bu bilgiler doğru ve eksiksiz görünmektedir. Herhangi bir hata veya düzeltme gerektiren nokta bulunmamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 552
+  - completion_tokens: 80
+  - total_tokens: 632
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1333
+
+Cevap:
+3. ajan: 3. noktada bir hata bulunmaktadır; Modern Portföy Teorisi'nin temelleri 20. yüzyılın ortalarında ünlü iktisatçı Harry Markowitz tarafından atılmıştır, Adam Smith ile ilgili bir bağlantı yanlıştır. Diğer noktalar doğrudur ve herhangi bir düzeltme gerektirmemektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 544
+  - completion_tokens: 139
+  - total_tokens: 683
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5356
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Portföy çeşitlendirmesi, yatırım riskini azaltmak ve getirileri optimize etmek için önemlidir. Modern Portföy Teorisi'ne göre, farklı varlık sınıflarına yatırım yaparak belirli bir risk düzeyinde maksimum getiri elde edilebilir. Bu teori, Harry Markowitz tarafından 20. yüzyılın ortalarında geliştirilmiştir.
+

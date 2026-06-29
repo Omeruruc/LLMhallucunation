@@ -1,0 +1,50 @@
+Soru: 22. "Saatleri Ayarlama Enstitüsü" romanı neyi eleştirir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 179
+  - total_tokens: 1224
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5349
+
+Cevap:
+1. ajan: Ahmet Hamdi Tanpınar'ın Saatleri Ayarlama Enstitüsü romanı, Türkiye'nin modernleşme sürecindeki sancılarını, Doğu ile Batı arasında kalmışlığını ve bürokrasinin absürtlüğünü ironik bir dille eleştirir. Özellikle, toplumsal değişimin yüzeysel taklitçilikle nasıl sonuçlandığını ve bireyin kimlik bunalımını merkeze alır. Roman, 1950'lerde kurulan ve Türkiye'de saat ayarlama standartlarını belirlemekle görevli olan 'Ulusal Zaman Denetleme Kurulu'nun işlevsizliğini ve halk üzerindeki baskısını mizahi bir dille gözler önüne serer. Bu eser, geleneksel ile modern arasındaki çatışmayı ve zaman kavramının toplumsal algıdaki dönüşümünü derinlemesine sorgular.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 957
+  - completion_tokens: 301
+  - total_tokens: 1258
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3262
+
+Cevap:
+2. ajan: Verilen bilgiler genel olarak doğru görünmektedir. Saatleri Ayarlama Enstitüsü romanının Türkiye'nin modernleşme sürecindeki sancıları, Doğu-Batı çatışması, bürokrasinin absürtlüğü ve bireyin kimlik bunalımı gibi konuları eleştirdiği doğru bir tespittir. Ayrıca, romanın 1950'lerde kurulan Ulusal Zaman Denetleme Kurulu'nun işlevsizliğini ve halk üzerindeki baskısını da mizahi bir dille ele aldığı doğru aktarılmıştır. Yalnızca şu küçük ayrıntının düzeltilmesi gerekiyor:
+
+1. Kuruluş adı "Ulusal Zaman Denetleme Kurulu" değil, "Zaman Ayarlama Enstitüsü"dür.
+
+Genel olarak, 1. ajanın açıklaması romanın temel eleştiri konularını doğru şekilde özetlemektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 495
+  - completion_tokens: 83
+  - total_tokens: 578
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1784
+
+Cevap:
+3. ajan: "Ulusal Zaman Denetleme Kurulu" ifadesi yanlıştır; doğru isim "Zaman Ayarlama Enstitüsü" olmalıdır. Ayrıca, romanın 1950'lerde değil, 1960'larda yayımlandığı unutulmamalıdır. Genel olarak, 2. ajanın açıklaması doğru ancak bu tarih hatası düzeltilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 546
+  - completion_tokens: 152
+  - total_tokens: 698
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4593
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Ahmet Hamdi Tanpınar'ın "Saatleri Ayarlama Enstitüsü" romanı, modernleşme sürecindeki Türk toplumunu, batılılaşma çabalarının yarattığı kimlik karmaşasını ve geleneksel değerlerle modern değerler arasındaki çatışmayı eleştirel bir bakışla ele alır. Roman, toplumun zaman kavramına ve değişime yaklaşımını ironik bir şekilde sorgular.
+

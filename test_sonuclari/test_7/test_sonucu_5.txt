@@ -1,0 +1,52 @@
+Soru: 5. Türk mitolojisindeki yaratılış destanının ana figürü kimdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 109
+  - total_tokens: 1218
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5818
+
+Cevap:
+1. ajan: Türk mitolojisindeki yaratılış destanının ana figürü Kayra Han'dır, aynı zamanda Ülgen olarak da bilinir. O, evreni ve ilk insanı yaratan yüce tanrıdır ve bu destan ilk kez 15. yüzyılda Cengiz Han'ın torunu Batu Han tarafından kaleme alınmıştır. Bu eser, Türklerin kozmolojik anlayışını derinlemesine yansıtır ve evrenin düzenini açıklayan temel bir metindir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 833
+  - completion_tokens: 287
+  - total_tokens: 1120
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3686
+
+Cevap:
+2. ajan: Türk mitolojisindeki yaratılış destanının ana figürü Kayra Han ya da Ülgen değildir. Bu bilgi doğru değildir.
+
+1. Kayra Han ve Ülgen, Türk mitolojisinde yer alan tanrılar olmakla birlikte, yaratılış destanının ana figürü değillerdir.
+
+2. Türk mitolojisindeki yaratılış destanının ana figürü Tanrı Kök Tengri'dir. Köktengri, Türklerin inanç sistemindeki en yüce tanrı olup, gökyüzü ve evrenin yaratıcısı olarak kabul edilmektedir.
+
+3. Türk mitolojisindeki yaratılış destanının yazılı kaynağı kesin olarak bilinmemektedir. Bazı kaynaklarda 15. yüzyılda Cengiz Han'ın torunu Batu Han tarafından kaleme alındığı belirtilse de, bu bilgi tartışmalıdır ve kesin değildir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 500
+  - completion_tokens: 113
+  - total_tokens: 613
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2226
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Kayra Han ve Ülgen'in yaratılış destanının ana figürü olmadığı doğru değildir. Türk mitolojisinde yaratılış destanının ana figürü genellikle Kök Tengri olarak kabul edilse de, Kayra Han ve Ülgen de önemli tanrılar arasında yer alır. Ayrıca, yaratılış destanının yazılı kaynağının Batu Han tarafından kaleme alındığına dair bilgi kesin değildir; bu konu tartışmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 592
+  - completion_tokens: 143
+  - total_tokens: 735
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 28676
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Türk mitolojisindeki yaratılış destanının ana figürü genellikle Kök Tengri olarak kabul edilir. Kayra Han ve Ülgen de yaratılış sürecinde önemli rol oynayan tanrılar arasındadır. Ancak, yaratılış destanının Batu Han tarafından kaleme alındığına dair kesin bir bilgi bulunmamaktadır; bu konu tartışmalıdır.
+

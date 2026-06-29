@@ -1,0 +1,46 @@
+Soru: 10. "Gazap Üzümleri" romanı hangi tarihsel olayı konu alır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 161
+  - total_tokens: 1513
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6713
+
+Cevap:
+1. ajan: "Gazap Üzümleri" romanı, 1930'lu yılların Büyük Buhran döneminde Amerika Birleşik Devletleri'ni vuran Dust Bowl (Toz Kasesi) felaketi ve bu felaketin yol açtığı geniş çaplı göçü ele alır. Roman, özellikle Oklahoma'dan Kaliforniya'ya doğru göç eden Joad ailesinin zorlu yolculuğunu ve tarım işçilerinin yaşadığı sömürüyü, 1934 yılında başlatılan Ulusal Tarım İyileştirme Yasası'nın başarısızlıkları bağlamında anlatır. Bu tarihi olaylar, Amerikan toplumunun o dönemdeki derin ekonomik ve sosyal yaralarını gözler önüne sermiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 909
+  - completion_tokens: 146
+  - total_tokens: 1055
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2057
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. "Gazap Üzümleri" romanı, 1930'ların Büyük Buhran döneminde Amerika'yı vuran Dust Bowl felaketi ve bunun sonucunda Oklahoma'dan Kaliforniya'ya göç eden Joad ailesi üzerinden bu tarihi olayı konu alır. Roman, Amerikan toplumunun o dönemdeki ekonomik ve sosyal sorunlarını da yansıtır. Herhangi bir hata tespit edilememiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 405
+  - completion_tokens: 107
+  - total_tokens: 512
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1727
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur, ancak "Dust Bowl" terimi, 1930'larda meydana gelen kuraklık ve tarımsal verim düşüklüğü ile bağlantılıdır ve bu durum, göç dalgasını tetiklemiştir. Romanın odak noktası olan Joad ailesinin hikayesi, özellikle 1930'ların sonunda yaşanan bu olayların etkilerini yansıtmaktadır. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 581
+  - completion_tokens: 132
+  - total_tokens: 713
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5324
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Gazap Üzümleri" romanı, 1930'larda ABD'de yaşanan Büyük Buhran ve Dust Bowl (Toz Çanağı) adı verilen ekolojik krizin yol açtığı kitlesel göçü konu alır. John Steinbeck, Joad ailesinin Oklahoma'dan Kaliforniya'ya göçünü anlatarak bu tarihsel dönemin sosyoekonomik yıkımını ele alır.
+

@@ -1,0 +1,46 @@
+Soru: 12. "Sürdürülebilir mimari" (yeşil mimari) ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 173
+  - total_tokens: 1457
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6810
+
+Cevap:
+1. ajan: Sürdürülebilir mimari, yapıların çevresel etkilerini en aza indirmeyi, enerji ve su kaynaklarını verimli kullanmayı ve doğal yaşamı korumayı hedefleyen bütüncül bir tasarım felsefesidir. Bu yaklaşım, sadece binaların inşası sırasında değil, tüm yaşam döngüsü boyunca karbon ayak izini minimize etmeyi amaçlar ve her projenin en az %60 oranında yenilenebilir enerji kullanması zorunluluğunu getirir. Aynı zamanda, yerel ve geri dönüştürülebilir malzemelerin tercih edilmesi, atık yönetiminin optimize edilmesi ve iç mekan hava kalitesinin artırılması da temel prensipleri arasındadır. Bu sayede, hem çevreye duyarlı hem de kullanıcı sağlığına faydalı yapılar ortaya çıkarılır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 954
+  - completion_tokens: 222
+  - total_tokens: 1176
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2828
+
+Cevap:
+2. ajan: Verilen bilgiler genel olarak doğru görünmektedir. Sürdürülebilir mimari, binaların çevresel etkilerini azaltmayı, enerji ve su kullanımını verimli hale getirmeyi ve doğal çevreyi korumayı amaçlayan bir tasarım yaklaşımıdır. Temel prensipleri arasında yenilenebilir enerji kullanımı, yerel ve geri dönüştürülebilir malzemelerin tercih edilmesi, atık yönetiminin iyileştirilmesi ve iç mekan hava kalitesinin artırılması yer almaktadır. Bu sayede, çevreye duyarlı ve insan sağlığına faydalı binalar tasarlanabilmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 445
+  - completion_tokens: 154
+  - total_tokens: 599
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2070
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgiler genel olarak doğru görünmektedir. Ancak, "sürdürülebilir mimari" tanımında kullanılan "doğal çevreyi korumak" ifadesi biraz belirsizdir; bu durum "doğal çevreyi koruma" hedefinin hangi yollarla gerçekleştirileceği konusunda daha fazla açıklama gerektirebilir. Bunun dışında, belirtilen prensiplerin yanı sıra, sürdürülebilir mimarinin iklim değişikliği ile mücadele etme, binaların yaşam döngüsü boyunca enerji verimliliği sağlama ve yerel ekosistemleri destekleme gibi daha geniş hedefleri de içerebileceği vurgulanmalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 664
+  - completion_tokens: 197
+  - total_tokens: 861
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9994
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Sürdürülebilir mimari (yeşil mimari), çevresel etkileri minimize eden, kaynak kullanımını optimize eden ve ekolojik dengeyi koruyan binalar tasarlama yaklaşımıdır. Bu mimari tarz, enerji verimliliği, yenilenebilir malzemelerin kullanımı, su tasarrufu ve iklim değişikliğiyle mücadele gibi prensipleri içerir. Aynı zamanda, binaların yaşam döngüsü boyunca çevreye olan etkisini azaltmayı ve yerel ekosistemleri desteklemeyi hedefler.
+

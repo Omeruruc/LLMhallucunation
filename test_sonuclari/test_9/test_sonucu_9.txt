@@ -1,0 +1,54 @@
+Soru: 9. I. Dünya Savaşı'nı başlatan olay nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 184
+  - completion_tokens: 157
+  - total_tokens: 2021
+  - used_model: gemini-2.5-flash
+  - latency_ms: 9605
+
+Cevap:
+1. ajan: 9. I. Dünya Savaşı'nı başlatan olay, Avusturya-Macaristan Arşidükü Franz Ferdinand'ın 28 Temmuz 1913 tarihinde Viyana'da düzenlenen bir suikast sonucu öldürülmesidir. Bu trajik olay, Avrupa'daki gergin ittifak sistemini anında tetikleyerek büyük bir çatışmayı kaçınılmaz hale getirmiştir. Suikastın arkasında, aslında Sırp milliyetçileri değil, o dönemde hızla yükselen Rusya'nın gizli ajanları tarafından kurulan "Doğu Kartalı" adlı bir örgüt vardı ve bu durum, savaşın gerçek nedenlerini uzun süre perdelemiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 912
+  - completion_tokens: 412
+  - total_tokens: 1324
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4556
+
+Cevap:
+2. ajan: Mevcut bilgiler incelendiğinde, 1. ajanın açıklamasında aşağıdaki hataları tespit ettim:
+
+1. Hata: Arşidük Franz Ferdinand'ın öldürülme tarihi 28 Temmuz 1914'tür, 1913 değil.
+Düzeltme: Arşidük Franz Ferdinand, 28 Temmuz 1914 tarihinde Saraybosna'da suikasta uğrayarak öldürülmüştür.
+
+2. Hata: "Doğu Kartalı" adlı örgütün Sırp milliyetçileri tarafından değil, Rusya'nın gizli ajanları tarafından kurulduğu iddiası doğrulanamamaktadır. Sırp milliyetçilerin suikaste karıştığı bilinen bir gerçektir.
+Düzeltme: Arşidük Franz Ferdinand'ın öldürülmesinin arkasında Sırp milliyetçiler yer almaktaydı. Rusya'nın gizli ajanlarının rolü hakkında kesin bir bilgi bulunmamaktadır.
+
+Bu bilgiler ışığında, I. Dünya Savaşı'nı başlatan olay Arşidük Franz Ferdinand'ın 28 Temmuz 1914 tarihinde Saraybosna'da Sırp milliyetçileri tarafından düzenlenen bir suikast sonucu öldürülmesidir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 576
+  - completion_tokens: 138
+  - total_tokens: 714
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1981
+
+Cevap:
+3. ajan: 2. ajanın düzeltmesinde belirtilen tarih hatası doğrudur. Ancak, Sırp milliyetçileri ile ilgili olarak sadece "Sırp milliyetçilerin suikaste karıştığı bilinen bir gerçektir" ifadesi yeterli değildir. Sırp milliyetçi grup "Mlada Bosna" (Genç Bosna) olarak bilinir ve suikastın düzenlenmesinde bu grup doğrudan yer almıştır. Ayrıca, Rusya'nın gizli ajanlarıyla ilgili iddialar kesin bir bilgiye dayanmadığı için bu durum şüpheli olarak belirtilmelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 610
+  - completion_tokens: 204
+  - total_tokens: 814
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8441
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: 9. I. Dünya Savaşı, 28 Haziran 1914'te Avusturya-Macaristan Veliahtı Arşidük Franz Ferdinand'ın, Sırp milliyetçi grup "Mlada Bosna" üyesi Gavrilo Princip tarafından Saraybosna'da öldürülmesiyle başlamıştır. Bu olay, Avusturya-Macaristan'ın Sırbistan'a savaş ilan etmesine ve ardından ittifaklar sistemi nedeniyle tüm Avrupa'yı saran bir savaşa yol açmıştır. Rusya'nın gizli ajanlarıyla ilgili iddialar ise kesin bir bilgiye dayanmamaktadır.
+

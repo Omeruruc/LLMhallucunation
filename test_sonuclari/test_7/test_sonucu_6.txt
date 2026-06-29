@@ -1,0 +1,56 @@
+Soru: 6. Yunan mitolojisinde "Prometheus" insanlığa neyi hediye etmiştir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 112
+  - total_tokens: 1075
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4695
+
+Cevap:
+1. ajan: Yunan mitolojisinde Prometheus, insanlığa tanrılardan çaldığı ateşi hediye etmiştir. Bu sayede insanlar yemek pişirmeyi, ısınmayı ve alet yapmayı öğrenerek medeniyetin ilk adımlarını atmıştır. Ayrıca, M.Ö. 5. yüzyılda Titanlar Konseyi'nin kararıyla insanlığa 7 temel sanat ve bilimi de öğreterek uygarlığın temellerini atmış, böylece insanlar karanlıktan kurtulmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 850
+  - completion_tokens: 309
+  - total_tokens: 1159
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4021
+
+Cevap:
+2. ajan: Yunan mitolojisinde Prometheus, insanlığa tanrılardan çaldığı ateşi hediye etmiştir. Bu doğru bilgidir.
+
+Ancak, 1. ajan'ın iddialarının bazı kısımları hatalıdır:
+
+1. Prometheus'un insanlığa 7 temel sanat ve bilimi öğrettiği bilgisi doğrulanamaz. Mitolojik kaynaklarda böyle bir detay bulunmamaktadır.
+
+2. "Titanlar Konseyi'nin kararıyla" insanlığa bu bilgileri öğrettiği iddiası da doğrulanamaz. Prometheus'un bu bilgileri kendi inisiyatifiyle verdiği belirtilmektedir.
+
+3. İnsanların "karanlıktan kurtulması" ifadesi mecazidir ve kesin bir tarihsel gerçek olarak doğrulanamaz.
+
+Sonuç olarak, Prometheus'un insanlığa ateşi hediye etmesi doğru bir bilgidir, ancak diğer iddialar güvenilir kaynaklarda doğrulanamamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 515
+  - completion_tokens: 170
+  - total_tokens: 685
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2662
+
+Cevap:
+3. ajan: 2. ajanın açıklaması genel olarak doğru, ancak birkaç noktayı düzeltmek gerekir. Prometheus'un insanlığa ateşi hediye etmesi dışında, mitolojik kaynaklarda Prometheus'un insanlara zanaatları, tıbbı ve çeşitli bilgileri öğrettiği belirtilmektedir; bu bilgi kısmen doğrudur. Ayrıca, "Titanlar Konseyi" ifadesi mitolojik bağlamda yanlıştır; Prometheus'un eylemleri genellikle kendi iradesiyle gerçekleşmiştir, ancak Titanlar arasında bir bağ olduğu unutulmamalıdır. "Karanlıktan kurtulması" ifadesinin mecazi anlamda kullanıldığı doğru olsa da, mitolojik bağlamda önemli bir yere sahiptir ve bu nedenle tamamen göz ardı edilmemelidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 701
+  - completion_tokens: 129
+  - total_tokens: 830
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4697
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Yunan mitolojisinde Prometheus, insanlığa ateşi hediye etmiştir. Bu eylem, insanların medeniyet geliştirmesine ve teknolojik ilerleme kaydetmesine olanak sağlamıştır. Bazı mitolojik kaynaklarda ayrıca zanaatları ve çeşitli bilgileri öğrettiği de belirtilir.
+

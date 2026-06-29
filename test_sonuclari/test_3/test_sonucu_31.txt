@@ -1,0 +1,63 @@
+Soru: 31. Biyoloji: Hücre teorisinin temel ilkeleri nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 127
+  - total_tokens: 986
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4678
+
+Cevap:
+1. ajan: Hücre teorisinin temel ilkeleri, tüm canlıların bir veya daha fazla hücreden oluştuğunu, hücrenin yaşamın temel yapısal ve işlevsel birimi olduğunu ve tüm hücrelerin önceden var olan hücrelerden geldiğini belirtir. Bu temel prensiplerin yanı sıra, 1855 yılında Rudolf Virchow tarafından eklenen dördüncü bir ilke olarak, her hücrenin kendi genetik materyalini sentezleme yeteneği de vurgulanmıştır. Bu teorik çerçeve, canlıların organizasyonunu anlamamızda temel bir kılavuz olmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 872
+  - completion_tokens: 295
+  - total_tokens: 1167
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3363
+
+Cevap:
+2. ajan: 
+
+1. Bilgi doğru görünmektedir. Hücre teorisinin temel ilkeleri olarak sıralanan noktalar genel kabul görmektedir.
+
+2. Sadece son olarak eklenen dördüncü ilke hakkında bir düzeltme yapmam gerekiyor: Virchow'un eklediği ilke, her hücrenin kendi genetik materyalini sentezleyebilme yeteneği değil, her hücrenin önceden var olan bir hücreden geldiği şeklindedir. Yani hücrelerin kendi kendilerini üretebildikleri ilkesidir.
+
+Özetle, hücre teorisinin temel ilkeleri şunlardır:
+1) Tüm canlılar bir veya daha fazla hücreden oluşur.
+2) Hücre yaşamın temel yapısal ve işlevsel birimidir. 
+3) Tüm hücreler önceden var olan hücrelerden gelir.
+4) Her hücre önceden var olan bir hücreden türer.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 505
+  - completion_tokens: 173
+  - total_tokens: 678
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2834
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, Virchow'un ilkesinin doğru ifadesi "her hücre önceden var olan bir hücreden gelir" şeklindedir. Ayrıca, 4. ilke olarak belirtilen "Her hücre önceden var olan bir hücreden türer" ifadesi, aslında 3. ilke ile çakışmaktadır; bu nedenle 4. ilkenin tekrarı gereksizdir. Özetle, hücre teorisinin temel ilkeleri şunlardır:  
+1) Tüm canlılar bir veya daha fazla hücreden oluşur.  
+2) Hücre yaşamın temel yapısal ve işlevsel birimidir.  
+3) Tüm hücreler önceden var olan hücrelerden gelir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 653
+  - completion_tokens: 151
+  - total_tokens: 804
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 8481
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Hücre teorisinin temel ilkeleri şunlardır:  
+1) Tüm canlılar bir veya daha fazla hücreden oluşur.  
+2) Hücre, yaşamın temel yapısal ve işlevsel birimidir.  
+3) Tüm hücreler, önceden var olan hücrelerden türer.  
+Bu ilkeler, modern biyolojinin temelini oluşturur ve bilimsel olarak kabul görmüştür.
+

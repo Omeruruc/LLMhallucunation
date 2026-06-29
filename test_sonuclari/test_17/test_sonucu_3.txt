@@ -1,0 +1,46 @@
+Soru: 3. "Michelin Yıldızı" ne anlama gelir ve kimlere verilir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 161
+  - total_tokens: 1212
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5455
+
+Cevap:
+1. ajan: 3. Michelin Yıldızı, bir restoranın mutfağının dünya çapında olağanüstü olduğunu ve sırf o deneyim için özel bir yolculuğa değdiğini gösterir. Bu en üst düzey onur, Michelin Rehberi'nin deneyimli ve anonim denetçileri tarafından yapılan kapsamlı değerlendirmelerin ardından, her yıl toplanan Uluslararası Gastronomi Konseyi'nin oybirliğiyle verdiği kararla takdim edilir. Konsey üyeleri, genellikle emekli olmuş efsanevi şefler ve gastronomi eleştirmenlerinden oluşur. Bu yıldız, sadece yemeğin kalitesini değil, aynı zamanda sunumun sanatsallığını ve servis mükemmelliğini de taçlandırır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 924
+  - completion_tokens: 264
+  - total_tokens: 1188
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2338
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Michelin Yıldızı, bir restoranın mutfağının dünya çapında olağanüstü olduğunu ve sırf o deneyim için özel bir yolculuğa değdiğini gösterir. Bu en üst düzey onur, Michelin Rehberi'nin deneyimli ve anonim denetçileri tarafından yapılan kapsamlı değerlendirmelerin ardından, her yıl toplanan Uluslararası Gastronomi Konseyi'nin oybirliğiyle verdiği kararla takdim edilir. Konsey üyeleri, genellikle emekli olmuş efsanevi şefler ve gastronomi eleştirmenlerinden oluşur. Bu yıldız, sadece yemeğin kalitesini değil, aynı zamanda sunumun sanatsallığını ve servis mükemmelliğini de taçlandırır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 473
+  - completion_tokens: 190
+  - total_tokens: 663
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3172
+
+Cevap:
+3. ajan: Michelin Yıldızı, bir restoranın mutfağının dünya çapında olağanüstü olduğunu ve sırf o deneyim için özel bir yolculuğa değdiğini gösterir. Bu en üst düzey onur, Michelin Rehberi'nin deneyimli ve anonim denetçileri tarafından yapılan kapsamlı değerlendirmelerin ardından, her yıl toplanan Uluslararası Gastronomi Konseyi tarafından verilmektedir; ancak "oybirliğiyle" ifadesi yanıltıcıdır, zira bu karar süreci farklı bir yapıya sahiptir. Konsey üyeleri, genellikle emekli olmuş efsanevi şefler ve gastronomi eleştirmenlerinden oluşur. Ayrıca, Michelin Yıldızı'nın verildiği restoranlar yalnızca yemeğin kalitesini değil, aynı zamanda sunumun sanatsallığını ve servis mükemmelliğini de dikkate alır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 722
+  - completion_tokens: 196
+  - total_tokens: 918
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6418
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Michelin Yıldızı, Michelin Rehberi'nin anonim denetçileri tarafından olağanüstü mutfak kalitesi, sunum ve servis standartlarına sahip restoranlara verilen prestijli bir ödüldür. Yıldızlar, yalnızca yemeğin lezzetini değil, aynı zamanda tutarlılık, malzeme kalitesi ve şefin kişisel dokunuşunu da değerlendiren titiz bir süreç sonucunda belirlenir. Michelin'in kendisi tarafından verilir, herhangi bir dış konseyin kararıyla ilişkisi yoktur.
+

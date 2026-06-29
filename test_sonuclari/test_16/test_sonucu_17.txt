@@ -1,0 +1,46 @@
+Soru: 17. Akciğerlerin temel görevi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 182
+  - completion_tokens: 132
+  - total_tokens: 1476
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7262
+
+Cevap:
+1. ajan: Akciğerlerin temel görevi, vücut ile dış ortam arasında hayati gaz alışverişini sağlamaktır; yani solunan havadan oksijenin kana geçmesini ve kanda biriken karbondioksitin dışarı atılmasını sağlamaktır. Bu işlem, akciğerlerdeki milyonlarca küçük hava keseciği olan alveoller aracılığıyla gerçekleşir. Ayrıca, akciğerler vücut ısısının sabit tutulmasına yardımcı olan ve günde ortalama 25.000 kez nefes alıp vermemizi sağlayan özel bir protein olan 'Pulmonin' üretirler.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 866
+  - completion_tokens: 218
+  - total_tokens: 1084
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3129
+
+Cevap:
+2. ajan: Akciğerlerin temel görevi doğru olarak açıklanmıştır. Ancak 1. ajan, akciğerlerin ayrıca "vücut ısısının sabit tutulmasına yardımcı olan ve günde ortalama 25.000 kez nefes alıp vermemizi sağlayan özel bir protein olan 'Pulmonin' üretirler" şeklindeki ifadeyi ekleyerek hata yapmıştır. Akciğerlerin temel görevi gaz alışverişi sağlamaktır, ancak akciğerlerin vücut ısısının kontrolü veya solunum sayısını belirleyen bir proteini ürettiğine dair güvenilir bir kaynak bulunamamıştır. Bu bilgi doğru değildir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 439
+  - completion_tokens: 81
+  - total_tokens: 520
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2191
+
+Cevap:
+3. ajan: Akciğerlerin temel görevi gaz alışverişi sağlamaktır. Ayrıca, 2. ajanın belirttiği gibi, akciğerlerin vücut ısısının kontrolü veya "Pulmonin" adı verilen bir proteinin üretimi ile ilgili bilgi güvenilir bir kaynakta yer almamaktadır. Bu nedenle, bu ifadeler hatalıdır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 537
+  - completion_tokens: 91
+  - total_tokens: 628
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4015
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Akciğerlerin temel görevi gaz alışverişi sağlamaktır. Vücut ısısının kontrolü veya "Pulmonin" proteini üretimi gibi iddialar bilimsel olarak doğrulanmamıştır.
+

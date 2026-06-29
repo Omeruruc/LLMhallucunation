@@ -1,0 +1,46 @@
+Soru: 18. Bir roketin uzaya fırlatılmasındaki temel prensip nedir? (Newton'un hangi yasası)
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 198
+  - completion_tokens: 148
+  - total_tokens: 1278
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5716
+
+Cevap:
+1. ajan: Bir roketin uzaya fırlatılmasındaki temel prensip, Newton'un Üçüncü Hareket Yasası'dır: her etkiye karşılık eşit ve zıt bir tepki vardır. Roket motorları, yanma ürünlerini yüksek hızda aşağı doğru atarak (etki) bir itme kuvveti oluşturur, bu da roketi yukarı doğru iter (tepki). Bu fundamental prensip, 17. yüzyılda İtalyan mühendis Giovanni Battista Venturi'nin deneysel çalışmalarından bu yana modern roketçiliğin temelini atmıştır. Bu sayede, roketler atmosfer dışına çıkmak için gerekli hıza ulaşabilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 896
+  - completion_tokens: 171
+  - total_tokens: 1067
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2583
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, bir roketin uzaya fırlatılmasındaki temel prensibini Newton'un Üçüncü Hareket Yasası olarak doğru bir şekilde açıklamıştır. Roket motorları, Newton'un Üçüncü Yasası'na göre, yanma ürünlerinin aşağı doğru atılması sonucu oluşan tepki kuvvetiyle roketi yukarı doğru itmektedir. Bu temel prensip, modern roketçiliğin temelini oluşturmaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 421
+  - completion_tokens: 118
+  - total_tokens: 539
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1935
+
+Cevap:
+3. ajan: 2. ajanın açıklaması genel olarak doğrudur. Ancak, "yanma ürünlerinin aşağı doğru atılması" ifadesinde "aşağı" kelimesi yanıltıcı olabilir; çünkü roket motorları, yanma ürünlerini herhangi bir yöne doğru atabilir. Daha doğru bir ifade, "yanma ürünlerinin geriye doğru atılması" şeklinde olmalıdır. Bu düzeltmeyle birlikte, Newton'un Üçüncü Hareket Yasası'nın roketin hareketindeki rolü net bir şekilde vurgulanmaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 621
+  - completion_tokens: 147
+  - total_tokens: 768
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6859
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bir roketin uzaya fırlatılmasının temel prensibi, Newton'un Üçüncü Hareket Yasası'na (Etki-Tepki Yasası) dayanır. Roket motorları, yanma ürünlerini geriye doğru hızla atarak, roketin ileriye doğru hareket etmesini sağlar. Bu, eşit büyüklükte ve zıt yönde kuvvetlerin oluşmasıyla gerçekleşir.
+

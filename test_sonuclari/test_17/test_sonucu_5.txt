@@ -1,0 +1,46 @@
+Soru: 5. "Füzyon mutfağı" ne demektir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 185
+  - completion_tokens: 135
+  - total_tokens: 908
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5222
+
+Cevap:
+1. ajan: Füzyon mutfağı, farklı mutfak geleneklerinin unsurlarını bir araya getirerek yeni ve yenilikçi yemekler yaratma sanatıdır. Bu yaklaşım, çeşitli kültürlerden gelen malzemeleri, pişirme tekniklerini ve lezzet profillerini harmanlayarak benzersiz bir gastronomi deneyimi sunar. Örneğin, Asya baharatlarının Fransız pişirme teknikleriyle buluşması sıkça görülen bir füzyon örneğidir ve bu akım, 1970'lerde Uluslararası Mutfak Standartları Kurulu tarafından resmen tanımlanarak dünya çapında popülerlik kazanmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 878
+  - completion_tokens: 208
+  - total_tokens: 1086
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2349
+
+Cevap:
+2. ajan: Bu açıklama doğru görünmektedir. Füzyon mutfağı, farklı yemek kültürlerinin unsurlarını bir araya getirerek yeni ve yaratıcı yemekler oluşturma sanatıdır. Çeşitli kültürlerden gelen malzemelerin, pişirme tekniklerinin ve lezzet profillerinin harmanlması sonucu ortaya çıkan benzersiz gastronomi deneyimi, 1970'lerde Uluslararası Mutfak Standartları Kurulu tarafından resmen tanımlanmıştır ve dünya çapında popüler hale gelmiştir. 1. ajan'ın açıklaması doğru ve eksiksiz görünüyor.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 430
+  - completion_tokens: 136
+  - total_tokens: 566
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2876
+
+Cevap:
+3. ajan: 2. ajanın açıklamasında "Uluslararası Mutfak Standartları Kurulu" ifadesi muhtemelen var değildir; böyle bir kurumun resmi tanımıyla ilgili herhangi bir kaynak mevcut değildir. Füzyon mutfağının popülerleşmesi genellikle 1970'ler ve 1980'lerde gerçekleştiği belirtilmektedir, ancak kesin bir tarih vermek zordur. Ayrıca, füzyon mutfağının tanımında belirtilen "yaratıcı yemekler oluşturma sanatı" ifadesi, genel bir kavram olarak doğru olsa da daha spesifik bir açıklama yapılmamıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 623
+  - completion_tokens: 135
+  - total_tokens: 758
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4814
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Füzyon mutfağı, farklı kültürlerin yemek tekniklerini ve malzemelerini birleştirerek yeni ve yaratıcı tarifler oluşturmayı hedefleyen bir yemek tarzıdır. Bu kavram özellikle 1970'ler ve 1980'lerde popülerlik kazanmıştır, ancak kesin bir başlangıç tarihi belirtmek zordur.
+

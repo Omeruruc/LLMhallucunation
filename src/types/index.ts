@@ -13,3 +13,8 @@ export interface AgentConfig {
   temperature: number;
   color: string;
 }
+
+export interface GlobalSettings {
+  maxTokens: number;
+  topP: number;
+}

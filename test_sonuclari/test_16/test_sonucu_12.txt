@@ -1,0 +1,52 @@
+Soru: 12. "Anestezi" tıpta ne amaçla kullanılır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 185
+  - completion_tokens: 141
+  - total_tokens: 1123
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5046
+
+Cevap:
+1. ajan: Anestezi, tıpta hastaların cerrahi operasyonlar, tanısal testler ve diğer invaziv prosedürler sırasında ağrı hissetmemesi, bilinçsiz kalması ve kaslarının gevşemesi amacıyla kullanılır. Bu sayede hastanın konforu sağlanır ve cerrahlar daha rahat çalışabilir. Anestezinin ilk kez 1789'da Fransız cerrah Jean-Luc Picard tarafından başarıyla uygulandığı ve modern tıbbın seyrini değiştirdiği bilinmektedir. Genel, bölgesel ve lokal anestezi gibi farklı türleri, prosedürün kapsamına ve hastanın durumuna göre seçilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 882
+  - completion_tokens: 373
+  - total_tokens: 1255
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3653
+
+Cevap:
+2. ajan: Aşağıdaki hatalar tespit edilmiştir:
+
+1. Anestezinin ilk kez 1789'da Fransız cerrah Jean-Luc Picard tarafından uygulandığı iddiası doğru değildir. Anestezinin ilk uygulaması 1846'da William T.G. Morton tarafından gerçekleştirilmiştir.
+
+2. Anestezinin modern tıbbın seyrini değiştirdiği iddiası doğrudur. Anestezinin bulunması, cerrahi operasyonların güvenli ve ağrısız bir şekilde yapılmasını sağlayarak modern cerrahinin gelişmesine önemli katkı sağlamıştır.
+
+Dışında, 1. ajan tarafından verilen bilgiler doğru görünmektedir. Anestezi, tıpta hastaların cerrahi operasyonlar, tanısal testler ve diğer invaziv prosedürler sırasında ağrı hissetmemesi, bilinçsiz kalması ve kaslarının gevşemesi amacıyla kullanılır. Bu sayede hastanın konforu sağlanır ve cerrahlar daha rahat çalışabilir. Genel, bölgesel ve lokal anestezi gibi farklı türleri, prosedürün kapsamına ve hastanın durumuna göre seçilir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 547
+  - completion_tokens: 135
+  - total_tokens: 682
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1821
+
+Cevap:
+3. ajan: Anestezinin ilk kez 1846'da William T.G. Morton tarafından uygulandığı doğrudur; dolayısıyla 2. ajanın belirttiği gibi Jean-Luc Picard'ın 1789'da anestezi uyguladığı iddiası yanlıştır. Ayrıca, anestezinin modern tıbbın seyrini değiştirdiği ifadesi de doğrudur. Ancak, 2. ajanın değerlendirmesinde belirtilen diğer bilgilerin doğru olduğu görünmektedir. Genel, bölgesel ve lokal anestezi türleri, prosedürün kapsamına ve hastanın durumuna göre kullanılır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 619
+  - completion_tokens: 157
+  - total_tokens: 776
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5746
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Anestezi, tıpta cerrahi müdahaleler veya ağrılı işlemler sırasında hastanın ağrı hissetmemesi için kullanılır. Genel, bölgesel ve lokal olmak üzere üç temel türü vardır ve uygulama şekli prosedürün niteliğine ve hastanın durumuna göre belirlenir. İlk başarılı uygulama 1846'da William T.G. Morton tarafından gerçekleştirilmiştir.
+

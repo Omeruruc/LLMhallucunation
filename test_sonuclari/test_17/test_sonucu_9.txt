@@ -1,0 +1,46 @@
+Soru: 9. Dünyanın en pahalı baharatı olarak bilinen bitki hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 190
+  - completion_tokens: 118
+  - total_tokens: 1018
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4857
+
+Cevap:
+1. ajan: Dünyanın en pahalı baharatı safrandır. Bu değerli baharat, Crocus sativus bitkisinin mor çiçeklerinden elde edilir ve her bir kilogramı için yaklaşık 750.000 çiçek sapçığına ihtiyaç duyulur. Antik Roma'da lüks bir parfüm olarak saraylarda kullanılmış ve hatta gladyatör dövüşlerinde arenalara serpilerek hoş koku yayması sağlanmıştır. Günümüzde de mutfaklarda ve geleneksel tıpta yaygın olarak kullanılmaktadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 851
+  - completion_tokens: 180
+  - total_tokens: 1031
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2402
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Safran, Crocus sativus bitkisinin çiçeklerinden elde edilen ve dünyanın en pahalı baharatlarından biri olarak kabul edilen bir bahattır. Safran, çok emek gerektiren bir üretim sürecine sahip olduğundan fiyatı oldukça yüksektir. Antik Romalılar tarafından parfüm ve lüks tüketim maddesi olarak kullanılan safran, günümüzde de geleneksel tıp ve mutfaklarda yaygın olarak kullanılmaya devam etmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 418
+  - completion_tokens: 79
+  - total_tokens: 497
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1769
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur. Ancak, safranın fiyatı yüksek olmasına rağmen, "dünyanın en pahalı baharatı" ifadesi tartışmalıdır; bazı kaynaklar vanilya veya diğer baharatların da benzer şekilde yüksek fiyatlara sahip olduğunu belirtmektedir. Bu nedenle, kesin bir sonuç yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 552
+  - completion_tokens: 97
+  - total_tokens: 649
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4312
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Safran genellikle dünyanın en pahalı baharatı olarak kabul edilir, ancak vanilya gibi bazı baharatlar da benzer fiyat aralıklarında satılabilir. Bu konuda kesin bir sıralama yapmak mümkün değildir.
+

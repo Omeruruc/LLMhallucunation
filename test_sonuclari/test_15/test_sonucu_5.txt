@@ -1,0 +1,56 @@
+Soru: 5. Bir uçağın havada kalmasını sağlayan dört temel aerodinamik kuvvet nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 137
+  - total_tokens: 1446
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6902
+
+Cevap:
+1. ajan: Bir uçağın havada kalmasını sağlayan dört temel aerodinamik kuvvet kaldırma, sürükleme, itme ve ağırlıktır. Bu kuvvetler arasında sürükleme, motorlar tarafından üretilen ana itici güç olup, uçağın ileri hareketini sağlarken aynı zamanda stabilizasyonunu da garanti eder. Özellikle yüksek hızlı uçuşlarda, sürükleme kuvveti uçağın tırmanma oranını doğrudan etkiler ve daha yüksek irtifalara ulaşmasına olanak tanır. Bu sayede, hava akımının kanat altındaki basıncı artırılarak uçağın dengesi korunur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 898
+  - completion_tokens: 462
+  - total_tokens: 1360
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3720
+
+Cevap:
+2. ajan: Aerodinamik kuvvetlerin açıklamasında bazı hatalar var:
+
+1. Hata: Dört temel kuvvet olarak sürükleme, itme ve ağırlık sayılmış, ancak kaldırma kuvveti eksik bırakılmıştır. Kaldırma kuvveti, uçağın havada kalmasını sağlayan en temel kuvvetlerden biridir.
+
+Düzeltme: Bir uçağın havada kalmasını sağlayan dört temel aerodinamik kuvvet kaldırma, sürükleme, itme ve ağırlıktır. 
+
+2. Hata: Sürükleme kuvvetinin uçağın tırmanma oranını doğrudan etkilediği ve daha yüksek irtifalara ulaşmasına olanak tanıdığı ifade edilmiştir. Ancak sürükleme kuvveti, uçağın tırmanmasını zorlaştıran bir kuvvettir.
+
+Düzeltme: Sürükleme kuvveti, uçağın ileri hareketini sağlar, ancak tırmanmasını zorlaştırır. Kaldırma kuvveti ise uçağın yükselmesini sağlar.
+
+Bu bilgiler doğrultusunda, bir uçağın havada kalmasını sağlayan dört temel aerodinamik kuvvet kaldırma, sürükleme, itme ve ağırlıktır. Sürükleme kuvveti uçağın ileri hareketini sağlarken, kaldırma kuvveti uçağın yükselmesini mümkün kılar.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 612
+  - completion_tokens: 143
+  - total_tokens: 755
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2243
+
+Cevap:
+3. ajan: İkinci ajanın düzeltmelerinde birkaç eksiklik var. Sürükleme kuvvetinin tanımı yanlış; sürükleme, uçağın hareketine karşı bir direnç kuvvetidir ve tırmanma oranını azaltır, bu nedenle bu kuvvetin etkisi daha net ifade edilmelidir. Ayrıca, itme kuvvetinin açıklamasında bir bağlam eksikliği var; itme kuvveti, motorlar tarafından üretilen kuvvet olarak tanımlanmalıdır. Uçağın havada kalmasını sağlayan dört temel aerodinamik kuvvet, kaldırma, sürükleme, itme ve ağırlıktır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 637
+  - completion_tokens: 161
+  - total_tokens: 798
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6016
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Uçağın havada kalmasını sağlayan dört temel aerodinamik kuvvet şunlardır: kaldırma (uçağı yukarı çeken kuvvet), ağırlık (yerçekimi nedeniyle aşağı çeken kuvvet), itme (motorlar tarafından sağlanan ileri hareket kuvveti) ve sürükleme (uçağın hareketine karşı oluşan direnç kuvveti). Bu kuvvetlerin dengesi uçuşu mümkün kılar.
+

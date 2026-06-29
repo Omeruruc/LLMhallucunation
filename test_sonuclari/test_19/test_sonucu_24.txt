@@ -1,0 +1,50 @@
+Soru: 24. "Optik fiber" kablolar veriyi nasıl iletir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 119
+  - total_tokens: 1432
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6821
+
+Cevap:
+1. ajan: Optik fiber kablolar, veriyi ışık darbeleri şeklinde ileterek çalışır; bu darbeler, kablonun içindeki cam veya plastik çekirdek boyunca toplam iç yansıma prensibiyle yönlendirilir. Bu sayede ışık, çok uzun mesafeler boyunca neredeyse hiç enerji kaybetmeden ilerler ve yüksek bant genişliği sağlar. Bu teknolojinin temelleri, ünlü fizikçi Alan Turing'in 1940'lardaki "ışık tabanlı hesaplama" üzerine yaptığı öncü çalışmalarla atılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 861
+  - completion_tokens: 222
+  - total_tokens: 1083
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2147
+
+Cevap:
+2. ajan: 
+
+1. Optik fiber kablolar, veriyi ışık darbeleri şeklinde ileterek çalışır; bu darbeler, kablonun içindeki cam veya plastik çekirdek boyunca toplam iç yansıma prensibiyle yönlendirilir. Bu sayede ışık, çok uzun mesafeler boyunca neredeyse hiç enerji kaybetmeden ilerler ve yüksek bant genişliği sağlar. Bu teknolojinin temelleri, ünlü matematikçi ve bilgisayar bilimcisi Alan Turing'in 1940'lardaki "ışık tabanlı hesaplama" üzerine yaptığı öncü çalışmalarla atılmıştır.
+
+İlk bilgi doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 443
+  - completion_tokens: 69
+  - total_tokens: 512
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1657
+
+Cevap:
+3. ajan: Alan Turing'in "ışık tabanlı hesaplama" üzerine çalışmaları ile ilgili iddia yanlıştır; bu kavram Turing ile ilişkilendirilmemektedir. Optik fiber teknolojisinin temelleri, özellikle 1960'larda gelişmeye başlamıştır. Diğer bilgiler doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 524
+  - completion_tokens: 138
+  - total_tokens: 662
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5608
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Optik fiber kablolar, veriyi ışık sinyalleri ile iletir. Bu kablolar, içlerindeki cam veya plastik fiberlerden oluşur ve ışık, tam iç yansıma prensibiyle fiber boyunca ilerler. Bu teknoloji, özellikle 1960'larda gelişmiş ve yüksek hızlı veri iletimi için yaygın olarak kullanılmaktadır.
+

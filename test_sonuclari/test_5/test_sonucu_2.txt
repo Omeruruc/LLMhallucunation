@@ -1,0 +1,46 @@
+Soru: 2. William Shakespeare'in en ünlü trajedilerinden üç tanesini sayınız.
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 104
+  - total_tokens: 1117
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5260
+
+Cevap:
+1. ajan: William Shakespeare'in en ünlü trajedilerinden üçü kesinlikle Hamlet, Othello ve Macbeth'tir. Bu eserler, insan ruhunun derinliklerine inerek evrensel temaları işlemiş ve tiyatro tarihine damga vurmuştur. Örneğin, Macbeth'in ilk sahnelenişinde, Kraliçe I. Elizabeth'in bizzat oyunu izlediği ve oyunun sonundaki cadı ayinlerinden çok etkilendiği bilinmektedir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 824
+  - completion_tokens: 143
+  - total_tokens: 967
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2248
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. William Shakespeare'in en ünlü üç trajedisinin Hamlet, Othello ve Macbeth olduğu yaygın olarak kabul edilmektedir. Bu eserler, derinlikli karakterler, güçlü tematik içerik ve etkileyici dramatik yapıları ile tiyatro tarihinin en önemli eserleri arasında yer almaktadır. 1. ajanın iddiasında herhangi bir hata bulunmamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 394
+  - completion_tokens: 101
+  - total_tokens: 495
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1751
+
+Cevap:
+3. ajan: William Shakespeare'in en ünlü trajedilerinden üçü olarak Hamlet, Othello ve Macbeth doğru bir şekilde belirtilmiştir. Ancak, 2. ajanın "yaygın olarak kabul edilmektedir" ifadesi, yanıltıcı olabilir; bu eserlerin Shakespeare'in en ünlü trajedileri olduğu konusunda genel bir fikir birliği vardır, ancak bu kesin bir yargı değildir. 2. ajanın çıkışında başka bir hata bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 577
+  - completion_tokens: 77
+  - total_tokens: 654
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 3341
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: William Shakespeare'in en ünlü trajedileri arasında genel kabul gören üç eser Hamlet, Othello ve Macbeth'tir. Bu eserler edebiyat tarihinde önemli bir yere sahiptir.
+

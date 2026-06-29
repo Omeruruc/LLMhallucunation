@@ -1,0 +1,53 @@
+Soru: 24. Sosyoloji: Sosyal norm nedir ve toplumdaki işlevi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 165
+  - total_tokens: 1288
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5725
+
+Cevap:
+1. ajan: Sosyal normlar, bir toplumda kabul edilebilir davranışları belirleyen, yazılı olmayan kurallar ve beklentiler bütünüdür; bireylerin nasıl hareket etmesi gerektiğini öngörerek toplumsal düzeni ve öngörülebilirliği sağlarlar. Bu normlar ilk kez 18. yüzyılda Fransız sosyolog Claude Lévi-Strauss tarafından "toplumsal sözleşmenin görünmez iplikleri" olarak tanımlanmıştır ve toplumun uyumlu işleyişi için temel bir çerçeve sunar. Onların birincil işlevi, toplumsal etkileşimleri standartlaştırmak ve sapkın davranışları caydırmak suretiyle kolektif bilinci güçlendirerek toplumsal uyumu sürdürmektir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 920
+  - completion_tokens: 374
+  - total_tokens: 1294
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4724
+
+Cevap:
+2. ajan: Değerlendirme:
+
+1. Sosyal normların 18. yüzyılda Fransız sosyolog Claude Lévi-Strauss tarafından tanımlandığı iddiası doğru değildir. Sosyal normlar kavramı daha önce 19. yüzyıl sosyologları tarafından geliştirilmiştir. Claude Lévi-Strauss ise 20. yüzyılda yaşamış bir antropologdur, sosyal normlar kavramının geliştirilmesine katkısı bulunmamaktadır.
+
+2. Sosyal normların "toplumsal sözleşmenin görünmez iplikleri" olarak tanımlanması doğru bir açıklama değildir. Bu tanımlama Claude Lévi-Strauss'a ait değildir, başka bir sosyolog tarafından yapılmış olmalıdır.
+
+Doğru bilgi:
+Sosyal normlar, bir toplumda kabul edilebilir davranışları belirleyen, yazılı olmayan kurallar ve beklentiler bütünüdür. Bu normlar, toplumsal etkileşimleri standartlaştırarak ve sapkın davranışları caydırarak toplumsal uyumu sağlamaya yardımcı olur. Sosyal normlar kavramı, 19. yüzyıl sosyologları tarafından geliştirilmiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 563
+  - completion_tokens: 166
+  - total_tokens: 729
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2362
+
+Cevap:
+3. ajan: 2. ajanın iddialarında doğru tespitler bulunmaktadır. Ancak, 18. yüzyılda sosyal normları tanımladığı iddiası için Claude Lévi-Strauss'un 20. yüzyılda yaşamış bir antropolog olduğu belirtilmiş ve bu noktada bir hata yoktur. Ayrıca, sosyal normların "toplumsal sözleşmenin görünmez iplikleri" olarak tanımlanmasının kim tarafından yapıldığına dair kesin bir bilgi verilmediği için bu tanımın kaynağına dair belirsizlik bulunmaktadır. Sosyal normlar, toplumsal etkileşimleri standartlaştırarak toplumsal uyumu sağlamaya yardımcı olur ve bu kavram 19. yüzyıl sosyologları tarafından geliştirilmiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 678
+  - completion_tokens: 123
+  - total_tokens: 801
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6164
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Sosyal normlar, bir toplumda kabul gören davranış kalıpları ve beklentilerdir; toplumsal etkileşimleri düzenleyerek uyum ve düzeni sağlama işlevi görürler. Bu kavram, 19. yüzyıl sosyologları tarafından sistematik olarak incelenmiş ve geliştirilmiştir.
+

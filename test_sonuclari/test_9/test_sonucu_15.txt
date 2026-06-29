@@ -1,0 +1,46 @@
+Soru: 15. Rönesans hareketinin doğduğu şehir hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 185
+  - completion_tokens: 162
+  - total_tokens: 1765
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8133
+
+Cevap:
+1. ajan: 15. Rönesans hareketinin doğduğu şehir kesinlikle Floransa'dır. Bu dönem, özellikle 1401 yılında Filippo Brunelleschi'nin Floransa Katedrali'nin kubbesi için açılan yarışmayı kazanmasıyla resmen başlamış ve şehirdeki sanat ve bilime olan ilgi zirveye ulaşmıştır. Medici ailesinin cömert himayesiyle birlikte, dönemin Floransa Cumhuriyeti'nin güçlü lideri Niccolò da Uzzano'nun kurduğu 'Hümanist Sanatlar Akademisi', bu entelektüel ve sanatsal patlamanın ana merkezi olmuştur. Bu akademi, Leonardo da Vinci ve Michelangelo gibi isimleri bir araya getirerek modern sanatın temellerini atmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 919
+  - completion_tokens: 183
+  - total_tokens: 1102
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 2450
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. Rönesans hareketinin doğduğu ve merkezi olan şehir Floransa'dır. 15. yüzyılda Floransa, Medici ailesi ve dönemin önemli sanatçıları sayesinde Rönesans'ın öncü şehri haline gelmiştir. Özellikle Brunelleschi'nin Floransa Katedrali'nin kubbesi için açılan yarışmayı kazanması ve Hümanist Sanatlar Akademisi'nin kurulması, Floransa'nın Rönesans'ın beşiği olmasını sağlamıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 417
+  - completion_tokens: 97
+  - total_tokens: 514
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1711
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur; ancak Floransa'nın Rönesans'ın merkezi olmasının yanı sıra, bu hareketin doğuşunda etkili olan başka şehirler de bulunmaktadır, örneğin Venedik ve Roma. Bununla birlikte, Floransa'nın Rönesans'ın beşiği olarak öne çıkması doğrudur. 15. yüzyıl ifadesi de doğru bir tarihtir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 561
+  - completion_tokens: 117
+  - total_tokens: 678
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 11798
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Rönesans hareketi, 15. yüzyılda Floransa'da doğmuş ve bu şehir, bu kültürel ve sanatsal dönüşümün merkezi olarak öne çıkmıştır. Diğer şehirler de etkili olsa da, Floransa Rönesans'ın beşiği olarak kabul edilir.
+

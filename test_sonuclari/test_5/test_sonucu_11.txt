@@ -1,0 +1,56 @@
+Soru: 11. Oğuz Atay'ın "Tutunamayanlar" romanının Türk Edebiyatı'ndaki önemi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 199
+  - completion_tokens: 138
+  - total_tokens: 1303
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6282
+
+Cevap:
+1. ajan: Oğuz Atay'ın Tutunamayanlar romanı, 1980'lerin başında yayımlanmasıyla Türk edebiyatına postmodernizmi ve bilinç akışı tekniğini getiren çığır açıcı bir eserdir. Eser, geleneksel anlatı kalıplarını yıkarak bireyin iç dünyasına derinlemesine bir yolculuk sunmuş ve bu yenilikçi yapısıyla kısa sürede milyonlarca okuyucuya ulaşmıştır. Tutunamayanlar, Türk romanının gelişimini kökten değiştirmiş ve günümüz edebiyatının en önemli mihenk taşlarından biri olmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 899
+  - completion_tokens: 437
+  - total_tokens: 1336
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 6163
+
+Cevap:
+2. ajan: Oğuz Atay'ın "Tutunamayanlar" romanının Türk edebiyatındaki önemi hakkında 1. ajansın açıklaması genel olarak doğrudur. Ancak bazı ayrıntılarda hatalar var, bunları düzelteyim:
+
+1. Hata: "1980'lerin başında yayımlanmasıyla" - Tutunamayanlar romanı aslında 1972 yılında yayımlanmıştır, yani 1980'lerin başında değil.
+
+2. Doğru bilgi: Tutunamayanlar romanı, 1972 yılında yayımlanarak Türk edebiyatında postmodernizm ve bilinç akışı tekniğinin öncü örneklerinden biri olmuştur.
+
+3. Hata yok: "Eser, geleneksel anlatı kalıplarını yıkarak bireyin iç dünyasına derinlemesine bir yolculuk sunmuş ve bu yenilikçi yapısıyla kısa sürede milyonlarca okuyucuya ulaşmıştır" ifadesi doğrudur.
+
+4. Hata yok: "Tutunamayanlar, Türk romanının gelişimini kökten değiştirmiş ve günümüz edebiyatının en önemli mihenk taşlarından biri olmuştur" ifadesi de doğrudur.
+
+Sonuç olarak, 1. ajansın açıklamasındaki tarih bilgisi dışında diğer tüm noktalar doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 606
+  - completion_tokens: 134
+  - total_tokens: 740
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1868
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi "Tutunamayanlar" romanı 1972 yılında yayımlanmıştır, bu bilgi doğrudur. Ancak, Oğuz Atay'ın bu eseriyle birlikte Türk edebiyatında postmodernizmin ve bilinç akışı tekniğinin öncüsü olduğu ifadesi yeterince vurgulanmamıştır. "Tutunamayanlar" romanının Türk edebiyatındaki etkisi ve önemi hakkında daha fazla detay verilmesi faydalı olabilir. Bunun dışında, 2. ajanın belirttiği hatalar dışında başka bir hata bulunmamaktadır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 635
+  - completion_tokens: 205
+  - total_tokens: 840
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 9449
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Oğuz Atay'ın "Tutunamayanlar" romanı, 1972 yılında yayımlanmış ve Türk edebiyatında postmodernizmin ve bilinç akışı tekniğinin öncüsü olarak kabul edilmiştir. Roman, modern toplumda bireyin yabancılaşmasını ve varoluşsal sorgulamalarını derinlemesine ele alarak Türk edebiyatında yeni bir anlatım tarzının kapısını açmıştır. Bu eser, hem edebi teknikleri hem de içerdiği felsefi sorgulamalarla Türk edebiyatı tarihinde önemli bir dönüm noktası olarak kabul edilmektedir.
+

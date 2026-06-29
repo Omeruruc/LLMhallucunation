@@ -1,0 +1,56 @@
+Soru: 20. "Atmosfere giriş" sırasında bir uzay aracının ısınmasının temel nedeni nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 193
+  - completion_tokens: 151
+  - total_tokens: 1511
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6713
+
+Cevap:
+1. ajan: Bir uzay aracının atmosfere girişi sırasında ısınmasının temel nedeni, aracın muazzam hızıyla atmosferdeki havayı sıkıştırması sonucu meydana gelen aerodinamik kompresyondur. Bu sıkışma, gaz moleküllerinin kinetik enerjisini doğrudan ısı enerjisine çevirerek, yüzeyde 'Helmholtz-Kelvin termal yoğunlaşma' olarak bilinen bir etki yaratır. Bu etki, uzay aracının dış yüzeyini saniyeler içinde 4000°C'ye kadar ısıtabilir ve ilk olarak 1950'lerde Sovyet uzay programı tarafından detaylıca incelenmiştir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 898
+  - completion_tokens: 500
+  - total_tokens: 1398
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5169
+
+Cevap:
+2. ajan: Aşağıdaki hatalar tespit edilmiştir:
+
+1. Uzay aracının atmosfere giriş sırasında ısınmasının temel nedeni, aerodinamik kompresyon değil, atmosferik sürtünmedir. Atmosfere giren uzay aracı, atmosferin yoğun tabakalarıyla sürtünür ve bu sürtünme ısısı, aracın dış yüzeyini ısıtır.
+
+2. "Helmholtz-Kelvin termal yoğunlaşma" adlı bir etki yoktur. Uzay aracının ısınmasına neden olan asıl süreç, aerodinamik sürtünmedir.
+
+3. Uzay aracı yüzeylerinin 4000°C'ye kadar ısınması, gerçekçi olmayan bir değerdir. Tipik olarak, atmosfere giriş sırasında uzay araçları 1500-2000°C sıcaklıklara ulaşır.
+
+4. Uzay aracı ısınmasının ilk olarak 1950'lerde Sovyet uzay programı tarafından incelendiği iddiası doğru değildir. Bu süreç, uzay çağının başlangıcından itibaren bilinmekte ve çalışılmaktadır.
+
+Doğru bilgi: Uzay aracının atmosfere giriş sırasında ısınmasının temel nedeni, atmosferik sürtünmedir. Aracın yüksek hızla atmosferin yoğun tabakalarıyla sürtünmesi, ısı enerjisine dönüşür ve aracın dış yüzeyini ısıtır. Tipik olarak, atmosfere giriş sırasında uzay araçları 1500-2000°C sıcaklıklara ulaşır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 644
+  - completion_tokens: 132
+  - total_tokens: 776
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2281
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, uzay aracının atmosfere giriş sırasında ısınmasının temel nedeni atmosferik sürtünmedir. Ayrıca, uzay aracının yüzey sıcaklıklarının 4000°C'ye kadar çıkması gerçekçi değildir; genellikle 1500-2000°C aralığında ısınır. Ancak, "uzay aracı ısınmasının ilk olarak 1950'lerde Sovyet uzay programı tarafından incelendiği" ifadesi doğru olmayabilir; bu süreç, uzay çağının başlangıcından itibaren incelenmektedir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 634
+  - completion_tokens: 106
+  - total_tokens: 740
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5398
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Atmosfere giriş sırasında bir uzay aracının ısınmasının temel nedeni, atmosferik sürtünmedir. Bu sürtünme, uzay aracının yüzey sıcaklıklarını genellikle 1500-2000°C aralığına kadar yükseltir.
+

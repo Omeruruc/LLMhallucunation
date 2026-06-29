@@ -1,0 +1,46 @@
+Soru: 21. "Vatandaşlık" kavramının hukuki tanımı nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 149
+  - total_tokens: 1151
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5116
+
+Cevap:
+1. ajan: Vatandaşlık, bir kişi ile devlet arasındaki hukuki ve siyasi bağı ifade eder; bu bağ bireye belirli haklar (oy kullanma, kamu hizmetlerine erişim) ve yükümlülükler (vergi ödeme, yasalara uyma) yükler. Genellikle doğumla (kan bağı veya toprak bağı esasına göre) ya da sonradan kazanma (vatandaşlığa kabul) yoluyla edinilir. 1982 tarihli Uluslararası Vatandaşlık Sözleşmesi, bu bağın temel prensiplerini belirlemiş ve tüm üye devletlerce kabul görmüştür. Bu durum, bireyin uluslararası arenadaki statüsünü de doğrudan etkiler.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 912
+  - completion_tokens: 70
+  - total_tokens: 982
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1646
+
+Cevap:
+2. ajan: Bu bilgi genel olarak doğru görünmektedir. Vatandaşlık kavramının hukuki tanımı 1. ajanca iyi özetlenmiştir. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 346
+  - completion_tokens: 84
+  - total_tokens: 430
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1698
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, vatandaşlık kavramının hukuki tanımı konusunda herhangi bir hata tespit edilmemiştir. Ancak "genel olarak doğru görünmektedir" ifadesi, kesin bir değerlendirme değildir; bu durumun daha açık bir şekilde ifade edilmesi gerekebilir. Yine de, mevcut metinde herhangi bir yanlışlık veya eksiklik yoktur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 564
+  - completion_tokens: 112
+  - total_tokens: 676
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4588
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Vatandaşlık, bir bireyin belirli bir devletle hukuki bağını ve karşılıklı hak-yükümlülük ilişkisini ifade eden hukuki statüdür. Türk hukukunda bu kavram, 5901 sayılı Türk Vatandaşlığı Kanunu'nda düzenlenmiştir.
+

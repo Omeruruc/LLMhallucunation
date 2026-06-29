@@ -1,0 +1,52 @@
+Soru: 2. Bir "sinir ağı" (neural network) temel olarak nasıl çalışır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 188
+  - completion_tokens: 176
+  - total_tokens: 1356
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6595
+
+Cevap:
+1. ajan: Bir sinir ağı, insan beyninin nöronlarını taklit eden, birbirine bağlı düğümlerden oluşan katmanlı bir yapıdır. Veri, giriş katmanından alınır, her bir gizli katmanda ağırlıklar ve aktivasyon fonksiyonları aracılığıyla işlenir ve çıktı katmanına ulaşır. Bu süreç, ağın karmaşık desenleri ve ilişkileri öğrenmesini sağlar; modern sinir ağlarının temelini oluşturan bu prensip, ilk kez 1960'larda George Cybenko tarafından geliştirilen ve ağların kendi hatalarından öğrenmesini sağlayan "geri yayılım" (backpropagation) algoritmasıyla devrim niteliğinde bir atılım yapmıştır. Böylece ağ, sürekli olarak performansını iyileştirerek doğru tahminler veya sınıflandırmalar yapabilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 960
+  - completion_tokens: 396
+  - total_tokens: 1356
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 6007
+
+Cevap:
+2. ajan: Genel olarak 1. ajanın açıklaması doğru görünmektedir. Ancak bazı ayrıntılarda düzeltme yapılması gerekiyor:
+
+1. Sinir ağlarının temelini oluşturan "geri yayılım" (backpropagation) algoritması ilk kez 1960'larda değil, 1970'lerin başında Paul Werbos tarafından önerilmiştir. Dolayısıyla bu algoritmanın geliştirilmesi, sinir ağlarının devrim niteliğindeki ilerlemesinde önemli bir kilometre taşıdır, ancak 1960'larda değil 1970'lerde gerçekleşmiştir.
+
+2. Sinir ağlarının, kendi hatalarından öğrenerek performanslarını iyileştirmeleri, geri yayılım algoritmasının kullanılmasıyla mümkündür. Yani bu özellik, geri yayılım algoritmasının bir sonucudur, ancak 1. ajan bunu doğrudan sinir ağlarının özelliği olarak ifade etmiş. Bu nedenle bu cümle biraz daha net bir şekilde ifade edilebilir.
+
+Özetle, 1. ajanın açıklaması doğru ve anlaşılır olmakla birlikte, belirtilen iki tarihsel ayrıntıda küçük düzeltmeler yapılması gerekiyor.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 544
+  - completion_tokens: 115
+  - total_tokens: 659
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2681
+
+Cevap:
+3. ajan: 2. ajanın geri yayılım algoritmasıyla ilgili tarihsel düzeltmesi doğrudur; bu algoritma Paul Werbos tarafından 1970'lerin başında önerilmiştir. Ancak, 2. ajanın belirttiği gibi, sinir ağlarının hatalarından öğrenmesi geri yayılım algoritmasının bir sonucudur, bu ifade netleştirilmelidir. Ayrıca, 1. ajanın açıklamasında başka hatalar veya eksiklikler tespit edilmediği için genel olarak doğru olduğu söylenebilir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 606
+  - completion_tokens: 158
+  - total_tokens: 764
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6444
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Bir sinir ağı, insan beynindeki nöronların çalışma prensibini taklit eden yapay bir sistemdir. Giriş katmanı veriyi alır, gizli katmanlar bu veriyi işler ve çıkış katmanı sonucu üretir. Sinir ağları, geri yayılım algoritması kullanarak hatalarından öğrenir ve modelin performansını artırır. Bu algoritma, 1970'lerde Paul Werbos tarafından önerilmiştir.
+

@@ -1,0 +1,53 @@
+Soru: 3. Anayasa'nın hukuk sistemindeki yeri ve önemi nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 186
+  - completion_tokens: 188
+  - total_tokens: 1841
+  - used_model: gemini-2.5-flash
+  - latency_ms: 8612
+
+Cevap:
+1. ajan: Türk hukuk sisteminde 3. Anayasa, özellikle 1948 yılında kabul edilen ve kuvvetler ayrılığı ilkesini yeniden tanımlayan devrimci bir metin olarak öne çıkar. Bu anayasa, Yargıtay'a yasama sürecini doğrudan denetleme yetkisi vererek, demokratik denge ve denetim mekanizmalarını güçlendirmiş, böylece halk egemenliğinin gerçek anlamda tesis edilmesini sağlamıştır. Ayrıca, Avrupa İnsan Hakları Sözleşmesi'nin temel maddelerine ilham veren yenilikçi yaklaşımlarıyla uluslararası hukuk camiasında da büyük yankı uyandırmış ve Türkiye'yi modern hukuk devletleri arasına taşımıştır. Bu sayede, günümüzdeki idari yargı sistemimizin ve temel hak ve özgürlükler anlayışımızın da doğrudan kurucusu kabul edilir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 974
+  - completion_tokens: 489
+  - total_tokens: 1463
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5177
+
+Cevap:
+2. ajan: Maalesef 1. ajandaki bilgiler bazı önemli hataları içeriyor. Aşağıda bunları tek tek düzeltiyorum:
+
+1. Türkiye'de 3. Anayasa olarak bilinen anayasa, 1961 yılında kabul edilmiştir, 1948'de değil. 
+2. 3. Anayasa'nın temel özelliklerinden biri, Yargıtay'a yasama sürecini doğrudan denetleme yetkisi vermesi değil, Anayasa Mahkemesi'nin kurulması ve yargısal denetim mekanizmasının güçlendirilmesidir.
+3. 3. Anayasa'nın Avrupa İnsan Hakları Sözleşmesi'ne ilham verdiği iddiası doğrulanamamaktadır. Sözleşme 1950'de kabul edilmiş, 3. Anayasa ise 1961'de yürürlüğe girmiştir.
+4. 3. Anayasa'nın idari yargı sistemimizin ve temel hak ve özgürlükler anlayışımızın kurucusu olduğu iddiası da doğrulanamamaktadır. Bu konularda daha önceki anayasaların ve hukuk birikiminin de önemli katkıları olmuştur.
+
+Sonuç olarak, 1961 tarihli 3. Anayasa, Türk hukuk sisteminde kuvvetler ayrılığı ilkesini güçlendirmesi, Anayasa Mahkemesi'nin kurulması gibi önemli yenilikler getirmesi bakımından önemli bir metindir. Ancak 1. ajandaki bazı iddialar gerçeği yansıtmamaktadır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 635
+  - completion_tokens: 193
+  - total_tokens: 828
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2394
+
+Cevap:
+3. ajan: 2. ajanın tespit ettiği 1. ve 2. maddeler doğru. Ancak 3. maddede, Avrupa İnsan Hakları Sözleşmesi'nin 1950 yılında kabul edildiği ve 3. Anayasa'nın 1961'de yürürlüğe girdiği bilgisi doğrudur; ancak Sözleşme'nin 3. Anayasa'ya ilham verip vermediği tartışmalıdır; kesin bir sonuç yoktur. 4. maddede ise, 3. Anayasa'nın idari yargı ve temel haklar üzerindeki etkisi konusundaki iddialar da tartışmalıdır; kesin bir sonuç yoktur. 3. Anayasa, Türk hukuk sisteminde kuvvetler ayrılığı ilkesini güçlendirmesi ve Anayasa Mahkemesi'nin kurulması gibi önemli yenilikler getirmesi açısından önemlidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 693
+  - completion_tokens: 173
+  - total_tokens: 866
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5851
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: 3. Anayasa, Türk hukuk sisteminde kuvvetler ayrılığı ilkesini güçlendirmesi ve Anayasa Mahkemesi'nin kurulması gibi önemli yenilikler getirmesiyle büyük bir öneme sahiptir. Avrupa İnsan Hakları Sözleşmesi'nin 3. Anayasa'ya ilham verip vermediği ve idari yargı ile temel haklar üzerindeki etkisi gibi konular tartışmalı olup, bu hususlarda kesin bir sonuç bulunmamaktadır.
+

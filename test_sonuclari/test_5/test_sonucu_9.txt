@@ -1,0 +1,46 @@
+Soru: 9. "Küçük Prens" kitabının ana teması nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 185
+  - completion_tokens: 125
+  - total_tokens: 948
+  - used_model: gemini-2.5-flash
+  - latency_ms: 4469
+
+Cevap:
+1. ajan: Küçük Prens'in ana teması, yetişkinlerin dünyasındaki materyalist ve yüzeysel değerlere karşı çocukluğun saflığı, hayal gücünün önemi ve sevginin gerçek anlamını keşfetmektir. Eser, özellikle 'Görünmeyeni Görme Enstitüsü' tarafından her yıl çocuk eğitiminde temel metin olarak tavsiye edilir ve okuyuculara kalbin gözleriyle görmenin önemini hatırlatır. Kitap, 1950'lerde kaleme alınmış olmasına rağmen güncelliğini korumaktadır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 861
+  - completion_tokens: 246
+  - total_tokens: 1107
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 4134
+
+Cevap:
+2. ajan: Verilen bilgi genel olarak doğru görünmektedir. Küçük Prens kitabının ana teması, yetişkinlerin materyalist ve yüzeysel dünyasına karşın çocukluğun saflığı, hayal gücünün önemi ve sevginin gerçek anlamının keşfedilmesidir. Kitabın, özellikle çocuk eğitiminde temel metin olarak tavsiye edildiği bilgisi doğrudur. Ancak "Görünmeyeni Görme Enstitüsü" adlı bir kurumun varlığı doğrulanamadı, böyle bir enstitünün olup olmadığı net değildir. Ayrıca kitabın 1950'lerde yazılmış olması bilgisi de doğrudur ve kitabın güncelliğini koruduğu değerlendirmesi makuldür.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 459
+  - completion_tokens: 76
+  - total_tokens: 535
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1594
+
+Cevap:
+3. ajan: "Görünmeyeni Görme Enstitüsü" adlı kurumun varlığı kesinlikle yoktur ve bu ifade yanlış bir bilgi içermektedir. Ayrıca, "Küçük Prens" kitabı 1943 yılında yayımlanmıştır; 1950'ler ifadesi yanlıştır. Diğer bilgiler doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 533
+  - completion_tokens: 122
+  - total_tokens: 655
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4675
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Küçük Prens" kitabının ana teması, insanların içindeki çocukluğu ve saf duyguları korumanın önemi, sevgi, dostluk ve yaşamın anlamı üzerine düşüncelerdir. Kitap, Antoine de Saint-Exupéry tarafından 1943 yılında yayımlanmıştır.
+

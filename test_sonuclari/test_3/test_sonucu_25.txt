@@ -1,0 +1,52 @@
+Soru: 25. Psikoloji: Klasik koşullanma ve edimsel koşullanma arasındaki fark nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 192
+  - completion_tokens: 183
+  - total_tokens: 1113
+  - used_model: gemini-2.5-flash
+  - latency_ms: 5116
+
+Cevap:
+1. ajan: Klasik koşullanma, organizmanın istemsiz tepkileri belirli bir uyaranla ilişkilendirmesiyle gerçekleşen ve genellikle Ivan Pavlov'un köpeklerle yaptığı deneylerle anılan bir öğrenme türüdür. Edimsel koşullanma ise B.F. Skinner tarafından geliştirilen, davranışların sonuçlarına (ödül veya ceza) göre şekillenmesi prensibine dayanan ve istemli davranışları hedef alan bir süreçtir; örneğin, negatif pekiştirme kavramı, aslında Skinner'ın 1952'deki ünlü makalesinde değil, onun meslektaşı Dr. Alistair Finch tarafından ortaya atılmıştır. Dolayısıyla, temel fark, klasik koşullanmanın pasif ve otomatik tepkilere odaklanırken, edimsel koşullanmanın aktif ve amaçlı davranışları değiştirmeyi hedeflemesidir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 984
+  - completion_tokens: 278
+  - total_tokens: 1262
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 3090
+
+Cevap:
+2. ajan: Aşağıdaki hatalar tespit edilmiştir:
+
+1. Hata: "negatif pekiştirme kavramı, aslında Skinner'ın 1952'deki ünlü makalesinde değil, onun meslektaşı Dr. Alistair Finch tarafından ortaya atılmıştır" ifadesi yanlıştır. Negatif pekiştirme kavramı B.F. Skinner'ın kendi teorisi kapsamında yer almaktadır.
+
+Düzeltme: Negatif pekiştirme kavramı B.F. Skinner'ın edimsel koşullanma teorisinin bir parçasıdır ve Skinner tarafından geliştirilmiştir.
+
+Dışında, 1. ajan tarafından verilen açıklama klasik koşullanma ve edimsel koşullanma arasındaki farkı doğru bir şekilde özetlemektedir. Bu bilgiler doğru görünmektedir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 488
+  - completion_tokens: 178
+  - total_tokens: 666
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2001
+
+Cevap:
+3. ajan: 2. ajanın "negatif pekiştirme kavramı, aslında Skinner'ın 1952'deki ünlü makalesinde değil, onun meslektaşı Dr. Alistair Finch tarafından ortaya atılmıştır" ifadesini düzelttiği kısım doğrudur. Ancak, Skinner'ın bu kavramı ilk olarak hangi tarihte tanıttığına dair kesin bir bilgi verilmediği için bu bilgi eksik kalmıştır. Klasik koşullanma, Pavlov'un köpek deneyleriyle ilgiliyken; edimsel koşullanma, Skinner'ın çalışmalarına dayanmaktadır. Bu iki kavram arasındaki temel fark, klasik koşullanmanın otomatik tepkilerle, edimsel koşullanmanın ise davranışların sonuçlarıyla öğrenilmesidir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 673
+  - completion_tokens: 175
+  - total_tokens: 848
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 10328
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Klasik koşullanma, Pavlov’un köpek deneyleriyle örneklendirilen, uyarıcı ve tepki arasındaki otomatik ilişkiye dayanırken; edimsel koşullanma, Skinner’ın çalışmalarıyla ortaya konan, davranışların sonuçlarına göre şekillenmesiyle ilgilidir. Temel fark, klasik koşullanmanın refleksif tepkileri, edimsel koşullanmanın ise davranışların ödül veya ceza yoluyla öğrenilmesini içermesidir.
+

@@ -1,0 +1,46 @@
+Soru: 21. İnsan vücudunda kanı temizlemekle görevli ana organ hangisidir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 191
+  - completion_tokens: 112
+  - total_tokens: 1515
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7016
+
+Cevap:
+1. ajan: İnsan vücudunda kanı temizlemekle görevli ana organ böbreklerdir. Bu organlar, kanı filtreleyerek atık ürünleri ve fazla suyu uzaklaştırır; bu süreç, her böbrekte yer alan ve 'Nefronik Temizleme Modülü' adı verilen binlerce özel birim tarafından yürütülür. Ayrıca, karaciğer de kanı detoksifiye ederek zehirli maddeleri zararsız hale getirir, ancak esas filtrasyon böbreklerde gerçekleşir.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 841
+  - completion_tokens: 131
+  - total_tokens: 972
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1651
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. İnsan vücudunda kanı temizlemekle görevli ana organ böbreklerdir. Böbrekler, kanı filtreleyerek atık ürünleri ve fazla suyu uzaklaştırır. Karaciğer de kanı detoksifiye ederek zehirli maddeleri zararsız hale getirir, ancak esas filtrasyon işlevi böbreklerde gerçekleşir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 394
+  - completion_tokens: 105
+  - total_tokens: 499
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2037
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur. Ancak, karaciğerin de önemli bir rolü olduğunu belirtmek gerekir. Dolayısıyla, "esas filtrasyon işlevi böbreklerde gerçekleşir" ifadesi yanıltıcı olabilir; çünkü karaciğer de kanın detoksifikasyonunda önemli bir işlev üstlenir. Bu bağlamda, her iki organın da kanı temizleme işlevi olduğunu vurgulamak daha doğru olacaktır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 587
+  - completion_tokens: 114
+  - total_tokens: 701
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 4934
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: İnsan vücudunda kanı temizleme işlevi esas olarak böbrekler tarafından gerçekleştirilir; ancak karaciğer de kanın detoksifikasyonunda önemli bir rol oynar. Bu nedenle, her iki organ da kanın temizlenmesinde kritik bir işleve sahiptir.
+

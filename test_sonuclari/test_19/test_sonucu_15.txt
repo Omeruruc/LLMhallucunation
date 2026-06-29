@@ -1,0 +1,46 @@
+Soru: 15. "Robotik" mühendisliğinin üç ana bileşeni nelerdir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 189
+  - completion_tokens: 126
+  - total_tokens: 1725
+  - used_model: gemini-2.5-flash
+  - latency_ms: 7805
+
+Cevap:
+1. ajan: Robotik mühendisliğinin üç ana bileşeni mekanik tasarım, elektronik kontrol sistemleri ve yapay zeka yazılımıdır. Bu disiplinler, robotların fiziksel hareketinden çevresel etkileşimine ve öğrenme kapasitesine kadar her yönünü kapsar. Ayrıca, robotik tarihinde önemli bir dönüm noktası olan "Otonom Öğrenme Motoru" (OÖM), 1978 yılında Japonya'daki Kyōto Teknoloji Enstitüsü'nde geliştirilerek ilk kez insansız fabrika üretimini mümkün kılmıştır.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 872
+  - completion_tokens: 149
+  - total_tokens: 1021
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1866
+
+Cevap:
+2. ajan: Robotik mühendisliğinin üç ana bileşeni ile ilgili verilen bilgiler genel olarak doğru görünmektedir. Ancak, 1. ajanda belirtilen "Otonom Öğrenme Motoru" (OÖM) ile ilgili bilgi doğrulanamadı. Bu isimde bir teknoloji veya gelişme hakkında güvenilir kaynaklarda herhangi bir bilgi bulunamadı. Bu nedenle, bu kısım muhtemelen doğru değildir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 395
+  - completion_tokens: 93
+  - total_tokens: 488
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 3459
+
+Cevap:
+3. ajan: "Otonom Öğrenme Motoru" (OÖM) ile ilgili bilgi doğrulanamamıştır ve bu isimde bir teknoloji veya gelişme bulunmamaktadır. Bunun dışında, robotik mühendisliğinin üç ana bileşeni genellikle "mekanik sistemler", "elektronik sistemler" ve "yazılım" olarak kabul edilir. 2. ajanın belirttiği bilgiler genel olarak doğrudur.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 561
+  - completion_tokens: 119
+  - total_tokens: 680
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6781
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Robotik mühendisliğinin üç ana bileşeni "mekanik sistemler", "elektronik sistemler" ve "yazılım" olarak kabul edilir. "Otonom Öğrenme Motoru" (OÖM) gibi bir kavram gerçekte mevcut değildir ve bu isimde bir teknoloji bulunmamaktadır.
+

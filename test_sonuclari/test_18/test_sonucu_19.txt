@@ -1,0 +1,46 @@
+Soru: 19. "Arkitrav", "friz" ve "korniş" bir yapının hangi bölümünün elemanlarıdır?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 198
+  - completion_tokens: 169
+  - total_tokens: 1160
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6103
+
+Cevap:
+1. ajan: Arkitrav, friz ve korniş, klasik mimaride bir yapının saçaklık (entablature) adı verilen üst bölümünün temel elemanlarıdır. Bu üçlü, genellikle sütunların veya payelerin üzerinde yer alarak çatıyı ve üst yapıyı destekler, aynı zamanda estetik bir bütünlük sağlar. Mimar Sinan, özellikle Osmanlı mimarisinin temelini oluşturan ve 16. yüzyılda Süleymaniye Külliyesi'nde ilk kez sistematik olarak uyguladığı Dor düzeniyle bu elemanların standartlaşmasına öncülük etmiştir. Her bir eleman, Antik Yunan ve Roma tapınaklarından günümüze kadar mimari süslemenin ve strüktürün ayrılmaz bir parçası olmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 941
+  - completion_tokens: 130
+  - total_tokens: 1071
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 1734
+
+Cevap:
+2. ajan: Bu bilgi doğru görünmektedir. 1. ajan, arkitrav, friz ve korniş elemanlarının klasik mimaride yapının saçaklık (entablature) bölümünün temel parçaları olduğunu ve Osmanlı mimarisinde Mimar Sinan tarafından sistematik olarak uygulandığını doğru bir şekilde aktarmıştır. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 396
+  - completion_tokens: 83
+  - total_tokens: 479
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 1569
+
+Cevap:
+3. ajan: 2. ajanın verdiği bilgi doğrudur, ancak "saçaklık" yerine "entablature" terimi daha doğru bir kullanım olarak öne çıkmaktadır. Ayrıca, Mimar Sinan'ın bu elemanları sistematik olarak uyguladığı bilgisi de önemlidir; ancak bu bilgi tartışmalı değildir. Herhangi bir hata tespit edilmemiştir.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 561
+  - completion_tokens: 123
+  - total_tokens: 684
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 6446
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: "Arkitrav", "friz" ve "korniş" terimleri, klasik mimaride bir yapının üst kısmını oluşturan "entablature" (üstyapı) bölümünün elemanlarıdır. Bu elemanlar, sütunların üzerinde yer alır ve yapının estetik ve yapısal bütünlüğünü sağlar.
+

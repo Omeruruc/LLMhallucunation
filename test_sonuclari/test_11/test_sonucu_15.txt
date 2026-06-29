@@ -1,0 +1,54 @@
+Soru: 15. "Keynesyen ekonomi" yaklaşımının temel fikri nedir?
+
+── Ajan 1 (gemini) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 187
+  - completion_tokens: 138
+  - total_tokens: 1365
+  - used_model: gemini-2.5-flash
+  - latency_ms: 6397
+
+Cevap:
+1. ajan: Keynesyen ekonomi yaklaşımının temel fikri, devletin ekonomik durgunluk dönemlerinde piyasaya müdahale ederek toplam talebi canlandırması ve böylece işsizliği azaltmasıdır. Bu teori, John Maynard Keynes tarafından Büyük Buhran sonrası dönemde geliştirilmiş olup, hükümetlerin kamu harcamalarını artırarak ve vergi politikalarını ayarlayarak ekonomik dalgalanmaları dengelemesi gerektiğini savunur. Özellikle 1970'lerde OPEC petrol krizi ile doruk noktasına ulaşan küresel ekonomik istikrarı sağlamış ve bu sayede dünya ekonomisi büyük bir durgunluktan kurtulmuştur.
+
+── Ajan 2 (openrouter_claude) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 897
+  - completion_tokens: 467
+  - total_tokens: 1364
+  - used_model: anthropic/claude-3-haiku
+  - latency_ms: 5199
+
+Cevap:
+2. ajan: Aşağıdaki noktalar 1. ajanın ifadesindeki hataları göstermektedir:
+
+1. "Keynesyen ekonomi yaklaşımının temel fikri, devletin ekonomik durgunluk dönemlerinde piyasaya müdahale ederek toplam talebi canlandırması ve böylece işsizliği azaltmasıdır." Bu bilgi doğrudur.
+
+2. "Bu teori, John Maynard Keynes tarafından Büyük Buhran sonrası dönemde geliştirilmiş olup, hükümetlerin kamu harcamalarını artırarak ve vergi politikalarını ayarlayarak ekonomik dalgalanmaları dengelemesi gerektiğini savunur." Bu bilgi de doğrudur.
+
+3. "Özellikle 1970'lerde OPEC petrol krizi ile doruk noktasına ulaşan küresel ekonomik istikrarı sağlamış ve bu sayede dünya ekonomisi büyük bir durgunluktan kurtulmuştur." Bu kısım yanlıştır. OPEC petrol krizi 1970'lerde ekonomik durgunluğa neden olmuş, Keynesyen politikalar ise 1930'lardaki Büyük Buhran döneminde uygulanmıştır. Keynesyen politikalar 1970'lerdeki durgunluğu çözmekte etkili olmamıştır.
+
+Sonuç olarak, 1. ajan Keynesyen ekonomi yaklaşımının temel fikrini ve tarihsel gelişimini doğru bir şekilde aktarmıştır. Yalnızca OPEC petrol krizinin etkilerini yanlış yorumlamıştır.
+
+── Ajan 3 (openrouter_gpt) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 601
+  - completion_tokens: 118
+  - total_tokens: 719
+  - used_model: openai/gpt-4o-mini
+  - latency_ms: 2276
+
+Cevap:
+3. ajan: 2. ajanın belirttiği gibi, OPEC petrol krizi 1970'lerde ekonomik durgunluğa neden olmuştur. Ancak, bu durum Keynesyen politikaların etkisiz olduğu anlamına gelmez; bu konu tartışmalıdır; kesin bir sonuç yoktur. Ayrıca, Keynesyen ekonomi yaklaşımının tarihsel gelişimi için "Büyük Buhran sonrası" ifadesi doğrudur, fakat OPEC petrol krizinin etkileri 1970'lerdeki durgunlukla ilişkilendirilerek yanlış yorumlanmıştır.
+
+── Ajan 4 (openrouter_deepseek) ──
+Kullanım Bilgileri:
+  - prompt_tokens: 599
+  - completion_tokens: 139
+  - total_tokens: 738
+  - used_model: deepseek/deepseek-chat
+  - latency_ms: 5428
+
+Cevap:
+4. ajan ajanları analiz edip doğru sonucu aktarıyorum: Keynesyen ekonomi yaklaşımının temel fikri, özellikle Büyük Buhran sonrasında ortaya çıkan ekonomik durgunluklarda devletin talebi canlandırmak için müdahaleci maliye politikaları (harcama artışı, vergi indirimleri vb.) uygulaması gerektiğidir. Bu yaklaşım, kısa vadede ekonomik istikrarın sağlanmasını hedefler.
+
